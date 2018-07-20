@@ -10,7 +10,7 @@ before_script:
   - git config user.name "ifyour"
   - git config user.email "ifyour@outlook.com"
   - git remote rm origin
-  - git remote add origin https://$REPO_TOKEN@github.com/ifyour/my-trending.git
+  - git remote add origin https://$REPO_TOKEN@github.com/ifyour/github-trending-archive.git
   - git checkout master
 script: yarn start
 after_success:
