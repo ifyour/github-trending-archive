@@ -1,0 +1,149 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "joshwcomeau/guppy",
+    "url": "https://github.com/joshwcomeau/guppy",
+    "desc": "🐠A friendly application manager and task runner for React.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "KieSun/InterviewMap",
+    "url": "https://github.com/KieSun/InterviewMap",
+    "desc": "Build the best interview map"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "rtr7/router7",
+    "url": "https://github.com/rtr7/router7",
+    "desc": "pure-Go small home internet router",
+    "lang": "Go"
+  },
+  {
+    "title": "browsh-org/browsh",
+    "url": "https://github.com/browsh-org/browsh",
+    "desc": "A fully-modern text-based browser, rendering to TTY and browsers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adam-golab/react-developer-roadmap",
+    "url": "https://github.com/adam-golab/react-developer-roadmap",
+    "desc": "Roadmap to becoming a React developer in 2018"
+  },
+  {
+    "title": "phobal/ivideo",
+    "url": "https://github.com/phobal/ivideo",
+    "desc": "一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "josephyzhou/github-trending",
+    "url": "https://github.com/josephyzhou/github-trending",
+    "desc": "Tracking the most popular Github repos, updated daily",
+    "lang": "Go"
+  },
+  {
+    "title": "hnes/libaco",
+    "url": "https://github.com/hnes/libaco",
+    "desc": "A blazing fast and lightweight C asymmetric coroutine library 💎 ⛅🚀⛅🌞",
+    "lang": "C"
+  },
+  {
+    "title": "facebookincubator/xar",
+    "url": "https://github.com/facebookincubator/xar",
+    "desc": "executable archive format",
+    "lang": "Python"
+  },
+  {
+    "title": "imbrn/v8n",
+    "url": "https://github.com/imbrn/v8n",
+    "desc": "☑️ JavaScript fluent validation library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BradLarson/GPUImage3",
+    "url": "https://github.com/BradLarson/GPUImage3",
+    "desc": "GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.",
+    "lang": "Swift"
+  },
+  {
+    "title": "aozorabunko/aozorabunko",
+    "url": "https://github.com/aozorabunko/aozorabunko",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iawia002/annie",
+    "url": "https://github.com/iawia002/annie",
+    "desc": "👾 Fast, simple and clean video downloader",
+    "lang": "Go"
+  },
+  {
+    "title": "GoogleContainerTools/jib",
+    "url": "https://github.com/GoogleContainerTools/jib",
+    "desc": "⛵️ Build container images for your Java applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "google/compare_gan",
+    "url": "https://github.com/google/compare_gan",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "kozhevnikov/proxymise",
+    "url": "https://github.com/kozhevnikov/proxymise",
+    "desc": "Chainable Promise Proxy",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mixn/carbon-now-cli",
+    "url": "https://github.com/mixn/carbon-now-cli",
+    "desc": "🎨 Beautiful images of your code — from right inside your terminal.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "📆 准备秋招学习笔记"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "crossoverJie/Java-Interview",
+    "url": "https://github.com/crossoverJie/Java-Interview",
+    "desc": "👨‍🎓 Java related : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]

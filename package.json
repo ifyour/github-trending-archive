@@ -1,0 +1,28 @@
+{
+  "name": "github-trending-archive",
+  "version": "1.0.0",
+  "description": "Tracking the most popular GitHub repositories, updated daily.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifyour/github-trending-archive.git"
+  },
+  "keywords": [
+    "github",
+    "trending",
+    "trends"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-dwing": "^1.2.0"
+  },
+  "dependencies": {
+    "@dwing/common": "^1.2.7",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}

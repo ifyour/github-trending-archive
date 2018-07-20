@@ -1,0 +1,19 @@
+language: node_js
+sudo: true
+node_js: node
+cache:
+  directories:
+    - node_modules
+install:
+  - yarn
+before_script:
+  - git config user.name "ifyour"
+  - git config user.email "ifyour@outlook.com"
+  - git remote rm origin
+  - git remote add origin https://$REPO_TOKEN@github.com/ifyour/my-trending.git
+  - git checkout master
+script: yarn start
+after_success:
+  - git add -A .
+  - git commit -a -m "update"
+  - git push origin master

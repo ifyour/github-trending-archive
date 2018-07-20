@@ -1,0 +1,125 @@
+[
+  {
+    "title": "adam-golab/react-developer-roadmap",
+    "url": "https://github.com/adam-golab/react-developer-roadmap"
+  },
+  {
+    "title": "udacity/deep-reinforcement-learning",
+    "url": "https://github.com/udacity/deep-reinforcement-learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "lang": "Python"
+  },
+  {
+    "title": "alcor/itty-bitty",
+    "url": "https://github.com/alcor/itty-bitty",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "lang": "Swift"
+  },
+  {
+    "title": "recca0120/laravel-terminal",
+    "url": "https://github.com/recca0120/laravel-terminal",
+    "lang": "PHP"
+  },
+  {
+    "title": "d2-projects/d2-admin",
+    "url": "https://github.com/d2-projects/d2-admin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microstates/microstates.js",
+    "url": "https://github.com/microstates/microstates.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "retejs/rete",
+    "url": "https://github.com/retejs/rete",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yidas/phpspreadsheet-helper",
+    "url": "https://github.com/yidas/phpspreadsheet-helper",
+    "lang": "PHP"
+  },
+  {
+    "title": "saschagrunert/webapp.rs",
+    "url": "https://github.com/saschagrunert/webapp.rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "mapbox/robosat",
+    "url": "https://github.com/mapbox/robosat",
+    "lang": "Python"
+  },
+  {
+    "title": "nbedos/termtosvg",
+    "url": "https://github.com/nbedos/termtosvg",
+    "lang": "Python"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "lang": "Go"
+  },
+  {
+    "title": "android-in-china/Compatibility",
+    "url": "https://github.com/android-in-china/Compatibility"
+  },
+  {
+    "title": "dylanaraps/neofetch",
+    "url": "https://github.com/dylanaraps/neofetch",
+    "lang": "Shell"
+  },
+  {
+    "title": "laravel-dojo/smartdove",
+    "url": "https://github.com/laravel-dojo/smartdove",
+    "lang": "PHP"
+  },
+  {
+    "title": "switchablenorms/Switchable-Normalization",
+    "url": "https://github.com/switchablenorms/Switchable-Normalization",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "istarkov/rifm",
+    "url": "https://github.com/istarkov/rifm",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "crossoverJie/Java-Interview",
+    "url": "https://github.com/crossoverJie/Java-Interview",
+    "lang": "Java"
+  },
+  {
+    "title": "onecentlin/laravel-adminer",
+    "url": "https://github.com/onecentlin/laravel-adminer",
+    "lang": "PHP"
+  },
+  {
+    "title": "kay-is/react-from-zero",
+    "url": "https://github.com/kay-is/react-from-zero",
+    "lang": "HTML"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  }
+]

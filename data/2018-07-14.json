@@ -1,0 +1,123 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python"
+  },
+  {
+    "title": "phobal/ivideo",
+    "url": "https://github.com/phobal/ivideo",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adam-golab/react-developer-roadmap",
+    "url": "https://github.com/adam-golab/react-developer-roadmap"
+  },
+  {
+    "title": "tpn/pdfs",
+    "url": "https://github.com/tpn/pdfs",
+    "lang": "HTML"
+  },
+  {
+    "title": "mrakgr/The-Spiral-Language",
+    "url": "https://github.com/mrakgr/The-Spiral-Language",
+    "lang": "F#"
+  },
+  {
+    "title": "vaneenige/phenomenon",
+    "url": "https://github.com/vaneenige/phenomenon",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mixn/carbon-now-cli",
+    "url": "https://github.com/mixn/carbon-now-cli",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GoogleContainerTools/jib",
+    "url": "https://github.com/GoogleContainerTools/jib",
+    "lang": "Java"
+  },
+  {
+    "title": "browsh-org/browsh",
+    "url": "https://github.com/browsh-org/browsh",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fastpack/fastpack",
+    "url": "https://github.com/fastpack/fastpack",
+    "lang": "OCaml"
+  },
+  {
+    "title": "nbedos/termtosvg",
+    "url": "https://github.com/nbedos/termtosvg",
+    "lang": "Python"
+  },
+  {
+    "title": "nhnent/tui.image-editor",
+    "url": "https://github.com/nhnent/tui.image-editor",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gaia-pipeline/gaia",
+    "url": "https://github.com/gaia-pipeline/gaia",
+    "lang": "Go"
+  },
+  {
+    "title": "DesignRevision/shards-dashboard",
+    "url": "https://github.com/DesignRevision/shards-dashboard",
+    "lang": "CSS"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "toml-lang/toml",
+    "url": "https://github.com/toml-lang/toml"
+  },
+  {
+    "title": "cosmos72/gomacro",
+    "url": "https://github.com/cosmos72/gomacro",
+    "lang": "Go"
+  },
+  {
+    "title": "dhall-lang/dhall-lang",
+    "url": "https://github.com/dhall-lang/dhall-lang",
+    "lang": "Nix"
+  },
+  {
+    "title": "facebookincubator/xar",
+    "url": "https://github.com/facebookincubator/xar",
+    "lang": "Python"
+  },
+  {
+    "title": "AudioKit/AudioKitSynthOne",
+    "url": "https://github.com/AudioKit/AudioKitSynthOne",
+    "lang": "Swift"
+  },
+  {
+    "title": "rhysd/vim.wasm",
+    "url": "https://github.com/rhysd/vim.wasm",
+    "lang": "C"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  }
+]
