@@ -1,0 +1,148 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/data-transfer-project",
+    "url": "https://github.com/google/data-transfer-project",
+    "desc": "The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.",
+    "lang": "Java"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "InterviewMap/InterviewMap",
+    "url": "https://github.com/InterviewMap/InterviewMap",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "imbrn/v8n",
+    "url": "https://github.com/imbrn/v8n",
+    "desc": "☑️ JavaScript fluent validation library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nathan/pax",
+    "url": "https://github.com/nathan/pax",
+    "desc": "The fastest JavaScript bundler in the galaxy.",
+    "lang": "Rust"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+    "desc": "🎮The only Front-End Performance Checklist that runs faster than the others"
+  },
+  {
+    "title": "pmusolino/Wormholy",
+    "url": "https://github.com/pmusolino/Wormholy",
+    "desc": "iOS network debugging, like a wizard 🧙‍♂️",
+    "lang": "Swift"
+  },
+  {
+    "title": "phobal/ivideo",
+    "url": "https://github.com/phobal/ivideo",
+    "desc": "一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant GraphQL APIs on Postgres with fine grained access control",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "techbanca/coinai",
+    "url": "https://github.com/techbanca/coinai",
+    "desc": "Seed applications based on AI for digital currency quantitative analysis, medium-term forecast and asset allocation for the secondary market of the BANCA community",
+    "lang": "Python"
+  },
+  {
+    "title": "Puchaczov/Musoq",
+    "url": "https://github.com/Puchaczov/Musoq",
+    "desc": "Use SQL on various data sources",
+    "lang": "C#"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "📝 准备秋招学习笔记"
+  },
+  {
+    "title": "crossoverJie/Java-Interview",
+    "url": "https://github.com/crossoverJie/Java-Interview",
+    "desc": "👨‍🎓 Java related : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "twitter/ios-twitter-network-layer",
+    "url": "https://github.com/twitter/ios-twitter-network-layer",
+    "desc": "Twitter Network Layer is a scalable and feature rich network layer built on top of NSURLSession for Apple platforms",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "desc": "Simplified dynamic service discovery and configuration management for cloud-native applications",
+    "lang": "Java"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "Computation using data flow graphs for scalable machine learning",
+    "lang": "C++"
+  },
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of public JSON APIs for use in web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "outline/rich-markdown-editor",
+    "url": "https://github.com/outline/rich-markdown-editor",
+    "desc": "The open source React and Slate based markdown editor that powers Outline wiki. Want to try it out? Create a free account:",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "quantumlib/Cirq",
+    "url": "https://github.com/quantumlib/Cirq",
+    "desc": "A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "lang": "Python"
+  },
+  {
+    "title": "adam-golab/react-developer-roadmap",
+    "url": "https://github.com/adam-golab/react-developer-roadmap",
+    "desc": "Roadmap to becoming a React developer in 2018"
+  }
+]
