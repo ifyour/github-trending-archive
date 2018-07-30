@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jxnblk/mdx-deck",
+    "url": "https://github.com/jxnblk/mdx-deck",
+    "desc": "MDX-based presentation decks",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faressoft/terminalizer",
+    "url": "https://github.com/faressoft/terminalizer",
+    "desc": "🦄 Record your terminal and generate animated gif images",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+    "desc": "🎮 The only Front-End Performance Checklist that runs faster than the others"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apexcharts/apexcharts.js",
+    "url": "https://github.com/apexcharts/apexcharts.js",
+    "desc": "A JavaScript Chart Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "nicolargo/glances",
+    "url": "https://github.com/nicolargo/glances",
+    "desc": "Glances an Eye on your system. A top/htop alternative.",
+    "lang": "Python"
+  },
+  {
+    "title": "evyatarmeged/Raccoon",
+    "url": "https://github.com/evyatarmeged/Raccoon",
+    "desc": "A high performance offensive security tool for reconnaissance and vulnerability scanning",
+    "lang": "Python"
+  },
+  {
+    "title": "bendangnuksung/Image-OutPainting",
+    "url": "https://github.com/bendangnuksung/Image-OutPainting",
+    "desc": "Keras Implementation of Painting outside the box",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "GoogleChromeLabs/ndb",
+    "url": "https://github.com/GoogleChromeLabs/ndb",
+    "desc": "ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "colental/byob",
+    "url": "https://github.com/colental/byob",
+    "desc": "BYOB (Build Your Own Botnet)",
+    "lang": "Python"
+  },
+  {
+    "title": "crossoverJie/Java-Interview",
+    "url": "https://github.com/crossoverJie/Java-Interview",
+    "desc": "👨‍🎓 Java related : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "google/go-cloud",
+    "url": "https://github.com/google/go-cloud",
+    "desc": "A library and tools for open cloud development in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "mkaz/termgraph",
+    "url": "https://github.com/mkaz/termgraph",
+    "desc": "a python command-line tool which draws basic graphs in the terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "📝 准备秋招学习笔记"
+  },
+  {
+    "title": "anitaa1990/Android-Cheat-sheet",
+    "url": "https://github.com/anitaa1990/Android-Cheat-sheet",
+    "desc": "Cheat Sheet for Android Interviews",
+    "lang": "Java"
+  },
+  {
+    "title": "s0md3v/Photon",
+    "url": "https://github.com/s0md3v/Photon",
+    "desc": "Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.",
+    "lang": "Python"
+  },
+  {
+    "title": "danielstjules/jsinspect",
+    "url": "https://github.com/danielstjules/jsinspect",
+    "desc": "Detect copy-pasted and structurally similar code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kitao/pyxel",
+    "url": "https://github.com/kitao/pyxel",
+    "desc": "A retro game development environment in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "elbywan/wretch",
+    "url": "https://github.com/elbywan/wretch",
+    "desc": "A tiny wrapper built around fetch with an intuitive syntax. 🍬",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Atcold/PyTorch-Deep-Learning-Minicourse",
+    "url": "https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse",
+    "desc": "Minicourse in Deep Learning with PyTorch",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mozilla/serviceworker-cookbook",
+    "url": "https://github.com/mozilla/serviceworker-cookbook",
+    "desc": "It's online. It's offline. It's a Service Worker!",
+    "lang": "JavaScript"
+  }
+]
