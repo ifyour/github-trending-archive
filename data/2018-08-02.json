@@ -1,0 +1,149 @@
+[
+  {
+    "title": "klauscfhq/taskbook",
+    "url": "https://github.com/klauscfhq/taskbook",
+    "desc": "📓 Tasks, boards & notes for the command-line habitat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kitao/pyxel",
+    "url": "https://github.com/kitao/pyxel",
+    "desc": "A retro game development environment in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding",
+    "lang": "Python"
+  },
+  {
+    "title": "robinhood/faust",
+    "url": "https://github.com/robinhood/faust",
+    "desc": "Python Stream Processing",
+    "lang": "Python"
+  },
+  {
+    "title": "hugoam/toy",
+    "url": "https://github.com/hugoam/toy",
+    "desc": "the thin c++ game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apexcharts/apexcharts.js",
+    "url": "https://github.com/apexcharts/apexcharts.js",
+    "desc": "A JavaScript Chart Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faressoft/terminalizer",
+    "url": "https://github.com/faressoft/terminalizer",
+    "desc": "🦄 Record your terminal and generate animated gif images",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "InterviewMap/InterviewMap",
+    "url": "https://github.com/InterviewMap/InterviewMap",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+    "desc": "🎮 The only Front-End Performance Checklist that runs faster than the others"
+  },
+  {
+    "title": "tboox/tbox",
+    "url": "https://github.com/tboox/tbox",
+    "desc": "📦 A glib-like multi-platform c library",
+    "lang": "C"
+  },
+  {
+    "title": "crossoverJie/Java-Interview",
+    "url": "https://github.com/crossoverJie/Java-Interview",
+    "desc": "👨‍🎓 Java related : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "jxnblk/mdx-deck",
+    "url": "https://github.com/jxnblk/mdx-deck",
+    "desc": "MDX-based presentation decks",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "📝 准备秋招学习笔记"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "desc": "Connect, secure, control, and observe services.",
+    "lang": "Go"
+  },
+  {
+    "title": "fusionjs/fusion-core",
+    "url": "https://github.com/fusionjs/fusion-core",
+    "desc": "Core FusionJS package",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "VideoFlint/Cabbage",
+    "url": "https://github.com/VideoFlint/Cabbage",
+    "desc": "A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "desc": "📖 Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)",
+    "lang": "Java"
+  },
+  {
+    "title": "boyerjohn/rapidstring",
+    "url": "https://github.com/boyerjohn/rapidstring",
+    "desc": "Maybe the fastest string library ever.",
+    "lang": "C"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "seanmonstar/warp",
+    "url": "https://github.com/seanmonstar/warp",
+    "desc": "A super-easy, composable, web framework for warp speeds.",
+    "lang": "Rust"
+  },
+  {
+    "title": "awslabs/aws-cdk",
+    "url": "https://github.com/awslabs/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GoogleChromeLabs/ndb",
+    "url": "https://github.com/GoogleChromeLabs/ndb",
+    "desc": "ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools",
+    "lang": "JavaScript"
+  }
+]
