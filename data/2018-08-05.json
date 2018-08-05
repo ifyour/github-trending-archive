@@ -1,0 +1,150 @@
+[
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "desc": "Filament is a physically based rendering engine for Android, Windows, Linux and macOS",
+    "lang": "C++"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "CocoaDebug/CocoaDebug",
+    "url": "https://github.com/CocoaDebug/CocoaDebug",
+    "desc": "🚀 iOS Debugging Tool",
+    "lang": "Swift"
+  },
+  {
+    "title": "klauscfhq/taskbook",
+    "url": "https://github.com/klauscfhq/taskbook",
+    "desc": "📓 Tasks, boards & notes for the command-line habitat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nasa-jpl/open-source-rover",
+    "url": "https://github.com/nasa-jpl/open-source-rover",
+    "desc": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "lang": "TeX"
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "desc": "✍🏻It has never been so easy to document your things!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jhfjhfj1/autokeras",
+    "url": "https://github.com/jhfjhfj1/autokeras",
+    "desc": "This is an automated machine learning (AutoML) package.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "tvillarete/apple-music-js",
+    "url": "https://github.com/tvillarete/apple-music-js",
+    "desc": "A music streaming service created from the ground up using ReactJS & Redux",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apexcharts/apexcharts.js",
+    "url": "https://github.com/apexcharts/apexcharts.js",
+    "desc": "A JavaScript Chart Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faressoft/terminalizer",
+    "url": "https://github.com/faressoft/terminalizer",
+    "desc": "🦄 Record your terminal and generate animated gif images",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kitao/pyxel",
+    "url": "https://github.com/kitao/pyxel",
+    "desc": "A retro game development environment in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "InterviewMap/InterviewMap",
+    "url": "https://github.com/InterviewMap/InterviewMap",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Jinxiansen/SwiftServerSide-Vapor",
+    "url": "https://github.com/Jinxiansen/SwiftServerSide-Vapor",
+    "desc": "🦄 Swift server open source projects based on the Swift 4.1 and Vapor 3 frameworks. (Swift 服务端开源项目)",
+    "lang": "Swift"
+  },
+  {
+    "title": "xenko3d/xenko",
+    "url": "https://github.com/xenko3d/xenko",
+    "desc": "Xenko Game Engine",
+    "lang": "C#"
+  },
+  {
+    "title": "remeda/remeda",
+    "url": "https://github.com/remeda/remeda",
+    "desc": "A utility library for JavaScript and TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RaRe-Technologies/smart_open",
+    "url": "https://github.com/RaRe-Technologies/smart_open",
+    "desc": "Utils for streaming large files (S3, HDFS, gzip, bz2...)",
+    "lang": "Python"
+  },
+  {
+    "title": "m358807551/mysqlsmom",
+    "url": "https://github.com/m358807551/mysqlsmom",
+    "desc": "同步mysql数据到elasticsearch的工具，功能丰富，用法简单，配置灵活，扩展性强；",
+    "lang": "Python"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "desc": "📙 Amazon Web Services — a practical guide",
+    "lang": "Shell"
+  },
+  {
+    "title": "fejes713/30-seconds-of-interviews",
+    "url": "https://github.com/fejes713/30-seconds-of-interviews",
+    "desc": "A curated collection of common interview questions to help you prepare for your next interview.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "amio/badgen-service",
+    "url": "https://github.com/amio/badgen-service",
+    "desc": "Fast svg badge generating service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jbloch/effective-java-3e-source-code",
+    "url": "https://github.com/jbloch/effective-java-3e-source-code",
+    "desc": "The source code from the third edition of Effective Java, with minor additions as necessary to make it runnable.",
+    "lang": "Java"
+  },
+  {
+    "title": "espnet/espnet",
+    "url": "https://github.com/espnet/espnet",
+    "desc": "End-to-End Speech Processing Toolkit",
+    "lang": "Shell"
+  }
+]
