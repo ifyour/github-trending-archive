@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "desc": "Filament is a physically based rendering engine for Android, Windows, Linux and macOS",
+    "lang": "C++"
+  },
+  {
+    "title": "tvillarete/apple-music-js",
+    "url": "https://github.com/tvillarete/apple-music-js",
+    "desc": "A music streaming service created from the ground up using ReactJS & Redux",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JserWang/rc-bmap",
+    "url": "https://github.com/JserWang/rc-bmap",
+    "desc": "React BaiduMap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "desc": "📙 Amazon Web Services — a practical guide",
+    "lang": "Shell"
+  },
+  {
+    "title": "nathangitter/fluid-interfaces",
+    "url": "https://github.com/nathangitter/fluid-interfaces",
+    "desc": "Natural gestures and animations inspired by Apple's WWDC18 talk Designing Fluid Interfaces",
+    "lang": "Swift"
+  },
+  {
+    "title": "nasa-jpl/open-source-rover",
+    "url": "https://github.com/nasa-jpl/open-source-rover",
+    "desc": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "lang": "TeX"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "klauscfhq/taskbook",
+    "url": "https://github.com/klauscfhq/taskbook",
+    "desc": "📓 Tasks, boards & notes for the command-line habitat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apexcharts/apexcharts.js",
+    "url": "https://github.com/apexcharts/apexcharts.js",
+    "desc": "Clean and Modern SVG Charts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jhfjhfj1/autokeras",
+    "url": "https://github.com/jhfjhfj1/autokeras",
+    "desc": "This is an automated machine learning (AutoML) package.",
+    "lang": "Python"
+  },
+  {
+    "title": "InterviewMap/InterviewMap",
+    "url": "https://github.com/InterviewMap/InterviewMap",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "desc": "✍🏻It has never been so easy to document your things!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "amitt001/pygmy",
+    "url": "https://github.com/amitt001/pygmy",
+    "desc": "Open-source, feature rich & extensible url shortener + Analytics 🍪",
+    "lang": "Python"
+  },
+  {
+    "title": "zotroneneis/harry_potter_universe",
+    "url": "https://github.com/zotroneneis/harry_potter_universe",
+    "desc": "Awesome Python features explained using the world of Harry Potter",
+    "lang": "Python"
+  },
+  {
+    "title": "faressoft/terminalizer",
+    "url": "https://github.com/faressoft/terminalizer",
+    "desc": "🦄 Record your terminal and generate animated gif images",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kitao/pyxel",
+    "url": "https://github.com/kitao/pyxel",
+    "desc": "A retro game development environment in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "fejes713/30-seconds-of-interviews",
+    "url": "https://github.com/fejes713/30-seconds-of-interviews",
+    "desc": "A curated collection of common interview questions to help you prepare for your next interview.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "runkids/Imagvue",
+    "url": "https://github.com/runkids/Imagvue",
+    "desc": "🎑 Imagvue is a image processing component for Vue.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "💡 准备秋招学习笔记"
+  },
+  {
+    "title": "amio/badgen-service",
+    "url": "https://github.com/amio/badgen-service",
+    "desc": "Fast svg badge generating service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gioblu/PJON",
+    "url": "https://github.com/gioblu/PJON",
+    "desc": "PJON® is an open-source network protocol compatible with Arduino, ESP8266, STM32, Teensy, Raspberry Pi, Linux and Windows. It is a valid tool to build a network of devices.",
+    "lang": "C++"
+  }
+]
