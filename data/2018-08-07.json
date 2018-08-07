@@ -1,0 +1,146 @@
+[
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "open-source-ideas/open-source-ideas",
+    "url": "https://github.com/open-source-ideas/open-source-ideas",
+    "desc": "💡Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "desc": "Filament is a physically based rendering engine for Android, Windows, Linux and macOS",
+    "lang": "C++"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "desc": "📙 Amazon Web Services — a practical guide",
+    "lang": "Shell"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "thepracticaldev/dev.to",
+    "url": "https://github.com/thepracticaldev/dev.to",
+    "desc": "Where programmers share ideas and help each other grow"
+  },
+  {
+    "title": "nathangitter/fluid-interfaces",
+    "url": "https://github.com/nathangitter/fluid-interfaces",
+    "desc": "Natural gestures and animations inspired by Apple's WWDC18 talk Designing Fluid Interfaces",
+    "lang": "Swift"
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "desc": "✍🏻It has never been so easy to document your things!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tvillarete/apple-music-js",
+    "url": "https://github.com/tvillarete/apple-music-js",
+    "desc": "A music streaming service created from the ground up using ReactJS & Redux",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "klauscfhq/taskbook",
+    "url": "https://github.com/klauscfhq/taskbook",
+    "desc": "📓 Tasks, boards & notes for the command-line habitat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nasa-jpl/open-source-rover",
+    "url": "https://github.com/nasa-jpl/open-source-rover",
+    "desc": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "lang": "TeX"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jxnblk/mdx-deck",
+    "url": "https://github.com/jxnblk/mdx-deck",
+    "desc": "MDX-based presentation decks",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ionescu007/r0ak",
+    "url": "https://github.com/ionescu007/r0ak",
+    "desc": "r0ak (roak) is the Ring 0 Army Knife -- A Command Line Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems",
+    "lang": "C"
+  },
+  {
+    "title": "facebookincubator/fizz",
+    "url": "https://github.com/facebookincubator/fizz",
+    "desc": "C++14 implementation of the TLS-1.3 standard",
+    "lang": "C++"
+  },
+  {
+    "title": "apexcharts/apexcharts.js",
+    "url": "https://github.com/apexcharts/apexcharts.js",
+    "desc": "📊 Interactive and Modern SVG Charts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "kitao/pyxel",
+    "url": "https://github.com/kitao/pyxel",
+    "desc": "A retro game development environment in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "💡 准备秋招学习笔记"
+  },
+  {
+    "title": "InterviewMap/InterviewMap",
+    "url": "https://github.com/InterviewMap/InterviewMap",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "Picovoice/stt-benchmark",
+    "url": "https://github.com/Picovoice/stt-benchmark",
+    "desc": "speech-to-text benchmark framework",
+    "lang": "Python"
+  },
+  {
+    "title": "fejes713/30-seconds-of-interviews",
+    "url": "https://github.com/fejes713/30-seconds-of-interviews",
+    "desc": "A curated collection of common interview questions to help you prepare for your next interview.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jhfjhfj1/autokeras",
+    "url": "https://github.com/jhfjhfj1/autokeras",
+    "desc": "This is an automated machine learning (AutoML) package.",
+    "lang": "Python"
+  }
+]
