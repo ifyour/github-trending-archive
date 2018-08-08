@@ -1,0 +1,147 @@
+[
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "open-source-ideas/open-source-ideas",
+    "url": "https://github.com/open-source-ideas/open-source-ideas",
+    "desc": "💡Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!"
+  },
+  {
+    "title": "haskellcamargo/sclack",
+    "url": "https://github.com/haskellcamargo/sclack",
+    "desc": "The best CLI client for Slack, because everything is terrible!",
+    "lang": "Python"
+  },
+  {
+    "title": "chai2010/advanced-go-programming-book",
+    "url": "https://github.com/chai2010/advanced-go-programming-book",
+    "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题",
+    "lang": "Go"
+  },
+  {
+    "title": "thepracticaldev/dev.to",
+    "url": "https://github.com/thepracticaldev/dev.to",
+    "desc": "Where programmers share ideas and help each other grow"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "desc": "Filament is a physically based rendering engine for Android, Windows, Linux and macOS",
+    "lang": "C++"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "desc": "📙 Amazon Web Services — a practical guide",
+    "lang": "Shell"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ionescu007/r0ak",
+    "url": "https://github.com/ionescu007/r0ak",
+    "desc": "r0ak (roak) is the Ring 0 Army Knife -- A Command Line Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems",
+    "lang": "C"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "💡 准备秋招学习笔记"
+  },
+  {
+    "title": "m3db/m3",
+    "url": "https://github.com/m3db/m3",
+    "desc": "M3 monorepo - Distributed TSDB and Query Engine, Prometheus Sidecar, Metrics Platform",
+    "lang": "Go"
+  },
+  {
+    "title": "apexcharts/apexcharts.js",
+    "url": "https://github.com/apexcharts/apexcharts.js",
+    "desc": "📊 Interactive and Modern SVG Charts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "desc": "✍🏻It has never been so easy to document your things!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "klauscfhq/taskbook",
+    "url": "https://github.com/klauscfhq/taskbook",
+    "desc": "📓 Tasks, boards & notes for the command-line habitat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nasa-jpl/open-source-rover",
+    "url": "https://github.com/nasa-jpl/open-source-rover",
+    "desc": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "lang": "TeX"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "developer-learning/night-reading-go",
+    "url": "https://github.com/developer-learning/night-reading-go",
+    "desc": "Go 夜读 > Night Reading Go - Go source reading and offline technical discussion every Thursday night.",
+    "lang": "Go"
+  },
+  {
+    "title": "luna/luna-studio",
+    "url": "https://github.com/luna/luna-studio",
+    "desc": "",
+    "lang": "Haskell"
+  },
+  {
+    "title": "jhfjhfj1/autokeras",
+    "url": "https://github.com/jhfjhfj1/autokeras",
+    "desc": "This is an automated machine learning (AutoML) package.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookincubator/fizz",
+    "url": "https://github.com/facebookincubator/fizz",
+    "desc": "C++14 implementation of the TLS-1.3 standard",
+    "lang": "C++"
+  },
+  {
+    "title": "nathangitter/fluid-interfaces",
+    "url": "https://github.com/nathangitter/fluid-interfaces",
+    "desc": "Natural gestures and animations inspired by Apple's WWDC18 talk Designing Fluid Interfaces",
+    "lang": "Swift"
+  },
+  {
+    "title": "iielse/ImageWatcher",
+    "url": "https://github.com/iielse/ImageWatcher",
+    "desc": "高仿微信可拖拽返回",
+    "lang": "Java"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  }
+]
