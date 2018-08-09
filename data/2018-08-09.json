@@ -1,0 +1,149 @@
+[
+  {
+    "title": "thepracticaldev/dev.to",
+    "url": "https://github.com/thepracticaldev/dev.to",
+    "desc": "Where programmers share ideas and help each other grow",
+    "lang": "Ruby"
+  },
+  {
+    "title": "williamngan/pts",
+    "url": "https://github.com/williamngan/pts",
+    "desc": "A library for visualization and creative-coding",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chai2010/advanced-go-programming-book",
+    "url": "https://github.com/chai2010/advanced-go-programming-book",
+    "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题",
+    "lang": "Go"
+  },
+  {
+    "title": "github/glb-director",
+    "url": "https://github.com/github/glb-director",
+    "desc": "GitHub Load Balancer Director and supporting tooling.",
+    "lang": "C"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "desc": "📖 A collection of pure bash alternatives to external processes.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "open-source-ideas/open-source-ideas",
+    "url": "https://github.com/open-source-ideas/open-source-ideas",
+    "desc": "💡Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!"
+  },
+  {
+    "title": "haskellcamargo/sclack",
+    "url": "https://github.com/haskellcamargo/sclack",
+    "desc": "The best CLI client for Slack, because everything is terrible!",
+    "lang": "Python"
+  },
+  {
+    "title": "bvaughn/react-window",
+    "url": "https://github.com/bvaughn/react-window",
+    "desc": "React components for efficiently rendering large lists and tabular data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "desc": "Filament is a physically based rendering engine for Android, Windows, Linux and macOS",
+    "lang": "C++"
+  },
+  {
+    "title": "m3db/m3",
+    "url": "https://github.com/m3db/m3",
+    "desc": "M3 monorepo - Distributed TSDB and Query Engine, Prometheus Sidecar, Metrics Platform",
+    "lang": "Go"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "desc": "📙 Amazon Web Services — a practical guide",
+    "lang": "Shell"
+  },
+  {
+    "title": "SpiderLabs/social_mapper",
+    "url": "https://github.com/SpiderLabs/social_mapper",
+    "desc": "A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)",
+    "lang": "Python"
+  },
+  {
+    "title": "duanhong169/DrawableToolbox",
+    "url": "https://github.com/duanhong169/DrawableToolbox",
+    "desc": "🛠️ The missing drawable toolbox for Android. Get rid of the boring and always repeated drawable.xml files.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "crossoverJie/Java-Interview",
+    "url": "https://github.com/crossoverJie/Java-Interview",
+    "desc": "👨‍🎓 Java related : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "dawnlabs/carbon",
+    "url": "https://github.com/dawnlabs/carbon",
+    "desc": "🎨 Create and share beautiful images of your source code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apexcharts/apexcharts.js",
+    "url": "https://github.com/apexcharts/apexcharts.js",
+    "desc": "📊 Interactive and Modern SVG Charts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "💡 准备秋招学习笔记"
+  },
+  {
+    "title": "developer-learning/night-reading-go",
+    "url": "https://github.com/developer-learning/night-reading-go",
+    "desc": "Go 夜读 > Night Reading Go - Go source reading and offline technical discussion every Thursday night.",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "Computation using data flow graphs for scalable machine learning",
+    "lang": "C++"
+  },
+  {
+    "title": "endgameinc/xori",
+    "url": "https://github.com/endgameinc/xori",
+    "desc": "",
+    "lang": "Rust"
+  }
+]
