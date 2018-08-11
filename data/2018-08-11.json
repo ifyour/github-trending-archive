@@ -1,0 +1,149 @@
+[
+  {
+    "title": "niieani/bash-oo-framework",
+    "url": "https://github.com/niieani/bash-oo-framework",
+    "desc": "Bash Infinity is a modern boilerplate / framework / standard library for bash",
+    "lang": "Shell"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "hasura/graphqurl",
+    "url": "https://github.com/hasura/graphqurl",
+    "desc": "curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a JS library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thepracticaldev/dev.to",
+    "url": "https://github.com/thepracticaldev/dev.to",
+    "desc": "Where programmers share ideas and help each other grow",
+    "lang": "Ruby"
+  },
+  {
+    "title": "xoreaxeaxeax/rosenbridge",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "desc": "Hardware backdoors in some x86 CPUs",
+    "lang": "C"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "williamngan/pts",
+    "url": "https://github.com/williamngan/pts",
+    "desc": "A library for visualization and creative-coding",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "electron/fiddle",
+    "url": "https://github.com/electron/fiddle",
+    "desc": "🚀 The easiest way to get started with Electron",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zeeshanu/dumper.js",
+    "url": "https://github.com/zeeshanu/dumper.js",
+    "desc": "A better and pretty variable inspector for your Node.js applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SpiderLabs/social_mapper",
+    "url": "https://github.com/SpiderLabs/social_mapper",
+    "desc": "A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)",
+    "lang": "Python"
+  },
+  {
+    "title": "open-source-ideas/open-source-ideas",
+    "url": "https://github.com/open-source-ideas/open-source-ideas",
+    "desc": "💡Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "desc": "📖 A collection of pure bash alternatives to external processes.",
+    "lang": "Shell"
+  },
+  {
+    "title": "CocoaDebug/CocoaDebug",
+    "url": "https://github.com/CocoaDebug/CocoaDebug",
+    "desc": "🚀 iOS Debugging Tool",
+    "lang": "Swift"
+  },
+  {
+    "title": "ethanhuang13/knil",
+    "url": "https://github.com/ethanhuang13/knil",
+    "desc": "Universal Links testing made easy",
+    "lang": "Swift"
+  },
+  {
+    "title": "terryjiao/BitcoinWallet",
+    "url": "https://github.com/terryjiao/BitcoinWallet",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "nathangitter/fluid-interfaces",
+    "url": "https://github.com/nathangitter/fluid-interfaces",
+    "desc": "Natural gestures and animations inspired by Apple's WWDC18 talk Designing Fluid Interfaces",
+    "lang": "Swift"
+  },
+  {
+    "title": "twostraws/Unwrap",
+    "url": "https://github.com/twostraws/Unwrap",
+    "desc": "Learn Swift interactively on your iPhone.",
+    "lang": "Swift"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊"
+  },
+  {
+    "title": "lyft/xiblint",
+    "url": "https://github.com/lyft/xiblint",
+    "desc": "A tool for linting storyboard and xib files",
+    "lang": "Python"
+  },
+  {
+    "title": "haskellcamargo/sclack",
+    "url": "https://github.com/haskellcamargo/sclack",
+    "desc": "The best CLI client for Slack, because everything is terrible!",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/got",
+    "url": "https://github.com/sindresorhus/got",
+    "desc": "Simplified HTTP requests",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/glb-director",
+    "url": "https://github.com/github/glb-director",
+    "desc": "GitHub Load Balancer Director and supporting tooling.",
+    "lang": "C"
+  }
+]
