@@ -1,0 +1,146 @@
+[
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "electron/fiddle",
+    "url": "https://github.com/electron/fiddle",
+    "desc": "🚀 The easiest way to get started with Electron",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "umpox/TinyEditor",
+    "url": "https://github.com/umpox/TinyEditor",
+    "desc": "A functional HTML/CSS/JS editor in less than 400 bytes",
+    "lang": "HTML"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "zeeshanu/dumper.js",
+    "url": "https://github.com/zeeshanu/dumper.js",
+    "desc": "A better and pretty variable inspector for your Node.js applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hello-Linux/Ansible-VIM-IDE",
+    "url": "https://github.com/Hello-Linux/Ansible-VIM-IDE",
+    "desc": "A beautiful VIM-IDE based on Ansible"
+  },
+  {
+    "title": "niieani/bash-oo-framework",
+    "url": "https://github.com/niieani/bash-oo-framework",
+    "desc": "Bash Infinity is a modern boilerplate / framework / standard library for bash",
+    "lang": "Shell"
+  },
+  {
+    "title": "open-source-ideas/open-source-ideas",
+    "url": "https://github.com/open-source-ideas/open-source-ideas",
+    "desc": "💡Ever had a cool idea to an Open Source project but didn't have the time to implement yourself? Let someone else give it a try!"
+  },
+  {
+    "title": "williamngan/pts",
+    "url": "https://github.com/williamngan/pts",
+    "desc": "A library for visualization and creative-coding",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "crossoverJie/Java-Interview",
+    "url": "https://github.com/crossoverJie/Java-Interview",
+    "desc": "👨‍🎓 Java related : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "imhuay/Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "Piasy/BigImageViewer",
+    "url": "https://github.com/Piasy/BigImageViewer",
+    "desc": "Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻",
+    "lang": "Java"
+  },
+  {
+    "title": "thepracticaldev/dev.to",
+    "url": "https://github.com/thepracticaldev/dev.to",
+    "desc": "Where programmers share ideas and help each other grow",
+    "lang": "Ruby"
+  },
+  {
+    "title": "hasura/graphqurl",
+    "url": "https://github.com/hasura/graphqurl",
+    "desc": "curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xoreaxeaxeax/rosenbridge",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "desc": "Hardware backdoors in some x86 CPUs",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "💡 准备秋招学习笔记"
+  },
+  {
+    "title": "SpiderLabs/social_mapper",
+    "url": "https://github.com/SpiderLabs/social_mapper",
+    "desc": "A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)",
+    "lang": "Python"
+  },
+  {
+    "title": "GetPublii/Publii",
+    "url": "https://github.com/GetPublii/Publii",
+    "desc": "Publii is a desktop-based CMS for Windows and Mac that makes creating static websites fast and hassle-free, even for beginners.",
+    "lang": "HTML"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  }
+]
