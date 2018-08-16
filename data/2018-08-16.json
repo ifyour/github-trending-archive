@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "desc": "Run El Capitan, macOS Sierra, High Sierra and Mojave on QEMU/KVM. No support is provided at the moment.",
+    "lang": "Shell"
+  },
+  {
+    "title": "react-tools/react-move",
+    "url": "https://github.com/react-tools/react-move",
+    "desc": "React Move 🌀 Beautiful, data-driven animations for React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Jeffail/benthos",
+    "url": "https://github.com/Jeffail/benthos",
+    "desc": "A dull, resilient and quick to deploy stream processor",
+    "lang": "Go"
+  },
+  {
+    "title": "JsonChao/Awesome-Android-Interview",
+    "url": "https://github.com/JsonChao/Awesome-Android-Interview",
+    "desc": "🔥 A awesome android expert interview questions and answers（continuous updating ...）"
+  },
+  {
+    "title": "astorfi/Deep-Learning-World",
+    "url": "https://github.com/astorfi/Deep-Learning-World",
+    "desc": "📡 Organized Resources for Deep Learning Researchers and Developers",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/UnsupervisedMT",
+    "url": "https://github.com/facebookresearch/UnsupervisedMT",
+    "desc": "Phrase-Based & Neural Unsupervised Machine Translation",
+    "lang": "Python"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "calebmadrigal/trackerjacker",
+    "url": "https://github.com/calebmadrigal/trackerjacker",
+    "desc": "Like nmap for mapping wifi networks you're not connected to, plus device tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java related : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "chokcoco/iCSS",
+    "url": "https://github.com/chokcoco/iCSS",
+    "desc": "谈谈一些有趣的 CSS 话题"
+  },
+  {
+    "title": "araddon/qlbridge",
+    "url": "https://github.com/araddon/qlbridge",
+    "desc": "A golang SQL expression VM. Library to build query engine based functionality.",
+    "lang": "Go"
+  },
+  {
+    "title": "uber-go/zap",
+    "url": "https://github.com/uber-go/zap",
+    "desc": "Blazing fast, structured, leveled logging in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "desc": "⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oracle/graphpipe",
+    "url": "https://github.com/oracle/graphpipe",
+    "desc": "Dead Simple ML Model Serving via a Standard Protocol",
+    "lang": "Makefile"
+  },
+  {
+    "title": "pujiaxin33/JXCategoryView",
+    "url": "https://github.com/pujiaxin33/JXCategoryView",
+    "desc": "A powerful and easy to use category view (segmentedcontrol, pagingview, pagerview, pagecontrol, scrollview) (腾讯新闻、网易新闻、今日头条、QQ音乐、京东、爱奇艺等所有主流APP分类切换滚动视图)",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.JS best practices list (August 2018)"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook",
+    "desc": "📚 技术面试需要掌握的基础知识整理"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "Python"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thepracticaldev/dev.to",
+    "url": "https://github.com/thepracticaldev/dev.to",
+    "desc": "Where programmers share ideas and help each other grow",
+    "lang": "Ruby"
+  }
+]
