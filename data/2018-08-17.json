@@ -1,0 +1,150 @@
+[
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Jeffail/benthos",
+    "url": "https://github.com/Jeffail/benthos",
+    "desc": "A dull, resilient and quick to deploy stream processor",
+    "lang": "Go"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "thisredone/rb",
+    "url": "https://github.com/thisredone/rb",
+    "desc": "Turns Ruby into a versatile command line utility",
+    "lang": "Ruby"
+  },
+  {
+    "title": "vfreefly/kimurai",
+    "url": "https://github.com/vfreefly/kimurai",
+    "desc": "Kimurai is a modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites",
+    "lang": "Ruby"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。",
+    "lang": "Python"
+  },
+  {
+    "title": "react-tools/react-move",
+    "url": "https://github.com/react-tools/react-move",
+    "desc": "React Move 🌀 Beautiful, data-driven animations for React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imhuay/Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "IEEEKeralaSection/rescuekerala",
+    "url": "https://github.com/IEEEKeralaSection/rescuekerala",
+    "desc": "Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods",
+    "lang": "Python"
+  },
+  {
+    "title": "suijunqiang/rnset",
+    "url": "https://github.com/suijunqiang/rnset",
+    "desc": "rnset is a framework based on the react native & integrated a lot very good RN components to easy for verifying/using/picking in your projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "desc": "Run El Capitan, macOS Sierra, High Sierra and Mojave on QEMU/KVM. No support is provided at the moment.",
+    "lang": "Shell"
+  },
+  {
+    "title": "salesforce/TransmogrifAI",
+    "url": "https://github.com/salesforce/TransmogrifAI",
+    "desc": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Spark with minimal hand tuning",
+    "lang": "Scala"
+  },
+  {
+    "title": "astorfi/Deep-Learning-World",
+    "url": "https://github.com/astorfi/Deep-Learning-World",
+    "desc": "📡 Organized Resources for Deep Learning Researchers and Developers",
+    "lang": "Python"
+  },
+  {
+    "title": "pujiaxin33/JXCategoryView",
+    "url": "https://github.com/pujiaxin33/JXCategoryView",
+    "desc": "A powerful and easy to use category view (segmentedcontrol, pagingview, pagerview, pagecontrol, scrollview) (腾讯新闻、网易新闻、今日头条、QQ音乐、京东、爱奇艺等所有主流APP分类切换滚动视图)",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "palmerhq/react-async-elements",
+    "url": "https://github.com/palmerhq/react-async-elements",
+    "desc": "Suspense-friendly async React elements for common situations",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "calebmadrigal/trackerjacker",
+    "url": "https://github.com/calebmadrigal/trackerjacker",
+    "desc": "Like nmap for mapping wifi networks you're not connected to, plus device tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/UnsupervisedMT",
+    "url": "https://github.com/facebookresearch/UnsupervisedMT",
+    "desc": "Phrase-Based & Neural Unsupervised Machine Translation",
+    "lang": "Python"
+  },
+  {
+    "title": "nasa-jpl/open-source-rover",
+    "url": "https://github.com/nasa-jpl/open-source-rover",
+    "desc": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "lang": "TeX"
+  },
+  {
+    "title": "vipshop/vjtools",
+    "url": "https://github.com/vipshop/vjtools",
+    "desc": "The vip.com's java coding standard, libraries and tools",
+    "lang": "Java"
+  },
+  {
+    "title": "jianstm/Schedule",
+    "url": "https://github.com/jianstm/Schedule",
+    "desc": "⏳ This is what a swift timer should look like.",
+    "lang": "Swift"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  }
+]
