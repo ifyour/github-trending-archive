@@ -1,0 +1,147 @@
+[
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "desc": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/FASTER",
+    "url": "https://github.com/Microsoft/FASTER",
+    "desc": "Fast key-value store from Microsoft Research",
+    "lang": "C#"
+  },
+  {
+    "title": "google/python-fire",
+    "url": "https://github.com/google/python-fire",
+    "desc": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "lang": "Python"
+  },
+  {
+    "title": "Droogans/unmaintainable-code",
+    "url": "https://github.com/Droogans/unmaintainable-code",
+    "desc": "A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ai/nanoid",
+    "url": "https://github.com/ai/nanoid",
+    "desc": "A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JessYanCoding/AndroidAutoSize",
+    "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "desc": "A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).",
+    "lang": "Java"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "MichaelMure/git-bug",
+    "url": "https://github.com/MichaelMure/git-bug",
+    "desc": "Distributed bug tracker embedded in Git",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "franciscop/umbrella",
+    "url": "https://github.com/franciscop/umbrella",
+    "desc": "☔️ Lightweight javascript library for DOM manipulation and events",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "jser-club/rc-bmap",
+    "url": "https://github.com/jser-club/rc-bmap",
+    "desc": "当百度地图遇上React，会产生怎样的火花🔥 🎉欢迎您的加入🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "arguiot/TheoremJS",
+    "url": "https://github.com/arguiot/TheoremJS",
+    "desc": "A Math library for computation in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "infosecn1nja/Red-Teaming-Toolkit",
+    "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+    "desc": "A collection of open source and commercial tools that aid in red team operations."
+  },
+  {
+    "title": "OCNYang/Android-Animation-Set",
+    "url": "https://github.com/OCNYang/Android-Animation-Set",
+    "desc": "🦄 Android 所有动画系列详尽教程。 Explain all animations in Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "imhuay/Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "aykevl/tinygo",
+    "url": "https://github.com/aykevl/tinygo",
+    "desc": "Go compiler for small devices, based on LLVM.",
+    "lang": "Go"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "astorfi/Deep-Learning-World",
+    "url": "https://github.com/astorfi/Deep-Learning-World",
+    "desc": "📡 Organized Resources for Deep Learning Researchers and Developers",
+    "lang": "Python"
+  },
+  {
+    "title": "runvnc/dadsresume",
+    "url": "https://github.com/runvnc/dadsresume",
+    "desc": "My dad's resume and skills from 1980"
+  }
+]
