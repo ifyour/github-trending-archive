@@ -1,0 +1,141 @@
+[
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "desc": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+    "lang": "Python"
+  },
+  {
+    "title": "BestDingSheng/resources",
+    "url": "https://github.com/BestDingSheng/resources",
+    "desc": "知名互联网企业内推资料整理 持续更新ing 。 目前已经维护四个微信群接近2000人，欢迎你的加入！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sinclairtarget/um",
+    "url": "https://github.com/sinclairtarget/um",
+    "desc": "Create and maintain your own man pages so you can remember how to do stuff",
+    "lang": "Ruby"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/python-fire",
+    "url": "https://github.com/google/python-fire",
+    "desc": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "lang": "Python"
+  },
+  {
+    "title": "ai/nanoid",
+    "url": "https://github.com/ai/nanoid",
+    "desc": "A tiny (145 bytes), secure, URL-friendly, unique string ID generator for JavaScript.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TKkk-iOSer/WeChatPlugin-MacOS",
+    "url": "https://github.com/TKkk-iOSer/WeChatPlugin-MacOS",
+    "desc": "一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "Microsoft/FASTER",
+    "url": "https://github.com/Microsoft/FASTER",
+    "desc": "Fast key-value store from Microsoft Research",
+    "lang": "C#"
+  },
+  {
+    "title": "JessYanCoding/AndroidAutoSize",
+    "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "desc": "A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).",
+    "lang": "Java"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "nsporillo/GlobalWarming",
+    "url": "https://github.com/nsporillo/GlobalWarming",
+    "desc": "Spigot plugin that adds game changing global warming mechanics",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "Droogans/unmaintainable-code",
+    "url": "https://github.com/Droogans/unmaintainable-code",
+    "desc": "A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "infosecn1nja/Red-Teaming-Toolkit",
+    "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+    "desc": "A collection of open source and commercial tools that aid in red team operations."
+  },
+  {
+    "title": "papyrussolution/UhttBarcodeReference",
+    "url": "https://github.com/papyrussolution/UhttBarcodeReference",
+    "desc": "Universe-HTT barcode reference"
+  },
+  {
+    "title": "arguiot/TheoremJS",
+    "url": "https://github.com/arguiot/TheoremJS",
+    "desc": "A Math library for computation in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OCNYang/Android-Animation-Set",
+    "url": "https://github.com/OCNYang/Android-Animation-Set",
+    "desc": "🦄 Android 所有动画系列详尽教程。 Explain all animations in Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "pedronauck/reworm",
+    "url": "https://github.com/pedronauck/reworm",
+    "desc": "the simplest way to manage state!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MichaelMure/git-bug",
+    "url": "https://github.com/MichaelMure/git-bug",
+    "desc": "Distributed bug tracker embedded in Git",
+    "lang": "Go"
+  },
+  {
+    "title": "myvin/juejin",
+    "url": "https://github.com/myvin/juejin",
+    "desc": "😄 掘金小程序",
+    "lang": "JavaScript"
+  }
+]
