@@ -1,0 +1,148 @@
+[
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+  },
+  {
+    "title": "ampproject/worker-dom",
+    "url": "https://github.com/ampproject/worker-dom",
+    "desc": "The same DOM API and Frameworks you know, but in a Web Worker.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "desc": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+    "lang": "Python"
+  },
+  {
+    "title": "captainwz/svg-3d-builder",
+    "url": "https://github.com/captainwz/svg-3d-builder",
+    "desc": "an elaborate tool to create 3d model with svg",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trailofbits/algo",
+    "url": "https://github.com/trailofbits/algo",
+    "desc": "Set up a personal IPSEC VPN in the cloud",
+    "lang": "Python"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。",
+    "lang": "Python"
+  },
+  {
+    "title": "JessYanCoding/AndroidAutoSize",
+    "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "desc": "A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).",
+    "lang": "Java"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "SystemsApproach/book",
+    "url": "https://github.com/SystemsApproach/book",
+    "desc": "Meta-data and Makefile needed to build the book. Main starting point.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "pedronauck/reworm",
+    "url": "https://github.com/pedronauck/reworm",
+    "desc": "the simplest way to manage state!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/interactive-coding-challenges",
+    "url": "https://github.com/donnemartin/interactive-coding-challenges",
+    "desc": "Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TKkk-iOSer/WeChatPlugin-MacOS",
+    "url": "https://github.com/TKkk-iOSer/WeChatPlugin-MacOS",
+    "desc": "一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "iReaderAndroid/X2C",
+    "url": "https://github.com/iReaderAndroid/X2C",
+    "desc": "提升布局加载速度200%",
+    "lang": "Java"
+  },
+  {
+    "title": "pujiaxin33/JXCategoryView",
+    "url": "https://github.com/pujiaxin33/JXCategoryView",
+    "desc": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BestDingSheng/resources",
+    "url": "https://github.com/BestDingSheng/resources",
+    "desc": "知名互联网企业内推资料整理 持续更新ing 。 目前已经维护四个微信群接近2000人，欢迎你的加入！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "google/python-fire",
+    "url": "https://github.com/google/python-fire",
+    "desc": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "lang": "Python"
+  }
+]
