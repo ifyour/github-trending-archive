@@ -1,0 +1,147 @@
+[
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fogleman/Craft",
+    "url": "https://github.com/fogleman/Craft",
+    "desc": "A simple Minecraft clone written in C using modern OpenGL (shaders).",
+    "lang": "C"
+  },
+  {
+    "title": "SystemsApproach/book",
+    "url": "https://github.com/SystemsApproach/book",
+    "desc": "Meta-data and Makefile needed to build the book. Main starting point.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "buzzfeed/sso",
+    "url": "https://github.com/buzzfeed/sso",
+    "desc": "sso, aka S.S.Octopus, aka octoboi, is a single-sign on solution for securing internal services",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "BestDingSheng/resources",
+    "url": "https://github.com/BestDingSheng/resources",
+    "desc": "知名互联网企业内推资料整理 持续更新ing 。 目前已经维护五个微信群接近3000人，欢迎你的加入！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/interactive-coding-challenges",
+    "url": "https://github.com/donnemartin/interactive-coding-challenges",
+    "desc": "Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "meituan/WMRouter",
+    "url": "https://github.com/meituan/WMRouter",
+    "desc": "WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。",
+    "lang": "Java"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "desc": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+    "lang": "Python"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "desc": "🚀 Awesome list of open source applications for macOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open-source home automation platform running on Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。",
+    "lang": "Python"
+  },
+  {
+    "title": "KieSun/InterviewMap",
+    "url": "https://github.com/KieSun/InterviewMap",
+    "desc": "该项目是 fork 的，如果你觉得不错，可以前往主仓库支持一下。"
+  },
+  {
+    "title": "ampproject/worker-dom",
+    "url": "https://github.com/ampproject/worker-dom",
+    "desc": "The same DOM API and Frameworks you know, but in a Web Worker.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JessYanCoding/AndroidAutoSize",
+    "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "desc": "A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).",
+    "lang": "Java"
+  }
+]
