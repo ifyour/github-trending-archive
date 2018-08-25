@@ -1,0 +1,148 @@
+[
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "arduino/arduino-cli",
+    "url": "https://github.com/arduino/arduino-cli",
+    "desc": "Arduino command line interface",
+    "lang": "Go"
+  },
+  {
+    "title": "SystemsApproach/book",
+    "url": "https://github.com/SystemsApproach/book",
+    "desc": "Meta-data and Makefile needed to build the book. Main starting point.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "fogleman/Craft",
+    "url": "https://github.com/fogleman/Craft",
+    "desc": "A simple Minecraft clone written in C using modern OpenGL (shaders).",
+    "lang": "C"
+  },
+  {
+    "title": "iodide-project/pyodide",
+    "url": "https://github.com/iodide-project/pyodide",
+    "desc": "The Python scientific stack, compiled to WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "JohnSundell/Splash",
+    "url": "https://github.com/JohnSundell/Splash",
+    "desc": "A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!",
+    "lang": "Swift"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "buzzfeed/sso",
+    "url": "https://github.com/buzzfeed/sso",
+    "desc": "sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services",
+    "lang": "Go"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "desc": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+    "lang": "Python"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "ra1028/DifferenceKit",
+    "url": "https://github.com/ra1028/DifferenceKit",
+    "desc": "💻 A fast and flexible O(n) difference algorithm framework for Swift collection.",
+    "lang": "Swift"
+  },
+  {
+    "title": "jianstm/Schedule",
+    "url": "https://github.com/jianstm/Schedule",
+    "desc": "⏳ This is what a swift timer should look like.",
+    "lang": "Swift"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "agens-no/swiff",
+    "url": "https://github.com/agens-no/swiff",
+    "desc": "Human readable time diffs on lines of output when running e.g. build commands like fastlane",
+    "lang": "Swift"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure TypeScript runtime on V8",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open-source home automation platform running on Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "GPUOpen-LibrariesAndSDKs/V-EZ",
+    "url": "https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  }
+]
