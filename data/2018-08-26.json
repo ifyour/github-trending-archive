@@ -1,0 +1,145 @@
+[
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "GoogleChromeLabs/size-plugin",
+    "url": "https://github.com/GoogleChromeLabs/size-plugin",
+    "desc": "Track compressed Webpack asset sizes over time.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "arduino/arduino-cli",
+    "url": "https://github.com/arduino/arduino-cli",
+    "desc": "Arduino command line interface",
+    "lang": "Go"
+  },
+  {
+    "title": "diogocezar/dctb-utfpr",
+    "url": "https://github.com/diogocezar/dctb-utfpr",
+    "desc": "Lista dos materiais elaborados por mim para as aulas ministradas na UTFPR."
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Physiix/topsi-project-manager",
+    "url": "https://github.com/Physiix/topsi-project-manager",
+    "desc": "",
+    "lang": "Vue"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fogleman/Craft",
+    "url": "https://github.com/fogleman/Craft",
+    "desc": "A simple Minecraft clone written in C using modern OpenGL (shaders).",
+    "lang": "C"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+  },
+  {
+    "title": "nteract/papermill",
+    "url": "https://github.com/nteract/papermill",
+    "desc": "📚 Parameterize, execute, and analyze notebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "vmxdev/tkvdb",
+    "url": "https://github.com/vmxdev/tkvdb",
+    "desc": "Trie key-value database",
+    "lang": "C"
+  },
+  {
+    "title": "SystemsApproach/book",
+    "url": "https://github.com/SystemsApproach/book",
+    "desc": "Meta-data and Makefile needed to build the book. Main starting point.",
+    "lang": "CSS"
+  },
+  {
+    "title": "mafintosh/turbo-json-parse",
+    "url": "https://github.com/mafintosh/turbo-json-parse",
+    "desc": "Turbocharged JSON.parse for type stable JSON data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open-source home automation platform running on Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ruanyf/book-computer-networks",
+    "url": "https://github.com/ruanyf/book-computer-networks",
+    "desc": "Free E-Book: Computer Networks - A Systems Approach"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "desc": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+    "lang": "Python"
+  },
+  {
+    "title": "JohnSundell/Splash",
+    "url": "https://github.com/JohnSundell/Splash",
+    "desc": "A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!",
+    "lang": "Swift"
+  },
+  {
+    "title": "iodide-project/pyodide",
+    "url": "https://github.com/iodide-project/pyodide",
+    "desc": "The Python scientific stack, compiled to WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  }
+]
