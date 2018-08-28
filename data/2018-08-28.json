@@ -1,0 +1,147 @@
+[
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "desc": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antvis/f2",
+    "url": "https://github.com/antvis/f2",
+    "desc": "📱📈An elegant, interactive and flexible charting library for mobile.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pomber/code-surfer",
+    "url": "https://github.com/pomber/code-surfer",
+    "desc": "React component for scrolling, zooming and highlighting code <🏄/>",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "VSCodium/vscodium",
+    "url": "https://github.com/VSCodium/vscodium",
+    "desc": "binary releases of VS Code without MS branding/telemetry/licensing",
+    "lang": "Shell"
+  },
+  {
+    "title": "alibaba/BizCharts",
+    "url": "https://github.com/alibaba/BizCharts",
+    "desc": "data visualization library based G2 and React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sipt/shuttle",
+    "url": "https://github.com/sipt/shuttle",
+    "desc": "ss-local proxy, HTTP/HTTPS 抓包，多服务器rtt选择，DNS解析(参照Surge)",
+    "lang": "Go"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills",
+    "desc": "A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)."
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "kkyon/databot",
+    "url": "https://github.com/kkyon/databot",
+    "desc": "High Performance Python Data driven programming framework for Web Crawler,ETL,Data pipeline work",
+    "lang": "Python"
+  },
+  {
+    "title": "Physiix/topsi-project-manager",
+    "url": "https://github.com/Physiix/topsi-project-manager",
+    "desc": "A Desktop Kanban board app.",
+    "lang": "Vue"
+  },
+  {
+    "title": "joaomilho/Enterprise",
+    "url": "https://github.com/joaomilho/Enterprise",
+    "desc": "The Enterprise™ programming language",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/ice",
+    "url": "https://github.com/alibaba/ice",
+    "desc": "🚀 飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100%",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iReaderAndroid/X2C",
+    "url": "https://github.com/iReaderAndroid/X2C",
+    "desc": "提升布局加载速度200%",
+    "lang": "Java"
+  },
+  {
+    "title": "amirrajan/survivingtheappstore",
+    "url": "https://github.com/amirrajan/survivingtheappstore",
+    "desc": "My book on getting to the #1 Spot in the App Store. Buy my games to support me."
+  },
+  {
+    "title": "NervJS/taro-ui",
+    "url": "https://github.com/NervJS/taro-ui",
+    "desc": "一款基于 Taro 框架开发的多端 UI 组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jxnblk/mdx-deck",
+    "url": "https://github.com/jxnblk/mdx-deck",
+    "desc": "♠️ MDX-based presentation decks",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "fastpack/fastpack",
+    "url": "https://github.com/fastpack/fastpack",
+    "desc": "Pack JS code fast & easy",
+    "lang": "OCaml"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  }
+]
