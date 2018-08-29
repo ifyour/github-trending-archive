@@ -1,0 +1,149 @@
+[
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "desc": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills",
+    "desc": "A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)."
+  },
+  {
+    "title": "antvis/f2",
+    "url": "https://github.com/antvis/f2",
+    "desc": "📱📈An elegant, interactive and flexible charting library for mobile.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "reach/reach-ui",
+    "url": "https://github.com/reach/reach-ui",
+    "desc": "The Accessible Foundation for React DOM Apps and Design Systems.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/MvRx",
+    "url": "https://github.com/airbnb/MvRx",
+    "desc": "MvRx: Android on Autopilot",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "SandboxEscaper/randomrepo",
+    "url": "https://github.com/SandboxEscaper/randomrepo",
+    "desc": "Repo for random stuff"
+  },
+  {
+    "title": "aergoio/litetree",
+    "url": "https://github.com/aergoio/litetree",
+    "desc": "SQLite with Branches",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "pomber/code-surfer",
+    "url": "https://github.com/pomber/code-surfer",
+    "desc": "React component for scrolling, zooming and highlighting code <🏄/>",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/BizCharts",
+    "url": "https://github.com/alibaba/BizCharts",
+    "desc": "data visualization library based G2 and React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "desc": "🍰 万物皆可 RSS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "NervJS/taro-ui",
+    "url": "https://github.com/NervJS/taro-ui",
+    "desc": "一款基于 Taro 框架开发的多端 UI 组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sipt/shuttle",
+    "url": "https://github.com/sipt/shuttle",
+    "desc": "ss-local proxy, HTTP/HTTPS 抓包，多服务器rtt选择，DNS解析(参照Surge)",
+    "lang": "Go"
+  },
+  {
+    "title": "joaomilho/Enterprise",
+    "url": "https://github.com/joaomilho/Enterprise",
+    "desc": "The Enterprise™ programming language",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "darklife/darkriscv",
+    "url": "https://github.com/darklife/darkriscv",
+    "desc": "opensouce RISC-V implemented from scratch in one night!",
+    "lang": "Verilog"
+  },
+  {
+    "title": "alibaba/ice",
+    "url": "https://github.com/alibaba/ice",
+    "desc": "🚀 飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100%",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+    "desc": "🎮 The only Front-End Performance Checklist that runs faster than the others"
+  },
+  {
+    "title": "JessYanCoding/AndroidAutoSize",
+    "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "desc": "A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).",
+    "lang": "Java"
+  }
+]
