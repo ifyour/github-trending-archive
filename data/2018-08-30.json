@@ -1,0 +1,149 @@
+[
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "desc": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+    "desc": "🎮 The only Front-End Performance Checklist that runs faster than the others"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills",
+    "desc": "A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)."
+  },
+  {
+    "title": "antvis/f2",
+    "url": "https://github.com/antvis/f2",
+    "desc": "📱📈An elegant, interactive and flexible charting library for mobile.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aergoio/litetree",
+    "url": "https://github.com/aergoio/litetree",
+    "desc": "SQLite with Branches",
+    "lang": "C"
+  },
+  {
+    "title": "airbnb/MvRx",
+    "url": "https://github.com/airbnb/MvRx",
+    "desc": "MvRx: Android on Autopilot",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Venerons/CivJS",
+    "url": "https://github.com/Venerons/CivJS",
+    "desc": "A JavaScript 4X Game",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "davecheney/gophercon2018-performance-tuning-workshop",
+    "url": "https://github.com/davecheney/gophercon2018-performance-tuning-workshop",
+    "desc": "GopherCon 2018 Performance Tuning Workshop",
+    "lang": "Go"
+  },
+  {
+    "title": "lerna/lerna",
+    "url": "https://github.com/lerna/lerna",
+    "desc": "🐉 A tool for managing JavaScript projects with multiple packages.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pomber/code-surfer",
+    "url": "https://github.com/pomber/code-surfer",
+    "desc": "React component for scrolling, zooming and highlighting code <🏄/>",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "reach/reach-ui",
+    "url": "https://github.com/reach/reach-ui",
+    "desc": "The Accessible Foundation for React DOM Apps and Design Systems.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "jnz/q3vm",
+    "url": "https://github.com/jnz/q3vm",
+    "desc": "Q3VM - Embeddable bytecode virtual machine/interpreter for C-language input",
+    "lang": "C"
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/BizCharts",
+    "url": "https://github.com/alibaba/BizCharts",
+    "desc": "Powerful data visualization library based on G2 and React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "darklife/darkriscv",
+    "url": "https://github.com/darklife/darkriscv",
+    "desc": "opensouce RISC-V implemented from scratch in one night!",
+    "lang": "Verilog"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "desc": "🍰 万物皆可 RSS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SandboxEscaper/randomrepo",
+    "url": "https://github.com/SandboxEscaper/randomrepo",
+    "desc": "Repo for random stuff"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  }
+]
