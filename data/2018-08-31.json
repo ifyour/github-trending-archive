@@ -6,12 +6,6 @@
     "lang": "Rust"
   },
   {
-    "title": "Android1404/AwesomeDrawer",
-    "url": "https://github.com/Android1404/AwesomeDrawer",
-    "desc": "materail awsome anim",
-    "lang": "Java"
-  },
-  {
     "title": "google/tink",
     "url": "https://github.com/google/tink",
     "desc": "Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
@@ -29,16 +23,16 @@
     "desc": "A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)."
   },
   {
-    "title": "felixrieseberg/windows95",
-    "url": "https://github.com/felixrieseberg/windows95",
-    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
-    "lang": "JavaScript"
-  },
-  {
     "title": "trekhleb/learn-python",
     "url": "https://github.com/trekhleb/learn-python",
     "desc": "📚 Playground and cheatsheet for learning Python",
     "lang": "Python"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
   },
   {
     "title": "antvis/f2",
@@ -50,6 +44,18 @@
     "title": "thedaviddias/Front-End-Performance-Checklist",
     "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
     "desc": "🎮 The only Front-End Performance Checklist that runs faster than the others"
+  },
+  {
+    "title": "chai2010/advanced-go-programming-book",
+    "url": "https://github.com/chai2010/advanced-go-programming-book",
+    "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题",
+    "lang": "Go"
+  },
+  {
+    "title": "mercari/Mew",
+    "url": "https://github.com/mercari/Mew",
+    "desc": "The framework that support making MicroViewController.",
+    "lang": "Swift"
   },
   {
     "title": "airbnb/MvRx",
@@ -64,16 +70,27 @@
     "lang": "JavaScript"
   },
   {
-    "title": "mercari/Mew",
-    "url": "https://github.com/mercari/Mew",
-    "desc": "The framework that support making MicroViewController.",
-    "lang": "Swift"
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "desc": "x86 virtualization in JavaScript, running in your browser and NodeJS",
+    "lang": "JavaScript"
   },
   {
-    "title": "chai2010/advanced-go-programming-book",
-    "url": "https://github.com/chai2010/advanced-go-programming-book",
-    "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题",
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.JS best practices list (August 2018)"
+  },
+  {
+    "title": "junegunn/fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "desc": "🌸 A command-line fuzzy finder",
     "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -88,45 +105,15 @@
     "lang": "Python"
   },
   {
-    "title": "lerna/lerna",
-    "url": "https://github.com/lerna/lerna",
-    "desc": "🐉 A tool for managing JavaScript projects with multiple packages.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "vuejs/vue",
-    "url": "https://github.com/vuejs/vue",
-    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-    "lang": "JavaScript"
-  },
-  {
     "title": "Snailclimb/Java-Guide",
     "url": "https://github.com/Snailclimb/Java-Guide",
     "desc": "A core knowledge that most Java programmers need to master",
     "lang": "Java"
   },
   {
-    "title": "copy/v86",
-    "url": "https://github.com/copy/v86",
-    "desc": "x86 virtualization in JavaScript, running in your browser and NodeJS",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "aergoio/litetree",
-    "url": "https://github.com/aergoio/litetree",
-    "desc": "SQLite with Branches",
-    "lang": "C"
-  },
-  {
-    "title": "apple/swift-syntax",
-    "url": "https://github.com/apple/swift-syntax",
-    "desc": "SwiftPM package for SwiftSyntax library.",
-    "lang": "Swift"
-  },
-  {
-    "title": "alibaba/BizCharts",
-    "url": "https://github.com/alibaba/BizCharts",
-    "desc": "Powerful data visualization library based on G2 and React.",
+    "title": "lerna/lerna",
+    "url": "https://github.com/lerna/lerna",
+    "desc": "🐉 A tool for managing JavaScript projects with multiple packages.",
     "lang": "JavaScript"
   },
   {
@@ -136,14 +123,27 @@
     "lang": "C++"
   },
   {
-    "title": "i0natan/nodebestpractices",
-    "url": "https://github.com/i0natan/nodebestpractices",
-    "desc": "The largest Node.JS best practices list (August 2018)"
+    "title": "alibaba/BizCharts",
+    "url": "https://github.com/alibaba/BizCharts",
+    "desc": "Powerful data visualization library based on G2 and React.",
+    "lang": "JavaScript"
   },
   {
-    "title": "junegunn/fzf",
-    "url": "https://github.com/junegunn/fzf",
-    "desc": "🌸 A command-line fuzzy finder",
-    "lang": "Go"
+    "title": "aergoio/litetree",
+    "url": "https://github.com/aergoio/litetree",
+    "desc": "SQLite with Branches",
+    "lang": "C"
+  },
+  {
+    "title": "proxyee-down-org/proxyee-down",
+    "url": "https://github.com/proxyee-down-org/proxyee-down",
+    "desc": "http下载工具，基于http代理，支持多连接分块下载",
+    "lang": "Java"
+  },
+  {
+    "title": "apple/swift-syntax",
+    "url": "https://github.com/apple/swift-syntax",
+    "desc": "SwiftPM package for SwiftSyntax library.",
+    "lang": "Swift"
   }
 ]
