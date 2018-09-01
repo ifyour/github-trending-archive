@@ -1,0 +1,149 @@
+[
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "desc": "Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+    "lang": "Java"
+  },
+  {
+    "title": "lukeed/pwa",
+    "url": "https://github.com/lukeed/pwa",
+    "desc": "(WIP) Universal PWA Builder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dschep/proven",
+    "url": "https://github.com/dschep/proven",
+    "desc": "🔑✅ An alternative to Twitter's verified accounts powered by Keybase.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python",
+    "lang": "Python"
+  },
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "desc": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills",
+    "desc": "A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)."
+  },
+  {
+    "title": "React-Proto/react-proto",
+    "url": "https://github.com/React-Proto/react-proto",
+    "desc": "React application prototyping tool for developers and designers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "desc": "x86 virtualization in JavaScript, running in your browser and NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "junegunn/fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "desc": "🌸 A command-line fuzzy finder",
+    "lang": "Go"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.JS best practices list (August 2018)"
+  },
+  {
+    "title": "eduard-permyakov/permafrost-engine",
+    "url": "https://github.com/eduard-permyakov/permafrost-engine",
+    "desc": "An OpenGL 3.3 RTS game engine written in C",
+    "lang": "C"
+  },
+  {
+    "title": "antvis/f2",
+    "url": "https://github.com/antvis/f2",
+    "desc": "📱📈An elegant, interactive and flexible charting library for mobile.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+    "desc": "🎮 The only Front-End Performance Checklist that runs faster than the others"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chai2010/advanced-go-programming-book",
+    "url": "https://github.com/chai2010/advanced-go-programming-book",
+    "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "wexond/wexond",
+    "url": "https://github.com/wexond/wexond",
+    "desc": "🌐 An extensible web browser with beautiful UI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "brentsimmons/NetNewsWire",
+    "url": "https://github.com/brentsimmons/NetNewsWire",
+    "desc": "Feed reader for macOS.",
+    "lang": "Swift"
+  }
+]
