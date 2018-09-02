@@ -30,21 +30,27 @@
     "lang": "Python"
   },
   {
-    "title": "shzlw/zeu",
-    "url": "https://github.com/shzlw/zeu",
-    "desc": "A JavaScript library for real-time visualization",
-    "lang": "JavaScript"
-  },
-  {
     "title": "trimstray/test-your-sysadmin-skills",
     "url": "https://github.com/trimstray/test-your-sysadmin-skills",
     "desc": "A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)."
   },
   {
-    "title": "google/dopamine",
-    "url": "https://github.com/google/dopamine",
-    "desc": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.",
-    "lang": "JupyterNotebook"
+    "title": "chuchur/kui-vue",
+    "url": "https://github.com/chuchur/kui-vue",
+    "desc": "基于VUE2.0的 UI组件库，欢迎使用！",
+    "lang": "Vue"
+  },
+  {
+    "title": "callstack/linaria",
+    "url": "https://github.com/callstack/linaria",
+    "desc": "Zero-runtime CSS in JS library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shzlw/zeu",
+    "url": "https://github.com/shzlw/zeu",
+    "desc": "A JavaScript library for real-time visualization",
+    "lang": "JavaScript"
   },
   {
     "title": "Rich-Harris/shimport",
@@ -59,10 +65,10 @@
     "lang": "JavaScript"
   },
   {
-    "title": "felixrieseberg/windows95",
-    "url": "https://github.com/felixrieseberg/windows95",
-    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
-    "lang": "JavaScript"
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "desc": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.",
+    "lang": "JupyterNotebook"
   },
   {
     "title": "i0natan/nodebestpractices",
@@ -70,9 +76,15 @@
     "desc": "The largest Node.JS best practices list (August 2018)"
   },
   {
-    "title": "callstack/linaria",
-    "url": "https://github.com/callstack/linaria",
-    "desc": "Zero-runtime CSS in JS library",
+    "title": "loremwalker/WebSiteUseful",
+    "url": "https://github.com/loremwalker/WebSiteUseful",
+    "desc": "🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book",
+    "lang": "Java"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
     "lang": "JavaScript"
   },
   {
@@ -82,33 +94,15 @@
     "lang": "Dockerfile"
   },
   {
-    "title": "wexond/wexond",
-    "url": "https://github.com/wexond/wexond",
-    "desc": "🌐 An extensible web browser with beautiful UI.",
-    "lang": "TypeScript"
+    "title": "MachineLearning100/100-Days-Of-ML-Code",
+    "url": "https://github.com/MachineLearning100/100-Days-Of-ML-Code",
+    "desc": "100-Days-Of-ML-Code中文版",
+    "lang": "JupyterNotebook"
   },
   {
-    "title": "eduard-permyakov/permafrost-engine",
-    "url": "https://github.com/eduard-permyakov/permafrost-engine",
-    "desc": "An OpenGL 3.3 RTS game engine written in C",
-    "lang": "C"
-  },
-  {
-    "title": "donnemartin/system-design-primer",
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-    "lang": "Python"
-  },
-  {
-    "title": "thedaviddias/Front-End-Performance-Checklist",
-    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
-    "desc": "🎮 The only Front-End Performance Checklist that runs faster than the others"
-  },
-  {
-    "title": "copy/v86",
-    "url": "https://github.com/copy/v86",
-    "desc": "x86 virtualization in JavaScript, running in your browser and NodeJS",
-    "lang": "JavaScript"
+    "title": "andri27-ts/60_Days_RL_Challenge",
+    "url": "https://github.com/andri27-ts/60_Days_RL_Challenge",
+    "desc": "Learn Deep Reinforcement Learning in depth in 60 days"
   },
   {
     "title": "zadam/trilium",
@@ -117,33 +111,38 @@
     "lang": "JavaScript"
   },
   {
+    "title": "wexond/wexond",
+    "url": "https://github.com/wexond/wexond",
+    "desc": "🌐 An extensible web browser with beautiful UI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+    "desc": "🎮 The only Front-End Performance Checklist that runs faster than the others"
+  },
+  {
+    "title": "jakubroztocil/httpie",
+    "url": "https://github.com/jakubroztocil/httpie",
+    "desc": "Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://httpie.org",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
     "title": "facebook/react",
     "url": "https://github.com/facebook/react",
     "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "lang": "JavaScript"
   },
   {
-    "title": "MachineLearning100/100-Days-Of-ML-Code",
-    "url": "https://github.com/MachineLearning100/100-Days-Of-ML-Code",
-    "desc": "100-Days-Of-ML-Code中文版",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "loremwalker/WebSiteUseful",
-    "url": "https://github.com/loremwalker/WebSiteUseful",
-    "desc": "🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book",
-    "lang": "Java"
-  },
-  {
     "title": "vuejs/vue",
     "url": "https://github.com/vuejs/vue",
     "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "LiskHQ/lisk-hub",
-    "url": "https://github.com/LiskHQ/lisk-hub",
-    "desc": "🖥 Lisk graphical user interface for desktop",
     "lang": "JavaScript"
   }
 ]
