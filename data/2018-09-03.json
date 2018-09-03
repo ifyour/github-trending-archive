@@ -1,0 +1,149 @@
+[
+  {
+    "title": "andri27-ts/60_Days_RL_Challenge",
+    "url": "https://github.com/andri27-ts/60_Days_RL_Challenge",
+    "desc": "Learn Deep Reinforcement Learning in depth in 60 days",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "maestron/botnets",
+    "url": "https://github.com/maestron/botnets",
+    "desc": "This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY",
+    "lang": "C++"
+  },
+  {
+    "title": "loremwalker/WebSiteUseful",
+    "url": "https://github.com/loremwalker/WebSiteUseful",
+    "desc": "🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book",
+    "lang": "Java"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "lukeed/pwa",
+    "url": "https://github.com/lukeed/pwa",
+    "desc": "(WIP) Universal PWA Builder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "desc": "Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+    "lang": "Java"
+  },
+  {
+    "title": "plibither8/2048.cpp",
+    "url": "https://github.com/plibither8/2048.cpp",
+    "desc": "🎮 Terminal version of the game 2048 written in C++ 11",
+    "lang": "C++"
+  },
+  {
+    "title": "React-Proto/react-proto",
+    "url": "https://github.com/React-Proto/react-proto",
+    "desc": "🎨 React application prototyping tool for developers and designers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jakubroztocil/httpie",
+    "url": "https://github.com/jakubroztocil/httpie",
+    "desc": "Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://httpie.org",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python",
+    "lang": "Python"
+  },
+  {
+    "title": "madhavanmalolan/awesome-reactnative-ui",
+    "url": "https://github.com/madhavanmalolan/awesome-reactnative-ui",
+    "desc": "Awesome React Native UI components updated weekly",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills",
+    "desc": "A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)."
+  },
+  {
+    "title": "chuchur/kui-vue",
+    "url": "https://github.com/chuchur/kui-vue",
+    "desc": "基于VUE2.0的 UI组件库，欢迎使用！",
+    "lang": "Vue"
+  },
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "desc": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "antvis/f2",
+    "url": "https://github.com/antvis/f2",
+    "desc": "📱📈An elegant, interactive and flexible charting library for mobile.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "callstack/linaria",
+    "url": "https://github.com/callstack/linaria",
+    "desc": "Zero-runtime CSS in JS library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "joukos/PaperTTY",
+    "url": "https://github.com/joukos/PaperTTY",
+    "desc": "PaperTTY - Python module to render a TTY on e-ink",
+    "lang": "Python"
+  },
+  {
+    "title": "shzlw/zeu",
+    "url": "https://github.com/shzlw/zeu",
+    "desc": "A JavaScript library for real-time visualization",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "guardian/frontend",
+    "url": "https://github.com/guardian/frontend",
+    "desc": "Source for theguardian.com",
+    "lang": "HTML"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "kelseyhightower/nocode",
+    "url": "https://github.com/kelseyhightower/nocode",
+    "desc": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.JS best practices list (August 2018)"
+  },
+  {
+    "title": "MachineLearning100/100-Days-Of-ML-Code",
+    "url": "https://github.com/MachineLearning100/100-Days-Of-ML-Code",
+    "desc": "100-Days-Of-ML-Code中文版",
+    "lang": "JupyterNotebook"
+  }
+]
