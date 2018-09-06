@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Microsoft/ailab",
+    "url": "https://github.com/Microsoft/ailab",
+    "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rwv/chinese-dos-games",
+    "url": "https://github.com/rwv/chinese-dos-games",
+    "desc": "🎮 Chinese DOS games in browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/ky",
+    "url": "https://github.com/sindresorhus/ky",
+    "desc": "Tiny and elegant HTTP client based on the browser Fetch API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GtOkAi/ligar-cobranca",
+    "url": "https://github.com/GtOkAi/ligar-cobranca",
+    "desc": "Ligue automaticamente para empresas de cobrança e deixe uma voz falando Alô? sem parar.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "desc": "Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+    "lang": "Java"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "A cross-platform, fast, feature full, GPU based terminal emulator",
+    "lang": "C"
+  },
+  {
+    "title": "benfred/py-spy",
+    "url": "https://github.com/benfred/py-spy",
+    "desc": "Sampling profiler for Python programs",
+    "lang": "Rust"
+  },
+  {
+    "title": "rothgar/awesome-tmux",
+    "url": "https://github.com/rothgar/awesome-tmux",
+    "desc": "A list of awesome resources for tmux"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "loremwalker/WebSiteUseful",
+    "url": "https://github.com/loremwalker/WebSiteUseful",
+    "desc": "🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book",
+    "lang": "Java"
+  },
+  {
+    "title": "intel-go/bytebuf",
+    "url": "https://github.com/intel-go/bytebuf",
+    "desc": "Replacement for bytes.Buffer that you can use in a performace-sensitive parts or your Go programs",
+    "lang": "Go"
+  },
+  {
+    "title": "prideout/snowy",
+    "url": "https://github.com/prideout/snowy",
+    "desc": "Small Image Library for Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "liuchengxu/vim-which-key",
+    "url": "https://github.com/liuchengxu/vim-which-key",
+    "desc": "🌷 Vim plugin that shows keybindings in popup",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills",
+    "desc": "A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)."
+  },
+  {
+    "title": "dominictarr/your-web-app-is-bloated",
+    "url": "https://github.com/dominictarr/your-web-app-is-bloated",
+    "desc": "measuring memory usage of popular webapps"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ThoughtRiver/lmdb-embeddings",
+    "url": "https://github.com/ThoughtRiver/lmdb-embeddings",
+    "desc": "Fast word vectors with little memory usage in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "lukeed/pwa",
+    "url": "https://github.com/lukeed/pwa",
+    "desc": "(WIP) Universal PWA Builder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map",
+    "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+  },
+  {
+    "title": "noncomputable/AgentMaps",
+    "url": "https://github.com/noncomputable/AgentMaps",
+    "desc": "Make social simulations on interactive maps with Javascript! Agent-based modeling for the web.",
+    "lang": "JavaScript"
+  }
+]
