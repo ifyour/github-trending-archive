@@ -1,0 +1,149 @@
+[
+  {
+    "title": "benfred/py-spy",
+    "url": "https://github.com/benfred/py-spy",
+    "desc": "Sampling profiler for Python programs",
+    "lang": "Rust"
+  },
+  {
+    "title": "rwv/chinese-dos-games",
+    "url": "https://github.com/rwv/chinese-dos-games",
+    "desc": "🎮 Chinese DOS games in browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/ailab",
+    "url": "https://github.com/Microsoft/ailab",
+    "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "GtOkAi/ligar-cobranca",
+    "url": "https://github.com/GtOkAi/ligar-cobranca",
+    "desc": "Ligue automaticamente para empresas de cobrança e deixe uma voz falando Alô? sem parar.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wilk/microjob",
+    "url": "https://github.com/wilk/microjob",
+    "desc": "A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firebase/firebase-android-sdk",
+    "url": "https://github.com/firebase/firebase-android-sdk",
+    "desc": "Firebase Android SDK",
+    "lang": "Java"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "sindresorhus/ky",
+    "url": "https://github.com/sindresorhus/ky",
+    "desc": "Tiny and elegant HTTP client based on the browser Fetch API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "A cross-platform, fast, feature full, GPU based terminal emulator",
+    "lang": "C"
+  },
+  {
+    "title": "lusakasa/sqorn",
+    "url": "https://github.com/lusakasa/sqorn",
+    "desc": "A Javascript library for building SQL queries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bayesgroup/deepbayes-2018",
+    "url": "https://github.com/bayesgroup/deepbayes-2018",
+    "desc": "Seminars DeepBayes Summer School 2018",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "desc": "Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+    "lang": "Java"
+  },
+  {
+    "title": "MLEveryday/100-Days-Of-ML-Code",
+    "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
+    "desc": "100-Days-Of-ML-Code中文版",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "1tayH/noisy",
+    "url": "https://github.com/1tayH/noisy",
+    "desc": "Simple random DNS, HTTP/S internet traffic noise generator",
+    "lang": "Python"
+  },
+  {
+    "title": "loremwalker/WebSiteUseful",
+    "url": "https://github.com/loremwalker/WebSiteUseful",
+    "desc": "🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book",
+    "lang": "Java"
+  },
+  {
+    "title": "date-fns/date-fns",
+    "url": "https://github.com/date-fns/date-fns",
+    "desc": "⏳ Modern JavaScript date utility library ⌛️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookincubator/python-nubia",
+    "url": "https://github.com/facebookincubator/python-nubia",
+    "desc": "A command-line and interactive shell framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "frank-lam/2019_campus_apply",
+    "url": "https://github.com/frank-lam/2019_campus_apply",
+    "desc": "🚀 备战秋招/面试，CS学习笔记/面经。金九银十，你准备好了吗？from zero to hero."
+  },
+  {
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "desc": "Material Design for React Native (Android & iOS)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  }
+]
