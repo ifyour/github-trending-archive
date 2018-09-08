@@ -1,0 +1,151 @@
+[
+  {
+    "title": "sindresorhus/ky",
+    "url": "https://github.com/sindresorhus/ky",
+    "desc": "Tiny and elegant HTTP client based on the browser Fetch API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "benfred/py-spy",
+    "url": "https://github.com/benfred/py-spy",
+    "desc": "Sampling profiler for Python programs",
+    "lang": "Rust"
+  },
+  {
+    "title": "rwv/chinese-dos-games",
+    "url": "https://github.com/rwv/chinese-dos-games",
+    "desc": "🎮 Chinese DOS games in browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/ailab",
+    "url": "https://github.com/Microsoft/ailab",
+    "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Nozbe/WatermelonDB",
+    "url": "https://github.com/Nozbe/WatermelonDB",
+    "desc": "🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lusakasa/sqorn",
+    "url": "https://github.com/lusakasa/sqorn",
+    "desc": "A Javascript library for building SQL queries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "desc": "Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+    "lang": "Java"
+  },
+  {
+    "title": "guess-js/guess",
+    "url": "https://github.com/guess-js/guess",
+    "desc": "Libraries & tools for enabling Machine Learning driven user-experiences on the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "boydm/scenic",
+    "url": "https://github.com/boydm/scenic",
+    "desc": "Core Scenic library",
+    "lang": "Elixir"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "loremwalker/WebSiteUseful",
+    "url": "https://github.com/loremwalker/WebSiteUseful",
+    "desc": "🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book",
+    "lang": "Java"
+  },
+  {
+    "title": "wilk/microjob",
+    "url": "https://github.com/wilk/microjob",
+    "desc": "A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "date-fns/date-fns",
+    "url": "https://github.com/date-fns/date-fns",
+    "desc": "⏳ Modern JavaScript date utility library ⌛️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "asyml/texar",
+    "url": "https://github.com/asyml/texar",
+    "desc": "Toolkit for Text Generation and Beyond",
+    "lang": "Python"
+  },
+  {
+    "title": "skx/deployr",
+    "url": "https://github.com/skx/deployr",
+    "desc": "A simple golang application to automate the deployment of software releases.",
+    "lang": "Go"
+  },
+  {
+    "title": "GtOkAi/ligar-cobranca",
+    "url": "https://github.com/GtOkAi/ligar-cobranca",
+    "desc": "Ligue automaticamente para empresas de cobrança e deixe uma voz falando Alô? sem parar.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BurntSushi/ripgrep",
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "desc": "ripgrep recursively searches directories for a regex pattern",
+    "lang": "Rust"
+  },
+  {
+    "title": "xx19941215/light-go",
+    "url": "https://github.com/xx19941215/light-go",
+    "desc": "A way for you to go 🍭",
+    "lang": "Go"
+  },
+  {
+    "title": "bayesgroup/deepbayes-2018",
+    "url": "https://github.com/bayesgroup/deepbayes-2018",
+    "desc": "Seminars DeepBayes Summer School 2018",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "A cross-platform, fast, feature full, GPU based terminal emulator",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "desc": "Material Design for React Native (Android & iOS)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "snowkylin/TensorFlow-cn",
+    "url": "https://github.com/snowkylin/TensorFlow-cn",
+    "desc": "简单粗暴TensorFlow | A Concise Handbook of TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookincubator/python-nubia",
+    "url": "https://github.com/facebookincubator/python-nubia",
+    "desc": "A command-line and interactive shell framework.",
+    "lang": "Python"
+  }
+]
