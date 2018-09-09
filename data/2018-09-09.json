@@ -1,0 +1,149 @@
+[
+  {
+    "title": "cjbarber/ToolsOfTheTrade",
+    "url": "https://github.com/cjbarber/ToolsOfTheTrade",
+    "desc": "Tools of The Trade, from Hacker News."
+  },
+  {
+    "title": "kanishka-linux/reminiscence",
+    "url": "https://github.com/kanishka-linux/reminiscence",
+    "desc": "Self-Hosted Bookmark and Archive Manager",
+    "lang": "Python"
+  },
+  {
+    "title": "Nozbe/WatermelonDB",
+    "url": "https://github.com/Nozbe/WatermelonDB",
+    "desc": "🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "Microsoft/ailab",
+    "url": "https://github.com/Microsoft/ailab",
+    "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/ky",
+    "url": "https://github.com/sindresorhus/ky",
+    "desc": "Tiny and elegant HTTP client based on the browser Fetch API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "benfred/py-spy",
+    "url": "https://github.com/benfred/py-spy",
+    "desc": "Sampling profiler for Python programs",
+    "lang": "Rust"
+  },
+  {
+    "title": "rwv/chinese-dos-games",
+    "url": "https://github.com/rwv/chinese-dos-games",
+    "desc": "🎮 Chinese DOS games in browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BurntSushi/ripgrep",
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "desc": "ripgrep recursively searches directories for a regex pattern",
+    "lang": "Rust"
+  },
+  {
+    "title": "p-gen/smenu",
+    "url": "https://github.com/p-gen/smenu",
+    "desc": "Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor. Once done, your selection will be sent to standard output. More in the Wiki",
+    "lang": "C"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "fluent-project/fluent",
+    "url": "https://github.com/fluent-project/fluent",
+    "desc": "A data-driven compute platform",
+    "lang": "C++"
+  },
+  {
+    "title": "fabiomaia/linuxify",
+    "url": "https://github.com/fabiomaia/linuxify",
+    "desc": "🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.",
+    "lang": "Shell"
+  },
+  {
+    "title": "boydm/scenic",
+    "url": "https://github.com/boydm/scenic",
+    "desc": "Core Scenic library",
+    "lang": "Elixir"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "desc": "Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+    "lang": "Java"
+  },
+  {
+    "title": "diux-dev/imagenet18",
+    "url": "https://github.com/diux-dev/imagenet18",
+    "desc": "Code to reproduce imagenet in 18 minutes experiments",
+    "lang": "Python"
+  },
+  {
+    "title": "lusakasa/sqorn",
+    "url": "https://github.com/lusakasa/sqorn",
+    "desc": "A Javascript library for building SQL queries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "loremwalker/WebSiteUseful",
+    "url": "https://github.com/loremwalker/WebSiteUseful",
+    "desc": "🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book",
+    "lang": "Java"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "date-fns/date-fns",
+    "url": "https://github.com/date-fns/date-fns",
+    "desc": "⏳ Modern JavaScript date utility library ⌛️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eryuechanghe/iTeach",
+    "url": "https://github.com/eryuechanghe/iTeach",
+    "desc": "学习和开发nodejs的网站代码",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookincubator/python-nubia",
+    "url": "https://github.com/facebookincubator/python-nubia",
+    "desc": "A command-line and interactive shell framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "wilk/microjob",
+    "url": "https://github.com/wilk/microjob",
+    "desc": "A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  }
+]
