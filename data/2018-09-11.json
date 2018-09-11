@@ -1,0 +1,147 @@
+[
+  {
+    "title": "mariusandra/pigeon-maps",
+    "url": "https://github.com/mariusandra/pigeon-maps",
+    "desc": "ReactJS Maps without external dependencies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "byoungd/English-level-up-tips-for-Chinese",
+    "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+    "desc": "可能是让你受益匪浅的英语进阶指南"
+  },
+  {
+    "title": "cjbarber/ToolsOfTheTrade",
+    "url": "https://github.com/cjbarber/ToolsOfTheTrade",
+    "desc": "Tools of The Trade, from Hacker News."
+  },
+  {
+    "title": "Nozbe/WatermelonDB",
+    "url": "https://github.com/Nozbe/WatermelonDB",
+    "desc": "🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eykhagen/strest",
+    "url": "https://github.com/eykhagen/strest",
+    "desc": "⚡️ Set up tests for REST in seconds with YAML",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "GoogleCloudPlatform/open-match",
+    "url": "https://github.com/GoogleCloudPlatform/open-match",
+    "desc": "Flexible, extensible, and scalable video game matchmaking.",
+    "lang": "Go"
+  },
+  {
+    "title": "mwouts/jupytext",
+    "url": "https://github.com/mwouts/jupytext",
+    "desc": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts",
+    "lang": "Python"
+  },
+  {
+    "title": "AurelienLourot/ghuser.io",
+    "url": "https://github.com/AurelienLourot/ghuser.io",
+    "desc": "Better GitHub profiles",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/ky",
+    "url": "https://github.com/sindresorhus/ky",
+    "desc": "Tiny and elegant HTTP client based on the browser Fetch API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/ailab",
+    "url": "https://github.com/Microsoft/ailab",
+    "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "loremwalker/WebSiteUseful",
+    "url": "https://github.com/loremwalker/WebSiteUseful",
+    "desc": "🍅 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book",
+    "lang": "Java"
+  },
+  {
+    "title": "rwv/chinese-dos-games",
+    "url": "https://github.com/rwv/chinese-dos-games",
+    "desc": "🎮 Chinese DOS games in browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "KonstantinSchubert/zero",
+    "url": "https://github.com/KonstantinSchubert/zero",
+    "desc": "Local file system transparently swapping to the cloud",
+    "lang": "Python"
+  },
+  {
+    "title": "Honlan/DeepInterests",
+    "url": "https://github.com/Honlan/DeepInterests",
+    "desc": "深度有趣"
+  },
+  {
+    "title": "xmge/gonote",
+    "url": "https://github.com/xmge/gonote",
+    "desc": "欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go. 👍",
+    "lang": "Go"
+  },
+  {
+    "title": "JavaNoober/BackgroundLibrary",
+    "url": "https://github.com/JavaNoober/BackgroundLibrary",
+    "desc": "A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml）",
+    "lang": "Java"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "MLEveryday/100-Days-Of-ML-Code",
+    "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
+    "desc": "100-Days-Of-ML-Code中文版",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "huangyz0918/AndroidWM",
+    "url": "https://github.com/huangyz0918/AndroidWM",
+    "desc": "A lightweight android image watermark library that supports invisible digital watermarks. 🌁 (轻量级安卓水印框架，支持隐形数字水印)",
+    "lang": "Java"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "desc": "Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+    "lang": "Java"
+  },
+  {
+    "title": "mciastek/sal",
+    "url": "https://github.com/mciastek/sal",
+    "desc": "🚀 Performance focused, lightweight scroll animation library 🚀",
+    "lang": "HTML"
+  },
+  {
+    "title": "p-gen/smenu",
+    "url": "https://github.com/p-gen/smenu",
+    "desc": "Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor. Once done, your selection will be sent to standard output. More in the Wiki",
+    "lang": "C"
+  }
+]
