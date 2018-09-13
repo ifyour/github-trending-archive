@@ -1,0 +1,145 @@
+[
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+  },
+  {
+    "title": "dawnlabs/carbon",
+    "url": "https://github.com/dawnlabs/carbon",
+    "desc": "🎨 Create and share beautiful images of your source code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "facebookincubator/LogDevice",
+    "url": "https://github.com/facebookincubator/LogDevice",
+    "desc": "Distributed storage for sequential data",
+    "lang": "C++"
+  },
+  {
+    "title": "byoungd/English-level-up-tips-for-Chinese",
+    "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+    "desc": "可能是让你受益匪浅的英语进阶指南"
+  },
+  {
+    "title": "cjbarber/ToolsOfTheTrade",
+    "url": "https://github.com/cjbarber/ToolsOfTheTrade",
+    "desc": "Tools of The Trade, from Hacker News."
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Nozbe/WatermelonDB",
+    "url": "https://github.com/Nozbe/WatermelonDB",
+    "desc": "🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PansonPanson/Java-Notes",
+    "url": "https://github.com/PansonPanson/Java-Notes",
+    "desc": "⭐️⭐️计算机科学基础知识、Java开发、后端/服务端开发、面试相关⭐️⭐️"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "mweststrate/immer",
+    "url": "https://github.com/mweststrate/immer",
+    "desc": "Create the next immutable state by mutating the current one",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "lin-xin/vue-manage-system",
+    "url": "https://github.com/lin-xin/vue-manage-system",
+    "desc": "The web management system solution based on Vue2 and Element UI.",
+    "lang": "Vue"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "date-fns/date-fns",
+    "url": "https://github.com/date-fns/date-fns",
+    "desc": "⏳ Modern JavaScript date utility library ⌛️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mariusandra/pigeon-maps",
+    "url": "https://github.com/mariusandra/pigeon-maps",
+    "desc": "ReactJS Maps without external dependencies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JavaNoober/BackgroundLibrary",
+    "url": "https://github.com/JavaNoober/BackgroundLibrary",
+    "desc": "A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml）",
+    "lang": "Java"
+  },
+  {
+    "title": "axa-group/nlp.js",
+    "url": "https://github.com/axa-group/nlp.js",
+    "desc": "An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rwv/chinese-dos-games",
+    "url": "https://github.com/rwv/chinese-dos-games",
+    "desc": "🎮 Chinese DOS games in browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/nni",
+    "url": "https://github.com/Microsoft/nni",
+    "desc": "An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.",
+    "lang": "TypeScript"
+  }
+]
