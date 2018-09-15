@@ -1,0 +1,147 @@
+[
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SteveLTN/https-portal",
+    "url": "https://github.com/SteveLTN/https-portal",
+    "desc": "A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "schollz/rwtxt",
+    "url": "https://github.com/schollz/rwtxt",
+    "desc": "A cms for absolute minimalists.",
+    "lang": "Go"
+  },
+  {
+    "title": "cjbarber/ToolsOfTheTrade",
+    "url": "https://github.com/cjbarber/ToolsOfTheTrade",
+    "desc": "Tools of The Trade, from Hacker News."
+  },
+  {
+    "title": "saket/InboxRecyclerView",
+    "url": "https://github.com/saket/InboxRecyclerView",
+    "desc": "Build expandable descendant navigation, inspired by Google Inbox",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+  },
+  {
+    "title": "axa-group/nlp.js",
+    "url": "https://github.com/axa-group/nlp.js",
+    "desc": "An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Nozbe/WatermelonDB",
+    "url": "https://github.com/Nozbe/WatermelonDB",
+    "desc": "🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "npm/tink",
+    "url": "https://github.com/npm/tink",
+    "desc": "a dependency unwinder for javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mweststrate/immer",
+    "url": "https://github.com/mweststrate/immer",
+    "desc": "Create the next immutable state by mutating the current one",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookincubator/LogDevice",
+    "url": "https://github.com/facebookincubator/LogDevice",
+    "desc": "Distributed storage for sequential data",
+    "lang": "C++"
+  },
+  {
+    "title": "xonsh/xonsh",
+    "url": "https://github.com/xonsh/xonsh",
+    "desc": "Python-powered, cross-platform, Unix-gazing shell",
+    "lang": "Python"
+  },
+  {
+    "title": "byoungd/English-level-up-tips-for-Chinese",
+    "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+    "desc": "可能是让你受益匪浅的英语进阶指南"
+  },
+  {
+    "title": "date-fns/date-fns",
+    "url": "https://github.com/date-fns/date-fns",
+    "desc": "⏳ Modern JavaScript date utility library ⌛️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "mariusandra/pigeon-maps",
+    "url": "https://github.com/mariusandra/pigeon-maps",
+    "desc": "ReactJS Maps without external dependencies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sayazamurai/python-vs-javascript",
+    "url": "https://github.com/sayazamurai/python-vs-javascript",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "desc": "⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "desc": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "dawnlabs/carbon",
+    "url": "https://github.com/dawnlabs/carbon",
+    "desc": "🎨 Create and share beautiful images of your source code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  }
+]
