@@ -1,0 +1,144 @@
+[
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "desc": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码",
+    "lang": "Java"
+  },
+  {
+    "title": "semlinker/awesome-typescript",
+    "url": "https://github.com/semlinker/awesome-typescript",
+    "desc": "A collection of awesome TypeScript resources for client-side and server-side development"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "lovoo/NSFWDetector",
+    "url": "https://github.com/lovoo/NSFWDetector",
+    "desc": "A NSFW (aka porn) detector with CoreML",
+    "lang": "Swift"
+  },
+  {
+    "title": "trunkmaster/nextspace",
+    "url": "https://github.com/trunkmaster/nextspace",
+    "desc": "NeXTSTEP-like desktop environment for Linux",
+    "lang": "C"
+  },
+  {
+    "title": "byoungd/English-level-up-tips-for-Chinese",
+    "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+    "desc": "可能是让你受益匪浅的英语进阶指南"
+  },
+  {
+    "title": "cjbarber/ToolsOfTheTrade",
+    "url": "https://github.com/cjbarber/ToolsOfTheTrade",
+    "desc": "Tools of The Trade, from Hacker News."
+  },
+  {
+    "title": "SteveLTN/https-portal",
+    "url": "https://github.com/SteveLTN/https-portal",
+    "desc": "A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Nozbe/WatermelonDB",
+    "url": "https://github.com/Nozbe/WatermelonDB",
+    "desc": "🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "perkeep/perkeep",
+    "url": "https://github.com/perkeep/perkeep",
+    "desc": "Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+    "lang": "Go"
+  },
+  {
+    "title": "google/wwwbasic",
+    "url": "https://github.com/google/wwwbasic",
+    "desc": "WWWBasic is an implementation of BASIC (Beginner's All-purpose Symbolic Instruction Code) designed to be easy to run on the Web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+  },
+  {
+    "title": "proxyee-down-org/proxyee-down",
+    "url": "https://github.com/proxyee-down-org/proxyee-down",
+    "desc": "http下载工具，基于http代理，支持多连接分块下载",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+  },
+  {
+    "title": "axa-group/nlp.js",
+    "url": "https://github.com/axa-group/nlp.js",
+    "desc": "An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "desc": "⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "byt3bl33d3r/SprayingToolkit",
+    "url": "https://github.com/byt3bl33d3r/SprayingToolkit",
+    "desc": "Scripts to make password spraying attacks against Lync/S4B & OWA a lot quicker, less painful and more efficient",
+    "lang": "Python"
+  },
+  {
+    "title": "TarsCloud/TarsGo",
+    "url": "https://github.com/TarsCloud/TarsGo",
+    "desc": "A high performance microservice framework in golang. A linux foundation project.",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  }
+]
