@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code",
+    "desc": "a cheat-sheet for mathematical notation in code form"
+  },
+  {
+    "title": "apachecn/awesome-leetcode",
+    "url": "https://github.com/apachecn/awesome-leetcode",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "artf/grapesjs",
+    "url": "https://github.com/artf/grapesjs",
+    "desc": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "transitive-bullshit/create-react-library",
+    "url": "https://github.com/transitive-bullshit/create-react-library",
+    "desc": "⚡CLI for easily creating reusable react libraries.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tank0317/unit-test-demo",
+    "url": "https://github.com/tank0317/unit-test-demo",
+    "desc": "一步一步介绍如何给项目添加单元测试",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vapid/vapid",
+    "url": "https://github.com/vapid/vapid",
+    "desc": "A template-driven content management system",
+    "lang": "CSS"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "desc": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "GoogleChromeLabs/worker-plugin",
+    "url": "https://github.com/GoogleChromeLabs/worker-plugin",
+    "desc": "🐳 Adds native Web Worker bundling support to Webpack.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "desc": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码",
+    "lang": "Java"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "burtonator/polar-bookshelf",
+    "url": "https://github.com/burtonator/polar-bookshelf",
+    "desc": "Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "xi-editor/xi-editor",
+    "url": "https://github.com/xi-editor/xi-editor",
+    "desc": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+    "lang": "Rust"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "zeit/next.js",
+    "url": "https://github.com/zeit/next.js",
+    "desc": "Next.js is a lightweight framework for static and server‑rendered applications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "desc": "🎉 A magical vue admin http://panjiachen.github.io/vue-element-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "TarsCloud/TarsGo",
+    "url": "https://github.com/TarsCloud/TarsGo",
+    "desc": "A high performance microservice framework in golang. A linux foundation project.",
+    "lang": "Go"
+  }
+]
