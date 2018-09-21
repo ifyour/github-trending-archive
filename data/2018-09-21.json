@@ -1,0 +1,150 @@
+[
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code",
+    "desc": "a cheat-sheet for mathematical notation in code form"
+  },
+  {
+    "title": "apachecn/awesome-leetcode",
+    "url": "https://github.com/apachecn/awesome-leetcode",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "dibgerge/ml-coursera-python-assignments",
+    "url": "https://github.com/dibgerge/ml-coursera-python-assignments",
+    "desc": "Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vapid/vapid",
+    "url": "https://github.com/vapid/vapid",
+    "desc": "A template-driven content management system",
+    "lang": "CSS"
+  },
+  {
+    "title": "artf/grapesjs",
+    "url": "https://github.com/artf/grapesjs",
+    "desc": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensor8/hacking_slot_machines",
+    "url": "https://github.com/tensor8/hacking_slot_machines",
+    "desc": "Hacking slot machines. Top of HN for 12 hours straight!",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "Microsoft/reactxp",
+    "url": "https://github.com/Microsoft/reactxp",
+    "desc": "Library for cross-platform app development.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "phoboslab/underrun",
+    "url": "https://github.com/phoboslab/underrun",
+    "desc": "Twin stick shooter game in 13kb of JavaScript/WebGL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tank0317/unit-test-demo",
+    "url": "https://github.com/tank0317/unit-test-demo",
+    "desc": "一步一步介绍如何给项目添加单元测试",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "kitlang/kit",
+    "url": "https://github.com/kitlang/kit",
+    "desc": "Kit: a magical, high performance programming language, designed for game development. Pre-alpha!",
+    "lang": "Haskell"
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "desc": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dennybritz/reinforcement-learning",
+    "url": "https://github.com/dennybritz/reinforcement-learning",
+    "desc": "Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "transitive-bullshit/create-react-library",
+    "url": "https://github.com/transitive-bullshit/create-react-library",
+    "desc": "⚡CLI for easily creating reusable react libraries.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xi-editor/xi-editor",
+    "url": "https://github.com/xi-editor/xi-editor",
+    "desc": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+    "lang": "Rust"
+  },
+  {
+    "title": "GoogleChromeLabs/idlize",
+    "url": "https://github.com/GoogleChromeLabs/idlize",
+    "desc": "Helper classes and methods for implementing the idle-until-urgent pattern",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "antonioribeiro/health",
+    "url": "https://github.com/antonioribeiro/health",
+    "desc": "Laravel Health Panel",
+    "lang": "PHP"
+  }
+]
