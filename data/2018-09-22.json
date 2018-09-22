@@ -1,0 +1,149 @@
+[
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "desc": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code",
+    "desc": "a cheat-sheet for mathematical notation in code form"
+  },
+  {
+    "title": "HuberTRoy/leetCode",
+    "url": "https://github.com/HuberTRoy/leetCode",
+    "desc": "算法相关知识储备",
+    "lang": "Python"
+  },
+  {
+    "title": "dennybritz/reinforcement-learning",
+    "url": "https://github.com/dennybritz/reinforcement-learning",
+    "desc": "Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "slothking-online/graphql-editor",
+    "url": "https://github.com/slothking-online/graphql-editor",
+    "desc": "GraphQL editor - visual node editor for GraphQL",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apachecn/awesome-leetcode",
+    "url": "https://github.com/apachecn/awesome-leetcode",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "dibgerge/ml-coursera-python-assignments",
+    "url": "https://github.com/dibgerge/ml-coursera-python-assignments",
+    "desc": "Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "artf/grapesjs",
+    "url": "https://github.com/artf/grapesjs",
+    "desc": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "powerbankofficial/powerbank-PBK-ERC20",
+    "url": "https://github.com/powerbankofficial/powerbank-PBK-ERC20",
+    "desc": "Powerbank is an erc20 platform based coin for Mobile phone bill payment&recharging world"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "GoogleChromeLabs/idlize",
+    "url": "https://github.com/GoogleChromeLabs/idlize",
+    "desc": "Helper classes and methods for implementing the idle-until-urgent pattern",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "vapid/vapid",
+    "url": "https://github.com/vapid/vapid",
+    "desc": "A template-driven content management system",
+    "lang": "CSS"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pubkey/rxdb",
+    "url": "https://github.com/pubkey/rxdb",
+    "desc": "💻 📱 A realtime Database for the Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "phoboslab/underrun",
+    "url": "https://github.com/phoboslab/underrun",
+    "desc": "Twin stick shooter game in 13kb of JavaScript/WebGL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/reactxp",
+    "url": "https://github.com/Microsoft/reactxp",
+    "desc": "Library for cross-platform app development.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  }
+]
