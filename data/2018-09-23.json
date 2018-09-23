@@ -1,0 +1,149 @@
+[
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "slothking-online/graphql-editor",
+    "url": "https://github.com/slothking-online/graphql-editor",
+    "desc": "GraphQL editor - visual node editor for GraphQL",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Algram/ytdl-webserver",
+    "url": "https://github.com/Algram/ytdl-webserver",
+    "desc": "📻 Webserver for downloading youtube videos. Ready for docker.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hoya012/deep_learning_object_detection",
+    "url": "https://github.com/hoya012/deep_learning_object_detection",
+    "desc": "A paper list of object detection using deep learning."
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "desc": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "desc": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+    "lang": "C"
+  },
+  {
+    "title": "pubkey/rxdb",
+    "url": "https://github.com/pubkey/rxdb",
+    "desc": "💻 📱 A realtime Database for the Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code",
+    "desc": "a cheat-sheet for mathematical notation in code form"
+  },
+  {
+    "title": "tamlok/vnote",
+    "url": "https://github.com/tamlok/vnote",
+    "desc": "A Vim-inspired note-taking application that knows programmers and Markdown better.",
+    "lang": "C++"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "lieff/minih264",
+    "url": "https://github.com/lieff/minih264",
+    "desc": "Minimalistic H264/SVC encoder single header library",
+    "lang": "C"
+  },
+  {
+    "title": "HuberTRoy/leetCode",
+    "url": "https://github.com/HuberTRoy/leetCode",
+    "desc": "算法相关知识储备",
+    "lang": "Python"
+  },
+  {
+    "title": "manatlan/vbuild",
+    "url": "https://github.com/manatlan/vbuild",
+    "desc": "Compile your VUE component (*.vue) to standalone html/js/css ... python only (no need of nodejs)",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "woj-ciech/Danger-zone",
+    "url": "https://github.com/woj-ciech/Danger-zone",
+    "desc": "Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files.",
+    "lang": "Python"
+  },
+  {
+    "title": "Eloston/ungoogled-chromium",
+    "url": "https://github.com/Eloston/ungoogled-chromium",
+    "desc": "Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency",
+    "lang": "Python"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "apachecn/awesome-leetcode",
+    "url": "https://github.com/apachecn/awesome-leetcode",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "artf/grapesjs",
+    "url": "https://github.com/artf/grapesjs",
+    "desc": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  }
+]
