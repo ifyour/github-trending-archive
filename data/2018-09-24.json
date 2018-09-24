@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Eloston/ungoogled-chromium",
+    "url": "https://github.com/Eloston/ungoogled-chromium",
+    "desc": "Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "slothking-online/graphql-editor",
+    "url": "https://github.com/slothking-online/graphql-editor",
+    "desc": "GraphQL editor - visual node editor for GraphQL",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "hoya012/deep_learning_object_detection",
+    "url": "https://github.com/hoya012/deep_learning_object_detection",
+    "desc": "A paper list of object detection using deep learning."
+  },
+  {
+    "title": "Algram/ytdl-webserver",
+    "url": "https://github.com/Algram/ytdl-webserver",
+    "desc": "📻 Webserver for downloading youtube videos. Ready for docker.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cgarciae/pypeln",
+    "url": "https://github.com/cgarciae/pypeln",
+    "desc": "Concurrent data pipelines made easy",
+    "lang": "Python"
+  },
+  {
+    "title": "thi-ng/umbrella",
+    "url": "https://github.com/thi-ng/umbrella",
+    "desc": "⛱ Mono-repository of ~50 TypeScript/ES6 projects for modern web development",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pubkey/rxdb",
+    "url": "https://github.com/pubkey/rxdb",
+    "desc": "💻 📱 A realtime Database for the Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antonioribeiro/health",
+    "url": "https://github.com/antonioribeiro/health",
+    "desc": "Laravel Health Panel",
+    "lang": "PHP"
+  },
+  {
+    "title": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "desc": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+    "lang": "C"
+  },
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code",
+    "desc": "a cheat-sheet for mathematical notation in code form"
+  },
+  {
+    "title": "tamlok/vnote",
+    "url": "https://github.com/tamlok/vnote",
+    "desc": "A Vim-inspired note-taking application that knows programmers and Markdown better.",
+    "lang": "C++"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "woj-ciech/Danger-zone",
+    "url": "https://github.com/woj-ciech/Danger-zone",
+    "desc": "Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files.",
+    "lang": "Python"
+  },
+  {
+    "title": "Yorko/mlcourse.ai",
+    "url": "https://github.com/Yorko/mlcourse.ai",
+    "desc": "Open Machine Learning course mlcourse.ai, both in English and Russian",
+    "lang": "Python"
+  },
+  {
+    "title": "powerbankofficial/powerbank-PBK-ERC20",
+    "url": "https://github.com/powerbankofficial/powerbank-PBK-ERC20",
+    "desc": "Powerbank is an erc20 platform based coin for Mobile phone bill payment&recharging world"
+  },
+  {
+    "title": "xi-editor/xi-editor",
+    "url": "https://github.com/xi-editor/xi-editor",
+    "desc": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+    "lang": "Rust"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "ocean1/awesome-thesis",
+    "url": "https://github.com/ocean1/awesome-thesis",
+    "desc": "A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Create React apps with no build configuration.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
