@@ -1,0 +1,148 @@
+[
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "desc": "📦 Module thinking, principles, design patterns and best practices.",
+    "lang": "HTML"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Zulko/eagle.js",
+    "url": "https://github.com/Zulko/eagle.js",
+    "desc": "A hackable slideshow framework built with Vue.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "Eloston/ungoogled-chromium",
+    "url": "https://github.com/Eloston/ungoogled-chromium",
+    "desc": "Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency",
+    "lang": "Python"
+  },
+  {
+    "title": "slothking-online/graphql-editor",
+    "url": "https://github.com/slothking-online/graphql-editor",
+    "desc": "GraphQL editor - visual node editor for GraphQL",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "brannondorsey/chattervox",
+    "url": "https://github.com/brannondorsey/chattervox",
+    "desc": "📡 An AX.25 packet radio chat protocol with support for digital signatures and binary compression. Like IRC over radio waves. 〰",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pubkey/rxdb",
+    "url": "https://github.com/pubkey/rxdb",
+    "desc": "💻 📱 A realtime Database for the Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hoya012/deep_learning_object_detection",
+    "url": "https://github.com/hoya012/deep_learning_object_detection",
+    "desc": "A paper list of object detection using deep learning."
+  },
+  {
+    "title": "cgarciae/pypeln",
+    "url": "https://github.com/cgarciae/pypeln",
+    "desc": "Concurrent data pipelines made easy",
+    "lang": "Python"
+  },
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code",
+    "desc": "a cheat-sheet for mathematical notation in code form"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "desc": "List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Algram/ytdl-webserver",
+    "url": "https://github.com/Algram/ytdl-webserver",
+    "desc": "📻 Webserver for downloading youtube videos. Ready for docker.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ocean1/awesome-thesis",
+    "url": "https://github.com/ocean1/awesome-thesis",
+    "desc": "A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome"
+  },
+  {
+    "title": "Yorko/mlcourse.ai",
+    "url": "https://github.com/Yorko/mlcourse.ai",
+    "desc": "Open Machine Learning course mlcourse.ai, both in English and Russian",
+    "lang": "Python"
+  },
+  {
+    "title": "ihucos/plash",
+    "url": "https://github.com/ihucos/plash",
+    "desc": "Build and run Containers",
+    "lang": "Python"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "yandex/ClickHouse",
+    "url": "https://github.com/yandex/ClickHouse",
+    "desc": "ClickHouse is a free analytic DBMS for big data.",
+    "lang": "C++"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "huanghaibin-dev/CalendarView",
+    "url": "https://github.com/huanghaibin-dev/CalendarView",
+    "desc": "Android上一个优雅、万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
