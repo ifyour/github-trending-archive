@@ -1,0 +1,151 @@
+[
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "skiplang/skip",
+    "url": "https://github.com/skiplang/skip",
+    "desc": "A programming language to skip the things you have already computed",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "auchenberg/volkswagen",
+    "url": "https://github.com/auchenberg/volkswagen",
+    "desc": "🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "apifytech/apify-js",
+    "url": "https://github.com/apifytech/apify-js",
+    "desc": "Apify SDK: The scalable web crawling and scraping library for JavaScript. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "ibuildthecloud/k3s",
+    "url": "https://github.com/ibuildthecloud/k3s",
+    "desc": "5 less then k8s. Short for kates, pronounced k8s",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "dntzhang/westore",
+    "url": "https://github.com/dntzhang/westore",
+    "desc": "世界上最小却强大的小程序框架 - 100多行代码搞定全局状态管理和跨页通讯",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "meshbird/meshbird",
+    "url": "https://github.com/meshbird/meshbird",
+    "desc": "Distributed private networking",
+    "lang": "Go"
+  },
+  {
+    "title": "JetBrains/ring-ui",
+    "url": "https://github.com/JetBrains/ring-ui",
+    "desc": "A collection of JetBrains Web UI components",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "albu/albumentations",
+    "url": "https://github.com/albu/albumentations",
+    "desc": "fast image augmentation library and easy to use wrapper around other libraries",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "desc": "📦 Module thinking, principles, design patterns and best practices.",
+    "lang": "HTML"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简单避免OOM的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rianhunter/wasmjit",
+    "url": "https://github.com/rianhunter/wasmjit",
+    "desc": "Kernel Mode WebAssembly Runtime for Linux",
+    "lang": "C"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "aeroflotsrc/webapp",
+    "url": "https://github.com/aeroflotsrc/webapp",
+    "desc": "Web application source code Aeroflot"
+  },
+  {
+    "title": "nasa-jpl/open-source-rover",
+    "url": "https://github.com/nasa-jpl/open-source-rover",
+    "desc": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "lang": "TeX"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "pulumi/kubespy",
+    "url": "https://github.com/pulumi/kubespy",
+    "desc": "Tools for observing Kubernetes resources in real time",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Create React apps with no build configuration.",
+    "lang": "JavaScript"
+  }
+]
