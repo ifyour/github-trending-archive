@@ -1,0 +1,150 @@
+[
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "pulumi/kubespy",
+    "url": "https://github.com/pulumi/kubespy",
+    "desc": "Tools for observing Kubernetes resources in real time",
+    "lang": "Go"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "skiplang/skip",
+    "url": "https://github.com/skiplang/skip",
+    "desc": "A programming language to skip the things you have already computed",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "golang-standards/project-layout",
+    "url": "https://github.com/golang-standards/project-layout",
+    "desc": "Standard Go Project Layout",
+    "lang": "Makefile"
+  },
+  {
+    "title": "auchenberg/volkswagen",
+    "url": "https://github.com/auchenberg/volkswagen",
+    "desc": "🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tailwindcss/tailwindcss",
+    "url": "https://github.com/tailwindcss/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "CSS"
+  },
+  {
+    "title": "kids-code-games/variables-war",
+    "url": "https://github.com/kids-code-games/variables-war",
+    "desc": "A code playing cards game where you have to be the first to reach 42 using loops, conditions...",
+    "lang": "HTML"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "apifytech/apify-js",
+    "url": "https://github.com/apifytech/apify-js",
+    "desc": "Apify SDK: The scalable web crawling and scraping library for JavaScript. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "amanusk/s-tui",
+    "url": "https://github.com/amanusk/s-tui",
+    "desc": "Terminal based CPU stress and monitoring utility",
+    "lang": "Python"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "aeroflotsrc/webapp",
+    "url": "https://github.com/aeroflotsrc/webapp",
+    "desc": "Web application source code Aeroflot"
+  },
+  {
+    "title": "duckchat/gaga",
+    "url": "https://github.com/duckchat/gaga",
+    "desc": "一个安全的私有聊天软件",
+    "lang": "PHP"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "dntzhang/westore",
+    "url": "https://github.com/dntzhang/westore",
+    "desc": "世界上最小却强大的小程序框架 - 100多行代码搞定全局状态管理、跨页通讯和插件开发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nikitavoloboev/my-ios",
+    "url": "https://github.com/nikitavoloboev/my-ios",
+    "desc": "List of applications and tools that make my iOS experience even more amazing"
+  },
+  {
+    "title": "drujensen/fib",
+    "url": "https://github.com/drujensen/fib",
+    "desc": "Performance Benchmark of top Github languages",
+    "lang": "Go"
+  }
+]
