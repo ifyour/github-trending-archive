@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "desc": "List of applications and tools that make my macOS experience even more amazing",
+    "lang": "CSS"
+  },
+  {
+    "title": "pulumi/kubespy",
+    "url": "https://github.com/pulumi/kubespy",
+    "desc": "Tools for observing Kubernetes resources in real time",
+    "lang": "Go"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "desc": "📦 Module thinking, principles, design patterns and best practices.",
+    "lang": "HTML"
+  },
+  {
+    "title": "skiplang/skip",
+    "url": "https://github.com/skiplang/skip",
+    "desc": "A programming language to skip the things you have already computed",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "drujensen/fib",
+    "url": "https://github.com/drujensen/fib",
+    "desc": "Performance Benchmark of top Github languages",
+    "lang": "Ruby"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iqiyi/Neptune",
+    "url": "https://github.com/iqiyi/Neptune",
+    "desc": "A flexible, powerful and lightweight plugin framework for Android",
+    "lang": "Java"
+  },
+  {
+    "title": "nikitavoloboev/my-ios",
+    "url": "https://github.com/nikitavoloboev/my-ios",
+    "desc": "List of applications and tools that make my iOS experience even more amazing"
+  },
+  {
+    "title": "golang-standards/project-layout",
+    "url": "https://github.com/golang-standards/project-layout",
+    "desc": "Standard Go Project Layout",
+    "lang": "Makefile"
+  },
+  {
+    "title": "duckchat/gaga",
+    "url": "https://github.com/duckchat/gaga",
+    "desc": "一个安全的私有聊天软件",
+    "lang": "PHP"
+  },
+  {
+    "title": "dntzhang/westore",
+    "url": "https://github.com/dntzhang/westore",
+    "desc": "世界上最小却强大的小程序框架 - 100多行代码搞定全局状态管理、跨页通讯和插件开发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "txd-team/docsite",
+    "url": "https://github.com/txd-team/docsite",
+    "desc": "An opensource static website generator",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "auchenberg/volkswagen",
+    "url": "https://github.com/auchenberg/volkswagen",
+    "desc": "🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+    "lang": "JavaScript"
+  }
+]
