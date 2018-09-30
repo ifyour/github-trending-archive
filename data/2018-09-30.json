@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "desc": "Solid - Re-decentralizing the web (project directory)",
+    "lang": "HTML"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "desc": "List of applications and tools that make my macOS experience even more amazing",
+    "lang": "CSS"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "Qsnh/meedu",
+    "url": "https://github.com/Qsnh/meedu",
+    "desc": "基于Laravel开发的在线点播系统。",
+    "lang": "PHP"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "chrislusf/seaweedfs",
+    "url": "https://github.com/chrislusf/seaweedfs",
+    "desc": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek, and an optional Filer with POSIX interface.",
+    "lang": "Go"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "dddomodossola/remi",
+    "url": "https://github.com/dddomodossola/remi",
+    "desc": "Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/FAutoTest",
+    "url": "https://github.com/Tencent/FAutoTest",
+    "desc": "A UI automated testing framework for H5 and applets",
+    "lang": "Python"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "solid/node-solid-server",
+    "url": "https://github.com/solid/node-solid-server",
+    "desc": "Solid server on top of the file-system in NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "desc": "📦 Module thinking, principles, design patterns and best practices.",
+    "lang": "HTML"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.",
+    "lang": "C++"
+  },
+  {
+    "title": "mweststrate/immer",
+    "url": "https://github.com/mweststrate/immer",
+    "desc": "Create the next immutable state by mutating the current one",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "iqiyi/Neptune",
+    "url": "https://github.com/iqiyi/Neptune",
+    "desc": "A flexible, powerful and lightweight plugin framework for Android",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "auchenberg/volkswagen",
+    "url": "https://github.com/auchenberg/volkswagen",
+    "desc": "🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dntzhang/westore",
+    "url": "https://github.com/dntzhang/westore",
+    "desc": "世界上最小却强大的小程序框架 - 100多行代码搞定全局状态管理、跨页通讯和插件开发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "felixangell/strife",
+    "url": "https://github.com/felixangell/strife",
+    "desc": "a simple 2d game framework",
+    "lang": "Go"
+  }
+]
