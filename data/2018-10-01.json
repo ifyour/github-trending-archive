@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "desc": "Solid - Re-decentralizing the web (project directory)",
+    "lang": "HTML"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "desc": "List of applications and tools that make my macOS experience even more amazing",
+    "lang": "CSS"
+  },
+  {
+    "title": "streamich/libreact",
+    "url": "https://github.com/streamich/libreact",
+    "desc": "Collection of useful React components",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Bogdanp/molten",
+    "url": "https://github.com/Bogdanp/molten",
+    "desc": "A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.",
+    "lang": "Python"
+  },
+  {
+    "title": "spiral/roadrunner",
+    "url": "https://github.com/spiral/roadrunner",
+    "desc": "High-performance PHP application server, load-balancer and process manager written in Golang",
+    "lang": "Go"
+  },
+  {
+    "title": "chrislusf/seaweedfs",
+    "url": "https://github.com/chrislusf/seaweedfs",
+    "desc": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek, and an optional Filer with POSIX interface.",
+    "lang": "Go"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "desc": "📦 Module thinking, principles, design patterns and best practices.",
+    "lang": "HTML"
+  },
+  {
+    "title": "solid/node-solid-server",
+    "url": "https://github.com/solid/node-solid-server",
+    "desc": "Solid server on top of the file-system in NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FlightBlaze/Newtoo",
+    "url": "https://github.com/FlightBlaze/Newtoo",
+    "desc": "Brand new web browser engine",
+    "lang": "C++"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "auchenberg/volkswagen",
+    "url": "https://github.com/auchenberg/volkswagen",
+    "desc": "🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nayafia/microgrants",
+    "url": "https://github.com/nayafia/microgrants",
+    "desc": "A list of microgrant programs for your good ideas"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "iov-one/weave",
+    "url": "https://github.com/iov-one/weave",
+    "desc": "Easy-to-use framework to build Tendermint ABCI applications",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "A core knowledge that most Java programmers need to master",
+    "lang": "Java"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "kelseyhightower/kubernetes-the-hard-way",
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "desc": "Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts."
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cruisediary/Gradients",
+    "url": "https://github.com/cruisediary/Gradients",
+    "desc": "🌔 A curated collection of splendid 180+ gradients made in swift",
+    "lang": "Swift"
+  }
+]
