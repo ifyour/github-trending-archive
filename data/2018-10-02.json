@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Code search and intelligence, self-hosted and scalable",
+    "lang": "Go"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "desc": "Solid - Re-decentralizing the web (project directory)",
+    "lang": "HTML"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "desc": "List of applications and tools that make my macOS experience even more amazing",
+    "lang": "CSS"
+  },
+  {
+    "title": "streamich/libreact",
+    "url": "https://github.com/streamich/libreact",
+    "desc": "Collection of useful React components",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "ampproject/worker-dom",
+    "url": "https://github.com/ampproject/worker-dom",
+    "desc": "The same DOM API and Frameworks you know, but in a Web Worker.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "spiral/roadrunner",
+    "url": "https://github.com/spiral/roadrunner",
+    "desc": "High-performance PHP application server, load-balancer and process manager written in Golang",
+    "lang": "Go"
+  },
+  {
+    "title": "hdm/mac-ages",
+    "url": "https://github.com/hdm/mac-ages",
+    "desc": "MAC address age tracking",
+    "lang": "Ruby"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "solid/node-solid-server",
+    "url": "https://github.com/solid/node-solid-server",
+    "desc": "Solid server on top of the file-system in NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nayafia/microgrants",
+    "url": "https://github.com/nayafia/microgrants",
+    "desc": "A list of microgrant programs for your good ideas"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "desc": "📦 Module thinking, principles, design patterns and best practices.",
+    "lang": "HTML"
+  },
+  {
+    "title": "micromdm/micromdm",
+    "url": "https://github.com/micromdm/micromdm",
+    "desc": "Mobile Device Management server",
+    "lang": "Go"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nodkz/lvovich",
+    "url": "https://github.com/nodkz/lvovich",
+    "desc": "Склонение названий городов, определения пола по ФИО, склонения имен по падежам",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Create React apps with no build configuration.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kylestetz/slang",
+    "url": "https://github.com/kylestetz/slang",
+    "desc": "🎤 a simple audio programming language implemented in JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chrislusf/seaweedfs",
+    "url": "https://github.com/chrislusf/seaweedfs",
+    "desc": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek, and an optional Filer with POSIX interface.",
+    "lang": "Go"
+  },
+  {
+    "title": "maierfelix/node-vulkan",
+    "url": "https://github.com/maierfelix/node-vulkan",
+    "desc": "Vulkan bindings for JavaScript",
+    "lang": "C++"
+  },
+  {
+    "title": "Bogdanp/molten",
+    "url": "https://github.com/Bogdanp/molten",
+    "desc": "A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.",
+    "lang": "Python"
+  }
+]
