@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "desc": "Declarative web scraping",
+    "lang": "Go"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Code search and intelligence, self-hosted and scalable",
+    "lang": "Go"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet",
+    "desc": "A quick reminder of all SQL queries and examples on how to use them."
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "desc": "Solid - Re-decentralizing the web (project directory)",
+    "lang": "HTML"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "desc": "The fastai deep learning library, plus lessons and and tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "desc": "List of applications and tools that make my macOS experience even more amazing",
+    "lang": "CSS"
+  },
+  {
+    "title": "streamich/libreact",
+    "url": "https://github.com/streamich/libreact",
+    "desc": "Collection of useful React components",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "kylestetz/slang",
+    "url": "https://github.com/kylestetz/slang",
+    "desc": "🎤 a simple audio programming language implemented in JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "spiral/roadrunner",
+    "url": "https://github.com/spiral/roadrunner",
+    "desc": "High-performance PHP application server, load-balancer and process manager written in Golang",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Create React apps with no build configuration.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "akveo/nebular",
+    "url": "https://github.com/akveo/nebular",
+    "desc": "Angular 6 Components, Auth and Security",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "lingonsaft/hacktoberfest",
+    "url": "https://github.com/lingonsaft/hacktoberfest",
+    "desc": "Hacktoberfest 2018",
+    "lang": "HTML"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenGenus/cosmos",
+    "url": "https://github.com/OpenGenus/cosmos",
+    "desc": "Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "desc": "📦 Module thinking, principles, design patterns and best practices.",
+    "lang": "HTML"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "hdm/mac-ages",
+    "url": "https://github.com/hdm/mac-ages",
+    "desc": "MAC address age tracking",
+    "lang": "Ruby"
+  }
+]
