@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet",
+    "desc": "A quick reminder of all SQL queries and examples on how to use them."
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Code search and intelligence, self-hosted and scalable",
+    "lang": "Go"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "desc": "Declarative web scraping",
+    "lang": "Go"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "desc": "The fastai deep learning library, plus lessons and and tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "desc": "Solid - Re-decentralizing the web (project directory)",
+    "lang": "HTML"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "desc": "List of applications and tools that make my macOS experience even more amazing",
+    "lang": "CSS"
+  },
+  {
+    "title": "rhardih/ekill",
+    "url": "https://github.com/rhardih/ekill",
+    "desc": "Chrome extension to nuke annoying elements in a web page",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kylestetz/slang",
+    "url": "https://github.com/kylestetz/slang",
+    "desc": "🎤 a simple audio programming language implemented in JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "streamich/libreact",
+    "url": "https://github.com/streamich/libreact",
+    "desc": "Collection of useful React components",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rails/actiontext",
+    "url": "https://github.com/rails/actiontext",
+    "desc": "Edit and display rich text in Rails applications",
+    "lang": "Ruby"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Create React apps with no build configuration.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "lingonsaft/hacktoberfest",
+    "url": "https://github.com/lingonsaft/hacktoberfest",
+    "desc": "Hacktoberfest 2018",
+    "lang": "HTML"
+  },
+  {
+    "title": "akveo/nebular",
+    "url": "https://github.com/akveo/nebular",
+    "desc": "Angular 6 Components, Auth and Security",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenGenus/cosmos",
+    "url": "https://github.com/OpenGenus/cosmos",
+    "desc": "Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Jigsaw-Code/Intra",
+    "url": "https://github.com/Jigsaw-Code/Intra",
+    "desc": "An experimental tool that allows you to test new DNS-over-HTTPS services on Android",
+    "lang": "Java"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "desc": "📦 Module thinking, principles, design patterns and best practices.",
+    "lang": "HTML"
+  }
+]
