@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet",
+    "desc": "A quick reminder of all SQL queries and examples on how to use them."
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "desc": "Declarative web scraping",
+    "lang": "Go"
+  },
+  {
+    "title": "iov-one/weave",
+    "url": "https://github.com/iov-one/weave",
+    "desc": "Easy-to-use framework to build Tendermint ABCI applications",
+    "lang": "Go"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Code search and intelligence, self-hosted and scalable",
+    "lang": "Go"
+  },
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "desc": "🎨 A curated list of delightful VS Code packages and resources.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chiphuyen/sotawhat",
+    "url": "https://github.com/chiphuyen/sotawhat",
+    "desc": "Returns latest research results by crawling arxiv papers and summarizing abstracts. Helps you stay afloat with so many new papers everyday.",
+    "lang": "Python"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "desc": "Solid - Re-decentralizing the web (project directory)",
+    "lang": "HTML"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "desc": "List of applications and tools that make my macOS experience even more amazing",
+    "lang": "CSS"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "PDP-10/its",
+    "url": "https://github.com/PDP-10/its",
+    "desc": "Incompatible Timesharing System",
+    "lang": "Assembly"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "streamich/libreact",
+    "url": "https://github.com/streamich/libreact",
+    "desc": "Collection of useful React components",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tomv564/LSP",
+    "url": "https://github.com/tomv564/LSP",
+    "desc": "Language Server Protocol support for Sublime Text 3",
+    "lang": "Python"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "desc": "The fastai deep learning library, plus lessons and and tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "desc": "BYOB (Build Your Own Botnet)",
+    "lang": "Python"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "simonw/datasette",
+    "url": "https://github.com/simonw/datasette",
+    "desc": "A tool for exploring and publishing data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kylestetz/slang",
+    "url": "https://github.com/kylestetz/slang",
+    "desc": "🎤 a simple audio programming language implemented in JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rhardih/ekill",
+    "url": "https://github.com/rhardih/ekill",
+    "desc": "Chrome extension to nuke annoying elements in a web page",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "videogamepreservation/descent",
+    "url": "https://github.com/videogamepreservation/descent",
+    "desc": "Descent (1995) by Parallax Software Corp."
+  }
+]
