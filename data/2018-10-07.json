@@ -1,0 +1,149 @@
+[
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "Mojang/brigadier",
+    "url": "https://github.com/Mojang/brigadier",
+    "desc": "Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.",
+    "lang": "Java"
+  },
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "desc": "🎨 A curated list of delightful VS Code packages and resources.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "oscarmorrison/md-page",
+    "url": "https://github.com/oscarmorrison/md-page",
+    "desc": "📝 create a webpage with just markdown",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "iov-one/weave",
+    "url": "https://github.com/iov-one/weave",
+    "desc": "Easy-to-use framework to build Tendermint ABCI applications",
+    "lang": "Go"
+  },
+  {
+    "title": "Mojang/DataFixerUpper",
+    "url": "https://github.com/Mojang/DataFixerUpper",
+    "desc": "A set of utilities designed for incremental building, merging and optimization of data transformations.",
+    "lang": "Java"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "desc": "Solid - Re-decentralizing the web (project directory)",
+    "lang": "HTML"
+  },
+  {
+    "title": "ramesaliyev/trigonoparty",
+    "url": "https://github.com/ramesaliyev/trigonoparty",
+    "desc": "Simple Trigonometry Visualisation with Pure JavaScript.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hacktoberfest-2018/Hello-world",
+    "url": "https://github.com/Hacktoberfest-2018/Hello-world",
+    "desc": "Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "rhardih/ekill",
+    "url": "https://github.com/rhardih/ekill",
+    "desc": "Chrome extension to nuke annoying elements in a web page",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "emilengler/sysget",
+    "url": "https://github.com/emilengler/sysget",
+    "desc": "One package manager to rule them all",
+    "lang": "C++"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "desc": "Declarative web scraping",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "yichengchen/clashX",
+    "url": "https://github.com/yichengchen/clashX",
+    "desc": "A rule based custom proxy with GUI for Mac base on clash.",
+    "lang": "Swift"
+  },
+  {
+    "title": "dotnet/infer",
+    "url": "https://github.com/dotnet/infer",
+    "desc": "Infer.NET is a framework for running Bayesian inference in graphical models",
+    "lang": "C#"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Code search and intelligence, self-hosted and scalable",
+    "lang": "Go"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet",
+    "desc": "A quick reminder of all SQL queries and examples on how to use them."
+  },
+  {
+    "title": "oasisfeng/island",
+    "url": "https://github.com/oasisfeng/island",
+    "desc": "Island for Android",
+    "lang": "Java"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "desc": "List of applications and tools that make my macOS experience even more amazing",
+    "lang": "CSS"
+  },
+  {
+    "title": "Axosoft/nsfw",
+    "url": "https://github.com/Axosoft/nsfw",
+    "desc": "A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  }
+]
