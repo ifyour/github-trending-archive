@@ -1,0 +1,148 @@
+[
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "desc": "🎨 A curated list of delightful VS Code packages and resources.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Syllo/nvtop",
+    "url": "https://github.com/Syllo/nvtop",
+    "desc": "NVIDIA GPUs htop like monitoring tool",
+    "lang": "C"
+  },
+  {
+    "title": "jlaine/aiortc",
+    "url": "https://github.com/jlaine/aiortc",
+    "desc": "WebRTC and ORTC implementation for Python using asyncio",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "iovisor/bpftrace",
+    "url": "https://github.com/iovisor/bpftrace",
+    "desc": "High-level tracing language for Linux eBPF",
+    "lang": "C++"
+  },
+  {
+    "title": "Mojang/brigadier",
+    "url": "https://github.com/Mojang/brigadier",
+    "desc": "Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "heyscrumpy/tiptap",
+    "url": "https://github.com/heyscrumpy/tiptap",
+    "desc": "A rich-text editor for Vue.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mit-pdos/biscuit",
+    "url": "https://github.com/mit-pdos/biscuit",
+    "desc": "Biscuit research OS",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "Hacktoberfest-2018/Hello-world",
+    "url": "https://github.com/Hacktoberfest-2018/Hello-world",
+    "desc": "Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️",
+    "lang": "Java"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "desc": "Declarative web scraping",
+    "lang": "Go"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet",
+    "desc": "A quick reminder of all SQL queries and examples on how to use them."
+  },
+  {
+    "title": "b3log/symphony",
+    "url": "https://github.com/b3log/symphony",
+    "desc": "🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com",
+    "lang": "Java"
+  },
+  {
+    "title": "lacuna/bifurcan",
+    "url": "https://github.com/lacuna/bifurcan",
+    "desc": "impure functional data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Code search and intelligence, self-hosted and scalable",
+    "lang": "Go"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "Mojang/DataFixerUpper",
+    "url": "https://github.com/Mojang/DataFixerUpper",
+    "desc": "A set of utilities designed for incremental building, merging and optimization of data transformations.",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
