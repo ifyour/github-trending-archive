@@ -1,0 +1,147 @@
+[
+  {
+    "title": "ballercat/walt",
+    "url": "https://github.com/ballercat/walt",
+    "desc": "⚡️ Walt is a JavaScript-like syntax for WebAssembly text format ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "facert/awesome-spider",
+    "url": "https://github.com/facert/awesome-spider",
+    "desc": "爬虫集合"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "desc": "🎨 A curated list of delightful VS Code packages and resources.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "darold/pgFormatter",
+    "url": "https://github.com/darold/pgFormatter",
+    "desc": "A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at http://sqlformat.darold.net/",
+    "lang": "Perl"
+  },
+  {
+    "title": "mourner/flatbush",
+    "url": "https://github.com/mourner/flatbush",
+    "desc": "A very fast static spatial index for 2D points and rectangles in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mahmoud/boltons",
+    "url": "https://github.com/mahmoud/boltons",
+    "desc": "🔩 Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton.",
+    "lang": "Python"
+  },
+  {
+    "title": "Hacktoberfest-2018/Hello-world",
+    "url": "https://github.com/Hacktoberfest-2018/Hello-world",
+    "desc": "Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "desc": "Declarative web scraping",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "SFLAQiu/web-develop",
+    "url": "https://github.com/SFLAQiu/web-develop",
+    "desc": "《大话WEB开发》WEB开发相关经验总结分享 💌⭐️😘"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet",
+    "desc": "A quick reminder of all SQL queries and examples on how to use them."
+  },
+  {
+    "title": "heyscrumpy/tiptap",
+    "url": "https://github.com/heyscrumpy/tiptap",
+    "desc": "A rich-text editor for Vue.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "desc": "a language-based platform for creating beautiful mathematical diagrams",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "steventroughtonsmith/SpriteKitWatchFace",
+    "url": "https://github.com/steventroughtonsmith/SpriteKitWatchFace",
+    "desc": "SpriteKit-based faux analog watch face example for watchOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "b3log/symphony",
+    "url": "https://github.com/b3log/symphony",
+    "desc": "🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com",
+    "lang": "Java"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "Meituan-Dianping/Logan",
+    "url": "https://github.com/Meituan-Dianping/Logan",
+    "desc": "Logan is a lightweight case logging system based on mobile platform.",
+    "lang": "C"
+  },
+  {
+    "title": "brain-research/self-attention-gan",
+    "url": "https://github.com/brain-research/self-attention-gan",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
