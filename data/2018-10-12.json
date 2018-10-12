@@ -1,0 +1,150 @@
+[
+  {
+    "title": "ballercat/walt",
+    "url": "https://github.com/ballercat/walt",
+    "desc": "⚡️ Walt is a JavaScript-like syntax for WebAssembly text format ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chartshq/muze",
+    "url": "https://github.com/chartshq/muze",
+    "desc": "Composable data visualisation library for web with a data-first approach",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Meituan-Dianping/Logan",
+    "url": "https://github.com/Meituan-Dianping/Logan",
+    "desc": "Logan is a lightweight case logging system based on mobile platform.",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "facert/awesome-spider",
+    "url": "https://github.com/facert/awesome-spider",
+    "desc": "爬虫集合"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "socialcopsdev/camelot",
+    "url": "https://github.com/socialcopsdev/camelot",
+    "desc": "Camelot: PDF Table Extraction for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hacktoberfest-2018/Hello-world",
+    "url": "https://github.com/Hacktoberfest-2018/Hello-world",
+    "desc": "Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "desc": "🎨 A curated list of delightful VS Code packages and resources.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "danburzo/percollate",
+    "url": "https://github.com/danburzo/percollate",
+    "desc": "🌐 → 📖 A command-line tool to grab web pages as beautifully formatted PDFs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "mohanson/accu",
+    "url": "https://github.com/mohanson/accu",
+    "desc": "Mohanson's Blog",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "naver/pinpoint",
+    "url": "https://github.com/naver/pinpoint",
+    "desc": "Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "b3log/symphony",
+    "url": "https://github.com/b3log/symphony",
+    "desc": "🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com",
+    "lang": "Java"
+  },
+  {
+    "title": "callstack/react-native-testing-library",
+    "url": "https://github.com/callstack/react-native-testing-library",
+    "desc": "Simple React Native testing utilities helping you write better tests with less effort",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antoniocasero/Panels",
+    "url": "https://github.com/antoniocasero/Panels",
+    "desc": "Panels is a framework to easily add sliding panels to your application",
+    "lang": "Swift"
+  }
+]
