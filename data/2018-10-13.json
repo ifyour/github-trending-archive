@@ -1,0 +1,149 @@
+[
+  {
+    "title": "syncsynchalt/illustrated-tls",
+    "url": "https://github.com/syncsynchalt/illustrated-tls",
+    "desc": "The Illustrated TLS Connection: Every byte explained",
+    "lang": "Go"
+  },
+  {
+    "title": "dgiagio/warp",
+    "url": "https://github.com/dgiagio/warp",
+    "desc": "Create self-contained single binary applications",
+    "lang": "Rust"
+  },
+  {
+    "title": "socialcopsdev/camelot",
+    "url": "https://github.com/socialcopsdev/camelot",
+    "desc": "Camelot: PDF Table Extraction for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "Hacktoberfest-2018/Hello-world",
+    "url": "https://github.com/Hacktoberfest-2018/Hello-world",
+    "desc": "Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "danburzo/percollate",
+    "url": "https://github.com/danburzo/percollate",
+    "desc": "🌐 → 📖 A command-line tool to grab web pages as beautifully formatted PDFs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "Open MMLab Detection Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "mntmn/interim",
+    "url": "https://github.com/mntmn/interim",
+    "desc": "The Interim Operating System",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "kennethreitz/responder",
+    "url": "https://github.com/kennethreitz/responder",
+    "desc": "a familiar HTTP Service Framework for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "desc": "How to create an OS from scratch",
+    "lang": "C"
+  },
+  {
+    "title": "Picovoice/Porcupine",
+    "url": "https://github.com/Picovoice/Porcupine",
+    "desc": "On-device wake word detection engine powered by deep learning.",
+    "lang": "C"
+  },
+  {
+    "title": "dawnlabs/carbon",
+    "url": "https://github.com/dawnlabs/carbon",
+    "desc": "🎨 Create and share beautiful images of your source code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ballercat/walt",
+    "url": "https://github.com/ballercat/walt",
+    "desc": "⚡️ Walt is a JavaScript-like syntax for WebAssembly text format ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "desc": "🎨 A curated list of delightful VS Code packages and resources.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "chartshq/muze",
+    "url": "https://github.com/chartshq/muze",
+    "desc": "Composable data visualisation library for web with a data-first approach",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "marcosgriselli/Sizes",
+    "url": "https://github.com/marcosgriselli/Sizes",
+    "desc": "View your app on different device and font sizes",
+    "lang": "Swift"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "lang": "JavaScript"
+  }
+]
