@@ -1,0 +1,146 @@
+[
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "k88hudson/git-flight-rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "desc": "Flight rules for git"
+  },
+  {
+    "title": "segmentio/evergreen",
+    "url": "https://github.com/segmentio/evergreen",
+    "desc": "🌲 Evergreen React UI Framework by Segment",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal photo management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "open-source-for-science/TensorFlow-Course",
+    "url": "https://github.com/open-source-for-science/TensorFlow-Course",
+    "desc": "Simple and ready-to-use tutorials for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "Hacktoberfest-2018/Hello-world",
+    "url": "https://github.com/Hacktoberfest-2018/Hello-world",
+    "desc": "Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kennethreitz/responder",
+    "url": "https://github.com/kennethreitz/responder",
+    "desc": "a familiar HTTP Service Framework for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "burtonator/polar-bookshelf",
+    "url": "https://github.com/burtonator/polar-bookshelf",
+    "desc": "Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "技术分享周刊，每周五发布"
+  },
+  {
+    "title": "davrodpin/mole",
+    "url": "https://github.com/davrodpin/mole",
+    "desc": "cli app to create ssh tunnels",
+    "lang": "Go"
+  },
+  {
+    "title": "hasegawa-tomoki/php-terminal-nes-emulator",
+    "url": "https://github.com/hasegawa-tomoki/php-terminal-nes-emulator",
+    "desc": "A PHP terminal NES emulator",
+    "lang": "PHP"
+  },
+  {
+    "title": "xbpeng/DeepMimic",
+    "url": "https://github.com/xbpeng/DeepMimic",
+    "desc": "Motion imitation with deep reinforcement learning.",
+    "lang": "C++"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "Open MMLab Detection Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "danburzo/percollate",
+    "url": "https://github.com/danburzo/percollate",
+    "desc": "🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "desc": "🎨 A curated list of delightful VS Code packages and resources.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Curated list of awesome lists"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "gridsome/gridsome",
+    "url": "https://github.com/gridsome/gridsome",
+    "desc": "⚡️ [ALPHA] Build blazing fast websites with Vue.js & GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  }
+]
