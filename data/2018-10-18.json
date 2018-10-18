@@ -1,0 +1,147 @@
+[
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepmind/trfl",
+    "url": "https://github.com/deepmind/trfl",
+    "desc": "TensorFlow Reinforcement Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "open-source-for-science/TensorFlow-Course",
+    "url": "https://github.com/open-source-for-science/TensorFlow-Course",
+    "desc": "Simple and ready-to-use tutorials for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "k88hudson/git-flight-rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "desc": "Flight rules for git"
+  },
+  {
+    "title": "segmentio/evergreen",
+    "url": "https://github.com/segmentio/evergreen",
+    "desc": "🌲 Evergreen React UI Framework by Segment",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/tencent-ml-images",
+    "url": "https://github.com/Tencent/tencent-ml-images",
+    "desc": "Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet",
+    "lang": "Python"
+  },
+  {
+    "title": "davrodpin/mole",
+    "url": "https://github.com/davrodpin/mole",
+    "desc": "cli app to create ssh tunnels",
+    "lang": "Go"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links"
+  },
+  {
+    "title": "Tencent/omi",
+    "url": "https://github.com/Tencent/omi",
+    "desc": "Next generation web framework in 4KB javascript(Web Components + JSX + Proxy + Path Updating)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "技术分享周刊，每周五发布"
+  },
+  {
+    "title": "codertimo/BERT-pytorch",
+    "url": "https://github.com/codertimo/BERT-pytorch",
+    "desc": "Google AI 2018 BERT pytorch implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "blacknbunny/libSSH-Authentication-Bypass",
+    "url": "https://github.com/blacknbunny/libSSH-Authentication-Bypass",
+    "desc": "Spawn to shell without any credentials by using CVE-2018-10933",
+    "lang": "Python"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal photo management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "IntelAISociety/Hello-world",
+    "url": "https://github.com/IntelAISociety/Hello-world",
+    "desc": "Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐️",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MaiaVictor/Formality",
+    "url": "https://github.com/MaiaVictor/Formality",
+    "desc": "An efficient programming language and proof assistant.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gridsome/gridsome",
+    "url": "https://github.com/gridsome/gridsome",
+    "desc": "⚡️ [WIP] Build blazing fast websites with Vue.js & GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kennethreitz/responder",
+    "url": "https://github.com/kennethreitz/responder",
+    "desc": "a familiar HTTP Service Framework for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "burtonator/polar-bookshelf",
+    "url": "https://github.com/burtonator/polar-bookshelf",
+    "desc": "Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  }
+]
