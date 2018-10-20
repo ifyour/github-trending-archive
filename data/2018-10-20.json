@@ -1,0 +1,145 @@
+[
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/omi",
+    "url": "https://github.com/Tencent/omi",
+    "desc": "Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepmind/graph_nets",
+    "url": "https://github.com/deepmind/graph_nets",
+    "desc": "Build Graph Nets in Tensorflow",
+    "lang": "Python"
+  },
+  {
+    "title": "k88hudson/git-flight-rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "desc": "Flight rules for git"
+  },
+  {
+    "title": "open-source-for-science/TensorFlow-Course",
+    "url": "https://github.com/open-source-for-science/TensorFlow-Course",
+    "desc": "Simple and ready-to-use tutorials for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "glennreyes/graphpack",
+    "url": "https://github.com/glennreyes/graphpack",
+    "desc": "☄️ A minimalistic zero-config GraphQL server.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "The https://freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/trfl",
+    "url": "https://github.com/deepmind/trfl",
+    "desc": "TensorFlow Reinforcement Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links"
+  },
+  {
+    "title": "segmentio/evergreen",
+    "url": "https://github.com/segmentio/evergreen",
+    "desc": "🌲 Evergreen React UI Framework by Segment",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codertimo/BERT-pytorch",
+    "url": "https://github.com/codertimo/BERT-pytorch",
+    "desc": "Google AI 2018 BERT pytorch implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudflare/tableflip",
+    "url": "https://github.com/cloudflare/tableflip",
+    "desc": "Graceful process restarts in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zekelabs/data-science-complete-tutorial",
+    "url": "https://github.com/zekelabs/data-science-complete-tutorial",
+    "desc": "Notebooks to learn data science",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "davrodpin/mole",
+    "url": "https://github.com/davrodpin/mole",
+    "desc": "cli app to create ssh tunnels",
+    "lang": "Go"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal photo management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "技术分享周刊，每周五发布"
+  },
+  {
+    "title": "danburzo/percollate",
+    "url": "https://github.com/danburzo/percollate",
+    "desc": "🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2018"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  }
+]
