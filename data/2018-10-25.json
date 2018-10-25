@@ -1,0 +1,149 @@
+[
+  {
+    "title": "akavel/up",
+    "url": "https://github.com/akavel/up",
+    "desc": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview",
+    "lang": "Go"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Unity-Technologies/FPSSample",
+    "url": "https://github.com/Unity-Technologies/FPSSample",
+    "desc": "A first person multiplayer shooter example project in Unity",
+    "lang": "C#"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "dylanaraps/fff",
+    "url": "https://github.com/dylanaraps/fff",
+    "desc": "🚀 fucking fast file-manager",
+    "lang": "Shell"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "grpc/grpc-web",
+    "url": "https://github.com/grpc/grpc-web",
+    "desc": "gRPC for Web Clients",
+    "lang": "C++"
+  },
+  {
+    "title": "laravel/telescope",
+    "url": "https://github.com/laravel/telescope",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "XiaoMi/naftis",
+    "url": "https://github.com/XiaoMi/naftis",
+    "desc": "An awesome dashboard for Istio built with love.",
+    "lang": "Go"
+  },
+  {
+    "title": "k88hudson/git-flight-rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "desc": "Flight rules for git"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Spandan-Madan/DeepLearningProject",
+    "url": "https://github.com/Spandan-Madan/DeepLearningProject",
+    "desc": "An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.",
+    "lang": "HTML"
+  },
+  {
+    "title": "XiaoMi/soar",
+    "url": "https://github.com/XiaoMi/soar",
+    "desc": "SQL Optimizer And Rewriter",
+    "lang": "Go"
+  },
+  {
+    "title": "abcnews/data-life",
+    "url": "https://github.com/abcnews/data-life",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "huihut/interview",
+    "url": "https://github.com/huihut/interview",
+    "desc": "📚 C/C++面试知识总结",
+    "lang": "C++"
+  },
+  {
+    "title": "Tencent/omi",
+    "url": "https://github.com/Tencent/omi",
+    "desc": "Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-source-for-science/TensorFlow-Course",
+    "url": "https://github.com/open-source-for-science/TensorFlow-Course",
+    "desc": "Simple and ready-to-use tutorials for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "getActivity/AndroidProject",
+    "url": "https://github.com/getActivity/AndroidProject",
+    "desc": "An advanced template project",
+    "lang": "Java"
+  },
+  {
+    "title": "ManbangGroup/Phantom",
+    "url": "https://github.com/ManbangGroup/Phantom",
+    "desc": "Phantom — 唯一零 Hook 稳定占坑类 Android 热更新插件化方案",
+    "lang": "Java"
+  },
+  {
+    "title": "consenlabs/token-core-ios",
+    "url": "https://github.com/consenlabs/token-core-ios",
+    "desc": "a blockchain private key management library on iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/AloeStackView",
+    "url": "https://github.com/airbnb/AloeStackView",
+    "desc": "A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.",
+    "lang": "Swift"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  }
+]
