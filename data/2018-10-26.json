@@ -1,0 +1,149 @@
+[
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "facebookresearch/maskrcnn-benchmark",
+    "url": "https://github.com/facebookresearch/maskrcnn-benchmark",
+    "desc": "Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithms in PyTorch.",
+    "lang": "Python"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "akavel/up",
+    "url": "https://github.com/akavel/up",
+    "desc": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview",
+    "lang": "Go"
+  },
+  {
+    "title": "aviaviavi/toodles",
+    "url": "https://github.com/aviaviavi/toodles",
+    "desc": "Project management directly from the TODO's in your codebase",
+    "lang": "Haskell"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "Spandan-Madan/DeepLearningProject",
+    "url": "https://github.com/Spandan-Madan/DeepLearningProject",
+    "desc": "An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.",
+    "lang": "HTML"
+  },
+  {
+    "title": "XiaoMi/naftis",
+    "url": "https://github.com/XiaoMi/naftis",
+    "desc": "An awesome dashboard for Istio built with love.",
+    "lang": "Go"
+  },
+  {
+    "title": "kingkool68/generate-ssl-certs-for-local-development",
+    "url": "https://github.com/kingkool68/generate-ssl-certs-for-local-development",
+    "desc": "A bash script for generating trusted self-signed SSL certs for local development on your Mac",
+    "lang": "Shell"
+  },
+  {
+    "title": "susam/texme",
+    "url": "https://github.com/susam/texme",
+    "desc": "Self-rendering Markdown + LaTeX documents",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pyloque/fastscan",
+    "url": "https://github.com/pyloque/fastscan",
+    "desc": "quickly text search by ahocorasick algorithm",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Unity-Technologies/FPSSample",
+    "url": "https://github.com/Unity-Technologies/FPSSample",
+    "desc": "A first person multiplayer shooter example project in Unity",
+    "lang": "C#"
+  },
+  {
+    "title": "k88hudson/git-flight-rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "desc": "Flight rules for git"
+  },
+  {
+    "title": "XiaoMi/soar",
+    "url": "https://github.com/XiaoMi/soar",
+    "desc": "SQL Optimizer And Rewriter",
+    "lang": "Go"
+  },
+  {
+    "title": "robbiebarrat/art-DCGAN",
+    "url": "https://github.com/robbiebarrat/art-DCGAN",
+    "desc": "Modified implementation of DCGAN focused on generative art. Includes pre-trained models for landscapes, nude-portraits, and others.",
+    "lang": "Lua"
+  },
+  {
+    "title": "gruns/irondb",
+    "url": "https://github.com/gruns/irondb",
+    "desc": "🔩 A relentless key-value store for the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abcnews/data-life",
+    "url": "https://github.com/abcnews/data-life",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/omi",
+    "url": "https://github.com/Tencent/omi",
+    "desc": "Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "grpc/grpc-web",
+    "url": "https://github.com/grpc/grpc-web",
+    "desc": "gRPC for Web Clients",
+    "lang": "C++"
+  },
+  {
+    "title": "laravel/telescope",
+    "url": "https://github.com/laravel/telescope",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dylanaraps/fff",
+    "url": "https://github.com/dylanaraps/fff",
+    "desc": "🚀 fucking fast file-manager",
+    "lang": "Shell"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "The https://freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.",
+    "lang": "JavaScript"
+  }
+]
