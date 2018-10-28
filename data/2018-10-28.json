@@ -1,0 +1,146 @@
+[
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "palmerhq/the-platform",
+    "url": "https://github.com/palmerhq/the-platform",
+    "desc": "Web. Components. 😂",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "Curated list of resources for college students  Show your ❤️ by giving a ⭐️"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends and family.",
+    "lang": "PHP"
+  },
+  {
+    "title": "cjbassi/gotop",
+    "url": "https://github.com/cjbassi/gotop",
+    "desc": "A terminal based graphical activity monitor inspired by gtop and vtop",
+    "lang": "Go"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "bharathgs/Awesome-pytorch-list",
+    "url": "https://github.com/bharathgs/Awesome-pytorch-list",
+    "desc": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc."
+  },
+  {
+    "title": "open-source-for-science/TensorFlow-Course",
+    "url": "https://github.com/open-source-for-science/TensorFlow-Course",
+    "desc": "Simple and ready-to-use tutorials for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "The https://freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yyx990803/vue-hooks",
+    "url": "https://github.com/yyx990803/vue-hooks",
+    "desc": "Experimental React hooks implementation in Vue",
+    "lang": "HTML"
+  },
+  {
+    "title": "akavel/up",
+    "url": "https://github.com/akavel/up",
+    "desc": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview",
+    "lang": "Go"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rishabh-bansal/Make-a-Pull-Request",
+    "url": "https://github.com/rishabh-bansal/Make-a-Pull-Request",
+    "desc": "Make a Pull Request"
+  },
+  {
+    "title": "rehooks/awesome-react-hooks",
+    "url": "https://github.com/rehooks/awesome-react-hooks",
+    "desc": "Awesome React Hooks"
+  },
+  {
+    "title": "Omkar-Ajnadkar/Hello-World",
+    "url": "https://github.com/Omkar-Ajnadkar/Hello-World",
+    "desc": "Hello World in all possible programmnig languages",
+    "lang": "Assembly"
+  },
+  {
+    "title": "AcceptedDoge/machine-learning-yearning-cn",
+    "url": "https://github.com/AcceptedDoge/machine-learning-yearning-cn",
+    "desc": "MACHINE LEARNING YEARNING BY ANDREW NG",
+    "lang": "CSS"
+  },
+  {
+    "title": "pjreddie/darknet",
+    "url": "https://github.com/pjreddie/darknet",
+    "desc": "Convolutional Neural Networks",
+    "lang": "C"
+  },
+  {
+    "title": "SummitKwan/transparent_latent_gan",
+    "url": "https://github.com/SummitKwan/transparent_latent_gan",
+    "desc": "Use supervised learning to illuminate the latent space of GAN for controlled generation and edit",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/maskrcnn-benchmark",
+    "url": "https://github.com/facebookresearch/maskrcnn-benchmark",
+    "desc": "Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMi/soar",
+    "url": "https://github.com/XiaoMi/soar",
+    "desc": "SQL Optimizer And Rewriter",
+    "lang": "Go"
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "skx/gobasic",
+    "url": "https://github.com/skx/gobasic",
+    "desc": "A BASIC interpreter written in golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "kitze/react-hanger",
+    "url": "https://github.com/kitze/react-hanger",
+    "desc": "A small collection of useful hooks for React 16.7",
+    "lang": "JavaScript"
+  }
+]
