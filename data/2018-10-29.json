@@ -1,0 +1,147 @@
+[
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "ChrisKnott/Algojammer",
+    "url": "https://github.com/ChrisKnott/Algojammer",
+    "desc": "An experimental code editor for writing algorithms",
+    "lang": "C++"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "Curated list of resources for college students  Show your ❤️ by giving a ⭐️"
+  },
+  {
+    "title": "palmerhq/the-platform",
+    "url": "https://github.com/palmerhq/the-platform",
+    "desc": "Web. Components. 😂",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "akavel/up",
+    "url": "https://github.com/akavel/up",
+    "desc": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview",
+    "lang": "Go"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends and family.",
+    "lang": "PHP"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cjbassi/gotop",
+    "url": "https://github.com/cjbassi/gotop",
+    "desc": "A terminal based graphical activity monitor inspired by gtop and vtop",
+    "lang": "Go"
+  },
+  {
+    "title": "mcastorina/graph-cli",
+    "url": "https://github.com/mcastorina/graph-cli",
+    "desc": "Flexible command line tool to create graphs from CSV data",
+    "lang": "Python"
+  },
+  {
+    "title": "bharathgs/Awesome-pytorch-list",
+    "url": "https://github.com/bharathgs/Awesome-pytorch-list",
+    "desc": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc."
+  },
+  {
+    "title": "rehooks/awesome-react-hooks",
+    "url": "https://github.com/rehooks/awesome-react-hooks",
+    "desc": "Awesome React Hooks"
+  },
+  {
+    "title": "facebookresearch/maskrcnn-benchmark",
+    "url": "https://github.com/facebookresearch/maskrcnn-benchmark",
+    "desc": "Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",
+    "lang": "Python"
+  },
+  {
+    "title": "JessYanCoding/AndroidAutoSize",
+    "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "desc": "🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).",
+    "lang": "Java"
+  },
+  {
+    "title": "open-source-for-science/TensorFlow-Course",
+    "url": "https://github.com/open-source-for-science/TensorFlow-Course",
+    "desc": "Simple and ready-to-use tutorials for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMi/soar",
+    "url": "https://github.com/XiaoMi/soar",
+    "desc": "SQL Optimizer And Rewriter",
+    "lang": "Go"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "kitze/react-hanger",
+    "url": "https://github.com/kitze/react-hanger",
+    "desc": "A small collection of useful hooks for React 16.7",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yyx990803/vue-hooks",
+    "url": "https://github.com/yyx990803/vue-hooks",
+    "desc": "Experimental React hooks implementation in Vue",
+    "lang": "HTML"
+  },
+  {
+    "title": "SCENEE/FloatingPanel",
+    "url": "https://github.com/SCENEE/FloatingPanel",
+    "desc": "A clean and easy-to-use floating panel UI component for iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "Unity-Technologies/FPSSample",
+    "url": "https://github.com/Unity-Technologies/FPSSample",
+    "desc": "A first person multiplayer shooter example project in Unity",
+    "lang": "C#"
+  },
+  {
+    "title": "Tencent/omi",
+    "url": "https://github.com/Tencent/omi",
+    "desc": "Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AcceptedDoge/machine-learning-yearning-cn",
+    "url": "https://github.com/AcceptedDoge/machine-learning-yearning-cn",
+    "desc": "MACHINE LEARNING YEARNING BY ANDREW NG",
+    "lang": "CSS"
+  }
+]
