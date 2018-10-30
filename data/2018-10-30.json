@@ -1,0 +1,148 @@
+[
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "ChrisKnott/Algojammer",
+    "url": "https://github.com/ChrisKnott/Algojammer",
+    "desc": "An experimental code editor for writing algorithms",
+    "lang": "C++"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "Curated list of resources for college students  Show your ❤️ by giving a ⭐️"
+  },
+  {
+    "title": "maps4print/azul",
+    "url": "https://github.com/maps4print/azul",
+    "desc": "Desktop GUI Framework",
+    "lang": "Rust"
+  },
+  {
+    "title": "pytorch/QNNPACK",
+    "url": "https://github.com/pytorch/QNNPACK",
+    "desc": "Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators",
+    "lang": "C"
+  },
+  {
+    "title": "palmerhq/the-platform",
+    "url": "https://github.com/palmerhq/the-platform",
+    "desc": "Web. Components. 😂",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/pennywise",
+    "url": "https://github.com/kamranahmedse/pennywise",
+    "desc": "Cross-platform application to open anything in a floating window",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vespene-io/vespene",
+    "url": "https://github.com/vespene-io/vespene",
+    "desc": "A modern continuous integration, deployment, and self-service automation platform",
+    "lang": "Python"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — future of React 👍 react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "SaeedMalikx/React-Fiber-Architecture",
+    "url": "https://github.com/SaeedMalikx/React-Fiber-Architecture",
+    "desc": "Understanding the structure of React Fiber( walk through and pseudo-code)"
+  },
+  {
+    "title": "gruns/irondb",
+    "url": "https://github.com/gruns/irondb",
+    "desc": "🔩 A relentless key-value store for the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "matthewp/haunted",
+    "url": "https://github.com/matthewp/haunted",
+    "desc": "React's Hooks API implemented for web components",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vergeml/vergeml",
+    "url": "https://github.com/vergeml/vergeml",
+    "desc": "Machine Learning Environment - alpha version",
+    "lang": "Python"
+  },
+  {
+    "title": "akavel/up",
+    "url": "https://github.com/akavel/up",
+    "desc": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview",
+    "lang": "Go"
+  },
+  {
+    "title": "almandin/fuxploider",
+    "url": "https://github.com/almandin/fuxploider",
+    "desc": "File upload vulnerability scanner and exploitation tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "mcastorina/graph-cli",
+    "url": "https://github.com/mcastorina/graph-cli",
+    "desc": "Flexible command line tool to create graphs from CSV data",
+    "lang": "Python"
+  },
+  {
+    "title": "muukii/Pixel",
+    "url": "https://github.com/muukii/Pixel",
+    "desc": "A image editor and engine using CoreImage",
+    "lang": "Swift"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends and family.",
+    "lang": "PHP"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "cjbassi/gotop",
+    "url": "https://github.com/cjbassi/gotop",
+    "desc": "A terminal based graphical activity monitor inspired by gtop and vtop",
+    "lang": "Go"
+  }
+]
