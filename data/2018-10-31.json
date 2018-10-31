@@ -1,0 +1,148 @@
+[
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "kamranahmedse/pennywise",
+    "url": "https://github.com/kamranahmedse/pennywise",
+    "desc": "Cross-platform application to open anything in a floating window",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skidding/jobs-done",
+    "url": "https://github.com/skidding/jobs-done",
+    "desc": "Ritual app for ending the work day inspired by Deep Work",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "Curated list of resources for college students  Show your ❤️ by giving a ⭐️"
+  },
+  {
+    "title": "ChrisKnott/Algojammer",
+    "url": "https://github.com/ChrisKnott/Algojammer",
+    "desc": "An experimental code editor for writing algorithms",
+    "lang": "C++"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yandexdataschool/nlp_course",
+    "url": "https://github.com/yandexdataschool/nlp_course",
+    "desc": "YSDA course in Natural Language Processing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "llSourcell/Learn_Data_Science_in_3_Months",
+    "url": "https://github.com/llSourcell/Learn_Data_Science_in_3_Months",
+    "desc": "This is the Curriculum for Learn Data Science in 3 Months By Siraj Raval on Youtube"
+  },
+  {
+    "title": "GoogleChromeLabs/carlo",
+    "url": "https://github.com/GoogleChromeLabs/carlo",
+    "desc": "Web rendering surface for Node applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Amanieu/hashbrown",
+    "url": "https://github.com/Amanieu/hashbrown",
+    "desc": "Rust port of Google's SwissTable hash map",
+    "lang": "Rust"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — future of React 👍 react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "matthewp/haunted",
+    "url": "https://github.com/matthewp/haunted",
+    "desc": "React's Hooks API implemented for web components",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/westore",
+    "url": "https://github.com/Tencent/westore",
+    "desc": "微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "maps4print/azul",
+    "url": "https://github.com/maps4print/azul",
+    "desc": "Desktop GUI Framework",
+    "lang": "Rust"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "akavel/up",
+    "url": "https://github.com/akavel/up",
+    "desc": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview",
+    "lang": "Go"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "palmerhq/the-platform",
+    "url": "https://github.com/palmerhq/the-platform",
+    "desc": "Web. Components. 😂",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "sarahdayan/dinero.js",
+    "url": "https://github.com/sarahdayan/dinero.js",
+    "desc": "💸 An immutable library to create, calculate and format money.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "almandin/fuxploider",
+    "url": "https://github.com/almandin/fuxploider",
+    "desc": "File upload vulnerability scanner and exploitation tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "gruns/irondb",
+    "url": "https://github.com/gruns/irondb",
+    "desc": "🔩 A relentless key-value store for the browser.",
+    "lang": "JavaScript"
+  }
+]
