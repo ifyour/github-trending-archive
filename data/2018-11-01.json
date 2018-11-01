@@ -1,0 +1,149 @@
+[
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "GoogleChromeLabs/carlo",
+    "url": "https://github.com/GoogleChromeLabs/carlo",
+    "desc": "Web rendering surface for Node applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldfire/howler.js",
+    "url": "https://github.com/goldfire/howler.js",
+    "desc": "Javascript audio library for the modern web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/adanet",
+    "url": "https://github.com/tensorflow/adanet",
+    "desc": "Fast and flexible AutoML with learning guarantees.",
+    "lang": "Python"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/pennywise",
+    "url": "https://github.com/kamranahmedse/pennywise",
+    "desc": "Cross-platform application to open anything in a floating window",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "Curated list of resources for college students  Show your ❤️ by giving a ⭐️"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "barbagroup/CFDPython",
+    "url": "https://github.com/barbagroup/CFDPython",
+    "desc": "A sequence of Jupyter notebooks featuring the 12 Steps to Navier-Stokes http://lorenabarba.com/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "llSourcell/Learn_Data_Science_in_3_Months",
+    "url": "https://github.com/llSourcell/Learn_Data_Science_in_3_Months",
+    "desc": "This is the Curriculum for Learn Data Science in 3 Months By Siraj Raval on Youtube"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yandexdataschool/nlp_course",
+    "url": "https://github.com/yandexdataschool/nlp_course",
+    "desc": "YSDA course in Natural Language Processing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trekhleb/machine-learning-octave",
+    "url": "https://github.com/trekhleb/machine-learning-octave",
+    "desc": "🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained",
+    "lang": "Matlab"
+  },
+  {
+    "title": "Tencent/westore",
+    "url": "https://github.com/Tencent/westore",
+    "desc": "微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sarahdayan/dinero.js",
+    "url": "https://github.com/sarahdayan/dinero.js",
+    "desc": "💸 An immutable library to create, calculate and format money.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skidding/jobs-done",
+    "url": "https://github.com/skidding/jobs-done",
+    "desc": "Ritual app for ending the work day inspired by Deep Work",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "semihalev/sdns",
+    "url": "https://github.com/semihalev/sdns",
+    "desc": "Lightweight, fast recursive dns server with dnssec support",
+    "lang": "Go"
+  },
+  {
+    "title": "chunqiuyiyu/ervy",
+    "url": "https://github.com/chunqiuyiyu/ervy",
+    "desc": "Bring charts to terminal.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spring-cloud-incubator/spring-cloud-alibaba",
+    "url": "https://github.com/spring-cloud-incubator/spring-cloud-alibaba",
+    "desc": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "lang": "Java"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — future of React 👍 react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ChrisKnott/Algojammer",
+    "url": "https://github.com/ChrisKnott/Algojammer",
+    "desc": "An experimental code editor for writing algorithms",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "src-d/go-mysql-server",
+    "url": "https://github.com/src-d/go-mysql-server",
+    "desc": "An extensible MySQL server implementation in Go.",
+    "lang": "Go"
+  }
+]
