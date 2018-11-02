@@ -1,0 +1,148 @@
+[
+  {
+    "title": "GoogleChromeLabs/carlo",
+    "url": "https://github.com/GoogleChromeLabs/carlo",
+    "desc": "Web rendering surface for Node applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "goldfire/howler.js",
+    "url": "https://github.com/goldfire/howler.js",
+    "desc": "Javascript audio library for the modern web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/Horizon",
+    "url": "https://github.com/facebookresearch/Horizon",
+    "desc": "A platform for Applied Reinforcement Learning (Applied RL)",
+    "lang": "Python"
+  },
+  {
+    "title": "akveo/eva-icons",
+    "url": "https://github.com/akveo/eva-icons",
+    "desc": "A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chunqiuyiyu/ervy",
+    "url": "https://github.com/chunqiuyiyu/ervy",
+    "desc": "Bring charts to terminal.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/adanet",
+    "url": "https://github.com/tensorflow/adanet",
+    "desc": "Fast and flexible AutoML with learning guarantees.",
+    "lang": "Python"
+  },
+  {
+    "title": "dianping/cat",
+    "url": "https://github.com/dianping/cat",
+    "desc": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/pennywise",
+    "url": "https://github.com/kamranahmedse/pennywise",
+    "desc": "Cross-platform application to open anything in a floating window",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "Curated list of resources for college students  Show your ❤️ by giving a ⭐️"
+  },
+  {
+    "title": "muukii/Pixel",
+    "url": "https://github.com/muukii/Pixel",
+    "desc": "🎨🖼 An image editor and engine using CoreImage",
+    "lang": "Swift"
+  },
+  {
+    "title": "Tencent/PocketFlow",
+    "url": "https://github.com/Tencent/PocketFlow",
+    "desc": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — future of React 👍 react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "monadgroup/axiom",
+    "url": "https://github.com/monadgroup/axiom",
+    "desc": "A powerful realtime node-based audio synthesizer.",
+    "lang": "C++"
+  },
+  {
+    "title": "LeCoupa/vuedarkmode",
+    "url": "https://github.com/LeCoupa/vuedarkmode",
+    "desc": "Vue Dark Mode | A minimalist dark design system. Designed for the insomniacs who enjoy dark interfaces as much as we do. 🎨",
+    "lang": "Vue"
+  },
+  {
+    "title": "emmawedekind/Front-End-FAQ",
+    "url": "https://github.com/emmawedekind/Front-End-FAQ",
+    "desc": "A place to anonymously ask questions and receive answers from the dev community"
+  },
+  {
+    "title": "llSourcell/Learn_Data_Science_in_3_Months",
+    "url": "https://github.com/llSourcell/Learn_Data_Science_in_3_Months",
+    "desc": "This is the Curriculum for Learn Data Science in 3 Months By Siraj Raval on Youtube"
+  },
+  {
+    "title": "open-source-for-science/TensorFlow-Course",
+    "url": "https://github.com/open-source-for-science/TensorFlow-Course",
+    "desc": "Simple and ready-to-use tutorials for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "ofirpress/YouMayNotNeedAttention",
+    "url": "https://github.com/ofirpress/YouMayNotNeedAttention",
+    "desc": "",
+    "lang": "Python"
+  }
+]
