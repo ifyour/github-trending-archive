@@ -1,0 +1,148 @@
+[
+  {
+    "title": "frank-lam/2019_campus_apply",
+    "url": "https://github.com/frank-lam/2019_campus_apply",
+    "desc": "🚀 Full Stack Developer Tutorial，后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。 from zero to hero."
+  },
+  {
+    "title": "jantic/DeOldify",
+    "url": "https://github.com/jantic/DeOldify",
+    "desc": "A Deep Learning based project for colorizing and restoring old images",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleChromeLabs/carlo",
+    "url": "https://github.com/GoogleChromeLabs/carlo",
+    "desc": "Web rendering surface for Node applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OptimalBits/redbird",
+    "url": "https://github.com/OptimalBits/redbird",
+    "desc": "A modern reverse proxy for node",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "akveo/eva-icons",
+    "url": "https://github.com/akveo/eva-icons",
+    "desc": "A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "daviddao/awful-ai",
+    "url": "https://github.com/daviddao/awful-ai",
+    "desc": "😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness"
+  },
+  {
+    "title": "rodrigo-brito/gocity",
+    "url": "https://github.com/rodrigo-brito/gocity",
+    "desc": "📊 Code City metaphor for visualizing Go source code in 3D",
+    "lang": "Go"
+  },
+  {
+    "title": "glorious-codes/glorious-demo",
+    "url": "https://github.com/glorious-codes/glorious-demo",
+    "desc": "The easiest way to demonstrate your code in action.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bgard6977/depends",
+    "url": "https://github.com/bgard6977/depends",
+    "desc": "The missing linker for the JVM.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "wizicer/FinancialSupportForOpenSource",
+    "url": "https://github.com/wizicer/FinancialSupportForOpenSource",
+    "desc": "开源项目挣钱实用手册"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/PocketFlow",
+    "url": "https://github.com/Tencent/PocketFlow",
+    "desc": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "EventStore/EventStore",
+    "url": "https://github.com/EventStore/EventStore",
+    "desc": "The open-source, functional database with Complex Event Processing in JavaScript.",
+    "lang": "C#"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "Curated list of resources for college students  Show your ❤️ by giving a ⭐️"
+  },
+  {
+    "title": "airbnb/AloeStackView",
+    "url": "https://github.com/airbnb/AloeStackView",
+    "desc": "A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "muukii/Pixel",
+    "url": "https://github.com/muukii/Pixel",
+    "desc": "🎨🖼 An image editor and engine using CoreImage",
+    "lang": "Swift"
+  },
+  {
+    "title": "ChrisKnott/Algojammer",
+    "url": "https://github.com/ChrisKnott/Algojammer",
+    "desc": "An experimental code editor for writing algorithms",
+    "lang": "C++"
+  },
+  {
+    "title": "kamranahmedse/pennywise",
+    "url": "https://github.com/kamranahmedse/pennywise",
+    "desc": "Cross-platform application to open anything in a floating window",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  }
+]
