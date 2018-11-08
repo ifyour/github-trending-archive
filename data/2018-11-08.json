@@ -1,0 +1,148 @@
+[
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "desc": "Command-line JSON processing tool 🔥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "picturepan2/spectre",
+    "url": "https://github.com/picturepan2/spectre",
+    "desc": "Spectre.css - A Lightweight, Responsive and Modern CSS Framework",
+    "lang": "CSS"
+  },
+  {
+    "title": "MorteNoir1/virtualbox_e1000_0day",
+    "url": "https://github.com/MorteNoir1/virtualbox_e1000_0day",
+    "desc": "VirtualBox E1000 Guest-to-Host Escape"
+  },
+  {
+    "title": "akveo/eva-icons",
+    "url": "https://github.com/akveo/eva-icons",
+    "desc": "A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "desc": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "writingink/wink",
+    "url": "https://github.com/writingink/wink",
+    "desc": "A Laravel-based publishing platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌&零件词库、时间抽取、连续英文切割、中文词向量大全、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料。",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows GUI for Clash"
+  },
+  {
+    "title": "enquirer/enquirer",
+    "url": "https://github.com/enquirer/enquirer",
+    "desc": "Stylish, intuitive and user-friendly prompt system.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "k88hudson/git-flight-rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "desc": "Flight rules for git"
+  },
+  {
+    "title": "daviddao/awful-ai",
+    "url": "https://github.com/daviddao/awful-ai",
+    "desc": "😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "GoogleChromeLabs/carlo",
+    "url": "https://github.com/GoogleChromeLabs/carlo",
+    "desc": "Web rendering surface for Node applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "s0md3v/AwesomeXSS",
+    "url": "https://github.com/s0md3v/AwesomeXSS",
+    "desc": "Awesome XSS stuff",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jantic/DeOldify",
+    "url": "https://github.com/jantic/DeOldify",
+    "desc": "A Deep Learning based project for colorizing and restoring old images",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OptimalBits/redbird",
+    "url": "https://github.com/OptimalBits/redbird",
+    "desc": "A modern reverse proxy for node",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "glorious-codes/glorious-demo",
+    "url": "https://github.com/glorious-codes/glorious-demo",
+    "desc": "The easiest way to demonstrate your code in action.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/ice",
+    "url": "https://github.com/alibaba/ice",
+    "desc": "🚀 飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100%",
+    "lang": "JavaScript"
+  }
+]
