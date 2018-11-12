@@ -1,0 +1,151 @@
+[
+  {
+    "title": "s0md3v/XSStrike",
+    "url": "https://github.com/s0md3v/XSStrike",
+    "desc": "Most advanced XSS detection suite.",
+    "lang": "Python"
+  },
+  {
+    "title": "nasa/openmct",
+    "url": "https://github.com/nasa/openmct",
+    "desc": "A web based mission control framework.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tbodt/ish",
+    "url": "https://github.com/tbodt/ish",
+    "desc": "Linux shell for iOS",
+    "lang": "C"
+  },
+  {
+    "title": "LUX-Core/lux",
+    "url": "https://github.com/LUX-Core/lux",
+    "desc": "LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract",
+    "lang": "C++"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为17个章节，20多万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "enquirer/enquirer",
+    "url": "https://github.com/enquirer/enquirer",
+    "desc": "Stylish, intuitive and user-friendly prompt system.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "akveo/eva-icons",
+    "url": "https://github.com/akveo/eva-icons",
+    "desc": "A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NickPiscitelli/Glider.js",
+    "url": "https://github.com/NickPiscitelli/Glider.js",
+    "desc": "A blazingly fast, lightweight, dependency free, minimal carousel with momentum scrolling!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "santinic/pampy",
+    "url": "https://github.com/santinic/pampy",
+    "desc": "Pampy: The Pattern Matching for Python you always dreamed of.",
+    "lang": "Python"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sokra/rawact",
+    "url": "https://github.com/sokra/rawact",
+    "desc": "[POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "desc": "Command-line JSON processing tool 🔥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openai/spinningup",
+    "url": "https://github.com/openai/spinningup",
+    "desc": "An educational resource to help anyone learn deep reinforcement learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "Smilexuhc/Data-Competition-TopSolution",
+    "url": "https://github.com/Smilexuhc/Data-Competition-TopSolution",
+    "desc": "Data competition Top Solution 数据竞赛top解决方案开源整理"
+  },
+  {
+    "title": "atlassian/react-beautiful-dnd",
+    "url": "https://github.com/atlassian/react-beautiful-dnd",
+    "desc": "Beautiful and accessible drag and drop for lists with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "desc": "⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "BachiLi/redner",
+    "url": "https://github.com/BachiLi/redner",
+    "desc": "A differentiable Monte Carlo path tracer",
+    "lang": "PHP"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "yandexdataschool/nlp_course",
+    "url": "https://github.com/yandexdataschool/nlp_course",
+    "desc": "YSDA course in Natural Language Processing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "argoproj/argo",
+    "url": "https://github.com/argoproj/argo",
+    "desc": "Container-native workflows for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/logger",
+    "url": "https://github.com/google/logger",
+    "desc": "Cross platform Go logging library.",
+    "lang": "Go"
+  },
+  {
+    "title": "dvorka/mindforger",
+    "url": "https://github.com/dvorka/mindforger",
+    "desc": "Thinking notebook and Markdown IDE.",
+    "lang": "C++"
+  }
+]
