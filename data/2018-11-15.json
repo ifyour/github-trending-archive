@@ -1,0 +1,150 @@
+[
+  {
+    "title": "GoogleChromeLabs/squoosh",
+    "url": "https://github.com/GoogleChromeLabs/squoosh",
+    "desc": "Make images smaller using best-in-class codecs, right in the browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LUX-Core/lux",
+    "url": "https://github.com/LUX-Core/lux",
+    "desc": "LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)",
+    "lang": "C++"
+  },
+  {
+    "title": "green7ea/cpp-compilation",
+    "url": "https://github.com/green7ea/cpp-compilation",
+    "desc": "A short description of the C++ build process",
+    "lang": "CSS"
+  },
+  {
+    "title": "ianstormtaylor/slate",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "desc": "A completely customizable framework for building rich text editors.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "astefanutti/scratch-node",
+    "url": "https://github.com/astefanutti/scratch-node",
+    "desc": "Scratch Node.js Docker Images",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "tensorspace-team/tensorspace",
+    "url": "https://github.com/tensorspace-team/tensorspace",
+    "desc": "Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "corretto/corretto-8",
+    "url": "https://github.com/corretto/corretto-8",
+    "desc": "Corretto 8 (Preview)",
+    "lang": "Java"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为17个章节，20多万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "mxgmn/WaveFunctionCollapse",
+    "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "desc": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.",
+    "lang": "C#"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "desc": "Command-line JSON viewer 🔥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "harelba/q",
+    "url": "https://github.com/harelba/q",
+    "desc": "q - Run SQL directly on CSV or TSV files",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/golua",
+    "url": "https://github.com/Azure/golua",
+    "desc": "A Lua 5.3 engine implemented in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "maxmcd/webtty",
+    "url": "https://github.com/maxmcd/webtty",
+    "desc": "Share a terminal session over WebRTC",
+    "lang": "Go"
+  },
+  {
+    "title": "GoogleChromeLabs/ProjectVisBug",
+    "url": "https://github.com/GoogleChromeLabs/ProjectVisBug",
+    "desc": "🎨 Make any webpage feel like an artboard, download extension here https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yangchong211/YCBlogs",
+    "url": "https://github.com/yangchong211/YCBlogs",
+    "desc": "技术博客笔记大汇总【15年10月到至今】，包括Java基础及深入知识点，Android技术博客，Python，Go学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计47篇[近20万字]，转载请注明出处，谢谢！"
+  },
+  {
+    "title": "apple/sourcekit-lsp",
+    "url": "https://github.com/apple/sourcekit-lsp",
+    "desc": "Language Server Protocol implementation for Swift and C-based languages",
+    "lang": "Swift"
+  },
+  {
+    "title": "unifiedjs/unified",
+    "url": "https://github.com/unifiedjs/unified",
+    "desc": "☔ friendly interface backed by an ecosystem of plugins built for creating and manipulating content",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "s0md3v/XSStrike",
+    "url": "https://github.com/s0md3v/XSStrike",
+    "desc": "Most advanced XSS detection suite.",
+    "lang": "Python"
+  },
+  {
+    "title": "yandexdataschool/nlp_course",
+    "url": "https://github.com/yandexdataschool/nlp_course",
+    "desc": "YSDA course in Natural Language Processing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "atlassian/react-beautiful-dnd",
+    "url": "https://github.com/atlassian/react-beautiful-dnd",
+    "desc": "Beautiful and accessible drag and drop for lists with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "marian42/wavefunctioncollapse",
+    "url": "https://github.com/marian42/wavefunctioncollapse",
+    "desc": "Walk through an infinite, procedurally generated city",
+    "lang": "C#"
+  },
+  {
+    "title": "GcsSloop/AndroidNote",
+    "url": "https://github.com/GcsSloop/AndroidNote",
+    "desc": "安卓学习笔记",
+    "lang": "Java"
+  },
+  {
+    "title": "tbodt/ish",
+    "url": "https://github.com/tbodt/ish",
+    "desc": "Linux shell for iOS",
+    "lang": "C"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Curated list of awesome lists"
+  },
+  {
+    "title": "Bo0oM/PHP_imap_open_exploit",
+    "url": "https://github.com/Bo0oM/PHP_imap_open_exploit",
+    "desc": "Bypassing disabled exec functions in PHP via imap_open",
+    "lang": "PHP"
+  }
+]
