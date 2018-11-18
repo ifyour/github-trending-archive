@@ -1,0 +1,151 @@
+[
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "zserge/lorca",
+    "url": "https://github.com/zserge/lorca",
+    "desc": "Build cross-platform modern desktop apps in Go + HTML5",
+    "lang": "Go"
+  },
+  {
+    "title": "valentinxxx/nginxconfig.io",
+    "url": "https://github.com/valentinxxx/nginxconfig.io",
+    "desc": "⚙️ NGiИX config generator generator on steroids 💉",
+    "lang": "HTML"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌&零件词库、时间抽取、连续英文切割、中文词向量大全、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据。",
+    "lang": "Python"
+  },
+  {
+    "title": "adjoint-io/raft",
+    "url": "https://github.com/adjoint-io/raft",
+    "desc": "Raft Consensus Algorithm",
+    "lang": "Haskell"
+  },
+  {
+    "title": "ianstormtaylor/slate",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "desc": "A completely customizable framework for building rich text editors.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GoogleChromeLabs/squoosh",
+    "url": "https://github.com/GoogleChromeLabs/squoosh",
+    "desc": "Make images smaller using best-in-class codecs, right in the browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "M4cs/BabySploit",
+    "url": "https://github.com/M4cs/BabySploit",
+    "desc": "BabySploit Beginner Pentesting Toolkit/Framework Written in Python",
+    "lang": "HTML"
+  },
+  {
+    "title": "Azure/golua",
+    "url": "https://github.com/Azure/golua",
+    "desc": "A Lua 5.3 engine implemented in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of public JSON APIs for use in web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "shellscape/gmail-classic",
+    "url": "https://github.com/shellscape/gmail-classic",
+    "desc": "CSS for reverting Gmail to the Classic Theme",
+    "lang": "CSS"
+  },
+  {
+    "title": "benhoyt/goawk",
+    "url": "https://github.com/benhoyt/goawk",
+    "desc": "GoAWK: an AWK interpreter written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "desc": "BYOB (Build Your Own Botnet)",
+    "lang": "Python"
+  },
+  {
+    "title": "rtctunnel/rtctunnel",
+    "url": "https://github.com/rtctunnel/rtctunnel",
+    "desc": "build network tunnels over WebRTC",
+    "lang": "Go"
+  },
+  {
+    "title": "spotify/chartify",
+    "url": "https://github.com/spotify/chartify",
+    "desc": "Python library that makes it easy for data scientists to create charts.",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ajinabraham/CMSScan",
+    "url": "https://github.com/ajinabraham/CMSScan",
+    "desc": "CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues",
+    "lang": "CSS"
+  },
+  {
+    "title": "harelba/q",
+    "url": "https://github.com/harelba/q",
+    "desc": "q - Run SQL directly on CSV or TSV files",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "geeeeeeeeek/git-recipes",
+    "url": "https://github.com/geeeeeeeeek/git-recipes",
+    "desc": "🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程."
+  },
+  {
+    "title": "joshfarrant/shortcuts-js",
+    "url": "https://github.com/joshfarrant/shortcuts-js",
+    "desc": "A JavaScript iOS 12 Shortcuts creator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "uber/makisu",
+    "url": "https://github.com/uber/makisu",
+    "desc": "Fast and flexible Docker image building tool, works on OSX and in containerized environments like Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorspace-team/tensorspace",
+    "url": "https://github.com/tensorspace-team/tensorspace",
+    "desc": "Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "desc": "Terminal JSON viewer 🔥",
+    "lang": "JavaScript"
+  }
+]
