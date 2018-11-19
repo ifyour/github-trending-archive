@@ -1,0 +1,148 @@
+[
+  {
+    "title": "karanchahal/DoodleMaster",
+    "url": "https://github.com/karanchahal/DoodleMaster",
+    "desc": "Don't code your UI, Draw it !",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "bodil/typed-html",
+    "url": "https://github.com/bodil/typed-html",
+    "desc": "Type checked JSX for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "valentinxxx/nginxconfig.io",
+    "url": "https://github.com/valentinxxx/nginxconfig.io",
+    "desc": "⚙️ NGiИX config generator generator on steroids 💉",
+    "lang": "HTML"
+  },
+  {
+    "title": "Kobzol/hardware-effects",
+    "url": "https://github.com/Kobzol/hardware-effects",
+    "desc": "Demonstration of various hardware effects.",
+    "lang": "C++"
+  },
+  {
+    "title": "zserge/lorca",
+    "url": "https://github.com/zserge/lorca",
+    "desc": "Build cross-platform modern desktop apps in Go + HTML5",
+    "lang": "Go"
+  },
+  {
+    "title": "uber/makisu",
+    "url": "https://github.com/uber/makisu",
+    "desc": "Fast and flexible Docker image building tool, works on OSX and in containerized environments like Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "infosecn1nja/AD-Attack-Defense",
+    "url": "https://github.com/infosecn1nja/AD-Attack-Defense",
+    "desc": "Active Directory Security For Red & Blue Team"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌&零件词库、时间抽取、连续英文切割、中文词向量大全、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据。",
+    "lang": "Python"
+  },
+  {
+    "title": "ianstormtaylor/slate",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "desc": "A completely customizable framework for building rich text editors.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "GoogleChromeLabs/squoosh",
+    "url": "https://github.com/GoogleChromeLabs/squoosh",
+    "desc": "Make images smaller using best-in-class codecs, right in the browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "desc": "BYOB (Build Your Own Botnet)",
+    "lang": "Python"
+  },
+  {
+    "title": "Qihoo360/wayne",
+    "url": "https://github.com/Qihoo360/wayne",
+    "desc": "Web UI for Kubernetes multi-clusters",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "ekzhu/SetSimilaritySearch",
+    "url": "https://github.com/ekzhu/SetSimilaritySearch",
+    "desc": "All-pair set similarity search on millions of sets in Python and on a laptop (faster than MinHash LSH)",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "snoopysecurity/awesome-burp-extensions",
+    "url": "https://github.com/snoopysecurity/awesome-burp-extensions",
+    "desc": "A curated list of amazingly awesome Burp Extensions"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "Azure/golua",
+    "url": "https://github.com/Azure/golua",
+    "desc": "A Lua 5.3 engine implemented in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of public JSON APIs for use in web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "harelba/q",
+    "url": "https://github.com/harelba/q",
+    "desc": "q - Run SQL directly on CSV or TSV files",
+    "lang": "Python"
+  },
+  {
+    "title": "valdrinkoshi/virtual-scroller",
+    "url": "https://github.com/valdrinkoshi/virtual-scroller",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  }
+]
