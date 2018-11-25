@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "desc": "🐬 The fastest terminal file manager ever written.",
+    "lang": "C"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cleardusk/3DDFA",
+    "url": "https://github.com/cleardusk/3DDFA",
+    "desc": "The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.",
+    "lang": "Python"
+  },
+  {
+    "title": "nakov/practical-cryptography-for-developers-book",
+    "url": "https://github.com/nakov/practical-cryptography-for-developers-book",
+    "desc": "Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures",
+    "lang": "CSS"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "Humpheh/goboy",
+    "url": "https://github.com/Humpheh/goboy",
+    "desc": "Multi-platform Nintendo Game Boy Color emulator written in go",
+    "lang": "Go"
+  },
+  {
+    "title": "valentinxxx/nginxconfig.io",
+    "url": "https://github.com/valentinxxx/nginxconfig.io",
+    "desc": "⚙️ NGiИX config generator generator on steroids 💉",
+    "lang": "HTML"
+  },
+  {
+    "title": "pytroll/satpy",
+    "url": "https://github.com/pytroll/satpy",
+    "desc": "Python package for earth-observing satellite data processing",
+    "lang": "Python"
+  },
+  {
+    "title": "developit/htm",
+    "url": "https://github.com/developit/htm",
+    "desc": "Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chrisdiana/cms.js",
+    "url": "https://github.com/chrisdiana/cms.js",
+    "desc": "Client-Side JavaScript Site Generator",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kgretzky/evilginx2",
+    "url": "https://github.com/kgretzky/evilginx2",
+    "desc": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "lang": "Go"
+  },
+  {
+    "title": "plouc/nivo",
+    "url": "https://github.com/plouc/nivo",
+    "desc": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "buzzfeed/sso",
+    "url": "https://github.com/buzzfeed/sso",
+    "desc": "sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "ory/hydra",
+    "url": "https://github.com/ory/hydra",
+    "desc": "OpenID Connect certified OAuth2 Server - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Curated list of awesome lists"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  }
+]
