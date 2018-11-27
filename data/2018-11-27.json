@@ -1,0 +1,150 @@
+[
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zeit/ncc",
+    "url": "https://github.com/zeit/ncc",
+    "desc": "Node.js Compiler Collection",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MagicalTux/goro",
+    "url": "https://github.com/MagicalTux/goro",
+    "desc": "PHP in Go",
+    "lang": "PHP"
+  },
+  {
+    "title": "bvaughn/progress-estimator",
+    "url": "https://github.com/bvaughn/progress-estimator",
+    "desc": "Logs a progress bar and estimation for how long a Promise will take to complete",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bagder/http3-explained",
+    "url": "https://github.com/bagder/http3-explained",
+    "desc": "A document describing the HTTP/3 and QUIC protocols"
+  },
+  {
+    "title": "facebook/zstd",
+    "url": "https://github.com/facebook/zstd",
+    "desc": "Zstandard - Fast real-time compression algorithm",
+    "lang": "C"
+  },
+  {
+    "title": "nakov/practical-cryptography-for-developers-book",
+    "url": "https://github.com/nakov/practical-cryptography-for-developers-book",
+    "desc": "Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures",
+    "lang": "CSS"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "desc": "🐬 The fastest terminal file manager ever written.",
+    "lang": "C"
+  },
+  {
+    "title": "1991viet/QuickDraw",
+    "url": "https://github.com/1991viet/QuickDraw",
+    "desc": "Implementation of Quickdraw - an online game developed by Google",
+    "lang": "Python"
+  },
+  {
+    "title": "valentinxxx/nginxconfig.io",
+    "url": "https://github.com/valentinxxx/nginxconfig.io",
+    "desc": "⚙️ NGiИX config generator generator on steroids 💉",
+    "lang": "HTML"
+  },
+  {
+    "title": "chrisdiana/cms.js",
+    "url": "https://github.com/chrisdiana/cms.js",
+    "desc": "Client-Side JavaScript Site Generator",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dominictarr/event-stream",
+    "url": "https://github.com/dominictarr/event-stream",
+    "desc": "EventStream is like functional programming meets IO",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "developit/htm",
+    "url": "https://github.com/developit/htm",
+    "desc": "Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "linlinjava/litemall",
+    "url": "https://github.com/linlinjava/litemall",
+    "desc": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端",
+    "lang": "Java"
+  },
+  {
+    "title": "BcRikko/NES.css",
+    "url": "https://github.com/BcRikko/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Humpheh/goboy",
+    "url": "https://github.com/Humpheh/goboy",
+    "desc": "Multi-platform Nintendo Game Boy Color emulator written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "akveo/eva-icons",
+    "url": "https://github.com/akveo/eva-icons",
+    "desc": "A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.",
+    "lang": "TypeScript"
+  }
+]
