@@ -1,0 +1,146 @@
+[
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "liamg/aminal",
+    "url": "https://github.com/liamg/aminal",
+    "desc": "Golang terminal emulator from scratch",
+    "lang": "Go"
+  },
+  {
+    "title": "afshinea/stanford-cs-230-deep-learning",
+    "url": "https://github.com/afshinea/stanford-cs-230-deep-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 230 Deep Learning"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+    "lang": "Python"
+  },
+  {
+    "title": "diveintodeeplearning/d2l-zh",
+    "url": "https://github.com/diveintodeeplearning/d2l-zh",
+    "desc": "《动手学深度学习》",
+    "lang": "Python"
+  },
+  {
+    "title": "Spandan-Madan/Me_Bot",
+    "url": "https://github.com/Spandan-Madan/Me_Bot",
+    "desc": "Build a bot that speaks like you!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CSAILVision/gandissect",
+    "url": "https://github.com/CSAILVision/gandissect",
+    "desc": "Pytorch-based tools for visualizing and understanding the neurons of a GAN. https://gandissect.csail.mit.edu/",
+    "lang": "Python"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BcRikko/NES.css",
+    "url": "https://github.com/BcRikko/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "garychowcmu/daizhigev20",
+    "url": "https://github.com/garychowcmu/daizhigev20",
+    "desc": "殆知阁古代文献"
+  },
+  {
+    "title": "diveintodeeplearning/d2l-en",
+    "url": "https://github.com/diveintodeeplearning/d2l-en",
+    "desc": "Dive into Deep Learning (CV chapters coming soon)",
+    "lang": "Python"
+  },
+  {
+    "title": "zeit/ncc",
+    "url": "https://github.com/zeit/ncc",
+    "desc": "Node.js Compiler Collection",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "bagder/http3-explained",
+    "url": "https://github.com/bagder/http3-explained",
+    "desc": "A document describing the HTTP/3 and QUIC protocols"
+  },
+  {
+    "title": "nervosnetwork/ckb",
+    "url": "https://github.com/nervosnetwork/ckb",
+    "desc": "Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.",
+    "lang": "Rust"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Curated list of awesome lists"
+  },
+  {
+    "title": "nikolas/github-drama",
+    "url": "https://github.com/nikolas/github-drama",
+    "desc": "locked and limited conversation to collaborators"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "bvaughn/progress-estimator",
+    "url": "https://github.com/bvaughn/progress-estimator",
+    "desc": "Logs a progress bar and estimation for how long a Promise will take to complete",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "subethaedit/SubEthaEdit",
+    "url": "https://github.com/subethaedit/SubEthaEdit",
+    "desc": "General purpose plain text editor for macOS. Widely known for its live collaboration feature.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "MagicalTux/goro",
+    "url": "https://github.com/MagicalTux/goro",
+    "desc": "PHP in Go",
+    "lang": "PHP"
+  }
+]
