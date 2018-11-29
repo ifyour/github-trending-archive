@@ -1,0 +1,149 @@
+[
+  {
+    "title": "BcRikko/NES.css",
+    "url": "https://github.com/BcRikko/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "afshinea/stanford-cs-230-deep-learning",
+    "url": "https://github.com/afshinea/stanford-cs-230-deep-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 230 Deep Learning"
+  },
+  {
+    "title": "diveintodeeplearning/d2l-zh",
+    "url": "https://github.com/diveintodeeplearning/d2l-zh",
+    "desc": "《动手学深度学习》",
+    "lang": "Python"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "cssanimation/css-animation-101",
+    "url": "https://github.com/cssanimation/css-animation-101",
+    "desc": "Learn how to bring animation to your web projects",
+    "lang": "CSS"
+  },
+  {
+    "title": "rampatra/wedding-website",
+    "url": "https://github.com/rampatra/wedding-website",
+    "desc": "Our Wedding Website 👫",
+    "lang": "HTML"
+  },
+  {
+    "title": "subethaedit/SubEthaEdit",
+    "url": "https://github.com/subethaedit/SubEthaEdit",
+    "desc": "General purpose plain text editor for macOS. Widely known for its live collaboration feature.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "leisurelicht/wtfpython-cn",
+    "url": "https://github.com/leisurelicht/wtfpython-cn",
+    "desc": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "liamg/aminal",
+    "url": "https://github.com/liamg/aminal",
+    "desc": "Golang terminal emulator from scratch",
+    "lang": "Go"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+    "lang": "Python"
+  },
+  {
+    "title": "resilience4j/resilience4j",
+    "url": "https://github.com/resilience4j/resilience4j",
+    "desc": "Resilience4j is a fault tolerance library designed for Java8 and functional programming",
+    "lang": "Java"
+  },
+  {
+    "title": "feross/thanks",
+    "url": "https://github.com/feross/thanks",
+    "desc": "🙌 Give thanks to the open source maintainers you depend on! ✨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "knsv/mermaid",
+    "url": "https://github.com/knsv/mermaid",
+    "desc": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CSAILVision/gandissect",
+    "url": "https://github.com/CSAILVision/gandissect",
+    "desc": "Pytorch-based tools for visualizing and understanding the neurons of a GAN. https://gandissect.csail.mit.edu/",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "desc": "Tools for capturing and analysing keyboard input paired with microphone capture",
+    "lang": "C++"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zeit/ncc",
+    "url": "https://github.com/zeit/ncc",
+    "desc": "Node.js Compiler Collection",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nikolas/github-drama",
+    "url": "https://github.com/nikolas/github-drama",
+    "desc": "locked and limited conversation to collaborators"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  }
+]
