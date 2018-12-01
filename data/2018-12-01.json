@@ -1,0 +1,149 @@
+[
+  {
+    "title": "BcRikko/NES.css",
+    "url": "https://github.com/BcRikko/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "leisurelicht/wtfpython-cn",
+    "url": "https://github.com/leisurelicht/wtfpython-cn",
+    "desc": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "cssanimation/css-animation-101",
+    "url": "https://github.com/cssanimation/css-animation-101",
+    "desc": "Learn how to bring animation to your web projects",
+    "lang": "CSS"
+  },
+  {
+    "title": "withspectrum/spectrum",
+    "url": "https://github.com/withspectrum/spectrum",
+    "desc": "Simple, powerful online communities.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "pgorczak/srslte-docker-emulated",
+    "url": "https://github.com/pgorczak/srslte-docker-emulated",
+    "desc": "Minimal end-to-end LTE. Dockerized and emulated radio over shared memory.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "olifolkerd/tabulator",
+    "url": "https://github.com/olifolkerd/tabulator",
+    "desc": "Interactive Tables and Data Grids for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "afshinea/stanford-cs-230-deep-learning",
+    "url": "https://github.com/afshinea/stanford-cs-230-deep-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 230 Deep Learning"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "objectbox/objectbox-go",
+    "url": "https://github.com/objectbox/objectbox-go",
+    "desc": "ObjectBox Go - persisting your Go structs/objects superfast and simple",
+    "lang": "Go"
+  },
+  {
+    "title": "Bo0oM/fuzz.txt",
+    "url": "https://github.com/Bo0oM/fuzz.txt",
+    "desc": "Potentially dangerous files"
+  },
+  {
+    "title": "crazyandcoder/kindle_free_books",
+    "url": "https://github.com/crazyandcoder/kindle_free_books",
+    "desc": "免费的Kindle电子书资源，不定期更新..."
+  },
+  {
+    "title": "diveintodeeplearning/d2l-zh",
+    "url": "https://github.com/diveintodeeplearning/d2l-zh",
+    "desc": "《动手学深度学习》",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "desc": "Tools for capturing and analysing keyboard input paired with microphone capture",
+    "lang": "C++"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "piotte13/SIMD-Visualiser",
+    "url": "https://github.com/piotte13/SIMD-Visualiser",
+    "desc": "A tool to graphically visualize SIMD code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kakao/khaiii",
+    "url": "https://github.com/kakao/khaiii",
+    "desc": "Kakao Hangul Analyzer III",
+    "lang": "C++"
+  },
+  {
+    "title": "bvaughn/progress-estimator",
+    "url": "https://github.com/bvaughn/progress-estimator",
+    "desc": "Logs a progress bar and estimation for how long a Promise will take to complete",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LibrePCB/LibrePCB",
+    "url": "https://github.com/LibrePCB/LibrePCB",
+    "desc": "A powerful, innovative and intuitive EDA tool for everyone!",
+    "lang": "C++"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-firefox",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-firefox",
+    "desc": "Bypass Paywalls for Firefox",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaredrummler/Cyanea",
+    "url": "https://github.com/jaredrummler/Cyanea",
+    "desc": "A theme engine for Android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "liamg/aminal",
+    "url": "https://github.com/liamg/aminal",
+    "desc": "Golang terminal emulator from scratch",
+    "lang": "Go"
+  }
+]
