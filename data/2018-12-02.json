@@ -1,0 +1,148 @@
+[
+  {
+    "title": "BcRikko/NES.css",
+    "url": "https://github.com/BcRikko/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "pim-book/programmers-introduction-to-mathematics",
+    "url": "https://github.com/pim-book/programmers-introduction-to-mathematics",
+    "desc": "Code for A Programmer's Introduction to Mathematics",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ithinco/i-am-chinese-the-dragonfly-must-go-on",
+    "url": "https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on",
+    "desc": "A response to “We are Google employees, Google must drop DragonFly”"
+  },
+  {
+    "title": "cssanimation/css-animation-101",
+    "url": "https://github.com/cssanimation/css-animation-101",
+    "desc": "Learn how to bring animation to your web projects",
+    "lang": "CSS"
+  },
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "desc": "Tools for capturing and analysing keyboard input paired with microphone capture",
+    "lang": "C++"
+  },
+  {
+    "title": "leisurelicht/wtfpython-cn",
+    "url": "https://github.com/leisurelicht/wtfpython-cn",
+    "desc": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "huxingyi/dust3d",
+    "url": "https://github.com/huxingyi/dust3d",
+    "desc": "🐪 Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.",
+    "lang": "C++"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "withspectrum/spectrum",
+    "url": "https://github.com/withspectrum/spectrum",
+    "desc": "Simple, powerful online communities.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "olifolkerd/tabulator",
+    "url": "https://github.com/olifolkerd/tabulator",
+    "desc": "Interactive Tables and Data Grids for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "afshinea/stanford-cs-230-deep-learning",
+    "url": "https://github.com/afshinea/stanford-cs-230-deep-learning",
+    "desc": "VIP cheatsheets for Stanford's CS 230 Deep Learning"
+  },
+  {
+    "title": "diveintodeeplearning/d2l-zh",
+    "url": "https://github.com/diveintodeeplearning/d2l-zh",
+    "desc": "《动手学深度学习》",
+    "lang": "Python"
+  },
+  {
+    "title": "oxplot/pdftilecut",
+    "url": "https://github.com/oxplot/pdftilecut",
+    "desc": "pdftilecut lets you sub-divide a PDF page(s) into smaller pages so you can print them on small form printers.",
+    "lang": "Go"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "crazyandcoder/kindle_free_books",
+    "url": "https://github.com/crazyandcoder/kindle_free_books",
+    "desc": "免费的Kindle电子书资源，不定期更新..."
+  },
+  {
+    "title": "bvaughn/progress-estimator",
+    "url": "https://github.com/bvaughn/progress-estimator",
+    "desc": "Logs a progress bar and estimation for how long a Promise will take to complete",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gaearon/overreacted.io",
+    "url": "https://github.com/gaearon/overreacted.io",
+    "desc": "ignore me",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kennethreitz/responder",
+    "url": "https://github.com/kennethreitz/responder",
+    "desc": "a familiar HTTP Service Framework for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  }
+]
