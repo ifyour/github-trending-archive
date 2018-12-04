@@ -1,0 +1,150 @@
+[
+  {
+    "title": "NVIDIAGameWorks/PhysX-3.4",
+    "url": "https://github.com/NVIDIAGameWorks/PhysX-3.4",
+    "desc": "NVIDIA PhysX SDK 3.4",
+    "lang": "C++"
+  },
+  {
+    "title": "gaearon/overreacted.io",
+    "url": "https://github.com/gaearon/overreacted.io",
+    "desc": "Personal blog by Dan Abramov.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BcRikko/NES.css",
+    "url": "https://github.com/BcRikko/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "cantino/mcfly",
+    "url": "https://github.com/cantino/mcfly",
+    "desc": "Fly through your shell history. Great Scott!",
+    "lang": "Rust"
+  },
+  {
+    "title": "Microsoft/SEAL",
+    "url": "https://github.com/Microsoft/SEAL",
+    "desc": "Simple Encrypted Arithmetic Library (SEAL) is an easy-to-use but powerful homomorphic encryption library written in C++. It supports both the BFV and the CKKS encryption schemes.",
+    "lang": "C++"
+  },
+  {
+    "title": "ithinco/i-am-chinese-the-dragonfly-must-go-on",
+    "url": "https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on",
+    "desc": "A response to “We are Google employees, Google must drop DragonFly”"
+  },
+  {
+    "title": "Microsoft/Ethr",
+    "url": "https://github.com/Microsoft/Ethr",
+    "desc": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+    "lang": "Go"
+  },
+  {
+    "title": "OpenMined/PySyft",
+    "url": "https://github.com/OpenMined/PySyft",
+    "desc": "A library for encrypted, privacy preserving deep learning",
+    "lang": "Python"
+  },
+  {
+    "title": "pim-book/programmers-introduction-to-mathematics",
+    "url": "https://github.com/pim-book/programmers-introduction-to-mathematics",
+    "desc": "Code for A Programmer's Introduction to Mathematics",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "leisurelicht/wtfpython-cn",
+    "url": "https://github.com/leisurelicht/wtfpython-cn",
+    "desc": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "desc": "Tools for capturing and analysing keyboard input paired with microphone capture",
+    "lang": "C++"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "A collection of surprising Python snippets and lesser-known features.",
+    "lang": "Python"
+  },
+  {
+    "title": "cssanimation/css-animation-101",
+    "url": "https://github.com/cssanimation/css-animation-101",
+    "desc": "Learn how to bring animation to your web projects",
+    "lang": "CSS"
+  },
+  {
+    "title": "oussamahamdaoui/forgJs",
+    "url": "https://github.com/oussamahamdaoui/forgJs",
+    "desc": "ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "stripe/skycfg",
+    "url": "https://github.com/stripe/skycfg",
+    "desc": "Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages.",
+    "lang": "Go"
+  },
+  {
+    "title": "pointfreeco/swift-snapshot-testing",
+    "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "desc": "📸 Delightful Swift snapshot testing.",
+    "lang": "Swift"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "vladocar/screenshoteer",
+    "url": "https://github.com/vladocar/screenshoteer",
+    "desc": "Make website screenshots and mobile emulations from the command line.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  }
+]
