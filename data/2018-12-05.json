@@ -1,0 +1,151 @@
+[
+  {
+    "title": "dotnet/wpf",
+    "url": "https://github.com/dotnet/wpf",
+    "desc": "This repo contains Windows Presentation Foundation (WPF) for .NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet/winforms",
+    "url": "https://github.com/dotnet/winforms",
+    "desc": "This repo contains Windows Forms for .NET Core.",
+    "lang": "C#"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Microsoft/microsoft-ui-xaml",
+    "url": "https://github.com/Microsoft/microsoft-ui-xaml",
+    "desc": "Backward-compatible versions of Windows UI features including UWP XAML controls, and Fluent styles and materials.",
+    "lang": "C#"
+  },
+  {
+    "title": "beyondcode/laravel-websockets",
+    "url": "https://github.com/beyondcode/laravel-websockets",
+    "desc": "Websockets for Laravel. Done right.",
+    "lang": "PHP"
+  },
+  {
+    "title": "Microsoft/Ethr",
+    "url": "https://github.com/Microsoft/Ethr",
+    "desc": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+    "lang": "Go"
+  },
+  {
+    "title": "vladocar/screenshoteer",
+    "url": "https://github.com/vladocar/screenshoteer",
+    "desc": "Make website screenshots and mobile emulations from the command line.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "crossplaneio/crossplane",
+    "url": "https://github.com/crossplaneio/crossplane",
+    "desc": "An Open Source Multicloud Control Plane",
+    "lang": "Go"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "A collection of surprising Python snippets and lesser-known features.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/flutter-desktop-embedding",
+    "url": "https://github.com/google/flutter-desktop-embedding",
+    "desc": "Desktop implementations of the Flutter embedding API",
+    "lang": "C++"
+  },
+  {
+    "title": "BcRikko/NES.css",
+    "url": "https://github.com/BcRikko/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "NVIDIAGameWorks/PhysX-3.4",
+    "url": "https://github.com/NVIDIAGameWorks/PhysX-3.4",
+    "desc": "NVIDIA PhysX SDK 3.4",
+    "lang": "C++"
+  },
+  {
+    "title": "leisurelicht/wtfpython-cn",
+    "url": "https://github.com/leisurelicht/wtfpython-cn",
+    "desc": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "cantino/mcfly",
+    "url": "https://github.com/cantino/mcfly",
+    "desc": "Fly through your shell history. Great Scott!",
+    "lang": "Rust"
+  },
+  {
+    "title": "gaearon/overreacted.io",
+    "url": "https://github.com/gaearon/overreacted.io",
+    "desc": "Personal blog by Dan Abramov.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "joelibaceta/video-to-ascii",
+    "url": "https://github.com/joelibaceta/video-to-ascii",
+    "desc": "It is a simple python package to play videos in the terminal using characters as pixels",
+    "lang": "Python"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "cssanimation/css-animation-101",
+    "url": "https://github.com/cssanimation/css-animation-101",
+    "desc": "Learn how to bring animation to your web projects",
+    "lang": "CSS"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "OpenMined/PySyft",
+    "url": "https://github.com/OpenMined/PySyft",
+    "desc": "A library for encrypted, privacy preserving deep learning",
+    "lang": "Python"
+  },
+  {
+    "title": "pim-book/programmers-introduction-to-mathematics",
+    "url": "https://github.com/pim-book/programmers-introduction-to-mathematics",
+    "desc": "Code for A Programmer's Introduction to Mathematics",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "darkreader/darkreader",
+    "url": "https://github.com/darkreader/darkreader",
+    "desc": "Dark Reader Chrome and Firefox extension",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "2d-inc/Flare-Flutter",
+    "url": "https://github.com/2d-inc/Flare-Flutter",
+    "desc": "",
+    "lang": "Dart"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
