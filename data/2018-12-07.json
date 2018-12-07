@@ -1,0 +1,149 @@
+[
+  {
+    "title": "MicrosoftEdge/MSEdge",
+    "url": "https://github.com/MicrosoftEdge/MSEdge",
+    "desc": "Microsoft Edge"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "Microsoft/Ethr",
+    "url": "https://github.com/Microsoft/Ethr",
+    "desc": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+    "lang": "Go"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "A collection of surprising Python snippets and lesser-known features.",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleChrome/puppeteer",
+    "url": "https://github.com/GoogleChrome/puppeteer",
+    "desc": "Headless Chrome Node API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nostalgic-css/NES.css",
+    "url": "https://github.com/nostalgic-css/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "SplashCodes/JAViewer",
+    "url": "https://github.com/SplashCodes/JAViewer",
+    "desc": "更优雅的驾车体验",
+    "lang": "Java"
+  },
+  {
+    "title": "leisurelicht/wtfpython-cn",
+    "url": "https://github.com/leisurelicht/wtfpython-cn",
+    "desc": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "CreativeIT/material-angular-dashboard",
+    "url": "https://github.com/CreativeIT/material-angular-dashboard",
+    "desc": "Material Angular Admin Template",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "zeit/ncc",
+    "url": "https://github.com/zeit/ncc",
+    "desc": "Node.js Compiler Collection",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamich/awesome-styleguides",
+    "url": "https://github.com/streamich/awesome-styleguides",
+    "desc": "A curated list of UI styleguides — 😎💄"
+  },
+  {
+    "title": "beyondcode/laravel-websockets",
+    "url": "https://github.com/beyondcode/laravel-websockets",
+    "desc": "Websockets for Laravel. Done right.",
+    "lang": "PHP"
+  },
+  {
+    "title": "vladocar/screenshoteer",
+    "url": "https://github.com/vladocar/screenshoteer",
+    "desc": "Make website screenshots and mobile emulations from the command line.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/wpf",
+    "url": "https://github.com/dotnet/wpf",
+    "desc": "WPF is a .NET Core UI framework for building Windows desktop applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "tensorflow/ranking",
+    "url": "https://github.com/tensorflow/ranking",
+    "desc": "Learning to Rank in TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "rstudio/gt",
+    "url": "https://github.com/rstudio/gt",
+    "desc": "Easily generate information-rich, publication-quality tables from R",
+    "lang": "R"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "docker/compose-on-kubernetes",
+    "url": "https://github.com/docker/compose-on-kubernetes",
+    "desc": "Deploy applications described in Compose onto Kubernetes clusters",
+    "lang": "Go"
+  },
+  {
+    "title": "Qihoo360/ArgusAPM",
+    "url": "https://github.com/Qihoo360/ArgusAPM",
+    "desc": "Powerful, comprehensive (Android) application performance management platform. 360移动性能监控平台",
+    "lang": "Java"
+  }
+]
