@@ -1,0 +1,150 @@
+[
+  {
+    "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "url": "https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "desc": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee…",
+    "lang": "Assembly"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "GPU- and TPU-backed NumPy with differentiation and JIT compilation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Delgan/loguru",
+    "url": "https://github.com/Delgan/loguru",
+    "desc": "Python logging made (stupidly) simple",
+    "lang": "Python"
+  },
+  {
+    "title": "MrRio/jsPDF",
+    "url": "https://github.com/MrRio/jsPDF",
+    "desc": "Client-side JavaScript PDF generation for everyone.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "MicrosoftEdge/MSEdge",
+    "url": "https://github.com/MicrosoftEdge/MSEdge",
+    "desc": "Microsoft Edge"
+  },
+  {
+    "title": "Microsoft/Ethr",
+    "url": "https://github.com/Microsoft/Ethr",
+    "desc": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+    "lang": "Go"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "A collection of surprising Python snippets and lesser-known features.",
+    "lang": "Python"
+  },
+  {
+    "title": "qunarcorp/qmq",
+    "url": "https://github.com/qunarcorp/qmq",
+    "desc": "QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。",
+    "lang": "Java"
+  },
+  {
+    "title": "wasmerio/wasmer",
+    "url": "https://github.com/wasmerio/wasmer",
+    "desc": "High-Performance WebAssembly JIT interpreter",
+    "lang": "Rust"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "lovell/sharp",
+    "url": "https://github.com/lovell/sharp",
+    "desc": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nostalgic-css/NES.css",
+    "url": "https://github.com/nostalgic-css/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "horance-liu/tensorflow-internals",
+    "url": "https://github.com/horance-liu/tensorflow-internals",
+    "desc": "It is open source ebook about TensorFlow kernel and implementation mechanism.",
+    "lang": "TeX"
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "desc": "A web framework for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Eugeny/terminus",
+    "url": "https://github.com/Eugeny/terminus",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tomgoldstein/loss-landscape",
+    "url": "https://github.com/tomgoldstein/loss-landscape",
+    "desc": "Code for visualizing the loss landscape of neural nets",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "mercyblitz/tech-weekly",
+    "url": "https://github.com/mercyblitz/tech-weekly",
+    "desc": "「小马哥技术周报」",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dmlc/dgl",
+    "url": "https://github.com/dmlc/dgl",
+    "desc": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+    "lang": "Python"
+  }
+]
