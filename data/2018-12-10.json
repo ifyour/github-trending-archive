@@ -1,0 +1,150 @@
+[
+  {
+    "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "url": "https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "desc": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee…",
+    "lang": "Assembly"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "MrRio/jsPDF",
+    "url": "https://github.com/MrRio/jsPDF",
+    "desc": "Client-side JavaScript PDF generation for everyone.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Delgan/loguru",
+    "url": "https://github.com/Delgan/loguru",
+    "desc": "Python logging made (stupidly) simple",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "GPU- and TPU-backed NumPy with differentiation and JIT compilation.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Eugeny/terminus",
+    "url": "https://github.com/Eugeny/terminus",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "meolu/walle-web",
+    "url": "https://github.com/meolu/walle-web",
+    "desc": "walle - 瓦力 开源项目代码部署平台",
+    "lang": "Python"
+  },
+  {
+    "title": "lovell/sharp",
+    "url": "https://github.com/lovell/sharp",
+    "desc": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/Ethr",
+    "url": "https://github.com/Microsoft/Ethr",
+    "desc": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "A collection of surprising Python snippets and lesser-known features.",
+    "lang": "Python"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "qunarcorp/qmq",
+    "url": "https://github.com/qunarcorp/qmq",
+    "desc": "QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。",
+    "lang": "Java"
+  },
+  {
+    "title": "wonderfulsuccess/weixin_crawler",
+    "url": "https://github.com/wonderfulsuccess/weixin_crawler",
+    "desc": "高效微信公众号历史文章和阅读数据爬虫powered by scrapy",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "nostalgic-css/NES.css",
+    "url": "https://github.com/nostalgic-css/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicrosoftEdge/MSEdge",
+    "url": "https://github.com/MicrosoftEdge/MSEdge",
+    "desc": "Microsoft Edge"
+  },
+  {
+    "title": "oussamahamdaoui/forgJs",
+    "url": "https://github.com/oussamahamdaoui/forgJs",
+    "desc": "ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wasmerio/wasmer",
+    "url": "https://github.com/wasmerio/wasmer",
+    "desc": "High-Performance WebAssembly runtime",
+    "lang": "Rust"
+  },
+  {
+    "title": "horance-liu/tensorflow-internals",
+    "url": "https://github.com/horance-liu/tensorflow-internals",
+    "desc": "It is open source ebook about TensorFlow kernel and implementation mechanism.",
+    "lang": "TeX"
+  },
+  {
+    "title": "google/open-location-code",
+    "url": "https://github.com/google/open-location-code",
+    "desc": "Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist.",
+    "lang": "JavaScript"
+  }
+]
