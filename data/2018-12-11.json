@@ -1,0 +1,151 @@
+[
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "mholt/certmagic",
+    "url": "https://github.com/mholt/certmagic",
+    "desc": "Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal",
+    "lang": "Go"
+  },
+  {
+    "title": "MrRio/jsPDF",
+    "url": "https://github.com/MrRio/jsPDF",
+    "desc": "Client-side JavaScript PDF generation for everyone.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "Delgan/loguru",
+    "url": "https://github.com/Delgan/loguru",
+    "desc": "Python logging made (stupidly) simple",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "GPU- and TPU-backed NumPy with differentiation and JIT compilation.",
+    "lang": "Python"
+  },
+  {
+    "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "url": "https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "desc": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "lang": "Assembly"
+  },
+  {
+    "title": "google/open-location-code",
+    "url": "https://github.com/google/open-location-code",
+    "desc": "Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "GoogleChromeLabs/quicklink",
+    "url": "https://github.com/GoogleChromeLabs/quicklink",
+    "desc": "⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wonderfulsuccess/weixin_crawler",
+    "url": "https://github.com/wonderfulsuccess/weixin_crawler",
+    "desc": "高效微信公众号历史文章和阅读数据爬虫powered by scrapy",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/Ethr",
+    "url": "https://github.com/Microsoft/Ethr",
+    "desc": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+    "lang": "Go"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "A collection of surprising Python snippets and lesser-known features.",
+    "lang": "Python"
+  },
+  {
+    "title": "Eugeny/terminus",
+    "url": "https://github.com/Eugeny/terminus",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yeasy/docker_practice",
+    "url": "https://github.com/yeasy/docker_practice",
+    "desc": "Learn and understand Docker technologies, with real DevOps practice!",
+    "lang": "Go"
+  },
+  {
+    "title": "rendora/rendora",
+    "url": "https://github.com/rendora/rendora",
+    "desc": "A dynamic renderer to provide zero-conf server-side rendering to web crawlers in order to effortlessly improve SEO for modern javascript websites",
+    "lang": "Go"
+  },
+  {
+    "title": "philippe44/AirConnect",
+    "url": "https://github.com/philippe44/AirConnect",
+    "desc": "Use AirPlay to stream to UPnP/Sonos & Chromecast devices",
+    "lang": "C"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media Browser",
+    "lang": "C#"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "lovell/sharp",
+    "url": "https://github.com/lovell/sharp",
+    "desc": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
