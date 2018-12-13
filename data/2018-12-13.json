@@ -1,0 +1,149 @@
+[
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "desc": "Like Prometheus, but for logs.",
+    "lang": "Go"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "devhubapp/devhub",
+    "url": "https://github.com/devhubapp/devhub",
+    "desc": "DevHub: TweetDeck for GitHub - Android, iOS and Web 👉",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GoogleChromeLabs/quicklink",
+    "url": "https://github.com/GoogleChromeLabs/quicklink",
+    "desc": "⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "url": "https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "desc": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "dmlc/dgl",
+    "url": "https://github.com/dmlc/dgl",
+    "desc": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "NASA-SW-VnV/ikos",
+    "url": "https://github.com/NASA-SW-VnV/ikos",
+    "desc": "Static analyzer for C/C++ based on the theory of Abstract Interpretation.",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "MrRio/jsPDF",
+    "url": "https://github.com/MrRio/jsPDF",
+    "desc": "Client-side JavaScript PDF generation for everyone.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mholt/certmagic",
+    "url": "https://github.com/mholt/certmagic",
+    "desc": "Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "yeasy/docker_practice",
+    "url": "https://github.com/yeasy/docker_practice",
+    "desc": "Learn and understand Docker technologies, with real DevOps practice!",
+    "lang": "Go"
+  },
+  {
+    "title": "aws/containers-roadmap",
+    "url": "https://github.com/aws/containers-roadmap",
+    "desc": "This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS)."
+  },
+  {
+    "title": "guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks",
+    "url": "https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks",
+    "desc": "Growing the code out of your notebooks - the right way."
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "lucagez/Debucsser",
+    "url": "https://github.com/lucagez/Debucsser",
+    "desc": "CSS debugging tool with an unpronounceable name",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google AI Research",
+    "lang": "Python"
+  },
+  {
+    "title": "JonyFang/FFPopup",
+    "url": "https://github.com/JonyFang/FFPopup",
+    "desc": "🎉Presenting custom views as a popup in iOS.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "Delgan/loguru",
+    "url": "https://github.com/Delgan/loguru",
+    "desc": "Python logging made (stupidly) simple",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thecodingmachine/gotenberg",
+    "url": "https://github.com/thecodingmachine/gotenberg",
+    "desc": "A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF",
+    "lang": "Go"
+  }
+]
