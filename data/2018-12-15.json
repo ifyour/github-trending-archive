@@ -1,0 +1,149 @@
+[
+  {
+    "title": "facebookresearch/pytext",
+    "url": "https://github.com/facebookresearch/pytext",
+    "desc": "A natural language modeling framework based on PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. For SysOps, DevOps, Pentesters and Security Researchers."
+  },
+  {
+    "title": "devhubapp/devhub",
+    "url": "https://github.com/devhubapp/devhub",
+    "desc": "DevHub: TweetDeck for GitHub - Android, iOS and Web 👉",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GoogleChromeLabs/quicklink",
+    "url": "https://github.com/GoogleChromeLabs/quicklink",
+    "desc": "⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "url": "https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "desc": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "lang": "Python"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "desc": "Like Prometheus, but for logs.",
+    "lang": "Go"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FAQGURU/FAQGURU",
+    "url": "https://github.com/FAQGURU/FAQGURU",
+    "desc": "A list of interview questions. This repository is everything you need to prepare for your technical interview. 🎒 🚀 🎉"
+  },
+  {
+    "title": "vaexio/vaex",
+    "url": "https://github.com/vaexio/vaex",
+    "desc": "Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "basecamp/policies",
+    "url": "https://github.com/basecamp/policies",
+    "desc": "Basecamp policies, terms, and legal. Share them; reuse them; contribute to them."
+  },
+  {
+    "title": "zeit/arg",
+    "url": "https://github.com/zeit/arg",
+    "desc": "Simple argument parsing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "naveedgol/apple-music-web-player",
+    "url": "https://github.com/naveedgol/apple-music-web-player",
+    "desc": "Apple Music web player",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rtqichen/torchdiffeq",
+    "url": "https://github.com/rtqichen/torchdiffeq",
+    "desc": "Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.",
+    "lang": "Python"
+  },
+  {
+    "title": "radianttap/CardPresentationController",
+    "url": "https://github.com/radianttap/CardPresentationController",
+    "desc": "Custom UIPresentationController which mimics the behavior of Apple Music UI",
+    "lang": "Swift"
+  },
+  {
+    "title": "Delgan/loguru",
+    "url": "https://github.com/Delgan/loguru",
+    "desc": "Python logging made (stupidly) simple",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "thecodingmachine/gotenberg",
+    "url": "https://github.com/thecodingmachine/gotenberg",
+    "desc": "A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF",
+    "lang": "Go"
+  },
+  {
+    "title": "MrRio/jsPDF",
+    "url": "https://github.com/MrRio/jsPDF",
+    "desc": "Client-side JavaScript PDF generation for everyone.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mholt/certmagic",
+    "url": "https://github.com/mholt/certmagic",
+    "desc": "Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal",
+    "lang": "Go"
+  }
+]
