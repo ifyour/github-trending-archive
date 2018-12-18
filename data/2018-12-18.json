@@ -1,0 +1,151 @@
+[
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "uw-labs/bloomrpc",
+    "url": "https://github.com/uw-labs/bloomrpc",
+    "desc": "GUI Client for GRPC Services",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MaxBittker/sandspiel",
+    "url": "https://github.com/MaxBittker/sandspiel",
+    "desc": "Creative cellular automata browser game",
+    "lang": "Rust"
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "desc": "《统计学习方法》的代码实现",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookresearch/pytext",
+    "url": "https://github.com/facebookresearch/pytext",
+    "desc": "A natural language modeling framework based on PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "GoogleChromeLabs/quicklink",
+    "url": "https://github.com/GoogleChromeLabs/quicklink",
+    "desc": "⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ezaquarii/vpn-at-home",
+    "url": "https://github.com/ezaquarii/vpn-at-home",
+    "desc": "1-click, self-hosted OpenVPN deployment and management app.",
+    "lang": "Python"
+  },
+  {
+    "title": "dawnlabs/carbon",
+    "url": "https://github.com/dawnlabs/carbon",
+    "desc": "🎨 Create and share beautiful images of your source code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ucbrise/confluo",
+    "url": "https://github.com/ucbrise/confluo",
+    "desc": "Real-time Monitoring and Analysis of Data Streams",
+    "lang": "C++"
+  },
+  {
+    "title": "bloomberg/goldpinger",
+    "url": "https://github.com/bloomberg/goldpinger",
+    "desc": "Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.",
+    "lang": "Go"
+  },
+  {
+    "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "url": "https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "desc": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/Trill",
+    "url": "https://github.com/Microsoft/Trill",
+    "desc": "Trill is a single-node query processor for temporal or streaming data.",
+    "lang": "C#"
+  },
+  {
+    "title": "ChrisCavs/rallax.js",
+    "url": "https://github.com/ChrisCavs/rallax.js",
+    "desc": "Dead simple parallax scrolling.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "percyliang/cs229t",
+    "url": "https://github.com/percyliang/cs229t",
+    "desc": "Statistical Learning Theory (CS229T) Lecture Notes",
+    "lang": "TeX"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "santinic/pampy",
+    "url": "https://github.com/santinic/pampy",
+    "desc": "Pampy: The Pattern Matching for Python you always dreamed of.",
+    "lang": "Python"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "desc": "Like Prometheus, but for logs.",
+    "lang": "Go"
+  },
+  {
+    "title": "mozilla-services/react-jsonschema-form",
+    "url": "https://github.com/mozilla-services/react-jsonschema-form",
+    "desc": "A React component for building Web forms from JSON Schema.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "ndabAP/vue-go-example",
+    "url": "https://github.com/ndabAP/vue-go-example",
+    "desc": "Vue.js and Go example project",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.",
+    "lang": "JavaScript"
+  }
+]
