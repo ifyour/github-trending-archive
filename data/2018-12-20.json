@@ -1,0 +1,149 @@
+[
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "FAQGURU/FAQGURU",
+    "url": "https://github.com/FAQGURU/FAQGURU",
+    "desc": "🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview."
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.JS best practices list (November 2018)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensor-yu/PyTorch_Tutorial",
+    "url": "https://github.com/tensor-yu/PyTorch_Tutorial",
+    "desc": "《Pytorch模型训练实用教程》中配套代码",
+    "lang": "Python"
+  },
+  {
+    "title": "opsmop/opsmop",
+    "url": "https://github.com/opsmop/opsmop",
+    "desc": "Next generation config management and app deployment",
+    "lang": "Python"
+  },
+  {
+    "title": "Zhuinden/guide-to-kotlin",
+    "url": "https://github.com/Zhuinden/guide-to-kotlin",
+    "desc": "This tutorial assumes all you know is Java, but you want to learn Kotlin."
+  },
+  {
+    "title": "airbnb/MagazineLayout",
+    "url": "https://github.com/airbnb/MagazineLayout",
+    "desc": "A collection view layout capable of laying out views in vertically scrolling grids and lists.",
+    "lang": "Swift"
+  },
+  {
+    "title": "mahmoud/awesome-python-applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "desc": "💿 Free software that works great, which also happens to be open-source Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "ChrisCavs/rallax.js",
+    "url": "https://github.com/ChrisCavs/rallax.js",
+    "desc": "Dead simple parallax scrolling.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "desc": "《统计学习方法》的代码实现",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "GoogleChromeLabs/quicklink",
+    "url": "https://github.com/GoogleChromeLabs/quicklink",
+    "desc": "⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "dinubs/coolqlcool",
+    "url": "https://github.com/dinubs/coolqlcool",
+    "desc": "Nextjs server to query websites with GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adam-golab/react-developer-roadmap",
+    "url": "https://github.com/adam-golab/react-developer-roadmap",
+    "desc": "Roadmap to becoming a React developer in 2018",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "ucbrise/confluo",
+    "url": "https://github.com/ucbrise/confluo",
+    "desc": "Real-time Monitoring and Analysis of Data Streams",
+    "lang": "C++"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookresearch/pytext",
+    "url": "https://github.com/facebookresearch/pytext",
+    "desc": "A natural language modeling framework based on PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bloomberg/goldpinger",
+    "url": "https://github.com/bloomberg/goldpinger",
+    "desc": "Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.",
+    "lang": "Go"
+  },
+  {
+    "title": "Microsoft/mu",
+    "url": "https://github.com/Microsoft/mu",
+    "desc": "Project mu Documentation",
+    "lang": "Python"
+  },
+  {
+    "title": "bradfitz/exp-httpclient",
+    "url": "https://github.com/bradfitz/exp-httpclient",
+    "desc": "experimental new HTTP client API for #golang (WIP)",
+    "lang": "Go"
+  }
+]
