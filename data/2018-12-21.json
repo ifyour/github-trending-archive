@@ -1,0 +1,149 @@
+[
+  {
+    "title": "alibaba/x-deeplearning",
+    "url": "https://github.com/alibaba/x-deeplearning",
+    "desc": "An industrial deep learning framework for high-dimension sparse data",
+    "lang": "C++"
+  },
+  {
+    "title": "mahmoud/awesome-python-applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "desc": "💿 Free software that works great, which also happens to be open-source Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/nevergrad",
+    "url": "https://github.com/facebookresearch/nevergrad",
+    "desc": "A Python toolbox for performing gradient-free optimization",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "FAQGURU/FAQGURU",
+    "url": "https://github.com/FAQGURU/FAQGURU",
+    "desc": "🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview."
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.JS best practices list (November 2018)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️",
+    "lang": "Python"
+  },
+  {
+    "title": "developit/htm",
+    "url": "https://github.com/developit/htm",
+    "desc": "Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "nhsuk/nhsuk-frontend",
+    "url": "https://github.com/nhsuk/nhsuk-frontend",
+    "desc": "NHS.UK frontend library - in prerelease for use in prototypes and testing",
+    "lang": "CSS"
+  },
+  {
+    "title": "unbug/codelf",
+    "url": "https://github.com/unbug/codelf",
+    "desc": "Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names",
+    "lang": "HTML"
+  },
+  {
+    "title": "alaskasquirrel/Chinese-Podcasts",
+    "url": "https://github.com/alaskasquirrel/Chinese-Podcasts",
+    "desc": "中文播客：Tech, VC, Life, Movie, Design..."
+  },
+  {
+    "title": "NVIDIAGameWorks/PhysX",
+    "url": "https://github.com/NVIDIAGameWorks/PhysX",
+    "desc": "NVIDIA PhysX SDK",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/machinelearning",
+    "url": "https://github.com/dotnet/machinelearning",
+    "desc": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
+    "lang": "C#"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "desc": "《统计学习方法》的代码实现",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebookresearch/pytext",
+    "url": "https://github.com/facebookresearch/pytext",
+    "desc": "A natural language modeling framework based on PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "airbnb/MagazineLayout",
+    "url": "https://github.com/airbnb/MagazineLayout",
+    "desc": "A collection view layout capable of laying out views in vertically scrolling grids and lists.",
+    "lang": "Swift"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "tensor-yu/PyTorch_Tutorial",
+    "url": "https://github.com/tensor-yu/PyTorch_Tutorial",
+    "desc": "《Pytorch模型训练实用教程》中配套代码",
+    "lang": "Python"
+  },
+  {
+    "title": "Meituan-Dianping/Graver",
+    "url": "https://github.com/Meituan-Dianping/Graver",
+    "desc": "Graver 是一款高效的 UI 渲染框架，它以更低的资源消耗来构建十分流畅的 UI 界面。Graver 独创性的采用了基于绘制的视觉元素分解方式来构建界面，得益于此，该框架能让 UI 渲染过程变得更加简单、灵活。https://cocoapods.org/pods/Graver",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "GoogleChromeLabs/quicklink",
+    "url": "https://github.com/GoogleChromeLabs/quicklink",
+    "desc": "⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adam-golab/react-developer-roadmap",
+    "url": "https://github.com/adam-golab/react-developer-roadmap",
+    "desc": "Roadmap to becoming a React developer in 2018",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "li-xiaojun/XPopup",
+    "url": "https://github.com/li-xiaojun/XPopup",
+    "desc": "🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout. With built-in animators , very easy to custom Popup View.)",
+    "lang": "Java"
+  }
+]
