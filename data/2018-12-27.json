@@ -1,0 +1,148 @@
+[
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hackerb9/lsix",
+    "url": "https://github.com/hackerb9/lsix",
+    "desc": "Like ls, but for images. Shows thumbnails in terminal using sixel graphics.",
+    "lang": "Shell"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🐜 A UI Design Language",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thunlp/GNNPapers",
+    "url": "https://github.com/thunlp/GNNPapers",
+    "desc": "Must-read papers on graph neural network (GNN)"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "guardrailsio/awesome-golang-security",
+    "url": "https://github.com/guardrailsio/awesome-golang-security",
+    "desc": "Awesome golang Security resources"
+  },
+  {
+    "title": "Tencent/matrix",
+    "url": "https://github.com/Tencent/matrix",
+    "desc": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+    "lang": "Java"
+  },
+  {
+    "title": "sdushantha/sherlock",
+    "url": "https://github.com/sdushantha/sherlock",
+    "desc": "🔎 Find usernames across over 75 social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+    "desc": "List of Data Science Cheatsheets to rule the world"
+  },
+  {
+    "title": "mahmoud/awesome-python-applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "desc": "💿 Free software that works great, and also happens to be open-source Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "CSS"
+  },
+  {
+    "title": "anvaka/atree",
+    "url": "https://github.com/anvaka/atree",
+    "desc": "Just a simple Christmas tree, based on reddit story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.JS best practices list (November 2018)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/wav2letter",
+    "url": "https://github.com/facebookresearch/wav2letter",
+    "desc": "Facebook AI Research Automatic Speech Recognition Toolkit",
+    "lang": "C++"
+  },
+  {
+    "title": "acro5piano/typed-graphqlify",
+    "url": "https://github.com/acro5piano/typed-graphqlify",
+    "desc": "A TypeScript to GraphQL conversion tool without losing type information. Better TypeScript + GraphQL experience.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "e-oj/Magic-Grid",
+    "url": "https://github.com/e-oj/Magic-Grid",
+    "desc": "A simple, lightweight Javascript library for dynamic grid layouts.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "SaraVieira/fiddly",
+    "url": "https://github.com/SaraVieira/fiddly",
+    "desc": "Create beautiful and simple HTML pages from your Readme.md files",
+    "lang": "CSS"
+  },
+  {
+    "title": "TarekRaafat/autoComplete.js",
+    "url": "https://github.com/TarekRaafat/autoComplete.js",
+    "desc": "Simple autocomplete pure vanilla Javascript library.",
+    "lang": "JavaScript"
+  }
+]
