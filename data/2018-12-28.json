@@ -1,0 +1,147 @@
+[
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "2d-inc/HistoryOfEverything",
+    "url": "https://github.com/2d-inc/HistoryOfEverything",
+    "desc": "Flutter Launch Timeline Demo",
+    "lang": "Dart"
+  },
+  {
+    "title": "avinashpaliwal/Super-SloMo",
+    "url": "https://github.com/avinashpaliwal/Super-SloMo",
+    "desc": "PyTorch implementation of Super SloMo by Jiang et al.",
+    "lang": "Python"
+  },
+  {
+    "title": "hackerb9/lsix",
+    "url": "https://github.com/hackerb9/lsix",
+    "desc": "Like ls, but for images. Shows thumbnails in terminal using sixel graphics.",
+    "lang": "Shell"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "ulid/spec",
+    "url": "https://github.com/ulid/spec",
+    "desc": "The canonical spec for ulid"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+    "desc": "List of Data Science Cheatsheets to rule the world"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "mahmoud/awesome-python-applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "desc": "💿 Free software that works great, and also happens to be open-source Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Tencent/matrix",
+    "url": "https://github.com/Tencent/matrix",
+    "desc": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+    "lang": "Java"
+  },
+  {
+    "title": "isacikgoz/gitbatch",
+    "url": "https://github.com/isacikgoz/gitbatch",
+    "desc": "manage your git repositories in one place",
+    "lang": "Go"
+  },
+  {
+    "title": "thunlp/GNNPapers",
+    "url": "https://github.com/thunlp/GNNPapers",
+    "desc": "Must-read papers on graph neural network (GNN)"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "sdushantha/sherlock",
+    "url": "https://github.com/sdushantha/sherlock",
+    "desc": "🔎 Find usernames across over 75 social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "rrweb-io/rrweb",
+    "url": "https://github.com/rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🐜 A UI Design Language",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SaraVieira/fiddly",
+    "url": "https://github.com/SaraVieira/fiddly",
+    "desc": "Create beautiful and simple HTML pages from your Readme.md files",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "Super-fast alternative for babel written in rust",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mogenslund/liquid",
+    "url": "https://github.com/mogenslund/liquid",
+    "desc": "Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.",
+    "lang": "Clojure"
+  },
+  {
+    "title": "linux-noah/noah",
+    "url": "https://github.com/linux-noah/noah",
+    "desc": "Bash on Ubuntu on macOS",
+    "lang": "C"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "BrainJS/brain.js",
+    "url": "https://github.com/BrainJS/brain.js",
+    "desc": "🤖 Neural networks in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "e-oj/Magic-Grid",
+    "url": "https://github.com/e-oj/Magic-Grid",
+    "desc": "A simple, lightweight Javascript library for dynamic grid layouts.",
+    "lang": "JavaScript"
+  }
+]
