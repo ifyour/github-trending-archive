@@ -1,0 +1,146 @@
+[
+  {
+    "title": "rrweb-io/rrweb",
+    "url": "https://github.com/rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "BrainJS/brain.js",
+    "url": "https://github.com/BrainJS/brain.js",
+    "desc": "🤖 Neural networks in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "2d-inc/HistoryOfEverything",
+    "url": "https://github.com/2d-inc/HistoryOfEverything",
+    "desc": "Flutter Launch Timeline Demo",
+    "lang": "Dart"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "desc": "The user-friendly command line shell.",
+    "lang": "Shell"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "getActivity/EmojiPackage",
+    "url": "https://github.com/getActivity/EmojiPackage",
+    "desc": "A rich emoji package resources"
+  },
+  {
+    "title": "avinashpaliwal/Super-SloMo",
+    "url": "https://github.com/avinashpaliwal/Super-SloMo",
+    "desc": "PyTorch implementation of Super SloMo by Jiang et al.",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "SFTtech/openage",
+    "url": "https://github.com/SFTtech/openage",
+    "desc": "Free (as in freedom) open source clone of the Age of Empires II engine 🚀",
+    "lang": "C++"
+  },
+  {
+    "title": "ulid/spec",
+    "url": "https://github.com/ulid/spec",
+    "desc": "The canonical spec for ulid"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+    "desc": "List of Data Science Cheatsheets to rule the world"
+  },
+  {
+    "title": "THUNLP-MT/MT-Reading-List",
+    "url": "https://github.com/THUNLP-MT/MT-Reading-List",
+    "desc": "A machine translation reading list maintained by Tsinghua Natural Language Processing Group",
+    "lang": "TeX"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Tencent/matrix",
+    "url": "https://github.com/Tencent/matrix",
+    "desc": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+    "lang": "Java"
+  },
+  {
+    "title": "thunlp/GNNPapers",
+    "url": "https://github.com/thunlp/GNNPapers",
+    "desc": "Must-read papers on graph neural networks (GNN)"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🐜 A UI Design Language",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.JS best practices list (November 2018)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mahmoud/awesome-python-applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "desc": "💿 Free software that works great, and also happens to be open-source Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "sdushantha/sherlock",
+    "url": "https://github.com/sdushantha/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "hackerb9/lsix",
+    "url": "https://github.com/hackerb9/lsix",
+    "desc": "Like ls, but for images. Shows thumbnails in terminal using sixel graphics.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  }
+]
