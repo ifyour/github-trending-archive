@@ -1,0 +1,146 @@
+[
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rsms/inter",
+    "url": "https://github.com/rsms/inter",
+    "desc": "The Inter UI font family",
+    "lang": "Python"
+  },
+  {
+    "title": "rrweb-io/rrweb",
+    "url": "https://github.com/rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manger.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BrainJS/brain.js",
+    "url": "https://github.com/BrainJS/brain.js",
+    "desc": "🤖 Neural networks in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "matthaywardwebdesign/node-security",
+    "url": "https://github.com/matthaywardwebdesign/node-security",
+    "desc": "🔑 The easiest way to control what npm modules can access",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "gravitee-io/gravitee-gateway",
+    "url": "https://github.com/gravitee-io/gravitee-gateway",
+    "desc": "Gravitee.io - API Management - Gateway",
+    "lang": "Java"
+  },
+  {
+    "title": "openvenues/libpostal",
+    "url": "https://github.com/openvenues/libpostal",
+    "desc": "A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.",
+    "lang": "C"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+    "desc": "List of Data Science Cheatsheets to rule the world"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Curated list of awesome lists"
+  },
+  {
+    "title": "THUNLP-MT/MT-Reading-List",
+    "url": "https://github.com/THUNLP-MT/MT-Reading-List",
+    "desc": "A machine translation reading list maintained by Tsinghua Natural Language Processing Group",
+    "lang": "TeX"
+  },
+  {
+    "title": "mahmoud/awesome-python-applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "desc": "💿 Free software that works great, and also happens to be open-source Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "2d-inc/HistoryOfEverything",
+    "url": "https://github.com/2d-inc/HistoryOfEverything",
+    "desc": "Flutter Launch Timeline Demo",
+    "lang": "Dart"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ulid/spec",
+    "url": "https://github.com/ulid/spec",
+    "desc": "The canonical spec for ulid"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "sdushantha/sherlock",
+    "url": "https://github.com/sdushantha/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "getActivity/EmojiPackage",
+    "url": "https://github.com/getActivity/EmojiPackage",
+    "desc": "A rich emoji package resources"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "SanderMertens/bake",
+    "url": "https://github.com/SanderMertens/bake",
+    "desc": "A modular buildsystem and package manager for C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "avinashpaliwal/Super-SloMo",
+    "url": "https://github.com/avinashpaliwal/Super-SloMo",
+    "desc": "PyTorch implementation of Super SloMo by Jiang et al.",
+    "lang": "Python"
+  }
+]
