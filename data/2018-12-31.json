@@ -1,0 +1,143 @@
+[
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jonatasbaldin/awesome-awesome-awesome",
+    "url": "https://github.com/jonatasbaldin/awesome-awesome-awesome",
+    "desc": "Awesome list of repositories of awesome lists 🤷‍♀️"
+  },
+  {
+    "title": "rrweb-io/rrweb",
+    "url": "https://github.com/rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rsms/inter",
+    "url": "https://github.com/rsms/inter",
+    "desc": "The Inter UI font family",
+    "lang": "Python"
+  },
+  {
+    "title": "risk-first/website",
+    "url": "https://github.com/risk-first/website",
+    "desc": "Risk-First Analysis Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Curated list of awesome lists"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manger.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hoya012/deep_learning_object_detection",
+    "url": "https://github.com/hoya012/deep_learning_object_detection",
+    "desc": "A paper list of object detection using deep learning."
+  },
+  {
+    "title": "BrainJS/brain.js",
+    "url": "https://github.com/BrainJS/brain.js",
+    "desc": "🤖 Neural networks in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "2d-inc/HistoryOfEverything",
+    "url": "https://github.com/2d-inc/HistoryOfEverything",
+    "desc": "Flutter Launch Timeline Demo",
+    "lang": "Dart"
+  },
+  {
+    "title": "matthaywardwebdesign/node-security",
+    "url": "https://github.com/matthaywardwebdesign/node-security",
+    "desc": "🔑 The easiest way to control what npm modules can access",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs",
+    "url": "https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs",
+    "desc": "Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services."
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "THUNLP-MT/MT-Reading-List",
+    "url": "https://github.com/THUNLP-MT/MT-Reading-List",
+    "desc": "A machine translation reading list maintained by Tsinghua Natural Language Processing Group",
+    "lang": "TeX"
+  },
+  {
+    "title": "bayandin/awesome-awesomeness",
+    "url": "https://github.com/bayandin/awesome-awesomeness",
+    "desc": "A curated list of awesome awesomeness",
+    "lang": "Ruby"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+    "desc": "List of Data Science Cheatsheets to rule the world"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "Super-fast alternative for babel written in rust",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdushantha/sherlock",
+    "url": "https://github.com/sdushantha/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  }
+]
