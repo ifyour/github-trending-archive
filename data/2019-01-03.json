@@ -1,0 +1,147 @@
+[
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jeffgerickson/algorithms",
+    "url": "https://github.com/jeffgerickson/algorithms",
+    "desc": "Bug-tracking for Jeff's algorithms book, notes, etc."
+  },
+  {
+    "title": "dwyl/learn-json-web-tokens",
+    "url": "https://github.com/dwyl/learn-json-web-tokens",
+    "desc": "🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zalandoresearch/flair",
+    "url": "https://github.com/zalandoresearch/flair",
+    "desc": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "lang": "Python"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheYahya/sherlock",
+    "url": "https://github.com/TheYahya/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "crossoverJie/cim",
+    "url": "https://github.com/crossoverJie/cim",
+    "desc": "📲cim(cross IM) 适用于开发者的即时通讯系统",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "Countly/countly-server",
+    "url": "https://github.com/Countly/countly-server",
+    "desc": "Countly helps you get insights from your application. Available self-hosted or on private cloud.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ecthros/uncaptcha2",
+    "url": "https://github.com/ecthros/uncaptcha2",
+    "desc": "defeating the latest version of ReCaptcha with 91% accuracy",
+    "lang": "Python"
+  },
+  {
+    "title": "rrweb-io/rrweb",
+    "url": "https://github.com/rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manger.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HackerPoet/MarbleMarcher",
+    "url": "https://github.com/HackerPoet/MarbleMarcher",
+    "desc": "A Fractal Physics Game",
+    "lang": "C++"
+  },
+  {
+    "title": "genuinetools/binctr",
+    "url": "https://github.com/genuinetools/binctr",
+    "desc": "Fully static, unprivileged, self-contained, containers as executable binaries.",
+    "lang": "Go"
+  },
+  {
+    "title": "iina/iina",
+    "url": "https://github.com/iina/iina",
+    "desc": "The modern video player for macOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "mahmoud/awesome-python-applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "desc": "💿 Free software that works great, and also happens to be open-source Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "Ne0nd0g/merlin",
+    "url": "https://github.com/Ne0nd0g/merlin",
+    "desc": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  }
+]
