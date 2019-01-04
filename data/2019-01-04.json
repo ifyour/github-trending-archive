@@ -1,0 +1,147 @@
+[
+  {
+    "title": "facebookincubator/fbt",
+    "url": "https://github.com/facebookincubator/fbt",
+    "desc": "A JavaScript Internationalization Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jeffgerickson/algorithms",
+    "url": "https://github.com/jeffgerickson/algorithms",
+    "desc": "Bug-tracking for Jeff's algorithms book, notes, etc."
+  },
+  {
+    "title": "KidkArolis/jetpack",
+    "url": "https://github.com/KidkArolis/jetpack",
+    "desc": "🚀 Jetpack – webpack made more convenient.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dwyl/learn-json-web-tokens",
+    "url": "https://github.com/dwyl/learn-json-web-tokens",
+    "desc": "🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ecthros/uncaptcha2",
+    "url": "https://github.com/ecthros/uncaptcha2",
+    "desc": "defeating the latest version of ReCaptcha with 91% accuracy",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "lni/dragonboat",
+    "url": "https://github.com/lni/dragonboat",
+    "desc": "Dragonboat is a feature complete and high performance multi-group Raft library in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rrweb-io/rrweb",
+    "url": "https://github.com/rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zalandoresearch/flair",
+    "url": "https://github.com/zalandoresearch/flair",
+    "desc": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "TheYahya/sherlock",
+    "url": "https://github.com/TheYahya/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Countly/countly-server",
+    "url": "https://github.com/Countly/countly-server",
+    "desc": "Countly helps you get insights from your application. Available self-hosted or on private cloud.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "portsmouth/fibre",
+    "url": "https://github.com/portsmouth/fibre",
+    "desc": "WebGL 3d dynamical systems visualization",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mimblewimble/grin",
+    "url": "https://github.com/mimblewimble/grin",
+    "desc": "Minimal implementation of the MimbleWimble protocol.",
+    "lang": "Rust"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "iina/iina",
+    "url": "https://github.com/iina/iina",
+    "desc": "The modern video player for macOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  }
+]
