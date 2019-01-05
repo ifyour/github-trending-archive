@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ecthros/uncaptcha2",
+    "url": "https://github.com/ecthros/uncaptcha2",
+    "desc": "defeating the latest version of ReCaptcha with 91% accuracy",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookincubator/fbt",
+    "url": "https://github.com/facebookincubator/fbt",
+    "desc": "A JavaScript Internationalization Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "gaia-pipeline/gaia",
+    "url": "https://github.com/gaia-pipeline/gaia",
+    "desc": "Build powerful pipelines in any programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "dwyl/learn-json-web-tokens",
+    "url": "https://github.com/dwyl/learn-json-web-tokens",
+    "desc": "🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dpc/crev",
+    "url": "https://github.com/dpc/crev",
+    "desc": "Scalable, social, Code REView and recommendation system that we desperately need",
+    "lang": "Rust"
+  },
+  {
+    "title": "lni/dragonboat",
+    "url": "https://github.com/lni/dragonboat",
+    "desc": "Dragonboat is a feature complete and high performance multi-group Raft library in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "KidkArolis/jetpack",
+    "url": "https://github.com/KidkArolis/jetpack",
+    "desc": "🚀 Jetpack – webpack made more convenient.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jeffgerickson/algorithms",
+    "url": "https://github.com/jeffgerickson/algorithms",
+    "desc": "Bug-tracking for Jeff's algorithms book, notes, etc."
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "aceakash/string-similarity",
+    "url": "https://github.com/aceakash/string-similarity",
+    "desc": "Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TwoLivesLeft/Menu",
+    "url": "https://github.com/TwoLivesLeft/Menu",
+    "desc": "The iOS Menu",
+    "lang": "Swift"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "drcmda/react-with-gesture",
+    "url": "https://github.com/drcmda/react-with-gesture",
+    "desc": "👇Bread n butter utility for component-tied mouse/touch gestures in React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "portsmouth/fibre",
+    "url": "https://github.com/portsmouth/fibre",
+    "desc": "WebGL 3d dynamical systems visualization",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "knazeri/edge-connect",
+    "url": "https://github.com/knazeri/edge-connect",
+    "desc": "EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. https://arxiv.org/abs/1901.00212",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "rrweb-io/rrweb",
+    "url": "https://github.com/rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "target/matrixprofile-ts",
+    "url": "https://github.com/target/matrixprofile-ts",
+    "desc": "A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile",
+    "lang": "Python"
+  },
+  {
+    "title": "zalandoresearch/flair",
+    "url": "https://github.com/zalandoresearch/flair",
+    "desc": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "lang": "Python"
+  }
+]
