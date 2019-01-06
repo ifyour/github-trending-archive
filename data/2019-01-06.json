@@ -1,0 +1,148 @@
+[
+  {
+    "title": "windmilleng/tilt",
+    "url": "https://github.com/windmilleng/tilt",
+    "desc": "Local Kubernetes development with no stress",
+    "lang": "Go"
+  },
+  {
+    "title": "ecthros/uncaptcha2",
+    "url": "https://github.com/ecthros/uncaptcha2",
+    "desc": "defeating the latest version of ReCaptcha with 91% accuracy",
+    "lang": "Python"
+  },
+  {
+    "title": "lexfridman/deeptraffic",
+    "url": "https://github.com/lexfridman/deeptraffic",
+    "desc": "DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dbcli/litecli",
+    "url": "https://github.com/dbcli/litecli",
+    "desc": "CLI for SQLite Databases with auto-completion and syntax highlighting",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "filipedeschamps/doom-fire-algorithm",
+    "url": "https://github.com/filipedeschamps/doom-fire-algorithm",
+    "desc": "Fire effect from Doom implemented in plain JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "mit-pdos/noria",
+    "url": "https://github.com/mit-pdos/noria",
+    "desc": "Dynamically changing, partially-stateful data-flow for web application backends.",
+    "lang": "Rust"
+  },
+  {
+    "title": "TwoLivesLeft/Menu",
+    "url": "https://github.com/TwoLivesLeft/Menu",
+    "desc": "The iOS Menu",
+    "lang": "Swift"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "jeffgerickson/algorithms",
+    "url": "https://github.com/jeffgerickson/algorithms",
+    "desc": "Bug-tracking for Jeff's algorithms book, notes, etc."
+  },
+  {
+    "title": "facebookincubator/fbt",
+    "url": "https://github.com/facebookincubator/fbt",
+    "desc": "A JavaScript Internationalization Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aceakash/string-similarity",
+    "url": "https://github.com/aceakash/string-similarity",
+    "desc": "Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dwyl/learn-json-web-tokens",
+    "url": "https://github.com/dwyl/learn-json-web-tokens",
+    "desc": "🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "caijinyc/Here",
+    "url": "https://github.com/caijinyc/Here",
+    "desc": "Here Music 一个 使用 Electron + React 开发的音乐客户端",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "knazeri/edge-connect",
+    "url": "https://github.com/knazeri/edge-connect",
+    "desc": "EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. https://arxiv.org/abs/1901.00212",
+    "lang": "Python"
+  },
+  {
+    "title": "lni/dragonboat",
+    "url": "https://github.com/lni/dragonboat",
+    "desc": "Dragonboat is a feature complete and high performance multi-group Raft library in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "gaia-pipeline/gaia",
+    "url": "https://github.com/gaia-pipeline/gaia",
+    "desc": "Build powerful pipelines in any programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "drcmda/react-with-gesture",
+    "url": "https://github.com/drcmda/react-with-gesture",
+    "desc": "👇Bread n butter utility for component-tied mouse/touch gestures in React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jfet97/omniclone",
+    "url": "https://github.com/jfet97/omniclone",
+    "desc": "An isomorphic and configurable javascript utility for objects deep cloning.",
+    "lang": "JavaScript"
+  }
+]
