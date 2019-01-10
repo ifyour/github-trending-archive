@@ -1,0 +1,146 @@
+[
+  {
+    "title": "sharkdp/hexyl",
+    "url": "https://github.com/sharkdp/hexyl",
+    "desc": "A command-line hex viewer",
+    "lang": "Rust"
+  },
+  {
+    "title": "yujiangshui/An-English-Guide-for-Programmers",
+    "url": "https://github.com/yujiangshui/An-English-Guide-for-Programmers",
+    "desc": "专为程序员编写的英语学习指南。v1.0"
+  },
+  {
+    "title": "alibaba/fescar",
+    "url": "https://github.com/alibaba/fescar",
+    "desc": "fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "lancopku/pkuseg-python",
+    "url": "https://github.com/lancopku/pkuseg-python",
+    "desc": "python版本：领域细分的中文分词工具，简单易用，跟现有开源工具相比提高了分词的准确率。",
+    "lang": "Python"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/flutter-common-widgets-app",
+    "url": "https://github.com/alibaba/flutter-common-widgets-app",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示",
+    "lang": "Dart"
+  },
+  {
+    "title": "chokcoco/CSS-Inspiration",
+    "url": "https://github.com/chokcoco/CSS-Inspiration",
+    "desc": "CSS Inspiration，在这里找到写 CSS 的灵感！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "alash3al/sqler",
+    "url": "https://github.com/alash3al/sqler",
+    "desc": "write APIs using direct SQL queries with no hassle, let's rethink about SQL",
+    "lang": "Go"
+  },
+  {
+    "title": "arnehilmann/markdeck",
+    "url": "https://github.com/arnehilmann/markdeck",
+    "desc": "presentations as code - author cool slide decks, text-only, offline-ready, collaborative",
+    "lang": "CSS"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "wesbos/dad-jokes",
+    "url": "https://github.com/wesbos/dad-jokes",
+    "desc": "dad jokes"
+  },
+  {
+    "title": "HackerPoet/MarbleMarcher",
+    "url": "https://github.com/HackerPoet/MarbleMarcher",
+    "desc": "A Fractal Physics Game",
+    "lang": "C++"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "desc": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Cuberto/liquid-swipe",
+    "url": "https://github.com/Cuberto/liquid-swipe",
+    "desc": "",
+    "lang": "Swift"
+  },
+  {
+    "title": "VincentSit/ChinaMobilePhoneNumberRegex",
+    "url": "https://github.com/VincentSit/ChinaMobilePhoneNumberRegex",
+    "desc": "Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "yoyoyo-yo/Gasyori100knock",
+    "url": "https://github.com/yoyoyo-yo/Gasyori100knock",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elliottzheng/CopyTranslator",
+    "url": "https://github.com/elliottzheng/CopyTranslator",
+    "desc": "Foreign paper reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1)",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "hendricius/pizza-dough",
+    "url": "https://github.com/hendricius/pizza-dough",
+    "desc": "This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza."
+  },
+  {
+    "title": "meolu/walle-web",
+    "url": "https://github.com/meolu/walle-web",
+    "desc": "walle - 瓦力 开源项目代码部署平台",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  }
+]
