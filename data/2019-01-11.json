@@ -1,0 +1,146 @@
+[
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "alibaba/fescar",
+    "url": "https://github.com/alibaba/fescar",
+    "desc": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "yujiangshui/An-English-Guide-for-Programmers",
+    "url": "https://github.com/yujiangshui/An-English-Guide-for-Programmers",
+    "desc": "专为程序员编写的英语学习指南。v1.0"
+  },
+  {
+    "title": "sharkdp/hexyl",
+    "url": "https://github.com/sharkdp/hexyl",
+    "desc": "A command-line hex viewer",
+    "lang": "Rust"
+  },
+  {
+    "title": "chokcoco/CSS-Inspiration",
+    "url": "https://github.com/chokcoco/CSS-Inspiration",
+    "desc": "CSS Inspiration，在这里找到写 CSS 的灵感！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示",
+    "lang": "Dart"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lancopku/pkuseg-python",
+    "url": "https://github.com/lancopku/pkuseg-python",
+    "desc": "python版本：领域细分的中文分词工具，简单易用，跟现有开源工具相比提高了分词的准确率。",
+    "lang": "Python"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alash3al/sqler",
+    "url": "https://github.com/alash3al/sqler",
+    "desc": "write APIs using direct SQL queries with no hassle, let's rethink about SQL",
+    "lang": "Go"
+  },
+  {
+    "title": "mikadosoftware/workstation",
+    "url": "https://github.com/mikadosoftware/workstation",
+    "desc": "Docker based portable Workstation",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "mmcloughlin/avo",
+    "url": "https://github.com/mmcloughlin/avo",
+    "desc": "Generate x86 Assembly with Go",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Computer Science Learning Notes"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jakubroztocil/httpie",
+    "url": "https://github.com/jakubroztocil/httpie",
+    "desc": "As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp",
+    "lang": "Python"
+  },
+  {
+    "title": "kimiyoung/transformer-xl",
+    "url": "https://github.com/kimiyoung/transformer-xl",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "VincentSit/ChinaMobilePhoneNumberRegex",
+    "url": "https://github.com/VincentSit/ChinaMobilePhoneNumberRegex",
+    "desc": "Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。"
+  },
+  {
+    "title": "wesbos/dad-jokes",
+    "url": "https://github.com/wesbos/dad-jokes",
+    "desc": "dad jokes"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
