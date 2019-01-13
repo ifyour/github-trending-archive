@@ -1,0 +1,147 @@
+[
+  {
+    "title": "juliangarnier/anime",
+    "url": "https://github.com/juliangarnier/anime",
+    "desc": "JavaScript animation engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexkimxyz/nsfw_data_scrapper",
+    "url": "https://github.com/alexkimxyz/nsfw_data_scrapper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "chokcoco/CSS-Inspiration",
+    "url": "https://github.com/chokcoco/CSS-Inspiration",
+    "desc": "CSS Inspiration，在这里找到写 CSS 的灵感！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yujiangshui/A-Programmers-Guide-to-English",
+    "url": "https://github.com/yujiangshui/A-Programmers-Guide-to-English",
+    "desc": "专为程序员编写的英语学习指南。v1.0"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示",
+    "lang": "Dart"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "jsdf/little-virtual-computer",
+    "url": "https://github.com/jsdf/little-virtual-computer",
+    "desc": "Learn how computers work by simulating them in Javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sharkdp/hexyl",
+    "url": "https://github.com/sharkdp/hexyl",
+    "desc": "A command-line hex viewer",
+    "lang": "Rust"
+  },
+  {
+    "title": "alibaba/fescar",
+    "url": "https://github.com/alibaba/fescar",
+    "desc": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "anvaka/sayit",
+    "url": "https://github.com/anvaka/sayit",
+    "desc": "Visualization of related subreddits",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "toshi-search/Toshi",
+    "url": "https://github.com/toshi-search/Toshi",
+    "desc": "A full-text search engine in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "learnbyexample/py_regular_expressions",
+    "url": "https://github.com/learnbyexample/py_regular_expressions",
+    "desc": "Learn Python Regular Expressions step by step from beginner to advanced levels",
+    "lang": "Python"
+  },
+  {
+    "title": "mxcl/swift-sh",
+    "url": "https://github.com/mxcl/swift-sh",
+    "desc": "Swift scripting with easy, zero-conf dependency imports.",
+    "lang": "Swift"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 面试必备基础知识"
+  },
+  {
+    "title": "GokuMohandas/practicalAI",
+    "url": "https://github.com/GokuMohandas/practicalAI",
+    "desc": "📚A practical approach to learning machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dreamans/syncd",
+    "url": "https://github.com/dreamans/syncd",
+    "desc": "syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.",
+    "lang": "Go"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "desc": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  }
+]
