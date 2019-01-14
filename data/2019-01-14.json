@@ -1,0 +1,147 @@
+[
+  {
+    "title": "alexkimxyz/nsfw_data_scrapper",
+    "url": "https://github.com/alexkimxyz/nsfw_data_scrapper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "toshi-search/Toshi",
+    "url": "https://github.com/toshi-search/Toshi",
+    "desc": "A full-text search engine in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "juliangarnier/anime",
+    "url": "https://github.com/juliangarnier/anime",
+    "desc": "JavaScript animation engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "retroplasma/earth-reverse-engineering",
+    "url": "https://github.com/retroplasma/earth-reverse-engineering",
+    "desc": "WIP"
+  },
+  {
+    "title": "pjialin/py12306",
+    "url": "https://github.com/pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示",
+    "lang": "Dart"
+  },
+  {
+    "title": "yujiangshui/A-Programmers-Guide-to-English",
+    "url": "https://github.com/yujiangshui/A-Programmers-Guide-to-English",
+    "desc": "专为程序员编写的英语学习指南。v1.0"
+  },
+  {
+    "title": "chokcoco/CSS-Inspiration",
+    "url": "https://github.com/chokcoco/CSS-Inspiration",
+    "desc": "CSS Inspiration，在这里找到写 CSS 的灵感！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "alibaba/fescar",
+    "url": "https://github.com/alibaba/fescar",
+    "desc": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dreamans/syncd",
+    "url": "https://github.com/dreamans/syncd",
+    "desc": "syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.",
+    "lang": "Go"
+  },
+  {
+    "title": "tantivy-search/tantivy",
+    "url": "https://github.com/tantivy-search/tantivy",
+    "desc": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "mxcl/swift-sh",
+    "url": "https://github.com/mxcl/swift-sh",
+    "desc": "Easily import third-party dependencies in your Swift scripts",
+    "lang": "Swift"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 面试必备基础知识"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "sharkdp/hexyl",
+    "url": "https://github.com/sharkdp/hexyl",
+    "desc": "A command-line hex viewer",
+    "lang": "Rust"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lewagon/dotfiles",
+    "url": "https://github.com/lewagon/dotfiles",
+    "desc": "Default configuration for Le Wagon's students",
+    "lang": "Shell"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "twpayne/chezmoi",
+    "url": "https://github.com/twpayne/chezmoi",
+    "desc": "Manage your dotfiles securely across multiple machines.",
+    "lang": "Go"
+  }
+]
