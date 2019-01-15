@@ -1,0 +1,150 @@
+[
+  {
+    "title": "alexkimxyz/nsfw_data_scrapper",
+    "url": "https://github.com/alexkimxyz/nsfw_data_scrapper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "retroplasma/earth-reverse-engineering",
+    "url": "https://github.com/retroplasma/earth-reverse-engineering",
+    "desc": "WIP",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.js best practices list (January 2019)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twpayne/chezmoi",
+    "url": "https://github.com/twpayne/chezmoi",
+    "desc": "Manage your dotfiles securely across multiple machines.",
+    "lang": "Go"
+  },
+  {
+    "title": "juliangarnier/anime",
+    "url": "https://github.com/juliangarnier/anime",
+    "desc": "JavaScript animation engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yujiangshui/A-Programmers-Guide-to-English",
+    "url": "https://github.com/yujiangshui/A-Programmers-Guide-to-English",
+    "desc": "专为程序员编写的英语学习指南。v1.0"
+  },
+  {
+    "title": "agershun/alasql",
+    "url": "https://github.com/agershun/alasql",
+    "desc": "AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "desc": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+    "lang": "Dart"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "pjialin/py12306",
+    "url": "https://github.com/pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理",
+    "lang": "Python"
+  },
+  {
+    "title": "bjoernkarmann/project_alias",
+    "url": "https://github.com/bjoernkarmann/project_alias",
+    "desc": "Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.",
+    "lang": "Python"
+  },
+  {
+    "title": "dylanaraps/fff",
+    "url": "https://github.com/dylanaraps/fff",
+    "desc": "🚀 fucking fast file-manager (written in bash)",
+    "lang": "Shell"
+  },
+  {
+    "title": "yagiz/Bagel",
+    "url": "https://github.com/yagiz/Bagel",
+    "desc": "a little native network debugging tool for iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "mahmoud/awesome-python-applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "desc": "💿 Free software that works great, and also happens to be open-source Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "chokcoco/CSS-Inspiration",
+    "url": "https://github.com/chokcoco/CSS-Inspiration",
+    "desc": "CSS Inspiration，在这里找到写 CSS 的灵感！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "toshi-search/Toshi",
+    "url": "https://github.com/toshi-search/Toshi",
+    "desc": "A full-text search engine in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "osforscience/deep-learning-ocean",
+    "url": "https://github.com/osforscience/deep-learning-ocean",
+    "desc": "📡 All You Need to Know About Deep Learning - A kick-starter",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "lang": "JavaScript"
+  }
+]
