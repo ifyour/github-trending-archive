@@ -1,0 +1,150 @@
+[
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "schollz/howmanypeoplearearound",
+    "url": "https://github.com/schollz/howmanypeoplearearound",
+    "desc": "Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡",
+    "lang": "Python"
+  },
+  {
+    "title": "nostalgic-css/NES.css",
+    "url": "https://github.com/nostalgic-css/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "CSS"
+  },
+  {
+    "title": "alibaba/euler",
+    "url": "https://github.com/alibaba/euler",
+    "desc": "A distributed graph deep learning framework.",
+    "lang": "C++"
+  },
+  {
+    "title": "rikschennink/shiny",
+    "url": "https://github.com/rikschennink/shiny",
+    "desc": "🌟 Shiny reflections for mobile websites",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexkimxyz/nsfw_data_scrapper",
+    "url": "https://github.com/alexkimxyz/nsfw_data_scrapper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "facebookincubator/spectrum",
+    "url": "https://github.com/facebookincubator/spectrum",
+    "desc": "A client-side image transcoding library.",
+    "lang": "C++"
+  },
+  {
+    "title": "pjialin/py12306",
+    "url": "https://github.com/pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理",
+    "lang": "Python"
+  },
+  {
+    "title": "nukeop/nuclear",
+    "url": "https://github.com/nukeop/nuclear",
+    "desc": "Popcorn Time for music",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "nektos/act",
+    "url": "https://github.com/nektos/act",
+    "desc": "Run your GitHub Actions locally",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+    "lang": "Dart"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "d5/tengo",
+    "url": "https://github.com/d5/tengo",
+    "desc": "A fast script language for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "yujiangshui/A-Programmers-Guide-to-English",
+    "url": "https://github.com/yujiangshui/A-Programmers-Guide-to-English",
+    "desc": "专为程序员编写的英语学习指南 v1.2。在线版本请点 ->",
+    "lang": "Shell"
+  },
+  {
+    "title": "juliangarnier/anime",
+    "url": "https://github.com/juliangarnier/anime",
+    "desc": "JavaScript animation engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dbeaver/dbeaver",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "desc": "Free universal database tool and SQL client",
+    "lang": "Java"
+  },
+  {
+    "title": "Microsoft/Recommenders",
+    "url": "https://github.com/Microsoft/Recommenders",
+    "desc": "Recommender Systems",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "Drakirus/go-flutter-desktop-embedder",
+    "url": "https://github.com/Drakirus/go-flutter-desktop-embedder",
+    "desc": "A Go (golang) Custom Flutter Engine Embedder for desktop",
+    "lang": "Go"
+  },
+  {
+    "title": "yygmind/blog",
+    "url": "https://github.com/yygmind/blog",
+    "desc": "我是木易杨，网易高级前端工程师，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "The largest Node.js best practices list (January 2019)",
+    "lang": "JavaScript"
+  }
+]
