@@ -1,0 +1,148 @@
+[
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ssloy/tinyraytracer",
+    "url": "https://github.com/ssloy/tinyraytracer",
+    "desc": "A brief computer graphics / rendering course",
+    "lang": "C++"
+  },
+  {
+    "title": "komeiji-satori/Dress",
+    "url": "https://github.com/komeiji-satori/Dress",
+    "desc": "好耶 是女装",
+    "lang": "StandardML"
+  },
+  {
+    "title": "hjacobs/kubernetes-failure-stories",
+    "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+    "desc": "Compilation of public failure/horror stories related to Kubernetes"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": ""
+  },
+  {
+    "title": "osforscience/deep-learning-ocean",
+    "url": "https://github.com/osforscience/deep-learning-ocean",
+    "desc": "📡 All You Need to Know About Deep Learning - A kick-starter",
+    "lang": "Python"
+  },
+  {
+    "title": "alexkimxyz/nsfw_data_scrapper",
+    "url": "https://github.com/alexkimxyz/nsfw_data_scrapper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "typescript-eslint/typescript-eslint",
+    "url": "https://github.com/typescript-eslint/typescript-eslint",
+    "desc": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "desc": "Command-line tool and terminal JSON viewer 🔥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cristim/serverless-failure-stories",
+    "url": "https://github.com/cristim/serverless-failure-stories",
+    "desc": "Compilation of public failure/horror stories related to Serverless, inspired by hjacobs/kubernetes-failure-stories"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "pjialin/py12306",
+    "url": "https://github.com/pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理",
+    "lang": "Python"
+  },
+  {
+    "title": "SpaceVim/SpaceVim",
+    "url": "https://github.com/SpaceVim/SpaceVim",
+    "desc": "A community-driven modular vim distribution - The ultimate vim configuration",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "Musish/Musish",
+    "url": "https://github.com/Musish/Musish",
+    "desc": "Apple Music...ish",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutterchina/flutter-in-action",
+    "url": "https://github.com/flutterchina/flutter-in-action",
+    "desc": "《Flutter实战》电子书",
+    "lang": "HTML"
+  },
+  {
+    "title": "alibaba/fescar",
+    "url": "https://github.com/alibaba/fescar",
+    "desc": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "yagiz/Bagel",
+    "url": "https://github.com/yagiz/Bagel",
+    "desc": "a little native network debugging tool for iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "schollz/howmanypeoplearearound",
+    "url": "https://github.com/schollz/howmanypeoplearearound",
+    "desc": "Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡",
+    "lang": "Python"
+  },
+  {
+    "title": "go-task/task",
+    "url": "https://github.com/go-task/task",
+    "desc": "A task runner / simpler Make alternative written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "MFatihMAR/Awesome-Game-Networking",
+    "url": "https://github.com/MFatihMAR/Awesome-Game-Networking",
+    "desc": "A Curated List of Game Network Programming Resources",
+    "lang": "C++"
+  },
+  {
+    "title": "rikschennink/shiny",
+    "url": "https://github.com/rikschennink/shiny",
+    "desc": "🌟 Shiny reflections for mobile websites",
+    "lang": "JavaScript"
+  }
+]
