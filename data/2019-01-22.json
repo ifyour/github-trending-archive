@@ -1,0 +1,149 @@
+[
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "auchenberg/vscode-browser-preview",
+    "url": "https://github.com/auchenberg/vscode-browser-preview",
+    "desc": "A real browser preview inside your editor that you can debug.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": ""
+  },
+  {
+    "title": "ssloy/tinyraytracer",
+    "url": "https://github.com/ssloy/tinyraytracer",
+    "desc": "A brief computer graphics / rendering course",
+    "lang": "C++"
+  },
+  {
+    "title": "komeiji-satori/Dress",
+    "url": "https://github.com/komeiji-satori/Dress",
+    "desc": "好耶 是女装",
+    "lang": "Ruby"
+  },
+  {
+    "title": "hjacobs/kubernetes-failure-stories",
+    "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+    "desc": "Compilation of public failure/horror stories related to Kubernetes"
+  },
+  {
+    "title": "osforscience/deep-learning-ocean",
+    "url": "https://github.com/osforscience/deep-learning-ocean",
+    "desc": "📡 All You Need to Know About Deep Learning - A kick-starter",
+    "lang": "Python"
+  },
+  {
+    "title": "alexkimxyz/nsfw_data_scrapper",
+    "url": "https://github.com/alexkimxyz/nsfw_data_scrapper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "IdeasOnCanvas/Aiolos",
+    "url": "https://github.com/IdeasOnCanvas/Aiolos",
+    "desc": "A floating panel for your iOS Apps",
+    "lang": "Swift"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "Musish/Musish",
+    "url": "https://github.com/Musish/Musish",
+    "desc": "Apple Music...ish",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具",
+    "lang": "Python"
+  },
+  {
+    "title": "djc/quinn",
+    "url": "https://github.com/djc/quinn",
+    "desc": "Futures-based QUIC implementation in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "typescript-eslint/typescript-eslint",
+    "url": "https://github.com/typescript-eslint/typescript-eslint",
+    "desc": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "rikschennink/shiny",
+    "url": "https://github.com/rikschennink/shiny",
+    "desc": "🌟 Shiny reflections for mobile websites",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MFatihMAR/Awesome-Game-Networking",
+    "url": "https://github.com/MFatihMAR/Awesome-Game-Networking",
+    "desc": "A Curated List of Game Network Programming Resources",
+    "lang": "C++"
+  },
+  {
+    "title": "yagiz/Bagel",
+    "url": "https://github.com/yagiz/Bagel",
+    "desc": "a little native network debugging tool for iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "desc": "Command-line tool and terminal JSON viewer 🔥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "react-spring/react-spring",
+    "url": "https://github.com/react-spring/react-spring",
+    "desc": "✌️ A spring physics based React animation library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pjialin/py12306",
+    "url": "https://github.com/pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "lalamove/konfig",
+    "url": "https://github.com/lalamove/konfig",
+    "desc": "Composable, observable and performant config handling for Go for the distributed processing era",
+    "lang": "Go"
+  }
+]
