@@ -1,0 +1,147 @@
+[
+  {
+    "title": "trimstray/the-practical-linux-hardening-guide",
+    "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+    "desc": "⚡️ This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+  },
+  {
+    "title": "cloudfetch/cloudquery",
+    "url": "https://github.com/cloudfetch/cloudquery",
+    "desc": "Turn any website to serverless API (support SPA!)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "revery-ui/revery",
+    "url": "https://github.com/revery-ui/revery",
+    "desc": "⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!",
+    "lang": "OCaml"
+  },
+  {
+    "title": "komeiji-satori/Dress",
+    "url": "https://github.com/komeiji-satori/Dress",
+    "desc": "好耶 是女装",
+    "lang": "Ruby"
+  },
+  {
+    "title": "auchenberg/vscode-browser-preview",
+    "url": "https://github.com/auchenberg/vscode-browser-preview",
+    "desc": "A real browser preview inside your editor that you can debug.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/fescar",
+    "url": "https://github.com/alibaba/fescar",
+    "desc": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookresearch/LASER",
+    "url": "https://github.com/facebookresearch/LASER",
+    "desc": "Language-Agnostic SEntence Representations",
+    "lang": "Python"
+  },
+  {
+    "title": "Droogans/unmaintainable-code",
+    "url": "https://github.com/Droogans/unmaintainable-code",
+    "desc": "A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 面试必备基础知识"
+  },
+  {
+    "title": "alexkimxyz/nsfw_data_scrapper",
+    "url": "https://github.com/alexkimxyz/nsfw_data_scrapper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+    "lang": "Dart"
+  },
+  {
+    "title": "Schniz/fnm",
+    "url": "https://github.com/Schniz/fnm",
+    "desc": "🚀 Fast and simple Node.js version manager, built in ReasonML",
+    "lang": "OCaml"
+  },
+  {
+    "title": "QiShaoXuan/css_tricks",
+    "url": "https://github.com/QiShaoXuan/css_tricks",
+    "desc": "some css tricks,一些css常用样式",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skorokithakis/catt",
+    "url": "https://github.com/skorokithakis/catt",
+    "desc": "Cast All The Things allows you to send videos from many, many online sources to your Chromecast.",
+    "lang": "Python"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "wubaiqing/zaobao",
+    "url": "https://github.com/wubaiqing/zaobao",
+    "desc": "每日时报，会以前端技术体系为主要分享课题。内容会以：文章、工具、新闻、视频几大板块作为主要分类。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "transitive-bullshit/functional-typescript",
+    "url": "https://github.com/transitive-bullshit/functional-typescript",
+    "desc": "TypeScript standard for rock solid serverless functions.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nukeop/nuclear",
+    "url": "https://github.com/nukeop/nuclear",
+    "desc": "Popcorn Time for music",
+    "lang": "JavaScript"
+  }
+]
