@@ -1,0 +1,142 @@
+[
+  {
+    "title": "joewalnes/websocketd",
+    "url": "https://github.com/joewalnes/websocketd",
+    "desc": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+    "lang": "Go"
+  },
+  {
+    "title": "trimstray/the-practical-linux-hardening-guide",
+    "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+    "desc": "🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "boazsegev/facil.io",
+    "url": "https://github.com/boazsegev/facil.io",
+    "desc": "Your high performance web application C framework",
+    "lang": "C"
+  },
+  {
+    "title": "westerndigitalcorporation/swerv_eh1",
+    "url": "https://github.com/westerndigitalcorporation/swerv_eh1",
+    "desc": "A directory of Western Digital’s RISC-V SweRV Cores",
+    "lang": "SystemVerilog"
+  },
+  {
+    "title": "revery-ui/revery",
+    "url": "https://github.com/revery-ui/revery",
+    "desc": "⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!",
+    "lang": "OCaml"
+  },
+  {
+    "title": "myshov/awesome-mobile-web-development",
+    "url": "https://github.com/myshov/awesome-mobile-web-development",
+    "desc": "All that you need to create a great mobile web experience"
+  },
+  {
+    "title": "github/hotkey",
+    "url": "https://github.com/github/hotkey",
+    "desc": "Global DOM element activation",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "tranbathanhtung/react-fiber-implement",
+    "url": "https://github.com/tranbathanhtung/react-fiber-implement",
+    "desc": "re-implement react fiber",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cloudfetch/cloudquery",
+    "url": "https://github.com/cloudfetch/cloudquery",
+    "desc": "Turn any website to serverless API (support SPA!)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SebLague/Path-Creator",
+    "url": "https://github.com/SebLague/Path-Creator",
+    "desc": "Path creation asset for Unity game development",
+    "lang": "C#"
+  },
+  {
+    "title": "leandromineti/ml-feynman-experience",
+    "url": "https://github.com/leandromineti/ml-feynman-experience",
+    "desc": "A collection of statistical models implemented with Python on Google Colab"
+  },
+  {
+    "title": "joelparkerhenderson/queueing_theory",
+    "url": "https://github.com/joelparkerhenderson/queueing_theory",
+    "desc": "Queueing theory: an introduction for software development"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识"
+  },
+  {
+    "title": "script-8/script-8.github.io",
+    "url": "https://github.com/script-8/script-8.github.io",
+    "desc": "A fantasy computer for making, sharing, and playing tiny retro-looking games.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "schlae/snark-barker",
+    "url": "https://github.com/schlae/snark-barker",
+    "desc": "A 100% compatible replica of the famed SB 1.0 sound card"
+  },
+  {
+    "title": "elliottzheng/CopyTranslator",
+    "url": "https://github.com/elliottzheng/CopyTranslator",
+    "desc": "Foreign language reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1)",
+    "lang": "Python"
+  },
+  {
+    "title": "zeusees/HyperDL-Tutorial",
+    "url": "https://github.com/zeusees/HyperDL-Tutorial",
+    "desc": "深度学习教程整理 | 干货"
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "C++"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "desc": "Command-line tool and terminal JSON viewer 🔥",
+    "lang": "JavaScript"
+  }
+]
