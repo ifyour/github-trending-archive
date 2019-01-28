@@ -1,0 +1,147 @@
+[
+  {
+    "title": "ssloy/tinykaboom",
+    "url": "https://github.com/ssloy/tinykaboom",
+    "desc": "A brief computer graphics / rendering course",
+    "lang": "C++"
+  },
+  {
+    "title": "trimstray/the-practical-linux-hardening-guide",
+    "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+    "desc": "🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+  },
+  {
+    "title": "vadimdemedes/ink",
+    "url": "https://github.com/vadimdemedes/ink",
+    "desc": "🌈 React for interactive command-line apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "joewalnes/websocketd",
+    "url": "https://github.com/joewalnes/websocketd",
+    "desc": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "desc": "Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊",
+    "lang": "Shell"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "wuyouzhuguli/FEBS-Vue",
+    "url": "https://github.com/wuyouzhuguli/FEBS-Vue",
+    "desc": "SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统，预览地址（小油管，初次加载较慢）：",
+    "lang": "Vue"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "github/hotkey",
+    "url": "https://github.com/github/hotkey",
+    "desc": "Global DOM element activation",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "komeiji-satori/Dress",
+    "url": "https://github.com/komeiji-satori/Dress",
+    "desc": "好耶 是女装",
+    "lang": "Ruby"
+  },
+  {
+    "title": "myshov/awesome-mobile-web-development",
+    "url": "https://github.com/myshov/awesome-mobile-web-development",
+    "desc": "All that you need to create a great mobile web experience"
+  },
+  {
+    "title": "polarphp/polarphp",
+    "url": "https://github.com/polarphp/polarphp",
+    "desc": "a runtime container of PHP programming language",
+    "lang": "C++"
+  },
+  {
+    "title": "kevinschaich/mintable",
+    "url": "https://github.com/kevinschaich/mintable",
+    "desc": "Roll-your own Mint clone for managing personal finances using the Google Sheets and Plaid APIs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "desc": "Command-line tool and terminal JSON viewer 🔥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ssloy/tinyraytracer",
+    "url": "https://github.com/ssloy/tinyraytracer",
+    "desc": "A brief computer graphics / rendering course",
+    "lang": "C++"
+  },
+  {
+    "title": "zeusees/HyperDL-Tutorial",
+    "url": "https://github.com/zeusees/HyperDL-Tutorial",
+    "desc": "深度学习教程整理 | 干货"
+  },
+  {
+    "title": "revery-ui/revery",
+    "url": "https://github.com/revery-ui/revery",
+    "desc": "⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!",
+    "lang": "OCaml"
+  },
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "desc": "a javascript spreadsheet for web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+    "lang": "Dart"
+  },
+  {
+    "title": "LeoMobileDeveloper/ios-developer-tools",
+    "url": "https://github.com/LeoMobileDeveloper/ios-developer-tools",
+    "desc": "A collection of tools that an iOS developer should know.",
+    "lang": "Swift"
+  },
+  {
+    "title": "boazsegev/facil.io",
+    "url": "https://github.com/boazsegev/facil.io",
+    "desc": "Your high performance web application C framework",
+    "lang": "C"
+  }
+]
