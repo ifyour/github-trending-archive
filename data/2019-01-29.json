@@ -1,0 +1,147 @@
+[
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "desc": "a javascript spreadsheet for web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "guolindev/giffun",
+    "url": "https://github.com/guolindev/giffun",
+    "desc": "一款开源的GIF在线分享App，乐趣就要和世界分享。",
+    "lang": "Java"
+  },
+  {
+    "title": "vadimdemedes/ink",
+    "url": "https://github.com/vadimdemedes/ink",
+    "desc": "🌈 React for interactive command-line apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞",
+    "lang": "Shell"
+  },
+  {
+    "title": "trimstray/the-practical-linux-hardening-guide",
+    "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+    "desc": "🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+  },
+  {
+    "title": "caronc/apprise",
+    "url": "https://github.com/caronc/apprise",
+    "desc": "Apprise - Push Notifications that work with just about every platform!",
+    "lang": "Python"
+  },
+  {
+    "title": "didi/chameleon",
+    "url": "https://github.com/didi/chameleon",
+    "desc": "真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dieegom/brumadinho_location",
+    "url": "https://github.com/dieegom/brumadinho_location",
+    "desc": "Criamos uma primeira versão de uma ferramenta para colocar latitude e longitude dos desaparecidos e, com base no fluxo de rejeitos, estimar a possível localização da pessoa.",
+    "lang": "Python"
+  },
+  {
+    "title": "ssloy/tinykaboom",
+    "url": "https://github.com/ssloy/tinykaboom",
+    "desc": "A brief computer graphics / rendering course",
+    "lang": "C++"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "phodal/techlead",
+    "url": "https://github.com/phodal/techlead",
+    "desc": "Path to Tech Lead: How to be a tech lead ? 迈向 Tech Lead 之路"
+  },
+  {
+    "title": "google/haskell-trainings",
+    "url": "https://github.com/google/haskell-trainings",
+    "desc": "Haskell 101 and 102: slides and codelabs",
+    "lang": "TeX"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "desc": "Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "joewalnes/websocketd",
+    "url": "https://github.com/joewalnes/websocketd",
+    "desc": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+    "lang": "Go"
+  },
+  {
+    "title": "b3log/symphony",
+    "url": "https://github.com/b3log/symphony",
+    "desc": "🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com",
+    "lang": "Java"
+  },
+  {
+    "title": "komeiji-satori/Dress",
+    "url": "https://github.com/komeiji-satori/Dress",
+    "desc": "好耶 是女装",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "yodaos-project/yodaos",
+    "url": "https://github.com/yodaos-project/yodaos",
+    "desc": "AI OS for Web Community",
+    "lang": "Python"
+  },
+  {
+    "title": "github/hotkey",
+    "url": "https://github.com/github/hotkey",
+    "desc": "Global DOM element activation",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wuyouzhuguli/FEBS-Vue",
+    "url": "https://github.com/wuyouzhuguli/FEBS-Vue",
+    "desc": "SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统，预览地址（小油管，初次加载较慢）：",
+    "lang": "Vue"
+  },
+  {
+    "title": "michael-lazar/rtv",
+    "url": "https://github.com/michael-lazar/rtv",
+    "desc": "Browse Reddit from your terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+    "lang": "Dart"
+  },
+  {
+    "title": "revery-ui/revery",
+    "url": "https://github.com/revery-ui/revery",
+    "desc": "⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!",
+    "lang": "OCaml"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "myshov/awesome-mobile-web-development",
+    "url": "https://github.com/myshov/awesome-mobile-web-development",
+    "desc": "All that you need to create a great mobile web experience"
+  }
+]
