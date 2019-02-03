@@ -1,0 +1,145 @@
+[
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "nextapps-de/flexsearch",
+    "url": "https://github.com/nextapps-de/flexsearch",
+    "desc": "Next-Generation full text search library for Browser and Node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "graykode/nlp-tutorial",
+    "url": "https://github.com/graykode/nlp-tutorial",
+    "desc": "Natural Language Processing Tutorial for Deep Learning Researchers",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tyroprogrammer/learn-react-app",
+    "url": "https://github.com/tyroprogrammer/learn-react-app",
+    "desc": "Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+  },
+  {
+    "title": "rShetty/awesome-podcasts",
+    "url": "https://github.com/rShetty/awesome-podcasts",
+    "desc": "Collection of awesome podcasts"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "vietnguyen91/ASCII-generator",
+    "url": "https://github.com/vietnguyen91/ASCII-generator",
+    "desc": "ASCII generator (image to text, image to image, video to video)",
+    "lang": "Python"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞",
+    "lang": "Shell"
+  },
+  {
+    "title": "idea4good/GuiLite",
+    "url": "https://github.com/idea4good/GuiLite",
+    "desc": "✔️The smallest UI framework for all platform -- 5K lines code",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "PiotrGrochowski/Consolas",
+    "url": "https://github.com/PiotrGrochowski/Consolas",
+    "desc": "The Consolas font since I became a designer of it starting at version 8.0. It's of course open source."
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "fabiospampinato/notable",
+    "url": "https://github.com/fabiospampinato/notable",
+    "desc": "The markdown-based note-taking app that doesn't suck.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vadimdemedes/ink",
+    "url": "https://github.com/vadimdemedes/ink",
+    "desc": "🌈 React for interactive command-line apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "derailed/k9s",
+    "url": "https://github.com/derailed/k9s",
+    "desc": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "lang": "Go"
+  },
+  {
+    "title": "Ridter/Intranet_Penetration_Tips",
+    "url": "https://github.com/Ridter/Intranet_Penetration_Tips",
+    "desc": "2018年初整理的一些内网渗透TIPS，后面更新的慢，所以公开出来希望跟小伙伴们一起更新维护~"
+  },
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "desc": "A web-based JavaScript（canvas） spreadsheet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookincubator/redux-react-hook",
+    "url": "https://github.com/facebookincubator/redux-react-hook",
+    "desc": "React Hook for accessing state and dispatch from a Redux store",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ksky521/nodeppt",
+    "url": "https://github.com/ksky521/nodeppt",
+    "desc": "This is probably the best web presentation tool so far!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bbc/bbplot",
+    "url": "https://github.com/bbc/bbplot",
+    "desc": "R package that helps create and export ggplot2 charts in the style used by the BBC News data team",
+    "lang": "R"
+  },
+  {
+    "title": "stanfordnlp/stanfordnlp",
+    "url": "https://github.com/stanfordnlp/stanfordnlp",
+    "desc": "Official Stanford NLP Python Library for Many Human Languages",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  }
+]
