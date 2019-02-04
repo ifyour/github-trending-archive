@@ -1,0 +1,146 @@
+[
+  {
+    "title": "nextapps-de/flexsearch",
+    "url": "https://github.com/nextapps-de/flexsearch",
+    "desc": "Next-Generation full text search library for Browser and Node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+  },
+  {
+    "title": "graykode/nlp-tutorial",
+    "url": "https://github.com/graykode/nlp-tutorial",
+    "desc": "Natural Language Processing Tutorial for Deep Learning Researchers",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "derailed/k9s",
+    "url": "https://github.com/derailed/k9s",
+    "desc": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "lang": "Go"
+  },
+  {
+    "title": "tyroprogrammer/learn-react-app",
+    "url": "https://github.com/tyroprogrammer/learn-react-app",
+    "desc": "Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "rShetty/awesome-podcasts",
+    "url": "https://github.com/rShetty/awesome-podcasts",
+    "desc": "Collection of awesome podcasts"
+  },
+  {
+    "title": "vietnguyen91/ASCII-generator",
+    "url": "https://github.com/vietnguyen91/ASCII-generator",
+    "desc": "ASCII generator (image to text, image to image, video to video)",
+    "lang": "Python"
+  },
+  {
+    "title": "nosarthur/gita",
+    "url": "https://github.com/nosarthur/gita",
+    "desc": "Manage multiple git repos side by side for sanity",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "justinribeiro/speedometer-pwa",
+    "url": "https://github.com/justinribeiro/speedometer-pwa",
+    "desc": "A tiny no-frills speedometer progressive web app based on Geolocation API, AmbientLightSensor API, and WakeLock API.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "tweag/asterius",
+    "url": "https://github.com/tweag/asterius",
+    "desc": "A Haskell to WebAssembly compiler",
+    "lang": "WebAssembly"
+  },
+  {
+    "title": "mohitk05/react-insta-stories",
+    "url": "https://github.com/mohitk05/react-insta-stories",
+    "desc": "A React component for Instagram like stories",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "vadimdemedes/ink",
+    "url": "https://github.com/vadimdemedes/ink",
+    "desc": "🌈 React for interactive command-line apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "idea4good/GuiLite",
+    "url": "https://github.com/idea4good/GuiLite",
+    "desc": "✔️The smallest UI framework for all platform -- 5K lines code",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PiotrGrochowski/Consolas",
+    "url": "https://github.com/PiotrGrochowski/Consolas",
+    "desc": "The Consolas font since I became a designer of it starting at version 8.0. It's of course open source."
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞",
+    "lang": "Shell"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "desc": "A web-based JavaScript（canvas） spreadsheet",
+    "lang": "JavaScript"
+  }
+]
