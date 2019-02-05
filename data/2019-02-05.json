@@ -1,0 +1,147 @@
+[
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "nextapps-de/flexsearch",
+    "url": "https://github.com/nextapps-de/flexsearch",
+    "desc": "Next-Generation full text search library for Browser and Node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rsms/inter",
+    "url": "https://github.com/rsms/inter",
+    "desc": "The Inter font family",
+    "lang": "Python"
+  },
+  {
+    "title": "skywind3000/z.lua",
+    "url": "https://github.com/skywind3000/z.lua",
+    "desc": "A new cd command that helps you navigate faster by learning your habits ⚡️",
+    "lang": "Lua"
+  },
+  {
+    "title": "isacikgoz/gitin",
+    "url": "https://github.com/isacikgoz/gitin",
+    "desc": "commit/branch/workdir explorer for git",
+    "lang": "Go"
+  },
+  {
+    "title": "labs42io/clean-code-typescript",
+    "url": "https://github.com/labs42io/clean-code-typescript",
+    "desc": "Clean Code concepts adapted for TypeScript"
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "tyroprogrammer/learn-react-app",
+    "url": "https://github.com/tyroprogrammer/learn-react-app",
+    "desc": "Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "desc": "Connect, secure, control, and observe services.",
+    "lang": "Go"
+  },
+  {
+    "title": "derailed/k9s",
+    "url": "https://github.com/derailed/k9s",
+    "desc": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "lang": "Go"
+  },
+  {
+    "title": "rShetty/awesome-podcasts",
+    "url": "https://github.com/rShetty/awesome-podcasts",
+    "desc": "Collection of awesome podcasts"
+  },
+  {
+    "title": "graykode/nlp-tutorial",
+    "url": "https://github.com/graykode/nlp-tutorial",
+    "desc": "Natural Language Processing Tutorial for Deep Learning Researchers",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "nosarthur/gita",
+    "url": "https://github.com/nosarthur/gita",
+    "desc": "Manage multiple git repos side by side for sanity",
+    "lang": "Python"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "NVlabs/ffhq-dataset",
+    "url": "https://github.com/NVlabs/ffhq-dataset",
+    "desc": "Flickr-Faces-HQ Dataset (FFHQ)",
+    "lang": "Python"
+  },
+  {
+    "title": "stylelint/stylelint",
+    "url": "https://github.com/stylelint/stylelint",
+    "desc": "A mighty, modern style linter",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "deepmind/hanabi-learning-environment",
+    "url": "https://github.com/deepmind/hanabi-learning-environment",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hacker-tools/hacker-tools.github.io",
+    "url": "https://github.com/hacker-tools/hacker-tools.github.io",
+    "desc": "Hacker Tools class website",
+    "lang": "CSS"
+  }
+]
