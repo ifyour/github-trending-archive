@@ -1,0 +1,150 @@
+[
+  {
+    "title": "kleampa/not-paid",
+    "url": "https://github.com/kleampa/not-paid",
+    "desc": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/nginx-quick-reference",
+    "url": "https://github.com/trimstray/nginx-quick-reference",
+    "desc": "This notes describes how to improve Nginx performance, security and other important things."
+  },
+  {
+    "title": "pomber/git-history",
+    "url": "https://github.com/pomber/git-history",
+    "desc": "Quickly browse the history of any GitHub file",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/clusterfuzz",
+    "url": "https://github.com/google/clusterfuzz",
+    "desc": "All your bug are belong to us.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheBerkin/rant",
+    "url": "https://github.com/TheBerkin/rant",
+    "desc": "Rant – The all-purpose procedural text library",
+    "lang": "C#"
+  },
+  {
+    "title": "pikapkg/pack",
+    "url": "https://github.com/pikapkg/pack",
+    "desc": "📦⚡️ npm package building, reimagined. https://www.pikapkg.com/blog/introducing-pika-pack/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "nextapps-de/flexsearch",
+    "url": "https://github.com/nextapps-de/flexsearch",
+    "desc": "Next-Generation full text search library for Browser and Node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "Java"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "NVlabs/stylegan",
+    "url": "https://github.com/NVlabs/stylegan",
+    "desc": "StyleGAN - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "skanehira/docui",
+    "url": "https://github.com/skanehira/docui",
+    "desc": "TUI Tool for Docker",
+    "lang": "Go"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "desc": "A PHP framework for web artisans",
+    "lang": "PHP"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "postlight/mercury-parser",
+    "url": "https://github.com/postlight/mercury-parser",
+    "desc": "📜 Extracting content from the chaos of the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labs42io/clean-code-typescript",
+    "url": "https://github.com/labs42io/clean-code-typescript",
+    "desc": "Clean Code concepts adapted for TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "isacikgoz/gitin",
+    "url": "https://github.com/isacikgoz/gitin",
+    "desc": "commit/branch/workdir explorer for git",
+    "lang": "Go"
+  },
+  {
+    "title": "google/jsonnet",
+    "url": "https://github.com/google/jsonnet",
+    "desc": "Jsonnet - The data templating language",
+    "lang": "C++"
+  },
+  {
+    "title": "apexcharts/apexcharts.js",
+    "url": "https://github.com/apexcharts/apexcharts.js",
+    "desc": "📊 Interactive SVG Charts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "diegohaz/constate",
+    "url": "https://github.com/diegohaz/constate",
+    "desc": "Scalable state manager using React Hooks & Context",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kentcdodds/react-testing-library",
+    "url": "https://github.com/kentcdodds/react-testing-library",
+    "desc": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mesibo/messenger-app-android",
+    "url": "https://github.com/mesibo/messenger-app-android",
+    "desc": "Open Source Messenger App For Android - Real-time Messaging, Voice and Video Calls",
+    "lang": "Java"
+  },
+  {
+    "title": "tyroprogrammer/learn-react-app",
+    "url": "https://github.com/tyroprogrammer/learn-react-app",
+    "desc": "Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/oss-fuzz",
+    "url": "https://github.com/google/oss-fuzz",
+    "desc": "OSS-Fuzz - continuous fuzzing of open source software",
+    "lang": "C"
+  }
+]
