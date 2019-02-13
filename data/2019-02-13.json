@@ -1,0 +1,146 @@
+[
+  {
+    "title": "uber/ludwig",
+    "url": "https://github.com/uber/ludwig",
+    "desc": "Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.",
+    "lang": "Python"
+  },
+  {
+    "title": "pomber/git-history",
+    "url": "https://github.com/pomber/git-history",
+    "desc": "Quickly browse the history of any GitHub file",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。",
+    "lang": "Java"
+  },
+  {
+    "title": "trimstray/nginx-quick-reference",
+    "url": "https://github.com/trimstray/nginx-quick-reference",
+    "desc": "⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%."
+  },
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server."
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+  },
+  {
+    "title": "zserge/lorca",
+    "url": "https://github.com/zserge/lorca",
+    "desc": "Build cross-platform modern desktop apps in Go + HTML5",
+    "lang": "Go"
+  },
+  {
+    "title": "eranyanay/1m-go-websockets",
+    "url": "https://github.com/eranyanay/1m-go-websockets",
+    "desc": "handling 1M websockets connections in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "Super-fast javascript to javascript compiler written in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "lukakerr/twig",
+    "url": "https://github.com/lukakerr/twig",
+    "desc": "A modern macOS markdown editor - themeable, tabs, sidebar, github flavored markdown, exporting, latex and more",
+    "lang": "Swift"
+  },
+  {
+    "title": "b3log/vditor",
+    "url": "https://github.com/b3log/vditor",
+    "desc": "♏ 一款浏览器端的 Markdown 编辑器。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "patr0nus/DeskGap",
+    "url": "https://github.com/patr0nus/DeskGap",
+    "desc": "A cross-platform desktop app framework based on Node.js and the system webview",
+    "lang": "C++"
+  },
+  {
+    "title": "instantpage/instant.page",
+    "url": "https://github.com/instantpage/instant.page",
+    "desc": "Make your site’s pages instant in 1 minute and improve your conversion rate by 1%",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kleampa/not-paid",
+    "url": "https://github.com/kleampa/not-paid",
+    "desc": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "brightmart/nlp_chinese_corpus",
+    "url": "https://github.com/brightmart/nlp_chinese_corpus",
+    "desc": "大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP"
+  },
+  {
+    "title": "google/clusterfuzz",
+    "url": "https://github.com/google/clusterfuzz",
+    "desc": "All your bug are belong to us.",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "NVlabs/stylegan",
+    "url": "https://github.com/NVlabs/stylegan",
+    "desc": "StyleGAN - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+    "lang": "Dart"
+  },
+  {
+    "title": "stanzhai/be-a-professional-programmer",
+    "url": "https://github.com/stanzhai/be-a-professional-programmer",
+    "desc": "成为专业程序员路上用到的各种优秀资料、神器及框架"
+  }
+]
