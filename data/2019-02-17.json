@@ -1,0 +1,147 @@
+[
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server."
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  },
+  {
+    "title": "dakshshah96/awesome-startup-credits",
+    "url": "https://github.com/dakshshah96/awesome-startup-credits",
+    "desc": "✨ A collection of awesome companies offering free/discounted plans for eligible startups"
+  },
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "desc": "🧠 Leon is your open-source personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "dgraph-io/dgraph",
+    "url": "https://github.com/dgraph-io/dgraph",
+    "desc": "Fast, Distributed Graph DB",
+    "lang": "Go"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "jdneo/vscode-leetcode",
+    "url": "https://github.com/jdneo/vscode-leetcode",
+    "desc": "Solve LeetCode problems in VS Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "desc": "LeetCode, HackRank, 剑指offer, classic algorithm implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.",
+    "lang": "C#"
+  },
+  {
+    "title": "zergtant/pytorch-handbook",
+    "url": "https://github.com/zergtant/pytorch-handbook",
+    "desc": "pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NVlabs/stylegan",
+    "url": "https://github.com/NVlabs/stylegan",
+    "desc": "StyleGAN - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "autonomy/talos",
+    "url": "https://github.com/autonomy/talos",
+    "desc": "A modern Linux distribution for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "sveinbjornt/Sloth",
+    "url": "https://github.com/sveinbjornt/Sloth",
+    "desc": "Mac app that shows all open files and sockets in use by all running processes. Nice GUI for lsof.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "pomber/git-history",
+    "url": "https://github.com/pomber/git-history",
+    "desc": "Quickly browse the history of any GitHub file",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "uber/ludwig",
+    "url": "https://github.com/uber/ludwig",
+    "desc": "Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.",
+    "lang": "Python"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "trimstray/nginx-quick-reference",
+    "url": "https://github.com/trimstray/nginx-quick-reference",
+    "desc": "⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%."
+  },
+  {
+    "title": "taki0112/Tensorflow-Cookbook",
+    "url": "https://github.com/taki0112/Tensorflow-Cookbook",
+    "desc": "Simple Tensorflow Cookbook for easy-to-use",
+    "lang": "Python"
+  },
+  {
+    "title": "eranyanay/1m-go-websockets",
+    "url": "https://github.com/eranyanay/1m-go-websockets",
+    "desc": "handling 1M websockets connections in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "google-research/planet",
+    "url": "https://github.com/google-research/planet",
+    "desc": "Deep Planning Network: Control from pixels by latent planning with learned dynamics",
+    "lang": "Python"
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/Recommenders",
+    "url": "https://github.com/Microsoft/Recommenders",
+    "desc": "Recommender Systems",
+    "lang": "JupyterNotebook"
+  }
+]
