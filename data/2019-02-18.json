@@ -1,0 +1,144 @@
+[
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server."
+  },
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "desc": "🧠 Leon is your open-source personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "taki0112/Tensorflow-Cookbook",
+    "url": "https://github.com/taki0112/Tensorflow-Cookbook",
+    "desc": "Simple Tensorflow Cookbook for easy-to-use",
+    "lang": "Python"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "jdneo/vscode-leetcode",
+    "url": "https://github.com/jdneo/vscode-leetcode",
+    "desc": "Solve LeetCode problems in VS Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dakshshah96/awesome-startup-credits",
+    "url": "https://github.com/dakshshah96/awesome-startup-credits",
+    "desc": "✨ A collection of awesome companies offering free/discounted plans for eligible startups"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+    "lang": "Dart"
+  },
+  {
+    "title": "NVlabs/stylegan",
+    "url": "https://github.com/NVlabs/stylegan",
+    "desc": "StyleGAN - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。",
+    "lang": "Java"
+  },
+  {
+    "title": "zergtant/pytorch-handbook",
+    "url": "https://github.com/zergtant/pytorch-handbook",
+    "desc": "pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vueComponent/ant-design-vue",
+    "url": "https://github.com/vueComponent/ant-design-vue",
+    "desc": "An enterprise-class UI components based on Ant Design and Vue. 🐜",
+    "lang": "Vue"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.",
+    "lang": "C#"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "trimstray/nginx-quick-reference",
+    "url": "https://github.com/trimstray/nginx-quick-reference",
+    "desc": "⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%."
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+  },
+  {
+    "title": "nas5w/100-days-of-code-frontend",
+    "url": "https://github.com/nas5w/100-days-of-code-frontend",
+    "desc": "Curriculum for learning front-end development during #100DaysOfCode."
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dgraph-io/dgraph",
+    "url": "https://github.com/dgraph-io/dgraph",
+    "desc": "Fast, Distributed Graph DB",
+    "lang": "Go"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  }
+]
