@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8",
+    "desc": ""
+  },
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server."
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "github/personal-website",
+    "url": "https://github.com/github/personal-website",
+    "desc": "Code that'll help you kickstart a personal website that showcases your work as a software developer.",
+    "lang": "CSS"
+  },
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "desc": "🧠 Leon is your open-source personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexellis/inlets",
+    "url": "https://github.com/alexellis/inlets",
+    "desc": "Expose your local endpoints to the Internet",
+    "lang": "Go"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "Bogdan-Lyashenko/codecrumbs",
+    "url": "https://github.com/Bogdan-Lyashenko/codecrumbs",
+    "desc": "Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "taki0112/Tensorflow-Cookbook",
+    "url": "https://github.com/taki0112/Tensorflow-Cookbook",
+    "desc": "Simple Tensorflow Cookbook for easy-to-use",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+    "lang": "Dart"
+  },
+  {
+    "title": "trimstray/nginx-quick-reference",
+    "url": "https://github.com/trimstray/nginx-quick-reference",
+    "desc": "⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%."
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.",
+    "lang": "C#"
+  },
+  {
+    "title": "js-newbee/taro-yanxuan",
+    "url": "https://github.com/js-newbee/taro-yanxuan",
+    "desc": "首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedrommcarrasco/Brooklyn",
+    "url": "https://github.com/pedrommcarrasco/Brooklyn",
+    "desc": "🍎 Screensaver inspired by Apple's Event on October 30, 2018",
+    "lang": "Swift"
+  },
+  {
+    "title": "vueComponent/ant-design-vue",
+    "url": "https://github.com/vueComponent/ant-design-vue",
+    "desc": "An enterprise-class UI components based on Ant Design and Vue. 🐜",
+    "lang": "Vue"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+  },
+  {
+    "title": "Ledger-Donjon/lascar",
+    "url": "https://github.com/Ledger-Donjon/lascar",
+    "desc": "Ledger's Advanced Side-Channel Analysis Repository",
+    "lang": "Python"
+  },
+  {
+    "title": "thexande/SwiftAlgorithms",
+    "url": "https://github.com/thexande/SwiftAlgorithms",
+    "desc": "🤓 An open source app for viewing algorithms and data structures implemented in Swift.",
+    "lang": "Swift"
+  }
+]
