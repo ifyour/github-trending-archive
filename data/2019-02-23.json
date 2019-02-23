@@ -1,0 +1,144 @@
+[
+  {
+    "title": "mbinary/USTC-CS-Courses-Resource",
+    "url": "https://github.com/mbinary/USTC-CS-Courses-Resource",
+    "desc": "❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)",
+    "lang": "C++"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8",
+    "desc": "Gitbook"
+  },
+  {
+    "title": "creativetimofficial/material-kit",
+    "url": "https://github.com/creativetimofficial/material-kit",
+    "desc": "Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design",
+    "lang": "CSS"
+  },
+  {
+    "title": "lemire/simdjson",
+    "url": "https://github.com/lemire/simdjson",
+    "desc": "Parsing gigabytes of JSON per second",
+    "lang": "C++"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "kdeldycke/awesome-falsehood",
+    "url": "https://github.com/kdeldycke/awesome-falsehood",
+    "desc": "💊 Curated list of falsehoods programmers believe in."
+  },
+  {
+    "title": "amzeratul/halley",
+    "url": "https://github.com/amzeratul/halley",
+    "desc": "A lightweight game engine written in modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "desc": "Latex code for making neural networks diagrams",
+    "lang": "TeX"
+  },
+  {
+    "title": "github/personal-website",
+    "url": "https://github.com/github/personal-website",
+    "desc": "Code that'll help you kickstart a personal website that showcases your work as a software developer.",
+    "lang": "CSS"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "MiCode/Xiaomi_Kernel_OpenSource",
+    "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+    "desc": "Xiaomi Mobile Phone Kernel OpenSource"
+  },
+  {
+    "title": "JoYoungjoo/SC-FEGAN",
+    "url": "https://github.com/JoYoungjoo/SC-FEGAN",
+    "desc": "SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color",
+    "lang": "Python"
+  },
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server."
+  },
+  {
+    "title": "pwn20wndstuff/Undecimus",
+    "url": "https://github.com/pwn20wndstuff/Undecimus",
+    "desc": "unc0ver jailbreak for iOS 11.0 - 12.1.2",
+    "lang": "C"
+  },
+  {
+    "title": "ovh/cds",
+    "url": "https://github.com/ovh/cds",
+    "desc": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+    "lang": "Go"
+  },
+  {
+    "title": "Bogdan-Lyashenko/codecrumbs",
+    "url": "https://github.com/Bogdan-Lyashenko/codecrumbs",
+    "desc": "Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+  },
+  {
+    "title": "uNetworking/uWebSockets.js",
+    "url": "https://github.com/uNetworking/uWebSockets.js",
+    "desc": "TypeScript web server - 15x faster than Deno",
+    "lang": "C++"
+  },
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "desc": "🧠 Leon is your open-source personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.",
+    "lang": "C#"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️",
+    "lang": "Python"
+  },
+  {
+    "title": "greybax/awesome-IT-films",
+    "url": "https://github.com/greybax/awesome-IT-films",
+    "desc": "📺 A curated list of awesome films about IT & geek people.",
+    "lang": "HTML"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  }
+]
