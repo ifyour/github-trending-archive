@@ -1,0 +1,144 @@
+[
+  {
+    "title": "mbinary/USTC-CS-Courses-Resource",
+    "url": "https://github.com/mbinary/USTC-CS-Courses-Resource",
+    "desc": "❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)",
+    "lang": "C++"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "nosir/cleave.js",
+    "url": "https://github.com/nosir/cleave.js",
+    "desc": "Format input text content when you are typing...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8",
+    "desc": "Gitbook"
+  },
+  {
+    "title": "lemire/simdjson",
+    "url": "https://github.com/lemire/simdjson",
+    "desc": "Parsing gigabytes of JSON per second",
+    "lang": "C++"
+  },
+  {
+    "title": "infinitered/nsfwjs",
+    "url": "https://github.com/infinitered/nsfwjs",
+    "desc": "NSFW detection on the client-side via Tensorflow JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "amzeratul/halley",
+    "url": "https://github.com/amzeratul/halley",
+    "desc": "A lightweight game engine written in modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mdibaiee/awesome-lite-websites",
+    "url": "https://github.com/mdibaiee/awesome-lite-websites",
+    "desc": "A list of awesome lightweight websites without all the bloat"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "⭐️ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "k8gege/K8tools",
+    "url": "https://github.com/k8gege/K8tools",
+    "desc": "K8工具(内网渗透/提权工具/远程溢出/漏洞利用/Exploit/APT/0day/Shellcode/Payload/priviledge/OverFlow/WebShell/PenTest)",
+    "lang": "Python"
+  },
+  {
+    "title": "github/personal-website",
+    "url": "https://github.com/github/personal-website",
+    "desc": "Code that'll help you kickstart a personal website that showcases your work as a software developer.",
+    "lang": "CSS"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  },
+  {
+    "title": "ovh/cds",
+    "url": "https://github.com/ovh/cds",
+    "desc": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "creativetimofficial/material-kit",
+    "url": "https://github.com/creativetimofficial/material-kit",
+    "desc": "Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design",
+    "lang": "CSS"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server."
+  },
+  {
+    "title": "Bogdan-Lyashenko/codecrumbs",
+    "url": "https://github.com/Bogdan-Lyashenko/codecrumbs",
+    "desc": "Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "didi/chameleon",
+    "url": "https://github.com/didi/chameleon",
+    "desc": "🦎 一套代码运行多端，一端所见即多端所见",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "pwn20wndstuff/Undecimus",
+    "url": "https://github.com/pwn20wndstuff/Undecimus",
+    "desc": "unc0ver jailbreak for iOS 11.0 - 12.1.2",
+    "lang": "C"
+  },
+  {
+    "title": "MiCode/Xiaomi_Kernel_OpenSource",
+    "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+    "desc": "Xiaomi Mobile Phone Kernel OpenSource"
+  },
+  {
+    "title": "JoYoungjoo/SC-FEGAN",
+    "url": "https://github.com/JoYoungjoo/SC-FEGAN",
+    "desc": "SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color",
+    "lang": "Python"
+  }
+]
