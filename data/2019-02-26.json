@@ -1,0 +1,145 @@
+[
+  {
+    "title": "mbinary/USTC-CS-Courses-Resource",
+    "url": "https://github.com/mbinary/USTC-CS-Courses-Resource",
+    "desc": "❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)",
+    "lang": "C++"
+  },
+  {
+    "title": "smacke/subsync",
+    "url": "https://github.com/smacke/subsync",
+    "desc": "Automagically synchronize subtitles with video.",
+    "lang": "Python"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/frontend-bootcamp",
+    "url": "https://github.com/Microsoft/frontend-bootcamp",
+    "desc": "Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nosir/cleave.js",
+    "url": "https://github.com/nosir/cleave.js",
+    "desc": "Format input text content when you are typing...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Mckinsey666/bullet",
+    "url": "https://github.com/Mckinsey666/bullet",
+    "desc": "🚅 Beautiful Python prompts made simple.",
+    "lang": "Python"
+  },
+  {
+    "title": "lemire/simdjson",
+    "url": "https://github.com/lemire/simdjson",
+    "desc": "Parsing gigabytes of JSON per second",
+    "lang": "C++"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8",
+    "desc": "Gitbook"
+  },
+  {
+    "title": "infinitered/nsfwjs",
+    "url": "https://github.com/infinitered/nsfwjs",
+    "desc": "NSFW detection on the client-side via Tensorflow JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/personal-website",
+    "url": "https://github.com/github/personal-website",
+    "desc": "Code that'll help you kickstart a personal website that showcases your work as a software developer.",
+    "lang": "CSS"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "wasmerio/wasmer",
+    "url": "https://github.com/wasmerio/wasmer",
+    "desc": "Universal Binaries Powered by WebAssembly",
+    "lang": "Rust"
+  },
+  {
+    "title": "li-xiaojun/XPopup",
+    "url": "https://github.com/li-xiaojun/XPopup",
+    "desc": "🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom Popup View.)",
+    "lang": "Java"
+  },
+  {
+    "title": "tensorflow/lingvo",
+    "url": "https://github.com/tensorflow/lingvo",
+    "desc": "Lingvo",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  },
+  {
+    "title": "didi/chameleon",
+    "url": "https://github.com/didi/chameleon",
+    "desc": "🦎 一套代码运行多端，一端所见即多端所见",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "⭐️ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "remoteinterview/zero",
+    "url": "https://github.com/remoteinterview/zero",
+    "desc": "Zero is a web server to simplify web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "aliyr/Nodejs-Developer-Roadmap",
+    "url": "https://github.com/aliyr/Nodejs-Developer-Roadmap",
+    "desc": "A Developer Roadmap to becoming a Node.js developer in 2019"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "filipedeschamps/video-maker",
+    "url": "https://github.com/filipedeschamps/video-maker",
+    "desc": "Projeto open source para fazer vídeos automatizados",
+    "lang": "JavaScript"
+  }
+]
