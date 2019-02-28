@@ -1,0 +1,147 @@
+[
+  {
+    "title": "mbinary/USTC-CS-Courses-Resource",
+    "url": "https://github.com/mbinary/USTC-CS-Courses-Resource",
+    "desc": "❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/coobjc",
+    "url": "https://github.com/alibaba/coobjc",
+    "desc": "coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "Microsoft/frontend-bootcamp",
+    "url": "https://github.com/Microsoft/frontend-bootcamp",
+    "desc": "Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rancher/k3s",
+    "url": "https://github.com/rancher/k3s",
+    "desc": "Lightweight Kubernetes. 5 less than k8s.",
+    "lang": "Go"
+  },
+  {
+    "title": "remoteinterview/zero",
+    "url": "https://github.com/remoteinterview/zero",
+    "desc": "Zero is a web server to simplify web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "Luolc/AdaBound",
+    "url": "https://github.com/Luolc/AdaBound",
+    "desc": "An optimizer that trains as fast as Adam and as good as SGD.",
+    "lang": "Python"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8",
+    "desc": "Gitbook"
+  },
+  {
+    "title": "gpujs/gpu.js",
+    "url": "https://github.com/gpujs/gpu.js",
+    "desc": "GPU Accelerated JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  },
+  {
+    "title": "cablespaghetti/kubeadm-aws",
+    "url": "https://github.com/cablespaghetti/kubeadm-aws",
+    "desc": "Really cheap Kubernetes cluster on AWS with kubeadm",
+    "lang": "HCL"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "ityouknow/spring-boot-examples",
+    "url": "https://github.com/ityouknow/spring-boot-examples",
+    "desc": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "lemire/simdjson",
+    "url": "https://github.com/lemire/simdjson",
+    "desc": "Parsing gigabytes of JSON per second",
+    "lang": "C++"
+  },
+  {
+    "title": "smacke/subsync",
+    "url": "https://github.com/smacke/subsync",
+    "desc": "Automagically synchronize subtitles with video.",
+    "lang": "Python"
+  },
+  {
+    "title": "dreamingechoes/awesome-mental-health",
+    "url": "https://github.com/dreamingechoes/awesome-mental-health",
+    "desc": "A curated list of awesome articles, websites and resources about mental health in the software industry."
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "0xInfection/Awesome-WAF",
+    "url": "https://github.com/0xInfection/Awesome-WAF",
+    "desc": "🔥 A curated list of awesome web-app firewall (WAF) stuff."
+  },
+  {
+    "title": "drcmda/react-three-fiber",
+    "url": "https://github.com/drcmda/react-three-fiber",
+    "desc": "👌React-fiber renderer for THREE.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Mckinsey666/bullet",
+    "url": "https://github.com/Mckinsey666/bullet",
+    "desc": "🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.",
+    "lang": "Python"
+  },
+  {
+    "title": "nosir/cleave.js",
+    "url": "https://github.com/nosir/cleave.js",
+    "desc": "Format input text content when you are typing...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "taki0112/Tensorflow-Cookbook",
+    "url": "https://github.com/taki0112/Tensorflow-Cookbook",
+    "desc": "Simple Tensorflow Cookbook for easy-to-use",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  }
+]
