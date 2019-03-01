@@ -1,0 +1,148 @@
+[
+  {
+    "title": "mbinary/USTC-CS-Courses-Resource",
+    "url": "https://github.com/mbinary/USTC-CS-Courses-Resource",
+    "desc": "❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)",
+    "lang": "C++"
+  },
+  {
+    "title": "Microsoft/frontend-bootcamp",
+    "url": "https://github.com/Microsoft/frontend-bootcamp",
+    "desc": "Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/coobjc",
+    "url": "https://github.com/alibaba/coobjc",
+    "desc": "coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "rancher/k3s",
+    "url": "https://github.com/rancher/k3s",
+    "desc": "Lightweight Kubernetes. 5 less than k8s.",
+    "lang": "Go"
+  },
+  {
+    "title": "remoteinterview/zero",
+    "url": "https://github.com/remoteinterview/zero",
+    "desc": "Zero is a web server to simplify web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "dreamingechoes/awesome-mental-health",
+    "url": "https://github.com/dreamingechoes/awesome-mental-health",
+    "desc": "A curated list of awesome articles, websites and resources about mental health in the software industry."
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8",
+    "desc": "Gitbook"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "artf/grapesjs",
+    "url": "https://github.com/artf/grapesjs",
+    "desc": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gpujs/gpu.js",
+    "url": "https://github.com/gpujs/gpu.js",
+    "desc": "GPU Accelerated JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "ityouknow/spring-boot-examples",
+    "url": "https://github.com/ityouknow/spring-boot-examples",
+    "desc": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "guolindev/coolweatherjetpack",
+    "url": "https://github.com/guolindev/coolweatherjetpack",
+    "desc": "酷欧天气的Jetpack版本实现，采用了MVVM架构。",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  },
+  {
+    "title": "weilanwl/ColorUI",
+    "url": "https://github.com/weilanwl/ColorUI",
+    "desc": "鲜亮的高饱和色彩，专注视觉的小程序组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cosmos72/gomacro",
+    "url": "https://github.com/cosmos72/gomacro",
+    "desc": "Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros",
+    "lang": "Go"
+  },
+  {
+    "title": "lemire/simdjson",
+    "url": "https://github.com/lemire/simdjson",
+    "desc": "Parsing gigabytes of JSON per second",
+    "lang": "C++"
+  },
+  {
+    "title": "Luolc/AdaBound",
+    "url": "https://github.com/Luolc/AdaBound",
+    "desc": "An optimizer that trains as fast as Adam and as good as SGD.",
+    "lang": "Python"
+  },
+  {
+    "title": "chiphuyen/lazynlp",
+    "url": "https://github.com/chiphuyen/lazynlp",
+    "desc": "Library to scrape and clean web pages to create massive datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "Mckinsey666/bullet",
+    "url": "https://github.com/Mckinsey666/bullet",
+    "desc": "🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.",
+    "lang": "Python"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/nni",
+    "url": "https://github.com/Microsoft/nni",
+    "desc": "An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  }
+]
