@@ -1,0 +1,146 @@
+[
+  {
+    "title": "mbinary/USTC-CS-Courses-Resource",
+    "url": "https://github.com/mbinary/USTC-CS-Courses-Resource",
+    "desc": "❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)",
+    "lang": "C++"
+  },
+  {
+    "title": "pikapkg/web",
+    "url": "https://github.com/pikapkg/web",
+    "desc": "📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8",
+    "desc": "Gitbook"
+  },
+  {
+    "title": "Microsoft/frontend-bootcamp",
+    "url": "https://github.com/Microsoft/frontend-bootcamp",
+    "desc": "Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "emilbaehr/automatic-app-landing-page",
+    "url": "https://github.com/emilbaehr/automatic-app-landing-page",
+    "desc": "A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.",
+    "lang": "HTML"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "rancher/k3s",
+    "url": "https://github.com/rancher/k3s",
+    "desc": "Lightweight Kubernetes. 5 less than k8s.",
+    "lang": "Go"
+  },
+  {
+    "title": "remoteinterview/zero",
+    "url": "https://github.com/remoteinterview/zero",
+    "desc": "Zero is a web server to simplify web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "aphyr/distsys-class",
+    "url": "https://github.com/aphyr/distsys-class",
+    "desc": "Class materials for a distributed systems lecture series"
+  },
+  {
+    "title": "bitsadmin/wesng",
+    "url": "https://github.com/bitsadmin/wesng",
+    "desc": "Windows Exploit Suggester - Next Generation",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/coobjc",
+    "url": "https://github.com/alibaba/coobjc",
+    "desc": "coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。",
+    "lang": "Java"
+  },
+  {
+    "title": "gpujs/gpu.js",
+    "url": "https://github.com/gpujs/gpu.js",
+    "desc": "GPU Accelerated JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dvassallo/bootstrapping-calculator",
+    "url": "https://github.com/dvassallo/bootstrapping-calculator",
+    "desc": "Do you have enough savings to fund your business?"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "vuejs/vue-dev-server",
+    "url": "https://github.com/vuejs/vue-dev-server",
+    "desc": "A POC dev server that allows you to import `*.vue` files via native ES modules imports.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "chiphuyen/lazynlp",
+    "url": "https://github.com/chiphuyen/lazynlp",
+    "desc": "Library to scrape and clean web pages to create massive datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "kyren/luster",
+    "url": "https://github.com/kyren/luster",
+    "desc": "An experimental Lua VM implemented in pure Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "vreeze/eboy",
+    "url": "https://github.com/vreeze/eboy",
+    "desc": "A Gameboy emulator for Emacs",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "joelparkerhenderson/queueing_theory",
+    "url": "https://github.com/joelparkerhenderson/queueing_theory",
+    "desc": "Queueing theory: an introduction for software development"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Non official project based on original /r/Deepfakes thread. Many thanks to him!",
+    "lang": "Python"
+  }
+]
