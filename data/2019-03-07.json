@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Microsoft/calculator",
+    "url": "https://github.com/Microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": ""
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ccyyycy/ycy",
+    "url": "https://github.com/ccyyycy/ycy",
+    "desc": "欢迎大家！hello ycy"
+  },
+  {
+    "title": "CriseLYJ/awesome-python-login-model",
+    "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+    "desc": "😮python各大网站登陆方式与一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟",
+    "lang": "Python"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8",
+    "desc": "Gitbook"
+  },
+  {
+    "title": "hamukazu/lets-get-arrested",
+    "url": "https://github.com/hamukazu/lets-get-arrested",
+    "desc": "This project is intended to protest against the police in Japan",
+    "lang": "HTML"
+  },
+  {
+    "title": "alibaba/fish-redux",
+    "url": "https://github.com/alibaba/fish-redux",
+    "desc": "An assembled flutter application framework.",
+    "lang": "Dart"
+  },
+  {
+    "title": "uber/kraken",
+    "url": "https://github.com/uber/kraken",
+    "desc": "P2P docker registry capable of distributing TBs of data in seconds",
+    "lang": "Go"
+  },
+  {
+    "title": "Microsoft/frontend-bootcamp",
+    "url": "https://github.com/Microsoft/frontend-bootcamp",
+    "desc": "Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools for everything."
+  },
+  {
+    "title": "vadimdemedes/ink",
+    "url": "https://github.com/vadimdemedes/ink",
+    "desc": "🌈 React for interactive command-line apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kenwoodjw/python_interview_question",
+    "url": "https://github.com/kenwoodjw/python_interview_question",
+    "desc": "关于python的面试题"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "desc": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "USTC-Resource/USTC-Course",
+    "url": "https://github.com/USTC-Resource/USTC-Course",
+    "desc": "❤️中国科学技术大学课程资源(https://ustc-resource.github.io/USTC-Course)",
+    "lang": "Python"
+  },
+  {
+    "title": "jask-oss/reaviz",
+    "url": "https://github.com/jask-oss/reaviz",
+    "desc": "📊 ReactJS Data Visualization Library based on D3.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "typpo/quickchart",
+    "url": "https://github.com/typpo/quickchart",
+    "desc": "Google Image Charts alternative",
+    "lang": "HTML"
+  },
+  {
+    "title": "trimstray/htrace.sh",
+    "url": "https://github.com/trimstray/htrace.sh",
+    "desc": "My simple Swiss Army knife for http/https troubleshooting and profiling.",
+    "lang": "Shell"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "rancher/k3s",
+    "url": "https://github.com/rancher/k3s",
+    "desc": "Lightweight Kubernetes. 5 less than k8s.",
+    "lang": "Go"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.",
+    "lang": "JavaScript"
+  }
+]
