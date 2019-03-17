@@ -1,0 +1,147 @@
+[
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "twhite96/js-dev-reads",
+    "url": "https://github.com/twhite96/js-dev-reads",
+    "desc": "A list of books 📚and articles 📝 for the discerning web developer to read."
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "desc": "An open source library for face detection in images. The face detection speed can reach 1500FPS.",
+    "lang": "C++"
+  },
+  {
+    "title": "clone95/Machine-Learning-Study-Path-March-2019",
+    "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+    "desc": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "generative-music/generative.fm",
+    "url": "https://github.com/generative-music/generative.fm",
+    "desc": "A platform for playing generative music in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexfoxy/laxxx",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "lyricat/wechat-format",
+    "url": "https://github.com/lyricat/wechat-format",
+    "desc": "微信公众号排版编辑器，转化 Markdown 微信特制的 HTML",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/calculator",
+    "url": "https://github.com/Microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "vlang-io/V",
+    "url": "https://github.com/vlang-io/V",
+    "desc": "Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++."
+  },
+  {
+    "title": "mozilla/send",
+    "url": "https://github.com/mozilla/send",
+    "desc": "Simple, private file sharing from the makers of Firefox",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "phoenixframework/phoenix_live_view",
+    "url": "https://github.com/phoenixframework/phoenix_live_view",
+    "desc": "Rich, real-time user experiences with server-rendered HTML",
+    "lang": "Elixir"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/LARK",
+    "url": "https://github.com/PaddlePaddle/LARK",
+    "desc": "LAnguage Representations Kit",
+    "lang": "Python"
+  },
+  {
+    "title": "marcan/takeover.sh",
+    "url": "https://github.com/marcan/takeover.sh",
+    "desc": "Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.",
+    "lang": "Shell"
+  },
+  {
+    "title": "AppleEducate/gmail_clone",
+    "url": "https://github.com/AppleEducate/gmail_clone",
+    "desc": "A Gmail Clone built with Flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "timvisee/ffsend",
+    "url": "https://github.com/timvisee/ffsend",
+    "desc": "📬 Easily and securely share files from the command line. A fully featured Firefox Send client.",
+    "lang": "Rust"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "cxxxr/lem",
+    "url": "https://github.com/cxxxr/lem",
+    "desc": "Common Lisp editor/IDE with high expansibility",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  }
+]
