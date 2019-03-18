@@ -1,0 +1,148 @@
+[
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alexfoxy/laxxx",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twhite96/js-dev-reads",
+    "url": "https://github.com/twhite96/js-dev-reads",
+    "desc": "A list of books 📚and articles 📝 for the discerning web developer to read."
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "desc": "An open source library for face detection in images. The face detection speed can reach 1500FPS.",
+    "lang": "C++"
+  },
+  {
+    "title": "vlang-io/V",
+    "url": "https://github.com/vlang-io/V",
+    "desc": "Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++."
+  },
+  {
+    "title": "clone95/Machine-Learning-Study-Path-March-2019",
+    "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+    "desc": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+  },
+  {
+    "title": "generative-music/generative.fm",
+    "url": "https://github.com/generative-music/generative.fm",
+    "desc": "A platform for playing generative music in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "efoxTeam/flutter-ui",
+    "url": "https://github.com/efoxTeam/flutter-ui",
+    "desc": "Flutter 开发组件库中文社区",
+    "lang": "Dart"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "lyricat/wechat-format",
+    "url": "https://github.com/lyricat/wechat-format",
+    "desc": "微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "francisrstokes/construct-js",
+    "url": "https://github.com/francisrstokes/construct-js",
+    "desc": "🛠️A library for creating byte level data structures.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mozilla/send",
+    "url": "https://github.com/mozilla/send",
+    "desc": "Simple, private file sharing from the makers of Firefox",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/calculator",
+    "url": "https://github.com/Microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "infinitered/nsfwjs",
+    "url": "https://github.com/infinitered/nsfwjs",
+    "desc": "NSFW detection on the client-side via Tensorflow JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "infinimesh/kaf",
+    "url": "https://github.com/infinimesh/kaf",
+    "desc": "Modern CLI for Apache Kafka, written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ityouknow/spring-boot-examples",
+    "url": "https://github.com/ityouknow/spring-boot-examples",
+    "desc": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "Python"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/LARK",
+    "url": "https://github.com/PaddlePaddle/LARK",
+    "desc": "LAnguage Representations Kit",
+    "lang": "Python"
+  },
+  {
+    "title": "syhyz1990/baiduyun",
+    "url": "https://github.com/syhyz1990/baiduyun",
+    "desc": "油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  }
+]
