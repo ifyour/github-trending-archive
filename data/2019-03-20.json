@@ -1,0 +1,147 @@
+[
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "NVlabs/SPADE",
+    "url": "https://github.com/NVlabs/SPADE",
+    "desc": ""
+  },
+  {
+    "title": "cirosantilli/x86-bare-metal-examples",
+    "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+    "desc": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host and real hardware. Userland cheat at: https://github.com/cirosantilli/x86-assembly-cheat ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup",
+    "lang": "Assembly"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Wookai/paper-tips-and-tricks",
+    "url": "https://github.com/Wookai/paper-tips-and-tricks",
+    "desc": "Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.",
+    "lang": "Python"
+  },
+  {
+    "title": "twhite96/js-dev-reads",
+    "url": "https://github.com/twhite96/js-dev-reads",
+    "desc": "A list of books 📚and articles 📝 for the discerning web developer to read."
+  },
+  {
+    "title": "clone95/Machine-Learning-Study-Path-March-2019",
+    "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+    "desc": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+  },
+  {
+    "title": "alexfoxy/laxxx",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/sandboxed-api",
+    "url": "https://github.com/google/sandboxed-api",
+    "desc": "Sandboxed API automatically generates sandboxes for C/C++ libraries",
+    "lang": "C++"
+  },
+  {
+    "title": "jfcoz/postgresqltuner",
+    "url": "https://github.com/jfcoz/postgresqltuner",
+    "desc": "Simple script to analyse your PostgreSQL database configuration, and give tuning advice",
+    "lang": "Perl"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "syhyz1990/baiduyun",
+    "url": "https://github.com/syhyz1990/baiduyun",
+    "desc": "油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wesbos/awesome-uses",
+    "url": "https://github.com/wesbos/awesome-uses",
+    "desc": "Awesome Uses Page"
+  },
+  {
+    "title": "CriseLYJ/awesome-python-login-model",
+    "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+    "desc": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "pikapkg/web",
+    "url": "https://github.com/pikapkg/web",
+    "desc": "📦 ✨ Run npm dependencies directly in the browser. No Browserify, Webpack or import maps required.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Webiny/webiny-js",
+    "url": "https://github.com/Webiny/webiny-js",
+    "desc": "Serverless CMS (GraphQL + React)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apple/swift-log",
+    "url": "https://github.com/apple/swift-log",
+    "desc": "A Logging API package for Swift 5.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Snowming04/The-Hacker-Playbook-3-Translation",
+    "url": "https://github.com/Snowming04/The-Hacker-Playbook-3-Translation",
+    "desc": "对 The Hacker Playbook 3 的翻译。"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "Python"
+  },
+  {
+    "title": "dcloudio/uni-app",
+    "url": "https://github.com/dcloudio/uni-app",
+    "desc": "使用 Vue.js 开发跨平台应用的前端框架",
+    "lang": "Vue"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "desc": "An open source library for face detection in images. The face detection speed can reach 1500FPS.",
+    "lang": "C++"
+  },
+  {
+    "title": "mozilla/send",
+    "url": "https://github.com/mozilla/send",
+    "desc": "Simple, private file sharing from the makers of Firefox",
+    "lang": "JavaScript"
+  }
+]
