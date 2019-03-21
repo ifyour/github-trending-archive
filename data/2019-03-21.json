@@ -1,0 +1,147 @@
+[
+  {
+    "title": "clone95/Machine-Learning-Study-Path-March-2019",
+    "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+    "desc": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "NVlabs/SPADE",
+    "url": "https://github.com/NVlabs/SPADE",
+    "desc": ""
+  },
+  {
+    "title": "alexfoxy/laxxx",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/dragonwell8",
+    "url": "https://github.com/alibaba/dragonwell8",
+    "desc": "Alibaba Dragonwell8 JDK",
+    "lang": "Shell"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "googleprojectzero/fuzzilli",
+    "url": "https://github.com/googleprojectzero/fuzzilli",
+    "desc": "A JavaScript Engine Fuzzer",
+    "lang": "Swift"
+  },
+  {
+    "title": "Wookai/paper-tips-and-tricks",
+    "url": "https://github.com/Wookai/paper-tips-and-tricks",
+    "desc": "Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "twhite96/js-dev-reads",
+    "url": "https://github.com/twhite96/js-dev-reads",
+    "desc": "A list of books 📚and articles 📝 for the discerning web developer to read."
+  },
+  {
+    "title": "radareorg/cutter",
+    "url": "https://github.com/radareorg/cutter",
+    "desc": "A Qt and C++ GUI for radare2 reverse engineering framework",
+    "lang": "C++"
+  },
+  {
+    "title": "syhyz1990/baiduyun",
+    "url": "https://github.com/syhyz1990/baiduyun",
+    "desc": "油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CriseLYJ/awesome-python-login-model",
+    "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+    "desc": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟",
+    "lang": "Python"
+  },
+  {
+    "title": "dcloudio/uni-app",
+    "url": "https://github.com/dcloudio/uni-app",
+    "desc": "使用 Vue.js 开发跨平台应用的前端框架",
+    "lang": "Vue"
+  },
+  {
+    "title": "wesbos/awesome-uses",
+    "url": "https://github.com/wesbos/awesome-uses",
+    "desc": "Awesome Uses Page"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cirosantilli/x86-bare-metal-examples",
+    "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+    "desc": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/x86-assembly-cheat ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup",
+    "lang": "Assembly"
+  },
+  {
+    "title": "Microsoft/calculator",
+    "url": "https://github.com/Microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "tektoncd/pipeline",
+    "url": "https://github.com/tektoncd/pipeline",
+    "desc": "A K8s-native Pipeline resource.",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "desc": "An open source library for face detection in images. The face detection speed can reach 1500FPS.",
+    "lang": "C++"
+  },
+  {
+    "title": "mas-cli/mas",
+    "url": "https://github.com/mas-cli/mas",
+    "desc": "📦 Mac App Store command line interface",
+    "lang": "Swift"
+  }
+]
