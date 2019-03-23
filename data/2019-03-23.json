@@ -1,0 +1,148 @@
+[
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ajbrock/BigGAN-PyTorch",
+    "url": "https://github.com/ajbrock/BigGAN-PyTorch",
+    "desc": "The author's officially unofficial PyTorch BigGAN implementation.",
+    "lang": "Python"
+  },
+  {
+    "title": "clone95/Machine-Learning-Study-Path-March-2019",
+    "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+    "desc": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+  },
+  {
+    "title": "fyne-io/fyne",
+    "url": "https://github.com/fyne-io/fyne",
+    "desc": "Cross platform GUI in Go based on Material Design",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "skeeto/endlessh",
+    "url": "https://github.com/skeeto/endlessh",
+    "desc": "SSH tarpit that slowly sends an endless banner",
+    "lang": "C"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "desc": "Latex code for making neural networks diagrams",
+    "lang": "TeX"
+  },
+  {
+    "title": "alexfoxy/laxxx",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "changtuiqie/WeChatAgreement.WebApi.Simple",
+    "url": "https://github.com/changtuiqie/WeChatAgreement.WebApi.Simple",
+    "desc": "微信mac/ipad协议，webapi封装好的实现方案，免IIS一键部署。 可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等",
+    "lang": "HTML"
+  },
+  {
+    "title": "leeoniya/dropcss",
+    "url": "https://github.com/leeoniya/dropcss",
+    "desc": "A simple, thorough and fast unused-CSS cleaner",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "syhyz1990/baiduyun",
+    "url": "https://github.com/syhyz1990/baiduyun",
+    "desc": "油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/calculator",
+    "url": "https://github.com/Microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "t9tio/open-source-jobs",
+    "url": "https://github.com/t9tio/open-source-jobs",
+    "desc": "A list of Open Source projects offering jobs. For who want to work on open source and get paid."
+  },
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "lang": "Rust"
+  },
+  {
+    "title": "qri-io/qri",
+    "url": "https://github.com/qri-io/qri",
+    "desc": "you're invited to a data party!",
+    "lang": "Go"
+  },
+  {
+    "title": "Alfred1984/interesting-python",
+    "url": "https://github.com/Alfred1984/interesting-python",
+    "desc": "有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "tomi/fromfrom",
+    "url": "https://github.com/tomi/fromfrom",
+    "desc": "A JS library written in TS to transform sequences of data from format to another",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "encode/requests-async",
+    "url": "https://github.com/encode/requests-async",
+    "desc": "async-await support for `requests`. 🍰",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/SPADE",
+    "url": "https://github.com/NVlabs/SPADE",
+    "desc": ""
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets"
+  },
+  {
+    "title": "lyricat/wechat-format",
+    "url": "https://github.com/lyricat/wechat-format",
+    "desc": "微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML",
+    "lang": "JavaScript"
+  }
+]
