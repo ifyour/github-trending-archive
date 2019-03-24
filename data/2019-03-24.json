@@ -1,0 +1,149 @@
+[
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Microsoft/pyright",
+    "url": "https://github.com/Microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "qri-io/qri",
+    "url": "https://github.com/qri-io/qri",
+    "desc": "you're invited to a data party!",
+    "lang": "Go"
+  },
+  {
+    "title": "leeoniya/dropcss",
+    "url": "https://github.com/leeoniya/dropcss",
+    "desc": "A simple, thorough and fast unused-CSS cleaner",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skeeto/endlessh",
+    "url": "https://github.com/skeeto/endlessh",
+    "desc": "SSH tarpit that slowly sends an endless banner",
+    "lang": "C"
+  },
+  {
+    "title": "clone95/Machine-Learning-Study-Path-March-2019",
+    "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+    "desc": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+  },
+  {
+    "title": "fyne-io/fyne",
+    "url": "https://github.com/fyne-io/fyne",
+    "desc": "Cross platform GUI in Go based on Material Design",
+    "lang": "Go"
+  },
+  {
+    "title": "ajbrock/BigGAN-PyTorch",
+    "url": "https://github.com/ajbrock/BigGAN-PyTorch",
+    "desc": "The author's officially unofficial PyTorch BigGAN implementation.",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "klaussinani/taskbook",
+    "url": "https://github.com/klaussinani/taskbook",
+    "desc": "📓 Tasks, boards & notes for the command-line habitat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/crfs",
+    "url": "https://github.com/google/crfs",
+    "desc": "CRFS: Container Registry Filesystem",
+    "lang": "Go"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "desc": "Latex code for making neural networks diagrams",
+    "lang": "TeX"
+  },
+  {
+    "title": "teamprevue/PreVue",
+    "url": "https://github.com/teamprevue/PreVue",
+    "desc": "🎨 All in One Prototyping Tool For Vue Developers.",
+    "lang": "Vue"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "veonim/veonim",
+    "url": "https://github.com/veonim/veonim",
+    "desc": "simple modal IDE built on neovim",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets"
+  },
+  {
+    "title": "t9tio/open-source-jobs",
+    "url": "https://github.com/t9tio/open-source-jobs",
+    "desc": "Open Source Jobs: A list of Open Source projects offering jobs. For who want to work on open source and get paid."
+  },
+  {
+    "title": "alexfoxy/laxxx",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Ibit-to/google-unlocked",
+    "url": "https://github.com/Ibit-to/google-unlocked",
+    "desc": "Google Unlocked Chrome extension unlocks hidden google search results",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/calculator",
+    "url": "https://github.com/Microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "desc": "An open source library for face detection in images. The face detection speed can reach 1500FPS.",
+    "lang": "C++"
+  }
+]
