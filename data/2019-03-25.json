@@ -1,0 +1,150 @@
+[
+  {
+    "title": "fyne-io/fyne",
+    "url": "https://github.com/fyne-io/fyne",
+    "desc": "Cross platform GUI in Go based on Material Design",
+    "lang": "Go"
+  },
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Microsoft/pyright",
+    "url": "https://github.com/Microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "clone95/Data-Science-Study-Paths-March-2019",
+    "url": "https://github.com/clone95/Data-Science-Study-Paths-March-2019",
+    "desc": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+  },
+  {
+    "title": "felixse/FluentTerminal",
+    "url": "https://github.com/felixse/FluentTerminal",
+    "desc": "A Terminal Emulator based on UWP and web technologies.",
+    "lang": "C#"
+  },
+  {
+    "title": "bestony/logoly",
+    "url": "https://github.com/bestony/logoly",
+    "desc": "A Pornhub Pattern Logo Generator",
+    "lang": "Vue"
+  },
+  {
+    "title": "veonim/veonim",
+    "url": "https://github.com/veonim/veonim",
+    "desc": "simple modal IDE built on neovim",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/pytype",
+    "url": "https://github.com/google/pytype",
+    "desc": "A static type analyzer for Python code",
+    "lang": "Python"
+  },
+  {
+    "title": "instantbox/instantbox",
+    "url": "https://github.com/instantbox/instantbox",
+    "desc": "Get a clean, ready-to-go Linux box in seconds.",
+    "lang": "Python"
+  },
+  {
+    "title": "zhihu/griffith",
+    "url": "https://github.com/zhihu/griffith",
+    "desc": "A React-based web video player",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "alexfoxy/laxxx",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leeoniya/dropcss",
+    "url": "https://github.com/leeoniya/dropcss",
+    "desc": "A simple, thorough and fast unused-CSS cleaner",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "skeeto/endlessh",
+    "url": "https://github.com/skeeto/endlessh",
+    "desc": "SSH tarpit that slowly sends an endless banner",
+    "lang": "C"
+  },
+  {
+    "title": "tektoncd/pipeline",
+    "url": "https://github.com/tektoncd/pipeline",
+    "desc": "A K8s-native Pipeline resource.",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "teamprevue/PreVue",
+    "url": "https://github.com/teamprevue/PreVue",
+    "desc": "🎨 All in One Prototyping Tool For Vue Developers.",
+    "lang": "Vue"
+  },
+  {
+    "title": "KaTeX/KaTeX",
+    "url": "https://github.com/KaTeX/KaTeX",
+    "desc": "Fast math typesetting for the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/crfs",
+    "url": "https://github.com/google/crfs",
+    "desc": "CRFS: Container Registry Filesystem",
+    "lang": "Go"
+  },
+  {
+    "title": "yampelo/beagle",
+    "url": "https://github.com/yampelo/beagle",
+    "desc": "Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.",
+    "lang": "Python"
+  },
+  {
+    "title": "klaussinani/taskbook",
+    "url": "https://github.com/klaussinani/taskbook",
+    "desc": "📓 Tasks, boards & notes for the command-line habitat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ajbrock/BigGAN-PyTorch",
+    "url": "https://github.com/ajbrock/BigGAN-PyTorch",
+    "desc": "The author's officially unofficial PyTorch BigGAN implementation.",
+    "lang": "Python"
+  }
+]
