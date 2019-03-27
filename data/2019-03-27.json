@@ -1,0 +1,146 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "title": "clone95/Virgilio",
+    "url": "https://github.com/clone95/Virgilio",
+    "desc": "Your new Mentor for Data Science E-Learning."
+  },
+  {
+    "title": "minimaxir/automl-gs",
+    "url": "https://github.com/minimaxir/automl-gs",
+    "desc": "Provide an input CSV and a target field to predict, generate a model + code to run it.",
+    "lang": "Python"
+  },
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "lang": "Rust"
+  },
+  {
+    "title": "bestony/logoly",
+    "url": "https://github.com/bestony/logoly",
+    "desc": "A Pornhub Flavour Logo Generator",
+    "lang": "Vue"
+  },
+  {
+    "title": "Raathigesh/majestic",
+    "url": "https://github.com/Raathigesh/majestic",
+    "desc": "⚡ Zero config GUI for Jest",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "veonim/veonim",
+    "url": "https://github.com/veonim/veonim",
+    "desc": "simple modal IDE built on neovim",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tnfe/TNFE-Weekly",
+    "url": "https://github.com/Tnfe/TNFE-Weekly",
+    "desc": "每周为你提供高质量的关于小程序、h5等前端领域的文章和项目"
+  },
+  {
+    "title": "OpenDroneMap/ODM",
+    "url": "https://github.com/OpenDroneMap/ODM",
+    "desc": "A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.",
+    "lang": "C++"
+  },
+  {
+    "title": "Microsoft/pyright",
+    "url": "https://github.com/Microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+  },
+  {
+    "title": "fyne-io/fyne",
+    "url": "https://github.com/fyne-io/fyne",
+    "desc": "Cross platform GUI in Go based on Material Design",
+    "lang": "Go"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "semlinker/reactjs-interview-questions",
+    "url": "https://github.com/semlinker/reactjs-interview-questions",
+    "desc": "List of top 301 ReactJS Interview Questions & Answers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antonmedv/red",
+    "url": "https://github.com/antonmedv/red",
+    "desc": "Terminal log analysis tools",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "😋 技术面试必备基础知识"
+  },
+  {
+    "title": "alexfoxy/laxxx",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "mumble-voip/mumble",
+    "url": "https://github.com/mumble-voip/mumble",
+    "desc": "Mumble VoIP Client/Server",
+    "lang": "C++"
+  },
+  {
+    "title": "CriseLYJ/awesome-python-login-model",
+    "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+    "desc": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  }
+]
