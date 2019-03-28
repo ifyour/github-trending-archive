@@ -1,0 +1,145 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "title": "cloudflare/boringtun",
+    "url": "https://github.com/cloudflare/boringtun",
+    "desc": "Userspace WireGuard® Implementation in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+  },
+  {
+    "title": "ShizukuIchi/winXP",
+    "url": "https://github.com/ShizukuIchi/winXP",
+    "desc": "🏁 Web based Windows XP desktop recreation.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "clone95/Virgilio",
+    "url": "https://github.com/clone95/Virgilio",
+    "desc": "Your new Mentor for Data Science E-Learning."
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识"
+  },
+  {
+    "title": "youyuge34/PI-REC",
+    "url": "https://github.com/youyuge34/PI-REC",
+    "desc": "🔥 PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. 🔥 图像翻译，条件GAN，AI绘画",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞",
+    "lang": "Shell"
+  },
+  {
+    "title": "chaosblade-io/chaosblade",
+    "url": "https://github.com/chaosblade-io/chaosblade",
+    "desc": "An easy to use and powerful chaos engineering experiment toolkit.（一款简单易用、功能强大的混沌实验注入工具）",
+    "lang": "Go"
+  },
+  {
+    "title": "networknt/light-4j",
+    "url": "https://github.com/networknt/light-4j",
+    "desc": "A fast, lightweight and more productive microservices framework",
+    "lang": "Java"
+  },
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "lang": "Rust"
+  },
+  {
+    "title": "xiaolai/everyone-can-use-english",
+    "url": "https://github.com/xiaolai/everyone-can-use-english",
+    "desc": "人人都能用英语"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Tnfe/TNFE-Weekly",
+    "url": "https://github.com/Tnfe/TNFE-Weekly",
+    "desc": "每周为你提供高质量的关于小程序、h5等前端领域的文章和项目"
+  },
+  {
+    "title": "Raathigesh/majestic",
+    "url": "https://github.com/Raathigesh/majestic",
+    "desc": "⚡ Zero config GUI for Jest",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "bestony/logoly",
+    "url": "https://github.com/bestony/logoly",
+    "desc": "A Pornhub Flavour Logo Generator",
+    "lang": "Vue"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "Microsoft/pyright",
+    "url": "https://github.com/Microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  }
+]
