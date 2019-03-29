@@ -1,0 +1,145 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单"
+  },
+  {
+    "title": "fastly/lucet",
+    "url": "https://github.com/fastly/lucet",
+    "desc": "Lucet, the Sandboxing WebAssembly Compiler.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ShizukuIchi/winXP",
+    "url": "https://github.com/ShizukuIchi/winXP",
+    "desc": "🏁 Web based Windows XP desktop recreation.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Raathigesh/majestic",
+    "url": "https://github.com/Raathigesh/majestic",
+    "desc": "⚡ Zero config GUI for Jest",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tonejs/Tone.js",
+    "url": "https://github.com/Tonejs/Tone.js",
+    "desc": "A Web Audio framework for making interactive music in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识"
+  },
+  {
+    "title": "lyft/cartography",
+    "url": "https://github.com/lyft/cartography",
+    "desc": "Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "995icu/996ICU",
+    "url": "https://github.com/995icu/996ICU",
+    "desc": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "fireeye/commando-vm",
+    "url": "https://github.com/fireeye/commando-vm",
+    "desc": "",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "xiaolai/everyone-can-use-english",
+    "url": "https://github.com/xiaolai/everyone-can-use-english",
+    "desc": "人人都能用英语"
+  },
+  {
+    "title": "cloudflare/boringtun",
+    "url": "https://github.com/cloudflare/boringtun",
+    "desc": "Userspace WireGuard® Implementation in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Microsoft/pyright",
+    "url": "https://github.com/Microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jezen/is-thirteen",
+    "url": "https://github.com/jezen/is-thirteen",
+    "desc": "Check if a number is equal to 13.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dheera/rosshow",
+    "url": "https://github.com/dheera/rosshow",
+    "desc": "Visualize ROS topics inside a terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞",
+    "lang": "Shell"
+  }
+]
