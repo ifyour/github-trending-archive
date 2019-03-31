@@ -1,0 +1,146 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单"
+  },
+  {
+    "title": "neoclide/coc.nvim",
+    "url": "https://github.com/neoclide/coc.nvim",
+    "desc": "Intellisense engine for vim8 & neovim, full language server protocol support as VSCode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CriseLYJ/Python-crawler-tutorial-starts-from-zero",
+    "url": "https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero",
+    "desc": "python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识"
+  },
+  {
+    "title": "CriseLYJ/awesome-python-login-model",
+    "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+    "desc": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/calculator",
+    "url": "https://github.com/Microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "ShizukuIchi/winXP",
+    "url": "https://github.com/ShizukuIchi/winXP",
+    "desc": "🏁 Web based Windows XP desktop recreation.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "clone95/Virgilio",
+    "url": "https://github.com/clone95/Virgilio",
+    "desc": "Your new Mentor for Data Science E-Learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "xiaolai/everyone-can-use-english",
+    "url": "https://github.com/xiaolai/everyone-can-use-english",
+    "desc": "人人都能用英语"
+  },
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Tonejs/Tone.js",
+    "url": "https://github.com/Tonejs/Tone.js",
+    "desc": "A Web Audio framework for making interactive music in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vugu/vugu",
+    "url": "https://github.com/vugu/vugu",
+    "desc": "Vugu: A modern UI library for Go+WebAssembly (experimental)",
+    "lang": "Go"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "TeX"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fireeye/commando-vm",
+    "url": "https://github.com/fireeye/commando-vm",
+    "desc": "",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "Y1ran/996.Law",
+    "url": "https://github.com/Y1ran/996.Law",
+    "desc": "联合仲裁发起地 | 法律板块(主站：996.ICU)"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "995icu/996ICU",
+    "url": "https://github.com/995icu/996ICU",
+    "desc": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
