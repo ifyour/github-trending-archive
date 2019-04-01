@@ -1,0 +1,145 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单"
+  },
+  {
+    "title": "nefe/You-Dont-Need-jQuery",
+    "url": "https://github.com/nefe/You-Dont-Need-jQuery",
+    "desc": "Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "8483/notes",
+    "url": "https://github.com/8483/notes",
+    "desc": "Full-stack web development notes."
+  },
+  {
+    "title": "chrisdickinson/git-rs",
+    "url": "https://github.com/chrisdickinson/git-rs",
+    "desc": "git, implemented in rust, for fun and education 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "desc": "A web-based JavaScript（canvas） spreadsheet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞",
+    "lang": "Shell"
+  },
+  {
+    "title": "zhui-team/zhui",
+    "url": "https://github.com/zhui-team/zhui",
+    "desc": "🚀 A Chinese style component library of react https://zhui-team.github.io/zhui/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CriseLYJ/Python-crawler-tutorial-starts-from-zero",
+    "url": "https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero",
+    "desc": "python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架",
+    "lang": "Python"
+  },
+  {
+    "title": "ShizukuIchi/winXP",
+    "url": "https://github.com/ShizukuIchi/winXP",
+    "desc": "🏁 Web based Windows XP desktop recreation.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awesomekling/serenity",
+    "url": "https://github.com/awesomekling/serenity",
+    "desc": "Serenity Operating System (x86)",
+    "lang": "C++"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识"
+  },
+  {
+    "title": "neoclide/coc.nvim",
+    "url": "https://github.com/neoclide/coc.nvim",
+    "desc": "Intellisense engine for vim8 & neovim, full language server protocol support as VSCode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "xiaolai/everyone-can-use-english",
+    "url": "https://github.com/xiaolai/everyone-can-use-english",
+    "desc": "人人都能用英语"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "lang": "Rust"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "andrewbihl/bsed",
+    "url": "https://github.com/andrewbihl/bsed",
+    "desc": "Simple SQL-like syntax on top of Perl text processing.",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "fyne-io/fyne",
+    "url": "https://github.com/fyne-io/fyne",
+    "desc": "Cross platform GUI in Go based on Material Design",
+    "lang": "Go"
+  },
+  {
+    "title": "Raathigesh/majestic",
+    "url": "https://github.com/Raathigesh/majestic",
+    "desc": "⚡ Zero config GUI for Jest",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "995icu/996ICU",
+    "url": "https://github.com/995icu/996ICU",
+    "desc": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+  }
+]
