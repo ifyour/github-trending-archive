@@ -1,0 +1,146 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "datawhalechina/pumpkin-book",
+    "url": "https://github.com/datawhalechina/pumpkin-book",
+    "desc": "《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book"
+  },
+  {
+    "title": "codex-team/editor.js",
+    "url": "https://github.com/codex-team/editor.js",
+    "desc": "A block-styled editor with clean JSON output",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist",
+    "desc": "🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞",
+    "lang": "Shell"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单"
+  },
+  {
+    "title": "deepmind/mathematics_dataset",
+    "url": "https://github.com/deepmind/mathematics_dataset",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "WarpPrism/AutoPiano",
+    "url": "https://github.com/WarpPrism/AutoPiano",
+    "desc": "自由钢琴 AutoPiano，喜欢可以star ( http://crystalworld.gitee.io/qpiano/#/ )",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/mlir",
+    "url": "https://github.com/tensorflow/mlir",
+    "desc": "Multi-Level Intermediate Representation Compiler Infrastructure",
+    "lang": "C++"
+  },
+  {
+    "title": "995icu/996ICU",
+    "url": "https://github.com/995icu/996ICU",
+    "desc": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "toddmotto/public-apis",
+    "url": "https://github.com/toddmotto/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "lang": "Rust"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+  },
+  {
+    "title": "facebookresearch/PyTorch-BigGraph",
+    "url": "https://github.com/facebookresearch/PyTorch-BigGraph",
+    "desc": "Software used for generating embeddings from large-scale graph-structured data.",
+    "lang": "Python"
+  },
+  {
+    "title": "davebs/AgileLite",
+    "url": "https://github.com/davebs/AgileLite",
+    "desc": "Agile software development without all the burnout."
+  },
+  {
+    "title": "Tencent/matrix",
+    "url": "https://github.com/Tencent/matrix",
+    "desc": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+    "lang": "C"
+  },
+  {
+    "title": "aardappel/lobster",
+    "url": "https://github.com/aardappel/lobster",
+    "desc": "The Lobster Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "hnginternship5/hng.tech",
+    "url": "https://github.com/hnginternship5/hng.tech",
+    "desc": "HNG 5.0 Project 🔥",
+    "lang": "CSS"
+  },
+  {
+    "title": "pigigaldi/Pock",
+    "url": "https://github.com/pigigaldi/Pock",
+    "desc": "Display macOS Dock in Touch Bar",
+    "lang": "Swift"
+  },
+  {
+    "title": "project-everest/hacl-star",
+    "url": "https://github.com/project-everest/hacl-star",
+    "desc": "HACL*, a formally verified cryptographic library written in F*",
+    "lang": "Assembly"
+  },
+  {
+    "title": "cnlh/nps",
+    "url": "https://github.com/cnlh/nps",
+    "desc": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+    "lang": "Go"
+  }
+]
