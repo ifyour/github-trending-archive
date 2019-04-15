@@ -1,0 +1,147 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "521xueweihan/git-tips",
+    "url": "https://github.com/521xueweihan/git-tips",
+    "desc": "Git的奇技淫巧"
+  },
+  {
+    "title": "jhuangtw-dev/xg2xg",
+    "url": "https://github.com/jhuangtw-dev/xg2xg",
+    "desc": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+  },
+  {
+    "title": "SqueezerIO/squeezer",
+    "url": "https://github.com/SqueezerIO/squeezer",
+    "desc": "Squeezer Framework - Build serverless dApps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ovity/octotree",
+    "url": "https://github.com/ovity/octotree",
+    "desc": "GitHub code tree on steroids",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "achael/eht-imaging",
+    "url": "https://github.com/achael/eht-imaging",
+    "desc": "Imaging, analysis, and simulation software for radio interferometry",
+    "lang": "Python"
+  },
+  {
+    "title": "lib-pku/libpku",
+    "url": "https://github.com/lib-pku/libpku",
+    "desc": "贵校课程资料民间整理",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "seek-oss/playroom",
+    "url": "https://github.com/seek-oss/playroom",
+    "desc": "Design with JSX, powered by your own component library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "desc": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "lang": "C++"
+  },
+  {
+    "title": "FrontendMasters/front-end-handbook-2019",
+    "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+    "desc": "[Book] 2019 edition of our front-end development handbook",
+    "lang": "HTML"
+  },
+  {
+    "title": "org-rs/org-rs",
+    "url": "https://github.com/org-rs/org-rs",
+    "desc": "org-mode parser rewrite in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "VSCodium/vscodium",
+    "url": "https://github.com/VSCodium/vscodium",
+    "desc": "binary releases of VS Code without MS branding/telemetry/licensing",
+    "lang": "Shell"
+  },
+  {
+    "title": "ZXZxin/ZXBlog",
+    "url": "https://github.com/ZXZxin/ZXBlog",
+    "desc": "记录各种学习笔记(算法、Java、数据库、并发......)",
+    "lang": "Java"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "NVlabs/SPADE",
+    "url": "https://github.com/NVlabs/SPADE",
+    "desc": "Semantic Image Synthesis with SPADE",
+    "lang": "Python"
+  },
+  {
+    "title": "airuikun/Weekly-FE-Interview",
+    "url": "https://github.com/airuikun/Weekly-FE-Interview",
+    "desc": "每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。"
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "desc": "《神经网络与深度学习》 Neural Network and Deep Learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "Awesome-Windows/Awesome",
+    "url": "https://github.com/Awesome-Windows/Awesome",
+    "desc": "💻 An awesome & curated list of best applications and tools for Windows."
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+  },
+  {
+    "title": "spaceuptech/space-cloud",
+    "url": "https://github.com/spaceuptech/space-cloud",
+    "desc": "Space Cloud is an open source, web server that provides instant Realtime APIs on any database of your choice. Build highly scalable apps with the agility of a prototype!",
+    "lang": "Go"
+  },
+  {
+    "title": "codex-team/editor.js",
+    "url": "https://github.com/codex-team/editor.js",
+    "desc": "A block-styled editor with clean JSON output",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "Python"
+  },
+  {
+    "title": "carykh/jumpcutter",
+    "url": "https://github.com/carykh/jumpcutter",
+    "desc": "Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw",
+    "lang": "Python"
+  },
+  {
+    "title": "Webiny/webiny-js",
+    "url": "https://github.com/Webiny/webiny-js",
+    "desc": "Serverless CMS (GraphQL + React)",
+    "lang": "JavaScript"
+  }
+]
