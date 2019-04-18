@@ -1,0 +1,148 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "arturbien/React95",
+    "url": "https://github.com/arturbien/React95",
+    "desc": "🌈🕹 Refreshed Windows 95 style UI components for your React app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/BlingFire",
+    "url": "https://github.com/Microsoft/BlingFire",
+    "desc": "A lightning fast Finite State machine and REgular expression manipulation library.",
+    "lang": "C++"
+  },
+  {
+    "title": "521xueweihan/git-tips",
+    "url": "https://github.com/521xueweihan/git-tips",
+    "desc": "Git的奇技淫巧"
+  },
+  {
+    "title": "lib-pku/libpku",
+    "url": "https://github.com/lib-pku/libpku",
+    "desc": "贵校课程资料民间整理",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ines/spacy-course",
+    "url": "https://github.com/ines/spacy-course",
+    "desc": "👩‍🏫 Advanced NLP with spaCy: A free online course",
+    "lang": "Python"
+  },
+  {
+    "title": "SqueezerIO/squeezer",
+    "url": "https://github.com/SqueezerIO/squeezer",
+    "desc": "Squeezer Framework - Build serverless dApps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dessalines/lemmy",
+    "url": "https://github.com/dessalines/lemmy",
+    "desc": "Building a federated alternative to reddit in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "Alikhll/golang-developer-roadmap",
+    "url": "https://github.com/Alikhll/golang-developer-roadmap",
+    "desc": "Roadmap to becoming a Go developer in 2019"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "desc": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "lang": "C++"
+  },
+  {
+    "title": "Microsoft/BosqueLanguage",
+    "url": "https://github.com/Microsoft/BosqueLanguage",
+    "desc": "The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iodide-project/pyodide",
+    "url": "https://github.com/iodide-project/pyodide",
+    "desc": "The Python scientific stack, compiled to WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "xingyizhou/CenterNet",
+    "url": "https://github.com/xingyizhou/CenterNet",
+    "desc": "Object detection, 3D detection, and pose estimation using center point detection:",
+    "lang": "Python"
+  },
+  {
+    "title": "Ji4n1ng/OpenInTerminal",
+    "url": "https://github.com/Ji4n1ng/OpenInTerminal",
+    "desc": "✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper.",
+    "lang": "Swift"
+  },
+  {
+    "title": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "desc": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Duankaiwen/CenterNet",
+    "url": "https://github.com/Duankaiwen/CenterNet",
+    "desc": "Codes for our paper CenterNet: Keypoint Triplets for Object Detection .",
+    "lang": "Python"
+  },
+  {
+    "title": "CoolPhilChen/SJTU-Courses",
+    "url": "https://github.com/CoolPhilChen/SJTU-Courses",
+    "desc": "上海交通大学课程资料分享"
+  },
+  {
+    "title": "alicevision/meshroom",
+    "url": "https://github.com/alicevision/meshroom",
+    "desc": "3D Reconstruction Software",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "linlinjava/litemall",
+    "url": "https://github.com/linlinjava/litemall",
+    "desc": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端",
+    "lang": "Java"
+  },
+  {
+    "title": "airuikun/Weekly-FE-Interview",
+    "url": "https://github.com/airuikun/Weekly-FE-Interview",
+    "desc": "每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。"
+  },
+  {
+    "title": "FrontendMasters/front-end-handbook-2019",
+    "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+    "desc": "[Book] 2019 edition of our front-end development handbook",
+    "lang": "HTML"
+  },
+  {
+    "title": "rustasync/runtime",
+    "url": "https://github.com/rustasync/runtime",
+    "desc": "Empowering everyone to build asynchronous software",
+    "lang": "Rust"
+  },
+  {
+    "title": "apachecn/AiLearning",
+    "url": "https://github.com/apachecn/AiLearning",
+    "desc": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP",
+    "lang": "Python"
+  }
+]
