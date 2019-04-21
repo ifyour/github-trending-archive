@@ -1,0 +1,147 @@
+[
+  {
+    "title": "RomuloOliveira/commit-messages-guide",
+    "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Microsoft/BosqueLanguage",
+    "url": "https://github.com/Microsoft/BosqueLanguage",
+    "desc": "The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tmrts/go-patterns",
+    "url": "https://github.com/tmrts/go-patterns",
+    "desc": "Curated list of Go design patterns, recipes and idioms",
+    "lang": "Go"
+  },
+  {
+    "title": "521xueweihan/git-tips",
+    "url": "https://github.com/521xueweihan/git-tips",
+    "desc": "Git的奇技淫巧"
+  },
+  {
+    "title": "apachecn/AiLearning",
+    "url": "https://github.com/apachecn/AiLearning",
+    "desc": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP",
+    "lang": "Python"
+  },
+  {
+    "title": "boyney123/mockit",
+    "url": "https://github.com/boyney123/mockit",
+    "desc": "A tool to quickly mock out end points, setup delays and more...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Louiszhai/tool",
+    "url": "https://github.com/Louiszhai/tool",
+    "desc": "开发效率提升：Mac生产力工具链推荐",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "lib-pku/libpku",
+    "url": "https://github.com/lib-pku/libpku",
+    "desc": "贵校课程资料民间整理",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codercom/sshcode",
+    "url": "https://github.com/codercom/sshcode",
+    "desc": "Run VS Code on any server over SSH.",
+    "lang": "Go"
+  },
+  {
+    "title": "Alikhll/golang-developer-roadmap",
+    "url": "https://github.com/Alikhll/golang-developer-roadmap",
+    "desc": "Roadmap to becoming a Go developer in 2019"
+  },
+  {
+    "title": "kennethreitz/requests3",
+    "url": "https://github.com/kennethreitz/requests3",
+    "desc": "Requests 3.0, for Humans and Machines, alike. 🤖",
+    "lang": "Python"
+  },
+  {
+    "title": "mattdesl/canvas-sketch",
+    "url": "https://github.com/mattdesl/canvas-sketch",
+    "desc": "[beta] A framework for making generative artwork in JavaScript and the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mikolajdobrucki/ikonate",
+    "url": "https://github.com/mikolajdobrucki/ikonate",
+    "desc": "fully customisable & accessible vector icons",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "desc": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "lang": "C++"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "Python"
+  },
+  {
+    "title": "s0md3v/Photon",
+    "url": "https://github.com/s0md3v/Photon",
+    "desc": "Incredibly fast crawler designed for OSINT.",
+    "lang": "Python"
+  },
+  {
+    "title": "princeton-vl/CornerNet-Lite",
+    "url": "https://github.com/princeton-vl/CornerNet-Lite",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ Halo 可能是最好的 Java 博客系统",
+    "lang": "Java"
+  },
+  {
+    "title": "amejiarosario/dsa.js",
+    "url": "https://github.com/amejiarosario/dsa.js",
+    "desc": "Data Structures and Algorithms explained and implemented in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CoolPhilChen/SJTU-Courses",
+    "url": "https://github.com/CoolPhilChen/SJTU-Courses",
+    "desc": "上海交通大学课程资料分享"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  }
+]
