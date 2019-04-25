@@ -1,0 +1,147 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "MSWorkers/support.996.ICU",
+    "url": "https://github.com/MSWorkers/support.996.ICU",
+    "desc": "Microsoft and GitHub Workers Support 996.ICU"
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "desc": "Never use print for debugging again",
+    "lang": "Python"
+  },
+  {
+    "title": "Alikhll/golang-developer-roadmap",
+    "url": "https://github.com/Alikhll/golang-developer-roadmap",
+    "desc": "Roadmap to becoming a Go developer in 2019"
+  },
+  {
+    "title": "gcla/termshark",
+    "url": "https://github.com/gcla/termshark",
+    "desc": "A terminal UI for tshark, inspired by Wireshark",
+    "lang": "Go"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/spark",
+    "url": "https://github.com/dotnet/spark",
+    "desc": ".NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.",
+    "lang": "C#"
+  },
+  {
+    "title": "rhysd/vim.wasm",
+    "url": "https://github.com/rhysd/vim.wasm",
+    "desc": "Vim editor ported to WebAssembly",
+    "lang": "C"
+  },
+  {
+    "title": "Quorafind/golang-developer-roadmap-cn",
+    "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+    "desc": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudkj/layer",
+    "url": "https://github.com/cloudkj/layer",
+    "desc": "Neural network inference the Unix way",
+    "lang": "Scheme"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "delta-io/delta",
+    "url": "https://github.com/delta-io/delta",
+    "desc": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+    "lang": "Scala"
+  },
+  {
+    "title": "EtherDream/jsproxy",
+    "url": "https://github.com/EtherDream/jsproxy",
+    "desc": "一个基于浏览器端 JS 实现的在线代理",
+    "lang": "Shell"
+  },
+  {
+    "title": "haoel/leetcode",
+    "url": "https://github.com/haoel/leetcode",
+    "desc": "LeetCode Problems' Solutions",
+    "lang": "C++"
+  },
+  {
+    "title": "chrismaltby/gb-studio",
+    "url": "https://github.com/chrismaltby/gb-studio",
+    "desc": "Visual retro game maker",
+    "lang": "C"
+  },
+  {
+    "title": "bilibili/kratos",
+    "url": "https://github.com/bilibili/kratos",
+    "desc": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "lang": "Go"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Louiszhai/tool",
+    "url": "https://github.com/Louiszhai/tool",
+    "desc": "开发效率提升：Mac生产力工具链推荐",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "arturbien/React95",
+    "url": "https://github.com/arturbien/React95",
+    "desc": "🌈🕹 Refreshed Windows 95 style UI components for your React app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "RomuloOliveira/commit-messages-guide",
+    "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "521xueweihan/git-tips",
+    "url": "https://github.com/521xueweihan/git-tips",
+    "desc": "Git的奇技淫巧"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  }
+]
