@@ -1,0 +1,148 @@
+[
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "MSWorkers/support.996.ICU",
+    "url": "https://github.com/MSWorkers/support.996.ICU",
+    "desc": "Microsoft and GitHub Workers Support 996.ICU"
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "desc": "Never use print for debugging again",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Alikhll/golang-developer-roadmap",
+    "url": "https://github.com/Alikhll/golang-developer-roadmap",
+    "desc": "Roadmap to becoming a Go developer in 2019"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Quorafind/golang-developer-roadmap-cn",
+    "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+    "desc": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。"
+  },
+  {
+    "title": "bilibili/kratos",
+    "url": "https://github.com/bilibili/kratos",
+    "desc": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "lang": "Go"
+  },
+  {
+    "title": "gcla/termshark",
+    "url": "https://github.com/gcla/termshark",
+    "desc": "A terminal UI for tshark, inspired by Wireshark",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "leetcode题解，记录自己的leecode解题之路。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nubank/fklearn",
+    "url": "https://github.com/nubank/fklearn",
+    "desc": "fklearn: Functional Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "RomuloOliveira/commit-messages-guide",
+    "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well"
+  },
+  {
+    "title": "dotnet/spark",
+    "url": "https://github.com/dotnet/spark",
+    "desc": ".NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.",
+    "lang": "C#"
+  },
+  {
+    "title": "Louiszhai/tool",
+    "url": "https://github.com/Louiszhai/tool",
+    "desc": "开发效率提升：Mac生产力工具链推荐",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rhysd/vim.wasm",
+    "url": "https://github.com/rhysd/vim.wasm",
+    "desc": "Vim editor ported to WebAssembly",
+    "lang": "C"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "leggett/simplify",
+    "url": "https://github.com/leggett/simplify",
+    "desc": "Chrome extension to simplify Gmail's interface",
+    "lang": "CSS"
+  },
+  {
+    "title": "ivanceras/sauron",
+    "url": "https://github.com/ivanceras/sauron",
+    "desc": "Sauron is an html web framework for building web-apps. It is heavily inspired by elm.",
+    "lang": "Rust"
+  },
+  {
+    "title": "haoel/leetcode",
+    "url": "https://github.com/haoel/leetcode",
+    "desc": "LeetCode Problems' Solutions",
+    "lang": "C++"
+  },
+  {
+    "title": "didi/booster",
+    "url": "https://github.com/didi/booster",
+    "desc": "✨Optimizer for mobile applications",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "apachecn/AiLearning",
+    "url": "https://github.com/apachecn/AiLearning",
+    "desc": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP",
+    "lang": "Python"
+  },
+  {
+    "title": "EtherDream/jsproxy",
+    "url": "https://github.com/EtherDream/jsproxy",
+    "desc": "一个基于浏览器端 JS 实现的在线代理",
+    "lang": "Shell"
+  }
+]
