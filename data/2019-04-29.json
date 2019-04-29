@@ -1,0 +1,149 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "leetcode题解，记录自己的leecode解题之路。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。",
+    "lang": "Java"
+  },
+  {
+    "title": "cknd/stackprinter",
+    "url": "https://github.com/cknd/stackprinter",
+    "desc": "Debugging-friendly tracebacks for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "desc": "Never use print for debugging again",
+    "lang": "Python"
+  },
+  {
+    "title": "MSWorkers/support.996.ICU",
+    "url": "https://github.com/MSWorkers/support.996.ICU",
+    "desc": "Microsoft and GitHub Workers Support 996.ICU"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "HTML"
+  },
+  {
+    "title": "Quorafind/golang-developer-roadmap-cn",
+    "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+    "desc": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kaina404/FlutterDouBan",
+    "url": "https://github.com/kaina404/FlutterDouBan",
+    "desc": "🔥🔥🔥Flutter豆瓣客户端,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉 https://img.xuvip.top/douyademo.mp4",
+    "lang": "Dart"
+  },
+  {
+    "title": "shipshapecode/shepherd",
+    "url": "https://github.com/shipshapecode/shepherd",
+    "desc": "Guide your users through a tour of your app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/skywalking",
+    "url": "https://github.com/apache/skywalking",
+    "desc": "APM, Application Performance Monitoring System",
+    "lang": "Java"
+  },
+  {
+    "title": "H4ckForJob/dirmap",
+    "url": "https://github.com/H4ckForJob/dirmap",
+    "desc": "An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。",
+    "lang": "Python"
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "desc": "网易云音乐 Node.js API service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Louiszhai/tool",
+    "url": "https://github.com/Louiszhai/tool",
+    "desc": "开发效率提升：Mac生产力工具链推荐",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bilibili/kratos",
+    "url": "https://github.com/bilibili/kratos",
+    "desc": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "lang": "Go"
+  },
+  {
+    "title": "kezhenxu94/mini-github",
+    "url": "https://github.com/kezhenxu94/mini-github",
+    "desc": "GitHub WeChat Mini Program (可能是功能最全的 GitHub 微信小程序)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nhooyr/websocket",
+    "url": "https://github.com/nhooyr/websocket",
+    "desc": "A minimal and idiomatic WebSocket library for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "ZXZxin/ZXBlog",
+    "url": "https://github.com/ZXZxin/ZXBlog",
+    "desc": "记录各种学习笔记(算法、Java、数据库、并发......)",
+    "lang": "Java"
+  },
+  {
+    "title": "DMarby/picsum-photos",
+    "url": "https://github.com/DMarby/picsum-photos",
+    "desc": "Lorem Ipsum... but for photos.",
+    "lang": "Go"
+  },
+  {
+    "title": "zincPower/UI2018",
+    "url": "https://github.com/zincPower/UI2018",
+    "desc": "安卓高级UI代码整理和博客代码Demo",
+    "lang": "Java"
+  }
+]
