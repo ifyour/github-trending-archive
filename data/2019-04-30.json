@@ -1,0 +1,149 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "palmerhq/tsdx",
+    "url": "https://github.com/palmerhq/tsdx",
+    "desc": "Zero-config CLI for TypeScript package development",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "lang": "CSS"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets"
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vislyhq/stretch",
+    "url": "https://github.com/vislyhq/stretch",
+    "desc": "High performance flexbox implementation written in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "HTML"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "leetcode题解，记录自己的leecode解题之路。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "p-ranav/pprint",
+    "url": "https://github.com/p-ranav/pprint",
+    "desc": "Pretty Printer for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "area9innovation/flow9",
+    "url": "https://github.com/area9innovation/flow9",
+    "desc": "Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface",
+    "lang": "C"
+  },
+  {
+    "title": "shipshapecode/shepherd",
+    "url": "https://github.com/shipshapecode/shepherd",
+    "desc": "Guide your users through a tour of your app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MSWorkers/support.996.ICU",
+    "url": "https://github.com/MSWorkers/support.996.ICU",
+    "desc": "Microsoft and GitHub Workers Support 996.ICU"
+  },
+  {
+    "title": "S-March/smarchWatch_PUBLIC",
+    "url": "https://github.com/S-March/smarchWatch_PUBLIC",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "Quorafind/golang-developer-roadmap-cn",
+    "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+    "desc": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "kaina404/FlutterDouBan",
+    "url": "https://github.com/kaina404/FlutterDouBan",
+    "desc": "🔥🔥🔥Flutter豆瓣客户端,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉 https://img.xuvip.top/douyademo.mp4",
+    "lang": "Dart"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识",
+    "lang": "Java"
+  },
+  {
+    "title": "cknd/stackprinter",
+    "url": "https://github.com/cknd/stackprinter",
+    "desc": "Debugging-friendly tracebacks for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。",
+    "lang": "Java"
+  },
+  {
+    "title": "se7entyse7en/pydockenv",
+    "url": "https://github.com/se7entyse7en/pydockenv",
+    "desc": "Python virtual environment, but backed by Docker!",
+    "lang": "Python"
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "desc": "Never use print for debugging again",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/SymCrypt",
+    "url": "https://github.com/Microsoft/SymCrypt",
+    "desc": "Cryptographic library",
+    "lang": "C"
+  },
+  {
+    "title": "H4ckForJob/dirmap",
+    "url": "https://github.com/H4ckForJob/dirmap",
+    "desc": "An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。",
+    "lang": "Python"
+  }
+]
