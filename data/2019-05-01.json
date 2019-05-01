@@ -1,0 +1,149 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "leetcode题解，记录自己的leecode解题之路。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "lang": "CSS"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "S-March/smarchWatch_PUBLIC",
+    "url": "https://github.com/S-March/smarchWatch_PUBLIC",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "palmerhq/tsdx",
+    "url": "https://github.com/palmerhq/tsdx",
+    "desc": "Zero-config CLI for TypeScript package development",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vadimdemedes/pastel",
+    "url": "https://github.com/vadimdemedes/pastel",
+    "desc": "🎨 Framework for effortlessly building Ink apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "desc": "🕹️ A basic gameboy emulator with terminal Cloud Gaming support",
+    "lang": "Go"
+  },
+  {
+    "title": "soul-lang/SOUL",
+    "url": "https://github.com/soul-lang/SOUL",
+    "desc": "The SOUL programming language and API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/BuildXL",
+    "url": "https://github.com/Microsoft/BuildXL",
+    "desc": "Microsoft Build Accelerator",
+    "lang": "C#"
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mwouts/jupytext",
+    "url": "https://github.com/mwouts/jupytext",
+    "desc": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Microsoft/SymCrypt",
+    "url": "https://github.com/Microsoft/SymCrypt",
+    "desc": "Cryptographic library",
+    "lang": "C"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "HTML"
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "desc": "Never use print for debugging again",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识",
+    "lang": "Java"
+  },
+  {
+    "title": "MustangYM/WeChatExtension-ForMac",
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "desc": "Mac版微信的功能拓展",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "MSWorkers/support.996.ICU",
+    "url": "https://github.com/MSWorkers/support.996.ICU",
+    "desc": "Microsoft and GitHub Workers Support 996.ICU"
+  },
+  {
+    "title": "shipshapecode/shepherd",
+    "url": "https://github.com/shipshapecode/shepherd",
+    "desc": "Guide your users through a tour of your app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RomuloOliveira/commit-messages-guide",
+    "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well"
+  },
+  {
+    "title": "p-ranav/pprint",
+    "url": "https://github.com/p-ranav/pprint",
+    "desc": "Pretty Printer for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "cknd/stackprinter",
+    "url": "https://github.com/cknd/stackprinter",
+    "desc": "Debugging-friendly tracebacks for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Novvum/graphql-birdseye",
+    "url": "https://github.com/Novvum/graphql-birdseye",
+    "desc": "View any GraphQL schema as a dynamic and interactive graph. 🦅",
+    "lang": "TypeScript"
+  }
+]
