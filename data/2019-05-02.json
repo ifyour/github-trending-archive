@@ -1,0 +1,148 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "lang": "CSS"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "leetcode题解，记录自己的leecode解题之路。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "desc": "🕹️ A basic gameboy emulator with terminal Cloud Gaming support",
+    "lang": "Go"
+  },
+  {
+    "title": "pytorch/botorch",
+    "url": "https://github.com/pytorch/botorch",
+    "desc": "Bayesian optimization in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+  },
+  {
+    "title": "czy36mengfei/tensorflow2_tutorials_chinese",
+    "url": "https://github.com/czy36mengfei/tensorflow2_tutorials_chinese",
+    "desc": "tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/Ax",
+    "url": "https://github.com/facebook/Ax",
+    "desc": "Adaptive Experimentation Platform",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "agentofuser/ipfs-deploy",
+    "url": "https://github.com/agentofuser/ipfs-deploy",
+    "desc": "Zero-Config CLI to Deploy Static Websites to IPFS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vadimdemedes/pastel",
+    "url": "https://github.com/vadimdemedes/pastel",
+    "desc": "🎨 Framework for effortlessly building Ink apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Novvum/graphql-birdseye",
+    "url": "https://github.com/Novvum/graphql-birdseye",
+    "desc": "View any GraphQL schema as a dynamic and interactive graph. 🦅",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "palmerhq/tsdx",
+    "url": "https://github.com/palmerhq/tsdx",
+    "desc": "Zero-config CLI for TypeScript package development",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "S-March/smarchWatch_PUBLIC",
+    "url": "https://github.com/S-March/smarchWatch_PUBLIC",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "HTML"
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RomuloOliveira/commit-messages-guide",
+    "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well"
+  },
+  {
+    "title": "MorganCaron/IsometricSass",
+    "url": "https://github.com/MorganCaron/IsometricSass",
+    "desc": "Sass library to make isometric 2D without javascript",
+    "lang": "HTML"
+  },
+  {
+    "title": "jefflombard/ui-libraries",
+    "url": "https://github.com/jefflombard/ui-libraries",
+    "desc": "A collection of UI Frameworks and their platform implementations."
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "desc": "Never use print for debugging again",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识",
+    "lang": "Java"
+  },
+  {
+    "title": "mwouts/jupytext",
+    "url": "https://github.com/mwouts/jupytext",
+    "desc": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts",
+    "lang": "JupyterNotebook"
+  }
+]
