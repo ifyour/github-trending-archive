@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "HTML"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "lang": "CSS"
+  },
+  {
+    "title": "faastjs/faast.js",
+    "url": "https://github.com/faastjs/faast.js",
+    "desc": "Serverless batch computing made simple.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "leetcode题解，记录自己的leetcode解题之路。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "indragiek/InAppViewDebugger",
+    "url": "https://github.com/indragiek/InAppViewDebugger",
+    "desc": "A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging",
+    "lang": "Swift"
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "desc": "🕹️ A basic gameboy emulator with terminal Cloud Gaming support",
+    "lang": "Go"
+  },
+  {
+    "title": "czy36mengfei/tensorflow2_tutorials_chinese",
+    "url": "https://github.com/czy36mengfei/tensorflow2_tutorials_chinese",
+    "desc": "tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+  },
+  {
+    "title": "liamg/tml",
+    "url": "https://github.com/liamg/tml",
+    "desc": "🌈💻🎨 A tiny markup language for terminal output. Makes formatting output in CLI apps easier!",
+    "lang": "Go"
+  },
+  {
+    "title": "alex-cory/use-http",
+    "url": "https://github.com/alex-cory/use-http",
+    "desc": "🐶 React hook for making isomorphic http requests",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/botorch",
+    "url": "https://github.com/pytorch/botorch",
+    "desc": "Bayesian optimization in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "dexon-foundation/dexon",
+    "url": "https://github.com/dexon-foundation/dexon",
+    "desc": "Official golang DEXON fullnode implementation",
+    "lang": "Go"
+  },
+  {
+    "title": "mum4k/termdash",
+    "url": "https://github.com/mum4k/termdash",
+    "desc": "Terminal based dashboard.",
+    "lang": "Go"
+  },
+  {
+    "title": "RomuloOliveira/commit-messages-guide",
+    "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well"
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "desc": "Revive unavailable songs for Netease Cloud Music",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/Ax",
+    "url": "https://github.com/facebook/Ax",
+    "desc": "Adaptive Experimentation Platform",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (April 2019)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "HTML"
+  },
+  {
+    "title": "vadimdemedes/pastel",
+    "url": "https://github.com/vadimdemedes/pastel",
+    "desc": "🎨 Framework for effortlessly building Ink apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "desc": "Never use print for debugging again",
+    "lang": "Python"
+  }
+]
