@@ -1,0 +1,150 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "HTML"
+  },
+  {
+    "title": "dexon-foundation/dexon",
+    "url": "https://github.com/dexon-foundation/dexon",
+    "desc": "Official golang DEXON fullnode implementation",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "dexon-foundation/dexon-consensus",
+    "url": "https://github.com/dexon-foundation/dexon-consensus",
+    "desc": "DEXON consensus Implementation & Simulation",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/MNN",
+    "url": "https://github.com/alibaba/MNN",
+    "desc": "MNN is a lightweight deep neural network inference engine.",
+    "lang": "C++"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "sql-machine-learning/sqlflow",
+    "url": "https://github.com/sql-machine-learning/sqlflow",
+    "desc": "Brings SQL and AI together.",
+    "lang": "Go"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wildfirechat/server",
+    "url": "https://github.com/wildfirechat/server",
+    "desc": "全开源即时通讯(IM)系统",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "mlabouardy/komiser",
+    "url": "https://github.com/mlabouardy/komiser",
+    "desc": "AWS Environment Inspector 👮",
+    "lang": "Go"
+  },
+  {
+    "title": "eBay/beam",
+    "url": "https://github.com/eBay/beam",
+    "desc": "A distributed knowledge graph store",
+    "lang": "Go"
+  },
+  {
+    "title": "lionsoul2014/ip2region",
+    "url": "https://github.com/lionsoul2014/ip2region",
+    "desc": "Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "aimerforreimu/auxpi",
+    "url": "https://github.com/aimerforreimu/auxpi",
+    "desc": "🍭 集合多家 API 的新一代图床",
+    "lang": "Go"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (April 2019)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "txthinking/mr2",
+    "url": "https://github.com/txthinking/mr2",
+    "desc": "Expose local server to external network",
+    "lang": "Go"
+  },
+  {
+    "title": "bilibili/kratos",
+    "url": "https://github.com/bilibili/kratos",
+    "desc": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "lang": "Go"
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "desc": "A curated list of applied machine learning and data science notebooks and libraries accross different industries."
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "lang": "CSS"
+  },
+  {
+    "title": "indragiek/InAppViewDebugger",
+    "url": "https://github.com/indragiek/InAppViewDebugger",
+    "desc": "A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging",
+    "lang": "Swift"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "HTML"
+  },
+  {
+    "title": "czy36mengfei/tensorflow2_tutorials_chinese",
+    "url": "https://github.com/czy36mengfei/tensorflow2_tutorials_chinese",
+    "desc": "tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials",
+    "lang": "JupyterNotebook"
+  }
+]
