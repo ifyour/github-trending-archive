@@ -1,0 +1,148 @@
+[
+  {
+    "title": "microsoft/Terminal",
+    "url": "https://github.com/microsoft/Terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "HTML"
+  },
+  {
+    "title": "jolaleye/cssfx",
+    "url": "https://github.com/jolaleye/cssfx",
+    "desc": "✨ Beautifully simple click-to-copy CSS effects",
+    "lang": "Vue"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "kkuchta/css-only-chat",
+    "url": "https://github.com/kkuchta/css-only-chat",
+    "desc": "A truly monstrous async web chat using no JS whatsoever on the frontend",
+    "lang": "Ruby"
+  },
+  {
+    "title": "hiroppy/fusuma",
+    "url": "https://github.com/hiroppy/fusuma",
+    "desc": "✍️Fusuma makes slides with Markdown easily.",
+    "lang": "CSS"
+  },
+  {
+    "title": "tensorflow/graphics",
+    "url": "https://github.com/tensorflow/graphics",
+    "desc": "TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "edgedb/edgedb",
+    "url": "https://github.com/edgedb/edgedb",
+    "desc": "The next generation object-relational database. A @MagicStack project.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter_web",
+    "url": "https://github.com/flutter/flutter_web",
+    "desc": "Bring your Flutter code to web browsers",
+    "lang": "Dart"
+  },
+  {
+    "title": "intel/wasm-micro-runtime",
+    "url": "https://github.com/intel/wasm-micro-runtime",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "qianguyihao/Web",
+    "url": "https://github.com/qianguyihao/Web",
+    "desc": "Web前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "teoga/awesome-product-design",
+    "url": "https://github.com/teoga/awesome-product-design",
+    "desc": "A collection of bookmarks, resources, articles for product designers."
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "HTML"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "NVlabs/FUNIT",
+    "url": "https://github.com/NVlabs/FUNIT",
+    "desc": "Translate images to unseen domains in the test time with few example images."
+  },
+  {
+    "title": "dgryski/go-perfbook",
+    "url": "https://github.com/dgryski/go-perfbook",
+    "desc": "Thoughts on Go performance optimization"
+  },
+  {
+    "title": "minamarkham/formation",
+    "url": "https://github.com/minamarkham/formation",
+    "desc": "💻 macOS setup script for front-end development",
+    "lang": "Shell"
+  },
+  {
+    "title": "sql-machine-learning/sqlflow",
+    "url": "https://github.com/sql-machine-learning/sqlflow",
+    "desc": "Brings SQL and AI together.",
+    "lang": "Go"
+  },
+  {
+    "title": "EtherDream/jsproxy",
+    "url": "https://github.com/EtherDream/jsproxy",
+    "desc": "一个基于浏览器端 JS 实现的在线代理",
+    "lang": "Lua"
+  },
+  {
+    "title": "adambard/learnxinyminutes-docs",
+    "url": "https://github.com/adambard/learnxinyminutes-docs",
+    "desc": "Code documentation written as code! How novel and totally my idea!",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  }
+]
