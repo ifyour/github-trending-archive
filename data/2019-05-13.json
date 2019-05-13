@@ -1,0 +1,151 @@
+[
+  {
+    "title": "microsoft/Terminal",
+    "url": "https://github.com/microsoft/Terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "HTML"
+  },
+  {
+    "title": "machinelearningmindset/machine-learning-course",
+    "url": "https://github.com/machinelearningmindset/machine-learning-course",
+    "desc": "💬 Machine Learning Course with Python",
+    "lang": "Python"
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "desc": "🕹️ A basic gameboy emulator with terminal Cloud Gaming support",
+    "lang": "Go"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "STVIR/pysot",
+    "url": "https://github.com/STVIR/pysot",
+    "desc": "SenseTime Research platform for single object tracking research, implementing algorithms like SiamRPN and SiamMask.",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "open source driving agent",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleChromeLabs/comlink",
+    "url": "https://github.com/GoogleChromeLabs/comlink",
+    "desc": "Comlink makes WebWorkers enjoyable.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hiroppy/fusuma",
+    "url": "https://github.com/hiroppy/fusuma",
+    "desc": "✍️Fusuma makes slides with Markdown easily.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jolaleye/cssfx",
+    "url": "https://github.com/jolaleye/cssfx",
+    "desc": "✨ Beautifully simple click-to-copy CSS effects",
+    "lang": "Vue"
+  },
+  {
+    "title": "Rocketseat/unform",
+    "url": "https://github.com/Rocketseat/unform",
+    "desc": "ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "chvin/react-tetris",
+    "url": "https://github.com/chvin/react-tetris",
+    "desc": "Use React, Redux, Immutable to code Tetris. 🎮",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "victorvoid/dinoql",
+    "url": "https://github.com/victorvoid/dinoql",
+    "desc": "A customizable GraphQL style query language for interacting with JavaScript objects.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kkuchta/css-only-chat",
+    "url": "https://github.com/kkuchta/css-only-chat",
+    "desc": "A truly monstrous async web chat using no JS whatsoever on the frontend",
+    "lang": "Ruby"
+  },
+  {
+    "title": "KunMinX/Linkage-RecyclerView",
+    "url": "https://github.com/KunMinX/Linkage-RecyclerView",
+    "desc": "即使不用饿了么订餐，也请务必收藏好该库！🔥 一行代码即可接入，二级联动订餐列表 - RecyclerView + AndroidX",
+    "lang": "Java"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "sql-machine-learning/sqlflow",
+    "url": "https://github.com/sql-machine-learning/sqlflow",
+    "desc": "Brings SQL and AI together.",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "go101/go101",
+    "url": "https://github.com/go101/go101",
+    "desc": "An online book focusing on Go syntax/semantics.",
+    "lang": "HTML"
+  },
+  {
+    "title": "xiaolai-sqlai/mobilenetv3",
+    "url": "https://github.com/xiaolai-sqlai/mobilenetv3",
+    "desc": "mobilenetv3 with pytorch，provide pre-train model",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter_web",
+    "url": "https://github.com/flutter/flutter_web",
+    "desc": "Bring your Flutter code to web browsers",
+    "lang": "Dart"
+  }
+]
