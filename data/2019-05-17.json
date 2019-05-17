@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/SPTAG",
+    "url": "https://github.com/microsoft/SPTAG",
+    "desc": "A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.",
+    "lang": "C++"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful."
+  },
+  {
+    "title": "stewartmcgown/uds",
+    "url": "https://github.com/stewartmcgown/uds",
+    "desc": "Unlimited Drive Storage by splitting binary files into base64",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "nunomaduro/phpinsights",
+    "url": "https://github.com/nunomaduro/phpinsights",
+    "desc": "💡Instant PHP quality checks from your console",
+    "lang": "PHP"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)"
+  },
+  {
+    "title": "knqyf263/trivy",
+    "url": "https://github.com/knqyf263/trivy",
+    "desc": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+    "lang": "Go"
+  },
+  {
+    "title": "machinelearningmindset/machine-learning-course",
+    "url": "https://github.com/machinelearningmindset/machine-learning-course",
+    "desc": "💬 Machine Learning Course with Python",
+    "lang": "Python"
+  },
+  {
+    "title": "yuanming-hu/taichi",
+    "url": "https://github.com/yuanming-hu/taichi",
+    "desc": "Computer Graphics R&D Infrastructure",
+    "lang": "C++"
+  },
+  {
+    "title": "rigtorp/awesome-modern-cpp",
+    "url": "https://github.com/rigtorp/awesome-modern-cpp",
+    "desc": "A collection of resources on modern C++",
+    "lang": "HTML"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "reactiveops/polaris",
+    "url": "https://github.com/reactiveops/polaris",
+    "desc": "Validation of best practices in your Kubernetes clusters",
+    "lang": "Go"
+  },
+  {
+    "title": "wandb/client",
+    "url": "https://github.com/wandb/client",
+    "desc": "The cli and python API client for wandb, a tool for visualizing and tracking you machine learning experiments.",
+    "lang": "Python"
+  },
+  {
+    "title": "containership/konstellate",
+    "url": "https://github.com/containership/konstellate",
+    "desc": "Free and Open Source GUI to Visualize Kubernetes Applications.",
+    "lang": "Clojure"
+  },
+  {
+    "title": "lorin/resilience-engineering",
+    "url": "https://github.com/lorin/resilience-engineering",
+    "desc": "Resilience Engineering Notes"
+  },
+  {
+    "title": "lettier/3d-game-shaders-for-beginners",
+    "url": "https://github.com/lettier/3d-game-shaders-for-beginners",
+    "desc": "🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+    "lang": "C++"
+  },
+  {
+    "title": "Rocketseat/unform",
+    "url": "https://github.com/Rocketseat/unform",
+    "desc": "ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "reakit/reakit",
+    "url": "https://github.com/reakit/reakit",
+    "desc": "Toolkit for building accessible rich web apps with React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  }
+]
