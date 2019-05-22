@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PavelDoGreat/WebGL-Fluid-Simulation",
+    "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "desc": "Play with fluids in your browser (works even on mobile)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "facebookresearch/pythia",
+    "url": "https://github.com/facebookresearch/pythia",
+    "desc": "A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)",
+    "lang": "Python"
+  },
+  {
+    "title": "weskerfoot/DeleteFB",
+    "url": "https://github.com/weskerfoot/DeleteFB",
+    "desc": "Selenium script to delete all of your Facebook wall posts",
+    "lang": "Python"
+  },
+  {
+    "title": "google/zetasql",
+    "url": "https://github.com/google/zetasql",
+    "desc": "ZetaSQL - Analyzer Framework for SQL",
+    "lang": "C++"
+  },
+  {
+    "title": "Eugeny/terminus",
+    "url": "https://github.com/Eugeny/terminus",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "SandboxEscaper/polarbearrepo",
+    "url": "https://github.com/SandboxEscaper/polarbearrepo",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "Peltoche/lsd",
+    "url": "https://github.com/Peltoche/lsd",
+    "desc": "The next gen ls command",
+    "lang": "Rust"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "djhworld/simple-computer",
+    "url": "https://github.com/djhworld/simple-computer",
+    "desc": "the scott CPU from But How Do It Know? by J. Clark Scott",
+    "lang": "Go"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful."
+  },
+  {
+    "title": "dtolnay/case-studies",
+    "url": "https://github.com/dtolnay/case-studies",
+    "desc": "Analysis of various tricky Rust code",
+    "lang": "Rust"
+  },
+  {
+    "title": "imfunniee/gitfolio",
+    "url": "https://github.com/imfunniee/gitfolio",
+    "desc": "personal website + blog for every github user",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "xdspacelab/openvslam",
+    "url": "https://github.com/xdspacelab/openvslam",
+    "desc": "A Versatile Visual SLAM Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "siaorg/sia-task",
+    "url": "https://github.com/siaorg/sia-task",
+    "desc": "微服务任务调度框架",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jakubroztocil/httpie",
+    "url": "https://github.com/jakubroztocil/httpie",
+    "desc": "As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp",
+    "lang": "Python"
+  }
+]
