@@ -1,0 +1,149 @@
+[
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdras/cssgridgenerator",
+    "url": "https://github.com/sdras/cssgridgenerator",
+    "desc": "🧮Generate basic CSS Grid code to make dynamic layouts!",
+    "lang": "Vue"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pirate/wireguard-docs",
+    "url": "https://github.com/pirate/wireguard-docs",
+    "desc": "The Missing WireGuard Documentation: Setup, Usage, Configuration, and a full example for server-to-server VPN with roaming clients & public peers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "desc": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Raathigesh/fabulous",
+    "url": "https://github.com/Raathigesh/fabulous",
+    "desc": "🎨 CSS properties sidebar for VS Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "synox/youtube-dl-interactive",
+    "url": "https://github.com/synox/youtube-dl-interactive",
+    "desc": "Interactively select the quality and format for youtube-dl",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "eashish93/imgsquash",
+    "url": "https://github.com/eashish93/imgsquash",
+    "desc": "Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xuperchain/xuperunion",
+    "url": "https://github.com/xuperchain/xuperunion",
+    "desc": "A highly flexible blockchain architecture with great transaction performance.",
+    "lang": "Go"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "C"
+  },
+  {
+    "title": "anacoimbrag/android-developer-roadmap",
+    "url": "https://github.com/anacoimbrag/android-developer-roadmap",
+    "desc": "Android Developer Roadmap 2019"
+  },
+  {
+    "title": "lorisleiva/laravel-actions",
+    "url": "https://github.com/lorisleiva/laravel-actions",
+    "desc": "⚡️ Laravel components that take care of one specific task",
+    "lang": "PHP"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "devhubapp/devhub",
+    "url": "https://github.com/devhubapp/devhub",
+    "desc": "TweetDeck for GitHub - Android, iOS, Web & Desktop",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "areslabs/alita",
+    "url": "https://github.com/areslabs/alita",
+    "desc": "一套把React Native代码转换成微信小程序代码的转换引擎工具",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "smooth-code/xstyled",
+    "url": "https://github.com/smooth-code/xstyled",
+    "desc": "Consistent theme based CSS for styled-components 💅",
+    "lang": "JavaScript"
+  }
+]
