@@ -1,0 +1,149 @@
+[
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "pirate/wireguard-docs",
+    "url": "https://github.com/pirate/wireguard-docs",
+    "desc": "The Missing WireGuard Documentation: Setup, Usage, Configuration, and a full example for server-to-server VPN with roaming clients & public peers.",
+    "lang": "Shell"
+  },
+  {
+    "title": "sdras/cssgridgenerator",
+    "url": "https://github.com/sdras/cssgridgenerator",
+    "desc": "🧮Generate basic CSS Grid code to make dynamic layouts!",
+    "lang": "Vue"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "greymd/ojichat",
+    "url": "https://github.com/greymd/ojichat",
+    "desc": "おじさんがLINEやメールで送ってきそうな文を生成する",
+    "lang": "Go"
+  },
+  {
+    "title": "FunctionScript/FunctionScript",
+    "url": "https://github.com/FunctionScript/FunctionScript",
+    "desc": "A language and specification for turning JavaScript functions into typed HTTP APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "Raathigesh/fabulous",
+    "url": "https://github.com/Raathigesh/fabulous",
+    "desc": "🎨 CSS properties sidebar for VS Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "learnbyexample/Command-line-text-processing",
+    "url": "https://github.com/learnbyexample/Command-line-text-processing",
+    "desc": "⚡️ From finding text to search and replace, from sorting to beautifying text and more 🎨",
+    "lang": "Shell"
+  },
+  {
+    "title": "wasmerio/go-ext-wasm",
+    "url": "https://github.com/wasmerio/go-ext-wasm",
+    "desc": "🐹🕸️ Go library to run WebAssembly binaries at native speed",
+    "lang": "Go"
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "desc": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "tensorflow/tpu",
+    "url": "https://github.com/tensorflow/tpu",
+    "desc": "Reference models and tools for Cloud TPUs.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "colinlet/PHP-Interview-QA",
+    "url": "https://github.com/colinlet/PHP-Interview-QA",
+    "desc": "PHP面试问答"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "sogou/SMRCToolkit",
+    "url": "https://github.com/sogou/SMRCToolkit",
+    "desc": "This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.",
+    "lang": "Python"
+  }
+]
