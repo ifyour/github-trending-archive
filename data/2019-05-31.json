@@ -1,0 +1,149 @@
+[
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "FunctionScript/FunctionScript",
+    "url": "https://github.com/FunctionScript/FunctionScript",
+    "desc": "A language and specification for turning JavaScript functions into typed HTTP APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "zeit/hyper",
+    "url": "https://github.com/zeit/hyper",
+    "desc": "A terminal built on web technologies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "Ekultek/BlueKeep",
+    "url": "https://github.com/Ekultek/BlueKeep",
+    "desc": "Proof of concept for CVE-2019-0708",
+    "lang": "Python"
+  },
+  {
+    "title": "AshampooSystems/boden",
+    "url": "https://github.com/AshampooSystems/boden",
+    "desc": "Purely native C++ cross-platform framework for Android and iOS development. https://www.boden.io",
+    "lang": "C++"
+  },
+  {
+    "title": "unidoc/unioffice",
+    "url": "https://github.com/unidoc/unioffice",
+    "desc": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+    "lang": "Go"
+  },
+  {
+    "title": "sdras/cssgridgenerator",
+    "url": "https://github.com/sdras/cssgridgenerator",
+    "desc": "🧮Generate basic CSS Grid code to make dynamic layouts!",
+    "lang": "Vue"
+  },
+  {
+    "title": "tensorflow/tpu",
+    "url": "https://github.com/tensorflow/tpu",
+    "desc": "Reference models and tools for Cloud TPUs.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "greymd/ojichat",
+    "url": "https://github.com/greymd/ojichat",
+    "desc": "おじさんがLINEやメールで送ってきそうな文を生成する",
+    "lang": "Go"
+  },
+  {
+    "title": "wasmerio/go-ext-wasm",
+    "url": "https://github.com/wasmerio/go-ext-wasm",
+    "desc": "🐹🕸️ Go library to run WebAssembly binaries.",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "alok/notational-fzf-vim",
+    "url": "https://github.com/alok/notational-fzf-vim",
+    "desc": "Notational velocity for vim.",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "zhihu/rucene",
+    "url": "https://github.com/zhihu/rucene",
+    "desc": "Rust port of Lucene",
+    "lang": "Rust"
+  },
+  {
+    "title": "colinlet/PHP-Interview-QA",
+    "url": "https://github.com/colinlet/PHP-Interview-QA",
+    "desc": "PHP面试问答"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "getgridea/gridea",
+    "url": "https://github.com/getgridea/gridea",
+    "desc": "✍️一个静态博客写作客户端 (A static blog writing client)",
+    "lang": "CSS"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  }
+]
