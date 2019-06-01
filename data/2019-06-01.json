@@ -1,0 +1,150 @@
+[
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "desc": "Parsing, analyzing, and comparing source code across many languages",
+    "lang": "Haskell"
+  },
+  {
+    "title": "mathieudutour/medium-to-own-blog",
+    "url": "https://github.com/mathieudutour/medium-to-own-blog",
+    "desc": "Switch from Medium to your own blog in a few minutes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FormidableLabs/urql",
+    "url": "https://github.com/FormidableLabs/urql",
+    "desc": "A highly customizable and versatile GraphQL client for React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "unidoc/unioffice",
+    "url": "https://github.com/unidoc/unioffice",
+    "desc": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "zhihu/rucene",
+    "url": "https://github.com/zhihu/rucene",
+    "desc": "Rust port of Lucene",
+    "lang": "Rust"
+  },
+  {
+    "title": "0xd4d/dnSpy",
+    "url": "https://github.com/0xd4d/dnSpy",
+    "desc": ".NET debugger and assembly editor",
+    "lang": "C#"
+  },
+  {
+    "title": "mholt/PapaParse",
+    "url": "https://github.com/mholt/PapaParse",
+    "desc": "Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "RedisGears/EdgeRealtimeVideoAnalytics",
+    "url": "https://github.com/RedisGears/EdgeRealtimeVideoAnalytics",
+    "desc": "An example of using Redis Streams, RedisGears, RedisAI and RedisTimeSeries for Realtime Video Analytics (i.e. counting people)",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FunctionScript/FunctionScript",
+    "url": "https://github.com/FunctionScript/FunctionScript",
+    "desc": "A language and specification for turning JavaScript functions into typed HTTP APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EYBlockchain/nightfall",
+    "url": "https://github.com/EYBlockchain/nightfall",
+    "desc": "EY's Nightfall protocols for private transactions on the Ethereum blockchain using zk-snarks",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdras/cssgridgenerator",
+    "url": "https://github.com/sdras/cssgridgenerator",
+    "desc": "🧮Generate basic CSS Grid code to make dynamic layouts!",
+    "lang": "Vue"
+  },
+  {
+    "title": "Ekultek/BlueKeep",
+    "url": "https://github.com/Ekultek/BlueKeep",
+    "desc": "Proof of concept for CVE-2019-0708",
+    "lang": "Python"
+  },
+  {
+    "title": "zeit/hyper",
+    "url": "https://github.com/zeit/hyper",
+    "desc": "A terminal built on web technologies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qubvel/efficientnet",
+    "url": "https://github.com/qubvel/efficientnet",
+    "desc": "Implementation on EfficientNet model. Keras.",
+    "lang": "Python"
+  }
+]
