@@ -1,0 +1,150 @@
+[
+  {
+    "title": "entropic-dev/entropic",
+    "url": "https://github.com/entropic-dev/entropic",
+    "desc": "a package registry for anything, but mostly javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "desc": "Parsing, analyzing, and comparing source code across many languages",
+    "lang": "Haskell"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "mathieudutour/medium-to-own-blog",
+    "url": "https://github.com/mathieudutour/medium-to-own-blog",
+    "desc": "Switch from Medium to your own blog in a few minutes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ Halo 可能是最好的 Java 博客系统",
+    "lang": "Java"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "koalaman/shellcheck",
+    "url": "https://github.com/koalaman/shellcheck",
+    "desc": "ShellCheck, a static analysis tool for shell scripts",
+    "lang": "Haskell"
+  },
+  {
+    "title": "lukemelas/EfficientNet-PyTorch",
+    "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+    "desc": "A PyTorch implementation of EfficientNet",
+    "lang": "Python"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vietnguyen91/Super-mario-bros-A3C-pytorch",
+    "url": "https://github.com/vietnguyen91/Super-mario-bros-A3C-pytorch",
+    "desc": "Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros",
+    "lang": "Python"
+  },
+  {
+    "title": "thomasahle/sunfish",
+    "url": "https://github.com/thomasahle/sunfish",
+    "desc": "Sunfish: a Python Chess Engine in 111 lines of code",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "0xd4d/dnSpy",
+    "url": "https://github.com/0xd4d/dnSpy",
+    "desc": ".NET debugger and assembly editor",
+    "lang": "C#"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "atlas-engineer/next",
+    "url": "https://github.com/atlas-engineer/next",
+    "desc": "Next Browser - Be Productive.",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "mholt/PapaParse",
+    "url": "https://github.com/mholt/PapaParse",
+    "desc": "Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "unidoc/unioffice",
+    "url": "https://github.com/unidoc/unioffice",
+    "desc": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+    "lang": "Go"
+  },
+  {
+    "title": "FormidableLabs/urql",
+    "url": "https://github.com/FormidableLabs/urql",
+    "desc": "A highly customizable and versatile GraphQL client for React",
+    "lang": "TypeScript"
+  }
+]
