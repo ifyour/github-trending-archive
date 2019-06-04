@@ -1,0 +1,148 @@
+[
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "entropic-dev/entropic",
+    "url": "https://github.com/entropic-dev/entropic",
+    "desc": "a package registry for anything, but mostly javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "desc": "Parsing, analyzing, and comparing source code across many languages",
+    "lang": "Haskell"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lukemelas/EfficientNet-PyTorch",
+    "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+    "desc": "A PyTorch implementation of EfficientNet",
+    "lang": "Python"
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "Flex4Apps/flex4apps",
+    "url": "https://github.com/Flex4Apps/flex4apps",
+    "desc": "Flex4Apps main project repository",
+    "lang": "Shell"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 Basic Knowledge of Technical Interview（技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计）",
+    "lang": "Java"
+  },
+  {
+    "title": "calebwin/emu",
+    "url": "https://github.com/calebwin/emu",
+    "desc": "a language for programming GPUs",
+    "lang": "Rust"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ Halo 一款现代化的个人独立博客系统",
+    "lang": "Java"
+  },
+  {
+    "title": "akveo/nebular",
+    "url": "https://github.com/akveo/nebular",
+    "desc": "💥 Angular 8 UI Library based on Eva Design System 🌚✨Dark Mode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mathieudutour/medium-to-own-blog",
+    "url": "https://github.com/mathieudutour/medium-to-own-blog",
+    "desc": "Switch from Medium to your own blog in a few minutes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "EtherDream/jsproxy",
+    "url": "https://github.com/EtherDream/jsproxy",
+    "desc": "一个基于浏览器端 JS 实现的在线代理",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "bollu/bollu.github.io",
+    "url": "https://github.com/bollu/bollu.github.io",
+    "desc": "code + contents of my website, and programming life",
+    "lang": "C"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "zhangdaiscott/jeecg-boot",
+    "url": "https://github.com/zhangdaiscott/jeecg-boot",
+    "desc": "Jeecg-Boot 是一款基于代码生成器的快速开发平台！采用前后端分离架构：SpringBoot 2.x，Mybatis，Shiro，JWT，Vue&Ant Design。强大的代码生成器让前端和后台代码一键生成，不需要写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "llSourcell/Mathematics_for_Beginners",
+    "url": "https://github.com/llSourcell/Mathematics_for_Beginners",
+    "desc": "This is the formula sheet for Mathematics for Beginners by Siraj Raval on Youtube"
+  }
+]
