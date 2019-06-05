@@ -16,16 +16,16 @@
     "lang": "JupyterNotebook"
   },
   {
+    "title": "paulfitz/mlsql",
+    "url": "https://github.com/paulfitz/mlsql",
+    "desc": "inferring sql queries from plain-text questions about tables",
+    "lang": "Shell"
+  },
+  {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
     "lang": "Java"
-  },
-  {
-    "title": "entropic-dev/entropic",
-    "url": "https://github.com/entropic-dev/entropic",
-    "desc": "a package registry for anything, but mostly javascript",
-    "lang": "JavaScript"
   },
   {
     "title": "binhnguyennus/awesome-scalability",
@@ -39,16 +39,15 @@
     "lang": "JavaScript"
   },
   {
-    "title": "paulfitz/mlsql",
-    "url": "https://github.com/paulfitz/mlsql",
-    "desc": "inferring sql queries from plain-text questions about tables",
-    "lang": "Shell"
+    "title": "entropic-dev/entropic",
+    "url": "https://github.com/entropic-dev/entropic",
+    "desc": "a package registry for anything, but mostly javascript",
+    "lang": "JavaScript"
   },
   {
-    "title": "github/semantic",
-    "url": "https://github.com/github/semantic",
-    "desc": "Parsing, analyzing, and comparing source code across many languages",
-    "lang": "Haskell"
+    "title": "numirias/security",
+    "url": "https://github.com/numirias/security",
+    "desc": "My security stuff"
   },
   {
     "title": "MisterBooo/LeetCodeAnimation",
@@ -57,16 +56,16 @@
     "lang": "Java"
   },
   {
-    "title": "microsoft/terminal",
-    "url": "https://github.com/microsoft/terminal",
-    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
-    "lang": "C++"
-  },
-  {
     "title": "robbyrussell/oh-my-zsh",
     "url": "https://github.com/robbyrussell/oh-my-zsh",
     "desc": "🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
     "lang": "Shell"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
   },
   {
     "title": "v2ray/v2ray-core",
@@ -75,27 +74,22 @@
     "lang": "Go"
   },
   {
-    "title": "metafizzy/zdog",
-    "url": "https://github.com/metafizzy/zdog",
-    "desc": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG",
-    "lang": "JavaScript"
-  },
-  {
     "title": "quantumblacklabs/kedro",
     "url": "https://github.com/quantumblacklabs/kedro",
     "desc": "A Python library for building robust production-ready data and analytics pipelines",
     "lang": "Python"
   },
   {
-    "title": "akveo/nebular",
-    "url": "https://github.com/akveo/nebular",
-    "desc": "💥 Angular UI Library based on Eva Design System (Angular 8 supported!) 🌚✨Dark Mode",
-    "lang": "TypeScript"
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "desc": "Parsing, analyzing, and comparing source code across many languages",
+    "lang": "Haskell"
   },
   {
-    "title": "numirias/security",
-    "url": "https://github.com/numirias/security",
-    "desc": "My security stuff"
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG",
+    "lang": "JavaScript"
   },
   {
     "title": "CyC2018/CS-Notes",
@@ -104,10 +98,10 @@
     "lang": "Java"
   },
   {
-    "title": "flutter/flutter",
-    "url": "https://github.com/flutter/flutter",
-    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
-    "lang": "Dart"
+    "title": "google/TensorNetwork",
+    "url": "https://github.com/google/TensorNetwork",
+    "desc": "A library for easy and efficient manipulation of tensor networks.",
+    "lang": "Python"
   },
   {
     "title": "Jinxiansen/SwiftUI",
@@ -116,26 +110,32 @@
     "lang": "Swift"
   },
   {
+    "title": "akveo/nebular",
+    "url": "https://github.com/akveo/nebular",
+    "desc": "💥 Angular UI Library based on Eva Design System (Angular 8 supported!) 🌚✨Dark Mode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "desc": "😎 Awesome lists about all kinds of interesting topics"
   },
   {
-    "title": "google/TensorNetwork",
-    "url": "https://github.com/google/TensorNetwork",
-    "desc": "A library for easy and efficient manipulation of tensor networks.",
-    "lang": "Python"
-  },
-  {
-    "title": "vuejs/vue",
-    "url": "https://github.com/vuejs/vue",
-    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-    "lang": "JavaScript"
-  },
-  {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "lukemelas/EfficientNet-PyTorch",
+    "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+    "desc": "A PyTorch implementation of EfficientNet",
     "lang": "Python"
   },
   {
