@@ -1,0 +1,146 @@
+[
+  {
+    "title": "TrillCyborg/fullstack",
+    "url": "https://github.com/TrillCyborg/fullstack",
+    "desc": "React/ApolloGraphQL/Node/Mongo demo written in Typescript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "0voice/from_coder_to_expert",
+    "url": "https://github.com/0voice/from_coder_to_expert",
+    "desc": "2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT"
+  },
+  {
+    "title": "imhuster/Enterprise-Registration-Data-of-Chinese-Mainland",
+    "url": "https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland",
+    "desc": "中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Juanpe/About-SwiftUI",
+    "url": "https://github.com/Juanpe/About-SwiftUI",
+    "desc": "Gathering all info published, both by Apple and by others, about new framework SwiftUI.",
+    "lang": "Swift"
+  },
+  {
+    "title": "sfyc23/EverydayWechat",
+    "url": "https://github.com/sfyc23/EverydayWechat",
+    "desc": "每日自动给女朋友发微信暖心话。",
+    "lang": "Python"
+  },
+  {
+    "title": "SimpleBoilerplates/SwiftUI-Cheat-Sheet",
+    "url": "https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet",
+    "desc": "SwiftUI Cheat Sheet"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/hub",
+    "url": "https://github.com/pytorch/hub",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "dessant/buster",
+    "url": "https://github.com/dessant/buster",
+    "desc": "Captcha solver extension for humans",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "kylelobo/The-Documentation-Compendium",
+    "url": "https://github.com/kylelobo/The-Documentation-Compendium",
+    "desc": "📢 Various README templates & tips on writing high-quality documentation that people want to read."
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "nannou-org/nannou",
+    "url": "https://github.com/nannou-org/nannou",
+    "desc": "A Creative Coding Framework for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "wwenj/tripRecord",
+    "url": "https://github.com/wwenj/tripRecord",
+    "desc": "咔咔出行——解决出行问题基于高德地图API，Vue，Express实现的移动端全栈webapp",
+    "lang": "PLpgSQL"
+  },
+  {
+    "title": "pqina/filepond",
+    "url": "https://github.com/pqina/filepond",
+    "desc": "🌊 A flexible and fun JavaScript file upload library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitfield/script",
+    "url": "https://github.com/bitfield/script",
+    "desc": "Making it easy to write shell-like scripts in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "anned20/begoneads",
+    "url": "https://github.com/anned20/begoneads",
+    "desc": "BeGoneAds is a script that puts some popular hosts file lists into the systems hosts file as a adblocker measure.",
+    "lang": "Python"
+  }
+]
