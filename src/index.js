@@ -12,18 +12,18 @@ function saveFile(targetSrc, fileName, content) {
 function crawlData(data) {
   const $ = cheerio.load(data);
   const arr = [];
-  $('.repo-list li').each((i, elm) => {
+  $('.Box .Box-row').each((i, elm) => {
     const lang = $(elm).find('[itemprop="programmingLanguage"]');
     const item = {
       title: $(elm)
-        .find('h3 a')
+        .find('h1 a')
         .text()
         .replace(/\s/g, ''),
       url: `https://github.com${$(elm)
-        .find('h3 a')
+        .find('h1 a')
         .attr('href')}`,
       desc: $(elm)
-        .find('.py-1 p')
+        .find('p')
         .text()
         .trim()
         .replace(/"/g, '')
