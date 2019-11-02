@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "title": "notepad-plus-plus/notepad-plus-plus",
+    "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+    "desc": "Notepad++ official repository",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/orleans",
+    "url": "https://github.com/dotnet/orleans",
+    "desc": "Orleans is a cross-platform framework for building distributed applications with .NET",
+    "lang": "C#"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build custom ML tools",
+    "lang": "Python"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "desc": "A modern formatting library",
+    "lang": "C++"
+  },
+  {
+    "title": "airuikun/smart-tracker",
+    "url": "https://github.com/airuikun/smart-tracker",
+    "desc": "smart-tracker简易型前端无痕埋点",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iGhibli/iOS-DeviceSupport",
+    "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+    "desc": "This repository holds the device support files for the iOS, and I will update it regularly.",
+    "lang": "Python"
+  },
+  {
+    "title": "tamarott/SinGAN",
+    "url": "https://github.com/tamarott/SinGAN",
+    "desc": "Official pytorch implementation of the paper: SinGAN: Learning a Generative Model from a Single Natural Image",
+    "lang": "Python"
+  },
+  {
+    "title": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "desc": "Analytical Web Apps for Python & R. No JavaScript Required.",
+    "lang": "Python"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "Serenity Operating System",
+    "lang": "C++"
+  },
+  {
+    "title": "eth0izzle/shhgit",
+    "url": "https://github.com/eth0izzle/shhgit",
+    "desc": "Ah shhgit! Find GitHub secrets in real time",
+    "lang": "Go"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/SlowFast",
+    "url": "https://github.com/facebookresearch/SlowFast",
+    "desc": "Present SlowFast networks for video recognition.",
+    "lang": "Python"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "fengdu78/Data-Science-Notes",
+    "url": "https://github.com/fengdu78/Data-Science-Notes",
+    "desc": "数据科学的笔记以及资料搜集",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "404notf0und/Security-Data-Analysis-and-Visualization",
+    "url": "https://github.com/404notf0und/Security-Data-Analysis-and-Visualization",
+    "desc": "2018-2020青年安全圈-活跃技术博主/博客",
+    "lang": "TSQL"
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "zeit/swr",
+    "url": "https://github.com/zeit/swr",
+    "desc": "React Hooks library for remote data fetching",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "huytd/pomoday-v2",
+    "url": "https://github.com/huytd/pomoday-v2",
+    "desc": "A keyboard only task management web app",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "azat-io/you-dont-know-js-ru",
+    "url": "https://github.com/azat-io/you-dont-know-js-ru",
+    "desc": "📚 Russian translation of You Don't Know JS book series"
+  },
+  {
+    "title": "itheima1/BlockChain",
+    "url": "https://github.com/itheima1/BlockChain",
+    "desc": "黑马程序员 120天全栈区块链开发 开源教程",
+    "lang": "JavaScript"
+  }
+]
