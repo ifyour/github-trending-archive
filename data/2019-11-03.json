@@ -1,0 +1,147 @@
+[
+  {
+    "title": "KhronosGroup/Vulkan-Samples",
+    "url": "https://github.com/KhronosGroup/Vulkan-Samples",
+    "desc": "One stop solution for all Vulkan samples",
+    "lang": "C++"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build custom ML tools",
+    "lang": "Python"
+  },
+  {
+    "title": "menzi11/BullshitGenerator",
+    "url": "https://github.com/menzi11/BullshitGenerator",
+    "desc": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "armory3d/armorpaint",
+    "url": "https://github.com/armory3d/armorpaint",
+    "desc": "3D PBR Texture Painting Software",
+    "lang": "Haxe"
+  },
+  {
+    "title": "sleepybear1113/taobaoVisitingVenues",
+    "url": "https://github.com/sleepybear1113/taobaoVisitingVenues",
+    "desc": "双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "Serenity Operating System",
+    "lang": "C++"
+  },
+  {
+    "title": "ProtonMail/ios-mail",
+    "url": "https://github.com/ProtonMail/ios-mail",
+    "desc": "",
+    "lang": "Swift"
+  },
+  {
+    "title": "micro/go-micro",
+    "url": "https://github.com/micro/go-micro",
+    "desc": "A Go microservices development framework",
+    "lang": "Go"
+  },
+  {
+    "title": "notepad-plus-plus/notepad-plus-plus",
+    "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+    "desc": "Notepad++ official repository",
+    "lang": "C++"
+  },
+  {
+    "title": "andkret/Cookbook",
+    "url": "https://github.com/andkret/Cookbook",
+    "desc": "The Data Engineering Cookbook"
+  },
+  {
+    "title": "frank-lam/fullstack-tutorial",
+    "url": "https://github.com/frank-lam/fullstack-tutorial",
+    "desc": "🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试",
+    "lang": "Java"
+  },
+  {
+    "title": "tamarott/SinGAN",
+    "url": "https://github.com/tamarott/SinGAN",
+    "desc": "Official pytorch implementation of the paper: SinGAN: Learning a Generative Model from a Single Natural Image",
+    "lang": "Python"
+  },
+  {
+    "title": "ton-blockchain/ton",
+    "url": "https://github.com/ton-blockchain/ton",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "HuobiGroup/huobi-chain",
+    "url": "https://github.com/HuobiGroup/huobi-chain",
+    "desc": "The next generation high performance public chain for financial infrastructure.",
+    "lang": "Rust"
+  },
+  {
+    "title": "frab/frab",
+    "url": "https://github.com/frab/frab",
+    "desc": "conference management system",
+    "lang": "Ruby"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ValdikSS/GoodbyeDPI",
+    "url": "https://github.com/ValdikSS/GoodbyeDPI",
+    "desc": "GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)",
+    "lang": "C"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "Tikam02/DevOps-Guide",
+    "url": "https://github.com/Tikam02/DevOps-Guide",
+    "desc": "DevOps Guide from basic to advanced with Interview Questions and Notes 🔥",
+    "lang": "HTML"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "heibaiying/BigData-Notes",
+    "url": "https://github.com/heibaiying/BigData-Notes",
+    "desc": "大数据入门指南 ⭐️",
+    "lang": "Java"
+  },
+  {
+    "title": "itheima1/BlockChain",
+    "url": "https://github.com/itheima1/BlockChain",
+    "desc": "黑马程序员 120天全栈区块链开发 开源教程",
+    "lang": "JavaScript"
+  }
+]
