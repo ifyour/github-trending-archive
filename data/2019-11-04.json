@@ -1,0 +1,145 @@
+[
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "menzi11/BullshitGenerator",
+    "url": "https://github.com/menzi11/BullshitGenerator",
+    "desc": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "sleepybear1113/taobaoVisitingVenues",
+    "url": "https://github.com/sleepybear1113/taobaoVisitingVenues",
+    "desc": "双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "rsapkf/goodies",
+    "url": "https://github.com/rsapkf/goodies",
+    "desc": "Collection of GitHub repos, blogs and websites to learn cool things"
+  },
+  {
+    "title": "heibaiying/BigData-Notes",
+    "url": "https://github.com/heibaiying/BigData-Notes",
+    "desc": "大数据入门指南 ⭐️",
+    "lang": "Java"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "Serenity Operating System",
+    "lang": "C++"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "asciimoo/searx",
+    "url": "https://github.com/asciimoo/searx",
+    "desc": "Privacy-respecting metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build custom ML tools",
+    "lang": "Python"
+  },
+  {
+    "title": "aivivn/Machine-Learning-Yearning-Vietnamese-Translation",
+    "url": "https://github.com/aivivn/Machine-Learning-Yearning-Vietnamese-Translation",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "KhronosGroup/Vulkan-Samples",
+    "url": "https://github.com/KhronosGroup/Vulkan-Samples",
+    "desc": "One stop solution for all Vulkan samples",
+    "lang": "C++"
+  },
+  {
+    "title": "nfarina/homebridge",
+    "url": "https://github.com/nfarina/homebridge",
+    "desc": "HomeKit support for the impatient",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "desc": "📝 A web-based note-taking app with GitHub sync and Markdown support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "micro/go-micro",
+    "url": "https://github.com/micro/go-micro",
+    "desc": "A Go microservices development framework",
+    "lang": "Go"
+  },
+  {
+    "title": "ccrisan/motioneyeos",
+    "url": "https://github.com/ccrisan/motioneyeos",
+    "desc": "A Video Surveillance OS For Single-board Computers",
+    "lang": "Makefile"
+  },
+  {
+    "title": "Ly0n/awesome-robotic-tooling",
+    "url": "https://github.com/Ly0n/awesome-robotic-tooling",
+    "desc": "Just a bunch of powerful robotic resources and tools for professional robotic development with ROS in C++ and Python."
+  },
+  {
+    "title": "avinassh/rockstar",
+    "url": "https://github.com/avinassh/rockstar",
+    "desc": "Makes you a Rockstar C++ Programmer in 2 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "lang": "C++"
+  }
+]
