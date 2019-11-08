@@ -1,0 +1,143 @@
+[
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-2-output-dataset",
+    "url": "https://github.com/openai/gpt-2-output-dataset",
+    "desc": "Dataset of GPT-2 outputs for research in detection, biases, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "desc": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "polynote/polynote",
+    "url": "https://github.com/polynote/polynote",
+    "desc": "A better notebook for Scala (and more)",
+    "lang": "Scala"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GuoZhaoran/spikeSystem",
+    "url": "https://github.com/GuoZhaoran/spikeSystem",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "lowRISC/opentitan",
+    "url": "https://github.com/lowRISC/opentitan",
+    "desc": "OpenTitan: Open source silicon root of trust",
+    "lang": "SystemVerilog"
+  },
+  {
+    "title": "shenweichen/DeepCTR",
+    "url": "https://github.com/shenweichen/DeepCTR",
+    "desc": "Easy-to-use,Modular and Extendible package of deep-learning based CTR models.",
+    "lang": "Python"
+  },
+  {
+    "title": "palash25/best-practices-checklist",
+    "url": "https://github.com/palash25/best-practices-checklist",
+    "desc": "A list of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more"
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Milvus -- the world's fastest vector search engine.",
+    "lang": "C++"
+  },
+  {
+    "title": "huiyadanli/RevokeMsgPatcher",
+    "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+    "desc": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+    "lang": "C#"
+  },
+  {
+    "title": "fluttercandies/NeteaseCloudMusic",
+    "url": "https://github.com/fluttercandies/NeteaseCloudMusic",
+    "desc": "Flutter - NeteaseCloudMusic Flutter 版本的网易云音乐",
+    "lang": "Dart"
+  },
+  {
+    "title": "sleepybear1113/taobaoVisitingVenues",
+    "url": "https://github.com/sleepybear1113/taobaoVisitingVenues",
+    "desc": "双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chiphuyen/python-is-cool",
+    "url": "https://github.com/chiphuyen/python-is-cool",
+    "desc": "Cool Python features for machine learning that I used to be too afraid to use",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "heibaiying/BigData-Notes",
+    "url": "https://github.com/heibaiying/BigData-Notes",
+    "desc": "大数据入门指南 ⭐️",
+    "lang": "Java"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "naganandy/graph-based-deep-learning-literature",
+    "url": "https://github.com/naganandy/graph-based-deep-learning-literature",
+    "desc": "links to conference publications in graph-based deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "haoel/haoel.github.io",
+    "url": "https://github.com/haoel/haoel.github.io",
+    "desc": ""
+  },
+  {
+    "title": "PaddlePaddle/models",
+    "url": "https://github.com/PaddlePaddle/models",
+    "desc": "Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/BotFramework-Composer",
+    "url": "https://github.com/microsoft/BotFramework-Composer",
+    "desc": "Dialog creation and management for Microsoft Bot Framework Applications",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KunMinX/Jetpack-MVVM-Best-Practice",
+    "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+    "desc": "是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！",
+    "lang": "Java"
+  }
+]
