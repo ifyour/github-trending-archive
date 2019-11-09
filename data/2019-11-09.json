@@ -1,0 +1,145 @@
+[
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "liyasthomas/postwoman",
+    "url": "https://github.com/liyasthomas/postwoman",
+    "desc": "👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "fchollet/ARC",
+    "url": "https://github.com/fchollet/ARC",
+    "desc": "The Abstraction and Reasoning Corpus",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KunMinX/Jetpack-MVVM-Best-Practice",
+    "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+    "desc": "是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！",
+    "lang": "Java"
+  },
+  {
+    "title": "ginuerzh/gost",
+    "url": "https://github.com/ginuerzh/gost",
+    "desc": "GO Simple Tunnel - a simple tunnel written in golang",
+    "lang": "Go"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Milvus -- the world's fastest vector search engine.",
+    "lang": "C++"
+  },
+  {
+    "title": "haoel/haoel.github.io",
+    "url": "https://github.com/haoel/haoel.github.io",
+    "desc": ""
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lowRISC/opentitan",
+    "url": "https://github.com/lowRISC/opentitan",
+    "desc": "OpenTitan: Open source silicon root of trust",
+    "lang": "SystemVerilog"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-aws",
+    "url": "https://github.com/terraform-providers/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "lang": "Go"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-2-output-dataset",
+    "url": "https://github.com/openai/gpt-2-output-dataset",
+    "desc": "Dataset of GPT-2 outputs for research in detection, biases, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "micro/go-micro",
+    "url": "https://github.com/micro/go-micro",
+    "desc": "A Go microservices development framework",
+    "lang": "Go"
+  },
+  {
+    "title": "robertdavidgraham/masscan",
+    "url": "https://github.com/robertdavidgraham/masscan",
+    "desc": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+    "lang": "C"
+  },
+  {
+    "title": "iqiyi/FASPell",
+    "url": "https://github.com/iqiyi/FASPell",
+    "desc": "产学界最强（SOTA）的简繁中文拼写检查工具：FASPell Chinese Spell Checker (Chinese Spell Check / 中文拼写检错 / 中文拼写纠错 / 中文拼写检查)",
+    "lang": "Python"
+  },
+  {
+    "title": "tailwindcss/tailwindcss",
+    "url": "https://github.com/tailwindcss/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "CSS"
+  },
+  {
+    "title": "fluttercandies/NeteaseCloudMusic",
+    "url": "https://github.com/fluttercandies/NeteaseCloudMusic",
+    "desc": "Flutter - NeteaseCloudMusic Flutter 版本的网易云音乐",
+    "lang": "Dart"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (November 2019)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chiphuyen/python-is-cool",
+    "url": "https://github.com/chiphuyen/python-is-cool",
+    "desc": "Cool Python features for machine learning that I used to be too afraid to use",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/",
+    "lang": "Python"
+  }
+]
