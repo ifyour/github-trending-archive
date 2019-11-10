@@ -1,0 +1,142 @@
+[
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "openai/gpt-2-output-dataset",
+    "url": "https://github.com/openai/gpt-2-output-dataset",
+    "desc": "Dataset of GPT-2 outputs for research in detection, biases, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "fchollet/ARC",
+    "url": "https://github.com/fchollet/ARC",
+    "desc": "The Abstraction and Reasoning Corpus",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rajasekarv/native_spark",
+    "url": "https://github.com/rajasekarv/native_spark",
+    "desc": "A new arguably faster implementation of Apache Spark from scratch in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "jobbole/awesome-programming-books",
+    "url": "https://github.com/jobbole/awesome-programming-books",
+    "desc": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等"
+  },
+  {
+    "title": "dsgiitr/d2l-pytorch",
+    "url": "https://github.com/dsgiitr/d2l-pytorch",
+    "desc": "This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/DialoGPT",
+    "url": "https://github.com/microsoft/DialoGPT",
+    "desc": "Large-scale pretraining for dialogue",
+    "lang": "Python"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/react-native-windows",
+    "url": "https://github.com/microsoft/react-native-windows",
+    "desc": "A framework for building native Windows apps with React.",
+    "lang": "C++"
+  },
+  {
+    "title": "apple/swift-numerics",
+    "url": "https://github.com/apple/swift-numerics",
+    "desc": "Numerical APIs for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/",
+    "lang": "Python"
+  },
+  {
+    "title": "huiyadanli/RevokeMsgPatcher",
+    "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+    "desc": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+    "lang": "C#"
+  },
+  {
+    "title": "ReactTraining/react-router",
+    "url": "https://github.com/ReactTraining/react-router",
+    "desc": "Declarative routing for React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "helm/helm",
+    "url": "https://github.com/helm/helm",
+    "desc": "The Kubernetes Package Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。",
+    "lang": "Java"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "desc": "Connect, secure, control, and observe services.",
+    "lang": "Go"
+  },
+  {
+    "title": "quozd/awesome-dotnet",
+    "url": "https://github.com/quozd/awesome-dotnet",
+    "desc": "A collection of awesome .NET libraries, tools, frameworks and software"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "The REST With Spring Course:",
+    "lang": "Java"
+  },
+  {
+    "title": "palash25/best-practices-checklist",
+    "url": "https://github.com/palash25/best-practices-checklist",
+    "desc": "A list of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more"
+  }
+]
