@@ -1,0 +1,149 @@
+[
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "AceLewis/my_first_calculator.py",
+    "url": "https://github.com/AceLewis/my_first_calculator.py",
+    "desc": "my_first_calculator.py",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleContainerTools/skaffold",
+    "url": "https://github.com/GoogleContainerTools/skaffold",
+    "desc": "Easy and Repeatable Kubernetes Development",
+    "lang": "Go"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "jobbole/awesome-programming-books",
+    "url": "https://github.com/jobbole/awesome-programming-books",
+    "desc": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。",
+    "lang": "Java"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tokio-rs/tokio",
+    "url": "https://github.com/tokio-rs/tokio",
+    "desc": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "lang": "Rust"
+  },
+  {
+    "title": "resilience4j/resilience4j",
+    "url": "https://github.com/resilience4j/resilience4j",
+    "desc": "Resilience4j is a fault tolerance library designed for Java8 and functional programming",
+    "lang": "Java"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "desc": "🎥 Command line video player",
+    "lang": "C"
+  },
+  {
+    "title": "gcgarner/IOTstack",
+    "url": "https://github.com/gcgarner/IOTstack",
+    "desc": "docker stack for getting started on IOT on the Raspberry PI",
+    "lang": "Shell"
+  },
+  {
+    "title": "StevenBlack/hosts",
+    "url": "https://github.com/StevenBlack/hosts",
+    "desc": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category.",
+    "lang": "Python"
+  },
+  {
+    "title": "gzc426/Java-Interview",
+    "url": "https://github.com/gzc426/Java-Interview",
+    "desc": "Java 面试必会 直通BAT"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "desc": "The Swift Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "mininet/mininet",
+    "url": "https://github.com/mininet/mininet",
+    "desc": "Emulator for rapid prototyping of Software Defined Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/vcpkg",
+    "url": "https://github.com/microsoft/vcpkg",
+    "desc": "C++ Library Manager for Windows, Linux, and MacOS",
+    "lang": "CMake"
+  },
+  {
+    "title": "skypjack/entt",
+    "url": "https://github.com/skypjack/entt",
+    "desc": "Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more",
+    "lang": "C++"
+  },
+  {
+    "title": "mnielsen/neural-networks-and-deep-learning",
+    "url": "https://github.com/mnielsen/neural-networks-and-deep-learning",
+    "desc": "Code samples for my book Neural Networks and Deep Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "practicalAI/practicalAI",
+    "url": "https://github.com/practicalAI/practicalAI",
+    "desc": "📚 A practical approach to machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CodingTrain/website",
+    "url": "https://github.com/CodingTrain/website",
+    "desc": "Coding Train website",
+    "lang": "JavaScript"
+  }
+]
