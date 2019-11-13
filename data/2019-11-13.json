@@ -1,0 +1,147 @@
+[
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "desc": "Source to www.draw.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "jobbole/awesome-programming-books",
+    "url": "https://github.com/jobbole/awesome-programming-books",
+    "desc": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等"
+  },
+  {
+    "title": "liamg/tfsec",
+    "url": "https://github.com/liamg/tfsec",
+    "desc": "🔒🌍 Static analysis powered security scanner for your terraform code",
+    "lang": "Go"
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "desc": "《统计学习方法》的代码实现",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "practicalAI/practicalAI",
+    "url": "https://github.com/practicalAI/practicalAI",
+    "desc": "📚 A practical approach to machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "desc": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+    "lang": "Rust"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。",
+    "lang": "Java"
+  },
+  {
+    "title": "chai2010/advanced-go-programming-book",
+    "url": "https://github.com/chai2010/advanced-go-programming-book",
+    "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/Sentinel",
+    "url": "https://github.com/alibaba/Sentinel",
+    "desc": "A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)",
+    "lang": "Java"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).",
+    "lang": "Python"
+  },
+  {
+    "title": "k8gege/Ladon",
+    "url": "https://github.com/k8gege/Ladon",
+    "desc": "大型网络渗透扫描器&Cobalt Strike，包含信息收集/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、Weblogic、ActiveMQ、Tomcat等，密码口令爆破含(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB)等,可高度自定义插件支持.NET程序集、DLL(C#/Delphi/VC)、PowerShell等语言编写的插件,支持通过配置INI批量调用任意外部程序或命令,EXP生成器一键生成Web漏洞POC,可快速扩展扫描或利用能力。支持Cobalt Strike插件化直接内存加载Ladon扫描快速拓展内网横向移动",
+    "lang": "C#"
+  },
+  {
+    "title": "gzc426/Java-Interview",
+    "url": "https://github.com/gzc426/Java-Interview",
+    "desc": "Java 面试必会 直通BAT"
+  },
+  {
+    "title": "microsoft/vcpkg",
+    "url": "https://github.com/microsoft/vcpkg",
+    "desc": "C++ Library Manager for Windows, Linux, and MacOS",
+    "lang": "CMake"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "desc": "The fastai deep learning library, plus lessons and tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "d2-projects/d2-admin",
+    "url": "https://github.com/d2-projects/d2-admin",
+    "desc": "🌈 An elegant dashboard",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elastic/logstash",
+    "url": "https://github.com/elastic/logstash",
+    "desc": "Logstash - transport and process your logs, events, or other data",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "aelassas/Wexflow",
+    "url": "https://github.com/aelassas/Wexflow",
+    "desc": "A high-performance, extensible, modular and cross-platform workflow engine. Built for automation. Optimized for SaaS integration. Runs on Windows, Linux, macOS and the cloud.",
+    "lang": "C#"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+    "url": "https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+    "desc": "AZ-103: Microsoft Azure Administrator"
+  }
+]
