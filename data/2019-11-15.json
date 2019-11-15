@@ -6,27 +6,9 @@
     "lang": "Go"
   },
   {
-    "title": "CorentinJ/Real-Time-Voice-Cloning",
-    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
-    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-    "lang": "Python"
-  },
-  {
     "title": "menzi11/BullshitGenerator",
     "url": "https://github.com/menzi11/BullshitGenerator",
     "desc": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "quay/quay",
-    "url": "https://github.com/quay/quay",
-    "desc": "Build, Store, and Distribute your Applications and Containers",
-    "lang": "Python"
-  },
-  {
-    "title": "huangwei9527/quark-h5",
-    "url": "https://github.com/huangwei9527/quark-h5",
-    "desc": "基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具",
     "lang": "JavaScript"
   },
   {
@@ -36,10 +18,16 @@
     "lang": "Python"
   },
   {
-    "title": "chai2010/advanced-go-programming-book",
-    "url": "https://github.com/chai2010/advanced-go-programming-book",
-    "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
-    "lang": "Go"
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "egotong/nows",
+    "url": "https://github.com/egotong/nows",
+    "desc": "毒鸡汤",
+    "lang": "CSS"
   },
   {
     "title": "MaximAbramchuck/awesome-interview-questions",
@@ -47,92 +35,50 @@
     "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
   },
   {
-    "title": "fengdu78/lihang-code",
-    "url": "https://github.com/fengdu78/lihang-code",
-    "desc": "《统计学习方法》的代码实现",
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
     "lang": "JupyterNotebook"
   },
   {
-    "title": "bytecodealliance/cranelift",
-    "url": "https://github.com/bytecodealliance/cranelift",
-    "desc": "Cranelift code generator",
-    "lang": "Rust"
-  },
-  {
-    "title": "abhat222/Data-Science--Cheat-Sheet",
-    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
-    "desc": "Cheat Sheets"
-  },
-  {
-    "title": "bytecodealliance/wasmtime",
-    "url": "https://github.com/bytecodealliance/wasmtime",
-    "desc": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
-    "lang": "Rust"
-  },
-  {
-    "title": "async-rs/async-std",
-    "url": "https://github.com/async-rs/async-std",
-    "desc": "Async version of the Rust standard library",
-    "lang": "Rust"
-  },
-  {
-    "title": "jgraph/drawio",
-    "url": "https://github.com/jgraph/drawio",
-    "desc": "Source to www.draw.io",
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of draw.io",
     "lang": "JavaScript"
   },
   {
-    "title": "material-components/material-components-android-examples",
-    "url": "https://github.com/material-components/material-components-android-examples",
-    "desc": "Companion example apps and code for MDC-Android.",
-    "lang": "Kotlin"
-  },
-  {
-    "title": "realm/realm-cocoa",
-    "url": "https://github.com/realm/realm-cocoa",
-    "desc": "Realm is a mobile database: a replacement for Core Data & SQLite",
-    "lang": "Objective-C"
-  },
-  {
-    "title": "haizlin/fe-interview",
-    "url": "https://github.com/haizlin/fe-interview",
-    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）",
+    "title": "d2-projects/d2-admin",
+    "url": "https://github.com/d2-projects/d2-admin",
+    "desc": "🌈 An elegant dashboard",
     "lang": "JavaScript"
   },
   {
-    "title": "grpc/grpc-go",
-    "url": "https://github.com/grpc/grpc-go",
-    "desc": "The Go language implementation of gRPC. HTTP/2 based RPC",
-    "lang": "Go"
-  },
-  {
-    "title": "jasminmif/react-interactive-paycard",
-    "url": "https://github.com/jasminmif/react-interactive-paycard",
-    "desc": "Interactive React Paycard",
+    "title": "hrt/WheelChair",
+    "url": "https://github.com/hrt/WheelChair",
+    "desc": "State of the art, cutting edge Neo man",
     "lang": "JavaScript"
   },
   {
-    "title": "2227324689/gpmall",
-    "url": "https://github.com/2227324689/gpmall",
-    "desc": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch",
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "互联网 Java 工程师大厂面试，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，后端同学必看，前端同学也可学习"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
     "lang": "Java"
   },
   {
-    "title": "jobbole/awesome-programming-books",
-    "url": "https://github.com/jobbole/awesome-programming-books",
-    "desc": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等"
+    "title": "fabricjs/fabric.js",
+    "url": "https://github.com/fabricjs/fabric.js",
+    "desc": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+    "lang": "JavaScript"
   },
   {
-    "title": "Alamofire/Alamofire",
-    "url": "https://github.com/Alamofire/Alamofire",
-    "desc": "Elegant HTTP Networking in Swift",
-    "lang": "Swift"
-  },
-  {
-    "title": "aelassas/Wexflow",
-    "url": "https://github.com/aelassas/Wexflow",
-    "desc": "A high-performance, extensible, modular and cross-platform workflow engine. Built for automation. Optimized for SaaS integration. Runs on Windows, Linux, macOS and the cloud.",
-    "lang": "C#"
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
   },
   {
     "title": "go-playground/validator",
@@ -141,9 +87,63 @@
     "lang": "Go"
   },
   {
-    "title": "desktop/desktop",
-    "url": "https://github.com/desktop/desktop",
-    "desc": "Simple collaboration from your desktop",
+    "title": "FaridSafi/react-native-gifted-chat",
+    "url": "https://github.com/FaridSafi/react-native-gifted-chat",
+    "desc": "💬 The most complete chat UI for React Native",
     "lang": "TypeScript"
+  },
+  {
+    "title": "aspnet/AspNetCore",
+    "url": "https://github.com/aspnet/AspNetCore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "wb14123/seq2seq-couplet",
+    "url": "https://github.com/wb14123/seq2seq-couplet",
+    "desc": "Play couplet with seq2seq model. 用深度学习对对联。",
+    "lang": "Python"
+  },
+  {
+    "title": "zergtant/pytorch-handbook",
+    "url": "https://github.com/zergtant/pytorch-handbook",
+    "desc": "pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "2227324689/gpmall",
+    "url": "https://github.com/2227324689/gpmall",
+    "desc": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch",
+    "lang": "Java"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "quay/quay",
+    "url": "https://github.com/quay/quay",
+    "desc": "Build, Store, and Distribute your Applications and Containers",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简单避免OOM的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "huangwei9527/quark-h5",
+    "url": "https://github.com/huangwei9527/quark-h5",
+    "desc": "基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
   }
 ]
