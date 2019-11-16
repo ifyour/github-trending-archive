@@ -1,0 +1,149 @@
+[
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "menzi11/BullshitGenerator",
+    "url": "https://github.com/menzi11/BullshitGenerator",
+    "desc": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dragen1860/Deep-Learning-with-TensorFlow-book",
+    "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+    "desc": "深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "egotong/nows",
+    "url": "https://github.com/egotong/nows",
+    "desc": "毒鸡汤",
+    "lang": "CSS"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of draw.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "d2-projects/d2-admin",
+    "url": "https://github.com/d2-projects/d2-admin",
+    "desc": "🌈 An elegant dashboard",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hrt/WheelChair",
+    "url": "https://github.com/hrt/WheelChair",
+    "desc": "State of the art, cutting edge Neo man",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【 互联网 Java 工程师大厂面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，后端同学必看，前端同学也可学习。"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "fabricjs/fabric.js",
+    "url": "https://github.com/fabricjs/fabric.js",
+    "desc": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "go-playground/validator",
+    "url": "https://github.com/go-playground/validator",
+    "desc": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "lang": "Go"
+  },
+  {
+    "title": "FaridSafi/react-native-gifted-chat",
+    "url": "https://github.com/FaridSafi/react-native-gifted-chat",
+    "desc": "💬 The most complete chat UI for React Native",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aspnet/AspNetCore",
+    "url": "https://github.com/aspnet/AspNetCore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "wb14123/seq2seq-couplet",
+    "url": "https://github.com/wb14123/seq2seq-couplet",
+    "desc": "Play couplet with seq2seq model. 用深度学习对对联。",
+    "lang": "Python"
+  },
+  {
+    "title": "zergtant/pytorch-handbook",
+    "url": "https://github.com/zergtant/pytorch-handbook",
+    "desc": "pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "2227324689/gpmall",
+    "url": "https://github.com/2227324689/gpmall",
+    "desc": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch",
+    "lang": "Java"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "quay/quay",
+    "url": "https://github.com/quay/quay",
+    "desc": "Build, Store, and Distribute your Applications and Containers",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简单避免OOM的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "huangwei9527/quark-h5",
+    "url": "https://github.com/huangwei9527/quark-h5",
+    "desc": "基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  }
+]
