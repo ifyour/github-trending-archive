@@ -1,0 +1,151 @@
+[
+  {
+    "title": "dragen1860/Deep-Learning-with-TensorFlow-book",
+    "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+    "desc": "深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "neovim/nvim-lsp",
+    "url": "https://github.com/neovim/nvim-lsp",
+    "desc": "Common configurations for Neovim Language Servers",
+    "lang": "Lua"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore front end",
+    "lang": "C"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "lang": "C#"
+  },
+  {
+    "title": "modin-project/modin",
+    "url": "https://github.com/modin-project/modin",
+    "desc": "Modin: Speed up your Pandas workflows by changing a single line of code",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "MoePlayer/DPlayer",
+    "url": "https://github.com/MoePlayer/DPlayer",
+    "desc": "🍭 Wow, such a lovely HTML5 danmaku video player",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "actions/starter-workflows",
+    "url": "https://github.com/actions/starter-workflows",
+    "desc": "Accelerating new GitHub Actions workflows"
+  },
+  {
+    "title": "banach-space/llvm-tutor",
+    "url": "https://github.com/banach-space/llvm-tutor",
+    "desc": "A collection of LLVM passes (with tests and build scripts)",
+    "lang": "C++"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "vinceliuice/Mojave-gtk-theme",
+    "url": "https://github.com/vinceliuice/Mojave-gtk-theme",
+    "desc": "Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell",
+    "lang": "CSS"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "NVIDIAGameWorks/kaolin",
+    "url": "https://github.com/NVIDIAGameWorks/kaolin",
+    "desc": "A PyTorch Library for Accelerating 3D Deep Learning Research",
+    "lang": "C++"
+  },
+  {
+    "title": "fabricjs/fabric.js",
+    "url": "https://github.com/fabricjs/fabric.js",
+    "desc": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-windows",
+    "url": "https://github.com/shadowsocks/shadowsocks-windows",
+    "desc": "If you want to keep a secret, you must also hide it from yourself.",
+    "lang": "C#"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ct-Open-Source/tuya-convert",
+    "url": "https://github.com/ct-Open-Source/tuya-convert",
+    "desc": "A collection of scripts to flash Tuya IoT devices to alternative firmwares",
+    "lang": "Python"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "desc": "The best design tools and plugins for everything 👉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tidusjar/Ombi",
+    "url": "https://github.com/tidusjar/Ombi",
+    "desc": "Want a Movie or TV Show on Plex or Emby? Use Ombi!",
+    "lang": "C#"
+  },
+  {
+    "title": "Tencent/plato",
+    "url": "https://github.com/Tencent/plato",
+    "desc": "腾讯高性能图计算框架Plato",
+    "lang": "C++"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "material-components/material-components-web-components",
+    "url": "https://github.com/material-components/material-components-web-components",
+    "desc": "Material Web Components - Material Design implemented as Web Components",
+    "lang": "TypeScript"
+  }
+]
