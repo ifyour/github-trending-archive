@@ -6,45 +6,16 @@
     "lang": "Python"
   },
   {
-    "title": "laurent22/joplin",
-    "url": "https://github.com/laurent22/joplin",
-    "desc": "Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "Snailclimb/JavaGuide",
-    "url": "https://github.com/Snailclimb/JavaGuide",
-    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
-    "lang": "Java"
-  },
-  {
-    "title": "google-research/google-research",
-    "url": "https://github.com/google-research/google-research",
-    "desc": "Google AI Research",
-    "lang": "JupyterNotebook"
-  },
-  {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "desc": "Python - 100天从新手到大师",
     "lang": "JupyterNotebook"
   },
   {
-    "title": "actions/starter-workflows",
-    "url": "https://github.com/actions/starter-workflows",
-    "desc": "Accelerating new GitHub Actions workflows"
-  },
-  {
-    "title": "2227324689/gpmall",
-    "url": "https://github.com/2227324689/gpmall",
-    "desc": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch",
-    "lang": "Java"
-  },
-  {
-    "title": "Kayzaks/HackingNeuralNetworks",
-    "url": "https://github.com/Kayzaks/HackingNeuralNetworks",
-    "desc": "A small course on exploiting and defending neural networks",
-    "lang": "Python"
+    "title": "baidu/bfe",
+    "url": "https://github.com/baidu/bfe",
+    "desc": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
+    "lang": "Go"
   },
   {
     "title": "dragen1860/TensorFlow-2.x-Tutorials",
@@ -53,27 +24,62 @@
     "lang": "JupyterNotebook"
   },
   {
-    "title": "acaudwell/Gource",
-    "url": "https://github.com/acaudwell/Gource",
-    "desc": "software version control visualization",
-    "lang": "C++"
-  },
-  {
-    "title": "Tiramisu-Compiler/tiramisu",
-    "url": "https://github.com/Tiramisu-Compiler/tiramisu",
-    "desc": "A polyhedral compiler for expressing fast and portable data parallel algorithms",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "2dust/v2rayN",
-    "url": "https://github.com/2dust/v2rayN",
+    "title": "GuoZhaoran/spikeSystem",
+    "url": "https://github.com/GuoZhaoran/spikeSystem",
     "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "Unity-Technologies/ScriptableRenderPipeline",
+    "url": "https://github.com/Unity-Technologies/ScriptableRenderPipeline",
+    "desc": "Scriptable Render Pipeline",
     "lang": "C#"
   },
   {
-    "title": "mzfr/rsh",
-    "url": "https://github.com/mzfr/rsh",
-    "desc": "generate reverse shell from CLI for linux and Windows.",
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "rajasekarv/native_spark",
+    "url": "https://github.com/rajasekarv/native_spark",
+    "desc": "A new arguably faster implementation of Apache Spark from scratch in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Simple and elegant live chat software 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【 互联网 Java 工程师大厂面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看。"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "square/retrofit",
+    "url": "https://github.com/square/retrofit",
+    "desc": "Type-safe HTTP client for Android and Java by Square, Inc.",
+    "lang": "Java"
+  },
+  {
+    "title": "delprzemo/react-admin-template",
+    "url": "https://github.com/delprzemo/react-admin-template",
+    "desc": "Simple React admin template - Hooks, Redux, Bootstrap ✅ 🤘",
+    "lang": "CSS"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
     "lang": "Python"
   },
   {
@@ -83,69 +89,62 @@
     "lang": "C#"
   },
   {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "micro/micro",
+    "url": "https://github.com/micro/micro",
+    "desc": "A microservice runtime environment",
+    "lang": "Go"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google AI Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "uniVocity/univocity-trader",
+    "url": "https://github.com/uniVocity/univocity-trader",
+    "desc": "open-source trading framework for java, supports backtesting and live trading with exchanges",
+    "lang": "Java"
+  },
+  {
     "title": "NVIDIAGameWorks/kaolin",
     "url": "https://github.com/NVIDIAGameWorks/kaolin",
     "desc": "A PyTorch Library for Accelerating 3D Deep Learning Research",
     "lang": "C++"
   },
   {
-    "title": "insidegui/NoiseBuddy",
-    "url": "https://github.com/insidegui/NoiseBuddy",
-    "desc": "Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.",
-    "lang": "Swift"
-  },
-  {
-    "title": "vinceliuice/Mojave-gtk-theme",
-    "url": "https://github.com/vinceliuice/Mojave-gtk-theme",
-    "desc": "Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell",
-    "lang": "CSS"
-  },
-  {
-    "title": "vinceliuice/Layan-gtk-theme",
-    "url": "https://github.com/vinceliuice/Layan-gtk-theme",
-    "desc": "Layan-gtk-theme",
-    "lang": "CSS"
-  },
-  {
-    "title": "PeterWang512/FALdetector",
-    "url": "https://github.com/PeterWang512/FALdetector",
-    "desc": "Code for the paper: Detecting Photoshopped Faces by Scripting Photoshop",
+    "title": "Kayzaks/HackingNeuralNetworks",
+    "url": "https://github.com/Kayzaks/HackingNeuralNetworks",
+    "desc": "A small course on exploiting and defending neural networks",
     "lang": "Python"
   },
   {
-    "title": "bitcoin/bitcoin",
-    "url": "https://github.com/bitcoin/bitcoin",
-    "desc": "Bitcoin Core integration/staging tree",
-    "lang": "C++"
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "lang": "JavaScript"
   },
   {
-    "title": "topjohnwu/Magisk",
-    "url": "https://github.com/topjohnwu/Magisk",
-    "desc": "A Magic Mask to Alter Android System Systemless-ly",
-    "lang": "C++"
+    "title": "crazymind90/iCloudBypassCA",
+    "url": "https://github.com/crazymind90/iCloudBypassCA",
+    "desc": ""
   },
   {
-    "title": "neovim/nvim-lsp",
-    "url": "https://github.com/neovim/nvim-lsp",
-    "desc": "Common configurations for Neovim Language Servers",
-    "lang": "Lua"
+    "title": "modin-project/modin",
+    "url": "https://github.com/modin-project/modin",
+    "desc": "Modin: Speed up your Pandas workflows by changing a single line of code",
+    "lang": "Python"
   },
   {
-    "title": "shadowsocks/shadowsocks-windows",
-    "url": "https://github.com/shadowsocks/shadowsocks-windows",
-    "desc": "If you want to keep a secret, you must also hide it from yourself.",
-    "lang": "C#"
-  },
-  {
-    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
-    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
-    "desc": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
-    "lang": "C++"
-  },
-  {
-    "title": "haoel/leetcode",
-    "url": "https://github.com/haoel/leetcode",
-    "desc": "LeetCode Problems' Solutions",
-    "lang": "C++"
+    "title": "MoePlayer/DPlayer",
+    "url": "https://github.com/MoePlayer/DPlayer",
+    "desc": "🍭 Wow, such a lovely HTML5 danmaku video player",
+    "lang": "JavaScript"
   }
 ]
