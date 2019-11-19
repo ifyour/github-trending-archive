@@ -1,0 +1,151 @@
+[
+  {
+    "title": "dragen1860/Deep-Learning-with-TensorFlow-book",
+    "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+    "desc": "深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google AI Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "actions/starter-workflows",
+    "url": "https://github.com/actions/starter-workflows",
+    "desc": "Accelerating new GitHub Actions workflows"
+  },
+  {
+    "title": "2227324689/gpmall",
+    "url": "https://github.com/2227324689/gpmall",
+    "desc": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch",
+    "lang": "Java"
+  },
+  {
+    "title": "Kayzaks/HackingNeuralNetworks",
+    "url": "https://github.com/Kayzaks/HackingNeuralNetworks",
+    "desc": "A small course on exploiting and defending neural networks",
+    "lang": "Python"
+  },
+  {
+    "title": "dragen1860/TensorFlow-2.x-Tutorials",
+    "url": "https://github.com/dragen1860/TensorFlow-2.x-Tutorials",
+    "desc": "TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "acaudwell/Gource",
+    "url": "https://github.com/acaudwell/Gource",
+    "desc": "software version control visualization",
+    "lang": "C++"
+  },
+  {
+    "title": "Tiramisu-Compiler/tiramisu",
+    "url": "https://github.com/Tiramisu-Compiler/tiramisu",
+    "desc": "A polyhedral compiler for expressing fast and portable data parallel algorithms",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "mzfr/rsh",
+    "url": "https://github.com/mzfr/rsh",
+    "desc": "generate reverse shell from CLI for linux and Windows.",
+    "lang": "Python"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "lang": "C#"
+  },
+  {
+    "title": "NVIDIAGameWorks/kaolin",
+    "url": "https://github.com/NVIDIAGameWorks/kaolin",
+    "desc": "A PyTorch Library for Accelerating 3D Deep Learning Research",
+    "lang": "C++"
+  },
+  {
+    "title": "insidegui/NoiseBuddy",
+    "url": "https://github.com/insidegui/NoiseBuddy",
+    "desc": "Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.",
+    "lang": "Swift"
+  },
+  {
+    "title": "vinceliuice/Mojave-gtk-theme",
+    "url": "https://github.com/vinceliuice/Mojave-gtk-theme",
+    "desc": "Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell",
+    "lang": "CSS"
+  },
+  {
+    "title": "vinceliuice/Layan-gtk-theme",
+    "url": "https://github.com/vinceliuice/Layan-gtk-theme",
+    "desc": "Layan-gtk-theme",
+    "lang": "CSS"
+  },
+  {
+    "title": "PeterWang512/FALdetector",
+    "url": "https://github.com/PeterWang512/FALdetector",
+    "desc": "Code for the paper: Detecting Photoshopped Faces by Scripting Photoshop",
+    "lang": "Python"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "A Magic Mask to Alter Android System Systemless-ly",
+    "lang": "C++"
+  },
+  {
+    "title": "neovim/nvim-lsp",
+    "url": "https://github.com/neovim/nvim-lsp",
+    "desc": "Common configurations for Neovim Language Servers",
+    "lang": "Lua"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-windows",
+    "url": "https://github.com/shadowsocks/shadowsocks-windows",
+    "desc": "If you want to keep a secret, you must also hide it from yourself.",
+    "lang": "C#"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "desc": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "lang": "C++"
+  },
+  {
+    "title": "haoel/leetcode",
+    "url": "https://github.com/haoel/leetcode",
+    "desc": "LeetCode Problems' Solutions",
+    "lang": "C++"
+  }
+]
