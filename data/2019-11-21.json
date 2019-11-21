@@ -1,0 +1,149 @@
+[
+  {
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "desc": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "lang": "Go"
+  },
+  {
+    "title": "sniklaus/3d-ken-burns",
+    "url": "https://github.com/sniklaus/3d-ken-burns",
+    "desc": "an implementation of 3D Ken Burns Effect from a Single Image using PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "SteveSandersonMS/WebWindow",
+    "url": "https://github.com/SteveSandersonMS/WebWindow",
+    "desc": ".NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【互联网一线大厂Java 工程师面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看。"
+  },
+  {
+    "title": "baidu/bfe",
+    "url": "https://github.com/baidu/bfe",
+    "desc": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
+    "lang": "Go"
+  },
+  {
+    "title": "uniVocity/univocity-trader",
+    "url": "https://github.com/uniVocity/univocity-trader",
+    "desc": "open-source trading framework for java, supports backtesting and live trading with exchanges",
+    "lang": "Java"
+  },
+  {
+    "title": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "desc": "jQuery JavaScript Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CoatiSoftware/Sourcetrail",
+    "url": "https://github.com/CoatiSoftware/Sourcetrail",
+    "desc": "Sourcetrail - free and open-source interactive source explorer",
+    "lang": "C++"
+  },
+  {
+    "title": "delprzemo/react-admin-template",
+    "url": "https://github.com/delprzemo/react-admin-template",
+    "desc": "Simple React admin template - Hooks, Redux, Bootstrap ✅ 🤘",
+    "lang": "CSS"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "apache/servicecomb-pack",
+    "url": "https://github.com/apache/servicecomb-pack",
+    "desc": "Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent .",
+    "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计",
+    "lang": "Java"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "desc": "Like Prometheus, but for logs.",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "zhisheng17/flink-learning",
+    "url": "https://github.com/zhisheng17/flink-learning",
+    "desc": "flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。",
+    "lang": "Java"
+  },
+  {
+    "title": "labstack/echo",
+    "url": "https://github.com/labstack/echo",
+    "desc": "High performance, minimalist Go web framework",
+    "lang": "Go"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "Python"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+  },
+  {
+    "title": "SortableJS/Sortable",
+    "url": "https://github.com/SortableJS/Sortable",
+    "desc": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  }
+]
