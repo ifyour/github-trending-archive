@@ -1,27 +1,15 @@
 [
   {
-    "title": "TheAlgorithms/Python",
-    "url": "https://github.com/TheAlgorithms/Python",
-    "desc": "All Algorithms implemented in Python",
-    "lang": "Python"
-  },
-  {
-    "title": "rancher/k3s",
-    "url": "https://github.com/rancher/k3s",
-    "desc": "Lightweight Kubernetes. 5 less than k8s.",
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "desc": "A scalable overlay networking tool with a focus on performance, simplicity and security",
     "lang": "Go"
   },
   {
-    "title": "alibaba/form-render",
-    "url": "https://github.com/alibaba/form-render",
-    "desc": "🏄 跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面",
-    "lang": "CSS"
-  },
-  {
-    "title": "liyasthomas/postwoman",
-    "url": "https://github.com/liyasthomas/postwoman",
-    "desc": "👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥",
-    "lang": "Vue"
+    "title": "sniklaus/3d-ken-burns",
+    "url": "https://github.com/sniklaus/3d-ken-burns",
+    "desc": "an implementation of 3D Ken Burns Effect from a Single Image using PyTorch",
+    "lang": "Python"
   },
   {
     "title": "SteveSandersonMS/WebWindow",
@@ -30,22 +18,27 @@
     "lang": "TypeScript"
   },
   {
-    "title": "Genymobile/scrcpy",
-    "url": "https://github.com/Genymobile/scrcpy",
-    "desc": "Display and control your Android device",
-    "lang": "C"
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【互联网一线大厂Java 工程师面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
   },
   {
-    "title": "algorithm-visualizer/algorithm-visualizer",
-    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
-    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "slackhq/nebula",
-    "url": "https://github.com/slackhq/nebula",
-    "desc": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "title": "baidu/bfe",
+    "url": "https://github.com/baidu/bfe",
+    "desc": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
     "lang": "Go"
+  },
+  {
+    "title": "uniVocity/univocity-trader",
+    "url": "https://github.com/uniVocity/univocity-trader",
+    "desc": "open-source trading framework for java, supports backtesting and live trading with exchanges",
+    "lang": "Java"
+  },
+  {
+    "title": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "desc": "jQuery JavaScript Library",
+    "lang": "JavaScript"
   },
   {
     "title": "CoatiSoftware/Sourcetrail",
@@ -54,32 +47,39 @@
     "lang": "C++"
   },
   {
-    "title": "freeCodeCamp/freeCodeCamp",
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "desc": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.",
+    "title": "delprzemo/react-admin-template",
+    "url": "https://github.com/delprzemo/react-admin-template",
+    "desc": "Simple React admin template - Hooks, Redux, Bootstrap ✅ 🤘",
+    "lang": "CSS"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
     "lang": "JavaScript"
   },
   {
-    "title": "tuvtran/project-based-learning",
-    "url": "https://github.com/tuvtran/project-based-learning",
-    "desc": "Curated list of project-based tutorials"
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
   },
   {
-    "title": "cube-js/cube.js",
-    "url": "https://github.com/cube-js/cube.js",
-    "desc": "📊 Cube.js - Open Source Analytics Framework",
-    "lang": "JavaScript"
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
   },
   {
-    "title": "AobingJava/JavaFamily",
-    "url": "https://github.com/AobingJava/JavaFamily",
-    "desc": "【互联网一线大厂Java 工程师面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
-  },
-  {
-    "title": "Snailclimb/JavaGuide",
-    "url": "https://github.com/Snailclimb/JavaGuide",
-    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "title": "apache/servicecomb-pack",
+    "url": "https://github.com/apache/servicecomb-pack",
+    "desc": "Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent .",
     "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
   },
   {
     "title": "CyC2018/CS-Notes",
@@ -88,61 +88,62 @@
     "lang": "Java"
   },
   {
-    "title": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "desc": "A complete computer science study plan to become a software engineer."
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "desc": "Like Prometheus, but for logs.",
+    "lang": "Go"
   },
   {
-    "title": "zhangdaiscott/jeecg-boot",
-    "url": "https://github.com/zhangdaiscott/jeecg-boot",
-    "desc": "一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等",
-    "lang": "Java"
-  },
-  {
-    "title": "aspnet/AspNetCore",
-    "url": "https://github.com/aspnet/AspNetCore",
-    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-    "lang": "C#"
-  },
-  {
-    "title": "microsoft/cascadia-code",
-    "url": "https://github.com/microsoft/cascadia-code",
-    "desc": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
     "lang": "Python"
   },
   {
-    "title": "chai2010/advanced-go-programming-book",
-    "url": "https://github.com/chai2010/advanced-go-programming-book",
-    "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
     "lang": "Go"
   },
   {
-    "title": "paulirish/lite-youtube-embed",
-    "url": "https://github.com/paulirish/lite-youtube-embed",
-    "desc": "A faster youtube embed.",
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "zhisheng17/flink-learning",
+    "url": "https://github.com/zhisheng17/flink-learning",
+    "desc": "flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。",
+    "lang": "Java"
+  },
+  {
+    "title": "labstack/echo",
+    "url": "https://github.com/labstack/echo",
+    "desc": "High performance, minimalist Go web framework",
+    "lang": "Go"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "Python"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+  },
+  {
+    "title": "SortableJS/Sortable",
+    "url": "https://github.com/SortableJS/Sortable",
+    "desc": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.",
     "lang": "JavaScript"
   },
   {
-    "title": "developer-learning/night-reading-go",
-    "url": "https://github.com/developer-learning/night-reading-go",
-    "desc": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
-    "lang": "Go"
-  },
-  {
-    "title": "Hack-with-Github/Awesome-Hacking",
-    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
-    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
-  },
-  {
-    "title": "azl397985856/leetcode",
-    "url": "https://github.com/azl397985856/leetcode",
-    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
     "lang": "JavaScript"
-  },
-  {
-    "title": "helm/charts",
-    "url": "https://github.com/helm/charts",
-    "desc": "Curated applications for Kubernetes",
-    "lang": "Go"
   }
 ]
