@@ -1,0 +1,149 @@
+[
+  {
+    "title": "cantaro86/Financial-Models-Numerical-Methods",
+    "url": "https://github.com/cantaro86/Financial-Models-Numerical-Methods",
+    "desc": "Collection of notebooks about quantitative finance, with interactive python code.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "luka1199/geo-heatmap",
+    "url": "https://github.com/luka1199/geo-heatmap",
+    "desc": "🗺 A script that generates an interactive geo heatmap from your google location data",
+    "lang": "Python"
+  },
+  {
+    "title": "yunjey/pytorch-tutorial",
+    "url": "https://github.com/yunjey/pytorch-tutorial",
+    "desc": "PyTorch Tutorial for Deep Learning Researchers",
+    "lang": "Python"
+  },
+  {
+    "title": "raspberrypi/linux",
+    "url": "https://github.com/raspberrypi/linux",
+    "desc": "Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum",
+    "lang": "C"
+  },
+  {
+    "title": "cloudflare/flan",
+    "url": "https://github.com/cloudflare/flan",
+    "desc": "A pretty sweet vulnerability scanner",
+    "lang": "Python"
+  },
+  {
+    "title": "liyasthomas/postwoman",
+    "url": "https://github.com/liyasthomas/postwoman",
+    "desc": "👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥",
+    "lang": "Vue"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cube-js/cube.js",
+    "url": "https://github.com/cube-js/cube.js",
+    "desc": "📊 Cube.js - Open Source Analytics Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shadowsocks/ShadowsocksX-NG",
+    "url": "https://github.com/shadowsocks/ShadowsocksX-NG",
+    "desc": "Next Generation of ShadowsocksX",
+    "lang": "Swift"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jonasschmedtmann/advanced-css-course",
+    "url": "https://github.com/jonasschmedtmann/advanced-css-course",
+    "desc": "Starter files, final projects and FAQ for my Advanced CSS course",
+    "lang": "CSS"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dolphin-emu/dolphin",
+    "url": "https://github.com/dolphin-emu/dolphin",
+    "desc": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+    "lang": "C++"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "xmrig/xmrig",
+    "url": "https://github.com/xmrig/xmrig",
+    "desc": "RandomX, CryptoNight and Argon2 CPU miner",
+    "lang": "C++"
+  },
+  {
+    "title": "AMD-OSX/AMD_Vanilla",
+    "url": "https://github.com/AMD-OSX/AMD_Vanilla",
+    "desc": "Native AMD macOS via Clover & OpenCore"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "runelite/runelite",
+    "url": "https://github.com/runelite/runelite",
+    "desc": "Open source Old School RuneScape client",
+    "lang": "Java"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "desc": "Python sample codes for robotics algorithms.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JoeyDeVries/LearnOpenGL",
+    "url": "https://github.com/JoeyDeVries/LearnOpenGL",
+    "desc": "Code repository of all OpenGL tutorials found at https://learnopengl.com",
+    "lang": "C++"
+  }
+]
