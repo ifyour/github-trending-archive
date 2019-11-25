@@ -1,0 +1,149 @@
+[
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "leandromoreira/digital_video_introduction",
+    "url": "https://github.com/leandromoreira/digital_video_introduction",
+    "desc": "A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alirezadir/Production-Level-Deep-Learning",
+    "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+    "desc": "This repo attempts to serve as a guideline for building practical production-level deep learning systems to be deployed in real world applications."
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ginuerzh/gost",
+    "url": "https://github.com/ginuerzh/gost",
+    "desc": "GO Simple Tunnel - a simple tunnel written in golang",
+    "lang": "Go"
+  },
+  {
+    "title": "harismuneer/Ultimate-Facebook-Scraper",
+    "url": "https://github.com/harismuneer/Ultimate-Facebook-Scraper",
+    "desc": "🤖 A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).",
+    "lang": "Python"
+  },
+  {
+    "title": "qingshuisiyuan/electron-ssr-backup",
+    "url": "https://github.com/qingshuisiyuan/electron-ssr-backup",
+    "desc": "electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "deep-learning-with-pytorch/dlwpt-code",
+    "url": "https://github.com/deep-learning-with-pytorch/dlwpt-code",
+    "desc": "Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "yanue/V2rayU",
+    "url": "https://github.com/yanue/V2rayU",
+    "desc": "V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等",
+    "lang": "Swift"
+  },
+  {
+    "title": "ArduPilot/ardupilot",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "desc": "ArduPlane, ArduCopter, ArduRover source",
+    "lang": "C++"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "brohrer/academic_advisory",
+    "url": "https://github.com/brohrer/academic_advisory",
+    "desc": "Collected opinions and advice for academic programs focused on data science skills."
+  },
+  {
+    "title": "neoclide/coc.nvim",
+    "url": "https://github.com/neoclide/coc.nvim",
+    "desc": "Intellisense engine for vim8 & neovim, full language server protocol support as VSCode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LukeSmithxyz/voidrice",
+    "url": "https://github.com/LukeSmithxyz/voidrice",
+    "desc": "My dotfiles (deployed by LARBS)",
+    "lang": "Shell"
+  },
+  {
+    "title": "realpython/materials",
+    "url": "https://github.com/realpython/materials",
+    "desc": "Bonus materials, exercises, and example projects for our Python tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tevador/RandomX",
+    "url": "https://github.com/tevador/RandomX",
+    "desc": "Proof of work algorithm based on random code execution",
+    "lang": "C++"
+  },
+  {
+    "title": "nothings/stb",
+    "url": "https://github.com/nothings/stb",
+    "desc": "stb single-file public domain libraries for C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "kivy/python-for-android",
+    "url": "https://github.com/kivy/python-for-android",
+    "desc": "Turn your Python application into an Android APK",
+    "lang": "Python"
+  },
+  {
+    "title": "AnkerLeng/Cpp-0-1-Resource",
+    "url": "https://github.com/AnkerLeng/Cpp-0-1-Resource",
+    "desc": "C++ 匠心之作 从0到1入门资料",
+    "lang": "C++"
+  },
+  {
+    "title": "sprintcube/docker-compose-lamp",
+    "url": "https://github.com/sprintcube/docker-compose-lamp",
+    "desc": "A basic LAMP stack environment built using Docker Compose.",
+    "lang": "PHP"
+  }
+]
