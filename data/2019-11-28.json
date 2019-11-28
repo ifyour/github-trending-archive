@@ -1,0 +1,145 @@
+[
+  {
+    "title": "hecrj/iced",
+    "url": "https://github.com/hecrj/iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "lang": "Rust"
+  },
+  {
+    "title": "chiphuyen/machine-learning-systems-design",
+    "url": "https://github.com/chiphuyen/machine-learning-systems-design",
+    "desc": "A booklet on machine learning systems design with exercises",
+    "lang": "HTML"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws/sagemaker-python-sdk",
+    "url": "https://github.com/aws/sagemaker-python-sdk",
+    "desc": "A library for training and deploying machine learning models on Amazon SageMaker",
+    "lang": "Python"
+  },
+  {
+    "title": "SortableJS/Vue.Draggable",
+    "url": "https://github.com/SortableJS/Vue.Draggable",
+    "desc": "Vue drag-and-drop component based on Sortable.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lucas-clemente/quic-go",
+    "url": "https://github.com/lucas-clemente/quic-go",
+    "desc": "A QUIC implementation in pure go",
+    "lang": "Go"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "s0md3v/Corsy",
+    "url": "https://github.com/s0md3v/Corsy",
+    "desc": "CORS Misconfiguration Scanner",
+    "lang": "Python"
+  },
+  {
+    "title": "mockito/mockito",
+    "url": "https://github.com/mockito/mockito",
+    "desc": "Most popular Mocking framework for unit tests written in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "harismuneer/Ultimate-Facebook-Scraper",
+    "url": "https://github.com/harismuneer/Ultimate-Facebook-Scraper",
+    "desc": "🤖 A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).",
+    "lang": "Python"
+  },
+  {
+    "title": "deep-learning-with-pytorch/dlwpt-code",
+    "url": "https://github.com/deep-learning-with-pytorch/dlwpt-code",
+    "desc": "Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "joeferraro/react-native-cookies",
+    "url": "https://github.com/joeferraro/react-native-cookies",
+    "desc": "Cookie manager for React Native",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "golang/dep",
+    "url": "https://github.com/golang/dep",
+    "desc": "Go dependency management tool",
+    "lang": "Go"
+  },
+  {
+    "title": "golang/protobuf",
+    "url": "https://github.com/golang/protobuf",
+    "desc": "Go support for Google's protocol buffers",
+    "lang": "Go"
+  },
+  {
+    "title": "ultralytics/yolov3",
+    "url": "https://github.com/ultralytics/yolov3",
+    "desc": "YOLOv3 in PyTorch > ONNX > CoreML > iOS",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jinzhu/gorm",
+    "url": "https://github.com/jinzhu/gorm",
+    "desc": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "lang": "Go"
+  },
+  {
+    "title": "Thomvaill/tads-boilerplate",
+    "url": "https://github.com/Thomvaill/tads-boilerplate",
+    "desc": "Terraform + Ansible + Docker Swarm boilerplate = DevOps on 🔥🔥🔥 | Infrastructure as Code",
+    "lang": "Shell"
+  },
+  {
+    "title": "qingshuisiyuan/electron-ssr-backup",
+    "url": "https://github.com/qingshuisiyuan/electron-ssr-backup",
+    "desc": "electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜"
+  },
+  {
+    "title": "grpc/grpc-go",
+    "url": "https://github.com/grpc/grpc-go",
+    "desc": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Sentry is cross-platform application monitoring, with a focus on error reporting.",
+    "lang": "Python"
+  }
+]
