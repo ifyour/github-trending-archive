@@ -1,0 +1,152 @@
+[
+  {
+    "title": "jinzhu/gorm",
+    "url": "https://github.com/jinzhu/gorm",
+    "desc": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "lang": "Go"
+  },
+  {
+    "title": "Geek-James/ddBuy",
+    "url": "https://github.com/Geek-James/ddBuy",
+    "desc": "🎉Vue2.x 全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn",
+    "lang": "Vue"
+  },
+  {
+    "title": "hecrj/iced",
+    "url": "https://github.com/hecrj/iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "lang": "Rust"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "fchollet/ARC",
+    "url": "https://github.com/fchollet/ARC",
+    "desc": "The Abstraction and Reasoning Corpus",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JohnSundell/Ink",
+    "url": "https://github.com/JohnSundell/Ink",
+    "desc": "A fast and flexible Markdown parser written in Swift.",
+    "lang": "Swift"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "antvis/G2Plot",
+    "url": "https://github.com/antvis/G2Plot",
+    "desc": "🍡 An interactive and responsive charting library based on the grammar of graphics.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "heucoder/dimensionality_reduction_alo_codes",
+    "url": "https://github.com/heucoder/dimensionality_reduction_alo_codes",
+    "desc": "PCA、LDA、MDS、LLE、TSNE等降维算法的python实现",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws/sagemaker-python-sdk",
+    "url": "https://github.com/aws/sagemaker-python-sdk",
+    "desc": "A library for training and deploying machine learning models on Amazon SageMaker",
+    "lang": "Python"
+  },
+  {
+    "title": "magento/magento2",
+    "url": "https://github.com/magento/magento2",
+    "desc": "All Submissions you make to Magento Inc. (Magento) through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…",
+    "lang": "PHP"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "blocks/blocks",
+    "url": "https://github.com/blocks/blocks",
+    "desc": "A JSX-based page builder for creating beautiful websites without writing code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://my-netdata.io/",
+    "lang": "C"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "desc": "Black Friday Deals for macOS / iOS Software & Books",
+    "lang": "Swift"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "desc": "The hackable text editor",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "Run VS Code on a remote server.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tokio-rs/tokio",
+    "url": "https://github.com/tokio-rs/tokio",
+    "desc": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "lang": "Rust"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "desc": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "micropython/micropython",
+    "url": "https://github.com/micropython/micropython",
+    "desc": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+    "lang": "C"
+  }
+]
