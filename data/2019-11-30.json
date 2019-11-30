@@ -1,0 +1,151 @@
+[
+  {
+    "title": "idealvin/co",
+    "url": "https://github.com/idealvin/co",
+    "desc": "An elegant and efficient C++ basic library for Linux, Windows and Mac.",
+    "lang": "C++"
+  },
+  {
+    "title": "alyssaxuu/flowy",
+    "url": "https://github.com/alyssaxuu/flowy",
+    "desc": "The minimal javascript library to create flowcharts ✨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "felangel/bloc",
+    "url": "https://github.com/felangel/bloc",
+    "desc": "A predictable state management library that helps implement the BLoC design pattern",
+    "lang": "Dart"
+  },
+  {
+    "title": "fchollet/ARC",
+    "url": "https://github.com/fchollet/ARC",
+    "desc": "The Abstraction and Reasoning Corpus",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "blocks/blocks",
+    "url": "https://github.com/blocks/blocks",
+    "desc": "A JSX-based page builder for creating beautiful websites without writing code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "desc": "The PHP Interpreter",
+    "lang": "C"
+  },
+  {
+    "title": "magento/magento2",
+    "url": "https://github.com/magento/magento2",
+    "desc": "All Submissions you make to Magento Inc. (Magento) through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…",
+    "lang": "PHP"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "enaqx/awesome-pentest",
+    "url": "https://github.com/enaqx/awesome-pentest",
+    "desc": "A collection of awesome penetration testing resources, tools and other shiny things"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "jwilber/roughViz",
+    "url": "https://github.com/jwilber/roughViz",
+    "desc": "Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "anonaddy/anonaddy",
+    "url": "https://github.com/anonaddy/anonaddy",
+    "desc": "Anonymous email forwarding",
+    "lang": "PHP"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "Blankj/AndroidUtilCode",
+    "url": "https://github.com/Blankj/AndroidUtilCode",
+    "desc": "🔥 Android developers should collect the following utils(updating).",
+    "lang": "Java"
+  },
+  {
+    "title": "joeferraro/react-native-cookies",
+    "url": "https://github.com/joeferraro/react-native-cookies",
+    "desc": "Cookie manager for React Native",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "awslabs/aws-athena-query-federation",
+    "url": "https://github.com/awslabs/aws-athena-query-federation",
+    "desc": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
+    "lang": "Java"
+  },
+  {
+    "title": "mockito/mockito",
+    "url": "https://github.com/mockito/mockito",
+    "desc": "Most popular Mocking framework for unit tests written in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JasonGT/CleanArchitecture",
+    "url": "https://github.com/JasonGT/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 8 and .NET Core 3",
+    "lang": "C#"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "desc": "📚 Community guides for open source creators",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Geek-James/ddBuy",
+    "url": "https://github.com/Geek-James/ddBuy",
+    "desc": "🎉Vue2.x 全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn",
+    "lang": "Vue"
+  },
+  {
+    "title": "yinxin630/fiora",
+    "url": "https://github.com/yinxin630/fiora",
+    "desc": "An interesting chat application power by socket.io, koa, mongodb and react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zhoutaoo/SpringCloud",
+    "url": "https://github.com/zhoutaoo/SpringCloud",
+    "desc": "基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中",
+    "lang": "Java"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!",
+    "lang": "TypeScript"
+  }
+]
