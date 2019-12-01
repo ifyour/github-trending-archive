@@ -1,0 +1,150 @@
+[
+  {
+    "title": "wesbos/beginner-javascript",
+    "url": "https://github.com/wesbos/beginner-javascript",
+    "desc": "Slam Dunk JavaScript",
+    "lang": "HTML"
+  },
+  {
+    "title": "brunosimon/folio-2019",
+    "url": "https://github.com/brunosimon/folio-2019",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Blankj/AndroidUtilCode",
+    "url": "https://github.com/Blankj/AndroidUtilCode",
+    "desc": "🔥 Android developers should collect the following utils(updating).",
+    "lang": "Java"
+  },
+  {
+    "title": "luka1199/geo-heatmap",
+    "url": "https://github.com/luka1199/geo-heatmap",
+    "desc": "🗺 Generate an interactive geo heatmap from your Google location data",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "desc": "Code for the paper Music Source Separation in the Waveform Domain",
+    "lang": "Python"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://my-netdata.io/",
+    "lang": "C"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/Alink",
+    "url": "https://github.com/alibaba/Alink",
+    "desc": "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.",
+    "lang": "Java"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Smerity/sha-rnn",
+    "url": "https://github.com/Smerity/sha-rnn",
+    "desc": "Single Headed Attention RNN - Stop thinking with your head",
+    "lang": "Python"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday"
+  },
+  {
+    "title": "jinzhu/gorm",
+    "url": "https://github.com/jinzhu/gorm",
+    "desc": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "lang": "Go"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "dragen1860/Deep-Learning-with-TensorFlow-book",
+    "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+    "desc": "深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "KalleHallden/BlackFridayScrape",
+    "url": "https://github.com/KalleHallden/BlackFridayScrape",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "ix64/unlock-music",
+    "url": "https://github.com/ix64/unlock-music",
+    "desc": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "desc": "Black Friday Deals for macOS / iOS Software & Books",
+    "lang": "Swift"
+  },
+  {
+    "title": "blocks/blocks",
+    "url": "https://github.com/blocks/blocks",
+    "desc": "A JSX-based page builder for creating beautiful websites without writing code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "GoogleChrome/lighthouse-ci",
+    "url": "https://github.com/GoogleChrome/lighthouse-ci",
+    "desc": "Automate running Lighthouse for every commit, viewing the changes, and preventing regressions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "idealvin/co",
+    "url": "https://github.com/idealvin/co",
+    "desc": "An elegant and efficient C++ basic library for Linux, Windows and Mac.",
+    "lang": "C++"
+  }
+]
