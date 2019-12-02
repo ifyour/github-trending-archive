@@ -1,0 +1,150 @@
+[
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "alyssaxuu/flowy",
+    "url": "https://github.com/alyssaxuu/flowy",
+    "desc": "The minimal javascript library to create flowcharts ✨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/Alink",
+    "url": "https://github.com/alibaba/Alink",
+    "desc": "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "desc": "Code for the paper Music Source Separation in the Waveform Domain",
+    "lang": "Python"
+  },
+  {
+    "title": "wesbos/beginner-javascript",
+    "url": "https://github.com/wesbos/beginner-javascript",
+    "desc": "Slam Dunk JavaScript",
+    "lang": "HTML"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "idealvin/co",
+    "url": "https://github.com/idealvin/co",
+    "desc": "An elegant and efficient C++ basic library for Linux, Windows and Mac.",
+    "lang": "C++"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "react-spring/zustand",
+    "url": "https://github.com/react-spring/zustand",
+    "desc": "🐻 Bear necessities for state management in React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "calebporzio/project-x",
+    "url": "https://github.com/calebporzio/project-x",
+    "desc": "A simple tool for composing javascript behavior in your markup.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday"
+  },
+  {
+    "title": "fchollet/ARC",
+    "url": "https://github.com/fchollet/ARC",
+    "desc": "The Abstraction and Reasoning Corpus",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yinxin630/fiora",
+    "url": "https://github.com/yinxin630/fiora",
+    "desc": "An interesting chat application power by socket.io, koa, mongodb and react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "blocks/blocks",
+    "url": "https://github.com/blocks/blocks",
+    "desc": "A JSX-based page builder for creating beautiful websites without writing code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jagenjo/litegraph.js",
+    "url": "https://github.com/jagenjo/litegraph.js",
+    "desc": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "enaqx/awesome-pentest",
+    "url": "https://github.com/enaqx/awesome-pentest",
+    "desc": "A collection of awesome penetration testing resources, tools and other shiny things"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  }
+]
