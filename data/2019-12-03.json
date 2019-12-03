@@ -1,0 +1,149 @@
+[
+  {
+    "title": "wesbos/beginner-javascript",
+    "url": "https://github.com/wesbos/beginner-javascript",
+    "desc": "Slam Dunk JavaScript",
+    "lang": "HTML"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Find usernames across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kanaka/mal",
+    "url": "https://github.com/kanaka/mal",
+    "desc": "mal - Make a Lisp",
+    "lang": "Assembly"
+  },
+  {
+    "title": "jakubroztocil/httpie",
+    "url": "https://github.com/jakubroztocil/httpie",
+    "desc": "As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp",
+    "lang": "Python"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awslabs/djl",
+    "url": "https://github.com/awslabs/djl",
+    "desc": "An Engine-Agnostic Deep Learning Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "TritonHo/slides",
+    "url": "https://github.com/TritonHo/slides",
+    "desc": "it is a repository to store all slides used by Triton Ho's public presentation and course."
+  },
+  {
+    "title": "ix64/unlock-music",
+    "url": "https://github.com/ix64/unlock-music",
+    "desc": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "desc": "Companion webpage to the book Mathematics For Machine Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+    "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+    "desc": "Google's Material Design in XAML & WPF, for C# & VB.Net.",
+    "lang": "C#"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "lang": "C++"
+  },
+  {
+    "title": "KalleHallden/BlackFridayScrape",
+    "url": "https://github.com/KalleHallden/BlackFridayScrape",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "lenve/vhr",
+    "url": "https://github.com/lenve/vhr",
+    "desc": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。",
+    "lang": "Java"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "xwgmdjc/GengShuang",
+    "url": "https://github.com/xwgmdjc/GengShuang",
+    "desc": "耿爽模拟器",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hackerschoice/thc-tesla-powerwall2-hack",
+    "url": "https://github.com/hackerschoice/thc-tesla-powerwall2-hack",
+    "desc": "TESLA PowerWall 2 Security Shenanigans"
+  },
+  {
+    "title": "fluxcd/flux",
+    "url": "https://github.com/fluxcd/flux",
+    "desc": "The GitOps Kubernetes operator",
+    "lang": "Go"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "desc": "🐬 The missing terminal file manager for X.",
+    "lang": "C"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sustainers/awesome-oss-funding",
+    "url": "https://github.com/sustainers/awesome-oss-funding",
+    "desc": "A curated list of awesome resources for funding open source projects and authors."
+  },
+  {
+    "title": "tomaspinho/rtl8821ce",
+    "url": "https://github.com/tomaspinho/rtl8821ce",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  }
+]
