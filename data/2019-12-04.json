@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "title": "evil-huawei/evil-huawei",
+    "url": "https://github.com/evil-huawei/evil-huawei",
+    "desc": "Evil Huawei - 华为作过的恶",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GoogleChrome/lighthouse-ci",
+    "url": "https://github.com/GoogleChrome/lighthouse-ci",
+    "desc": "Automate running Lighthouse for every commit, viewing the changes, and preventing regressions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jakubroztocil/httpie",
+    "url": "https://github.com/jakubroztocil/httpie",
+    "desc": "As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp",
+    "lang": "Python"
+  },
+  {
+    "title": "sparanoid/chinese-copywriting-guidelines",
+    "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
+    "desc": "Chinese copywriting guidelines for better written communication／中文文案排版指北",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "jagenjo/litegraph.js",
+    "url": "https://github.com/jagenjo/litegraph.js",
+    "desc": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "yanirs/established-remote",
+    "url": "https://github.com/yanirs/established-remote",
+    "desc": "A list of established remote companies"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "desc": "Companion webpage to the book Mathematics For Machine Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+    "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+    "desc": "Google's Material Design in XAML & WPF, for C# & VB.Net.",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/25-days-of-serverless",
+    "url": "https://github.com/microsoft/25-days-of-serverless",
+    "desc": "Repository responsible for 25 days of Serverless challenges"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "desc": "A modern formatting library",
+    "lang": "C++"
+  },
+  {
+    "title": "alyssaxuu/flowy",
+    "url": "https://github.com/alyssaxuu/flowy",
+    "desc": "The minimal javascript library to create flowcharts ✨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WeBankFinTech/DataSphereStudio",
+    "url": "https://github.com/WeBankFinTech/DataSphereStudio",
+    "desc": "DSS covers scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, task scheduling and data exporting.",
+    "lang": "Vue"
+  },
+  {
+    "title": "typescript-eslint/typescript-eslint",
+    "url": "https://github.com/typescript-eslint/typescript-eslint",
+    "desc": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ix64/unlock-music",
+    "url": "https://github.com/ix64/unlock-music",
+    "desc": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awslabs/djl",
+    "url": "https://github.com/awslabs/djl",
+    "desc": "An Engine-Agnostic Deep Learning Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "wesbos/beginner-javascript",
+    "url": "https://github.com/wesbos/beginner-javascript",
+    "desc": "Slam Dunk JavaScript",
+    "lang": "HTML"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "cilium/hubble",
+    "url": "https://github.com/cilium/hubble",
+    "desc": "Hubble - Network, Service & Security Observability for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "fluxcd/flux",
+    "url": "https://github.com/fluxcd/flux",
+    "desc": "The GitOps Kubernetes operator",
+    "lang": "Go"
+  }
+]
