@@ -6,40 +6,22 @@
     "lang": "JavaScript"
   },
   {
-    "title": "GoogleChrome/lighthouse-ci",
-    "url": "https://github.com/GoogleChrome/lighthouse-ci",
-    "desc": "Automate running Lighthouse for every commit, viewing the changes, and preventing regressions",
-    "lang": "JavaScript"
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "lang": "Shell"
   },
   {
-    "title": "jakubroztocil/httpie",
-    "url": "https://github.com/jakubroztocil/httpie",
-    "desc": "As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp",
-    "lang": "Python"
+    "title": "abhinavsagar/Cryptocurrency-Price-Prediction",
+    "url": "https://github.com/abhinavsagar/Cryptocurrency-Price-Prediction",
+    "desc": "Predicting cryptocurrency prices using LSTM neural network",
+    "lang": "JupyterNotebook"
   },
   {
-    "title": "sparanoid/chinese-copywriting-guidelines",
-    "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
-    "desc": "Chinese copywriting guidelines for better written communication／中文文案排版指北",
-    "lang": "CoffeeScript"
-  },
-  {
-    "title": "trekhleb/javascript-algorithms",
-    "url": "https://github.com/trekhleb/javascript-algorithms",
-    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "abhat222/Data-Science--Cheat-Sheet",
-    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
-    "desc": "Cheat Sheets",
-    "lang": "TeX"
-  },
-  {
-    "title": "jagenjo/litegraph.js",
-    "url": "https://github.com/jagenjo/litegraph.js",
-    "desc": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.",
-    "lang": "JavaScript"
+    "title": "fastai/nbdev",
+    "url": "https://github.com/fastai/nbdev",
+    "desc": "Create delightful python projects using Jupyter Notebooks",
+    "lang": "JupyterNotebook"
   },
   {
     "title": "home-assistant/home-assistant",
@@ -48,103 +30,123 @@
     "lang": "Python"
   },
   {
-    "title": "yanirs/established-remote",
-    "url": "https://github.com/yanirs/established-remote",
-    "desc": "A list of established remote companies"
-  },
-  {
-    "title": "mml-book/mml-book.github.io",
-    "url": "https://github.com/mml-book/mml-book.github.io",
-    "desc": "Companion webpage to the book Mathematics For Machine Learning",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "MaterialDesignInXAML/MaterialDesignInXamlToolkit",
-    "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
-    "desc": "Google's Material Design in XAML & WPF, for C# & VB.Net.",
-    "lang": "C#"
-  },
-  {
-    "title": "microsoft/25-days-of-serverless",
-    "url": "https://github.com/microsoft/25-days-of-serverless",
-    "desc": "Repository responsible for 25 days of Serverless challenges"
-  },
-  {
-    "title": "fmtlib/fmt",
-    "url": "https://github.com/fmtlib/fmt",
-    "desc": "A modern formatting library",
-    "lang": "C++"
-  },
-  {
-    "title": "alyssaxuu/flowy",
-    "url": "https://github.com/alyssaxuu/flowy",
-    "desc": "The minimal javascript library to create flowcharts ✨",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "WeBankFinTech/DataSphereStudio",
-    "url": "https://github.com/WeBankFinTech/DataSphereStudio",
-    "desc": "DSS covers scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, task scheduling and data exporting.",
-    "lang": "Vue"
-  },
-  {
-    "title": "typescript-eslint/typescript-eslint",
-    "url": "https://github.com/typescript-eslint/typescript-eslint",
-    "desc": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "ix64/unlock-music",
-    "url": "https://github.com/ix64/unlock-music",
-    "desc": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "awslabs/djl",
-    "url": "https://github.com/awslabs/djl",
-    "desc": "An Engine-Agnostic Deep Learning Framework",
-    "lang": "Java"
-  },
-  {
-    "title": "terraform-providers/terraform-provider-azurerm",
-    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
-    "desc": "Terraform provider for Azure Resource Manager",
-    "lang": "Go"
-  },
-  {
     "title": "wesbos/beginner-javascript",
     "url": "https://github.com/wesbos/beginner-javascript",
     "desc": "Slam Dunk JavaScript",
     "lang": "HTML"
   },
   {
-    "title": "iptv-org/iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "desc": "Collection of 8000+ publicly available IPTV channels from all over the world",
-    "lang": "JavaScript"
+    "title": "aws-samples/aws-deepracer-workshops",
+    "url": "https://github.com/aws-samples/aws-deepracer-workshops",
+    "desc": "DeepRacer workshop content",
+    "lang": "JupyterNotebook"
   },
   {
-    "title": "yangshun/tech-interview-handbook",
-    "url": "https://github.com/yangshun/tech-interview-handbook",
-    "desc": "💯 Materials to help you rock your next coding interview",
-    "lang": "JavaScript"
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
   },
   {
-    "title": "minimaxir/big-list-of-naughty-strings",
-    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
-    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "title": "xuannianz/EfficientDet",
+    "url": "https://github.com/xuannianz/EfficientDet",
+    "desc": "EfficientDet (Scalable and Efficient Object Detection) implementation in Keras and Tensorflow",
     "lang": "Python"
   },
   {
-    "title": "cilium/hubble",
-    "url": "https://github.com/cilium/hubble",
-    "desc": "Hubble - Network, Service & Security Observability for Kubernetes",
+    "title": "akaunting/akaunting",
+    "url": "https://github.com/akaunting/akaunting",
+    "desc": "Free and Online Accounting Software",
+    "lang": "PHP"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "lang": "Python"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oxidecomputer/design.oxide.computer",
+    "url": "https://github.com/oxidecomputer/design.oxide.computer",
+    "desc": "We are looking for designers who code to help build a new user experience for computing!",
+    "lang": "HTML"
+  },
+  {
+    "title": "rabbitmq/rabbitmq-server",
+    "url": "https://github.com/rabbitmq/rabbitmq-server",
+    "desc": "Open source multi-protocol messaging broker",
+    "lang": "Erlang"
+  },
+  {
+    "title": "MailRuChamps/raic-2019",
+    "url": "https://github.com/MailRuChamps/raic-2019",
+    "desc": "Russian AI Cup — artificial intelligence programming contest. Official website: http://russianaicup.ru",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/azure-pipelines-tasks",
+    "url": "https://github.com/microsoft/azure-pipelines-tasks",
+    "desc": "Tasks for Azure Pipelines",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ondrejbudai/hidviz",
+    "url": "https://github.com/ondrejbudai/hidviz",
+    "desc": "A tool for in-depth analysis of USB HID devices communication",
+    "lang": "C++"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "desc": "Tool for collaboratively building interactive lessons.",
+    "lang": "Python"
+  },
+  {
+    "title": "go-kit/kit",
+    "url": "https://github.com/go-kit/kit",
+    "desc": "A standard library for microservices.",
     "lang": "Go"
   },
   {
-    "title": "fluxcd/flux",
-    "url": "https://github.com/fluxcd/flux",
-    "desc": "The GitOps Kubernetes operator",
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-google",
+    "url": "https://github.com/terraform-providers/terraform-provider-google",
+    "desc": "Terraform Google Cloud Platform provider",
     "lang": "Go"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "Super-fast typescript / javascript compiler written in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "squizlabs/PHP_CodeSniffer",
+    "url": "https://github.com/squizlabs/PHP_CodeSniffer",
+    "desc": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+    "lang": "PHP"
   }
 ]
