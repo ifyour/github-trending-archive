@@ -1,0 +1,146 @@
+[
+  {
+    "title": "JohnSundell/Plot",
+    "url": "https://github.com/JohnSundell/Plot",
+    "desc": "A DSL for writing type-safe HTML, XML and RSS in Swift.",
+    "lang": "Swift"
+  },
+  {
+    "title": "awslabs/serverless-application-model",
+    "url": "https://github.com/awslabs/serverless-application-model",
+    "desc": "AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookincubator/WEASEL",
+    "url": "https://github.com/facebookincubator/WEASEL",
+    "desc": "DNS covert channel implant for Red Teams.",
+    "lang": "Python"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "lang": "Java"
+  },
+  {
+    "title": "vaexio/vaex",
+    "url": "https://github.com/vaexio/vaex",
+    "desc": "Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "qinjx/30min_guides",
+    "url": "https://github.com/qinjx/30min_guides",
+    "desc": "覃健祥的学习笔记，各种几十分钟入门的文档"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "Python"
+  },
+  {
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "desc": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MhLiao/DB",
+    "url": "https://github.com/MhLiao/DB",
+    "desc": "A PyToch implementation of Real-time Scene Text Detection with Differentiable Binarization.",
+    "lang": "Python"
+  },
+  {
+    "title": "ZhongFuCheng3y/3y",
+    "url": "https://github.com/ZhongFuCheng3y/3y",
+    "desc": "📓从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "aws-samples/aws-deepcomposer-samples",
+    "url": "https://github.com/aws-samples/aws-deepcomposer-samples",
+    "desc": ""
+  },
+  {
+    "title": "stringyland/custom-select",
+    "url": "https://github.com/stringyland/custom-select",
+    "desc": "My version of a custom select input, with filtering",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "graphile/starter",
+    "url": "https://github.com/graphile/starter",
+    "desc": "Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, Ant Design and Next.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gzc426/Java-Interview",
+    "url": "https://github.com/gzc426/Java-Interview",
+    "desc": "Java 面试必会 直通BAT"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2019"
+  },
+  {
+    "title": "cilium/hubble",
+    "url": "https://github.com/cilium/hubble",
+    "desc": "Hubble - Network, Service & Security Observability for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "desc": "An unidentifiable mechanism that helps you bypass GFW.",
+    "lang": "C++"
+  },
+  {
+    "title": "JasonGT/CleanArchitecture",
+    "url": "https://github.com/JasonGT/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 8 and .NET Core 3",
+    "lang": "C#"
+  },
+  {
+    "title": "kubernetes-sigs/cluster-api",
+    "url": "https://github.com/kubernetes-sigs/cluster-api",
+    "desc": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle",
+    "lang": "Go"
+  }
+]
