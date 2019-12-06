@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Netflix/metaflow",
+    "url": "https://github.com/Netflix/metaflow",
+    "desc": "Build and manage real-life data science projects with ease.",
+    "lang": "Python"
+  },
+  {
+    "title": "mozilla/DeepSpeech",
+    "url": "https://github.com/mozilla/DeepSpeech",
+    "desc": "A TensorFlow implementation of Baidu's DeepSpeech architecture",
+    "lang": "C++"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "drop-ice/dear-github-2.0",
+    "url": "https://github.com/drop-ice/dear-github-2.0",
+    "desc": "📨 An open letter to GitHub from the maintainers of open source projects"
+  },
+  {
+    "title": "microsoft/nlp-recipes",
+    "url": "https://github.com/microsoft/nlp-recipes",
+    "desc": "Natural Language Processing Best Practices & Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "lang": "Python"
+  },
+  {
+    "title": "f0cker/crackq",
+    "url": "https://github.com/f0cker/crackq",
+    "desc": "CrackQ: A Python Hashcat cracking queue system",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "ZhongFuCheng3y/3y",
+    "url": "https://github.com/ZhongFuCheng3y/3y",
+    "desc": "📓从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "practicalAI/practicalAI",
+    "url": "https://github.com/practicalAI/practicalAI",
+    "desc": "📚 A practical approach to machine learning to enable everyone to learn, explore and build.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JasonGT/CleanArchitecture",
+    "url": "https://github.com/JasonGT/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 8 and .NET Core 3",
+    "lang": "C#"
+  },
+  {
+    "title": "muhammederdem/vue-interactive-paycard",
+    "url": "https://github.com/muhammederdem/vue-interactive-paycard",
+    "desc": "Credit card form with smooth and sweet micro-interactions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/api-guidelines",
+    "url": "https://github.com/microsoft/api-guidelines",
+    "desc": "Microsoft REST API Guidelines"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "lang": "Java"
+  },
+  {
+    "title": "huawei-noah/Pretrained-Language-Model",
+    "url": "https://github.com/huawei-noah/Pretrained-Language-Model",
+    "desc": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-samples/aws-deepcomposer-samples",
+    "url": "https://github.com/aws-samples/aws-deepcomposer-samples",
+    "desc": ""
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "Python"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "stringyland/custom-select",
+    "url": "https://github.com/stringyland/custom-select",
+    "desc": "My version of a custom select input, with filtering",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  }
+]
