@@ -1,0 +1,148 @@
+[
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "desc": "Code for the paper Music Source Separation in the Waveform Domain",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "desc": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "ShusenTang/Dive-into-DL-PyTorch",
+    "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "FSecureLABS/awspx",
+    "url": "https://github.com/FSecureLABS/awspx",
+    "desc": "A graph-based tool for visualizing effective access and resource relationships in AWS environments.",
+    "lang": "Python"
+  },
+  {
+    "title": "mozilla/DeepSpeech",
+    "url": "https://github.com/mozilla/DeepSpeech",
+    "desc": "A TensorFlow implementation of Baidu's DeepSpeech architecture",
+    "lang": "C++"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "lang": "Python"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "drop-ice/dear-github-2.0",
+    "url": "https://github.com/drop-ice/dear-github-2.0",
+    "desc": "📨 An open letter to GitHub from the maintainers of open source projects"
+  },
+  {
+    "title": "rasbt/python-machine-learning-book-3rd-edition",
+    "url": "https://github.com/rasbt/python-machine-learning-book-3rd-edition",
+    "desc": "The Python Machine Learning (3nd edition) book code repository",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Netflix/metaflow",
+    "url": "https://github.com/Netflix/metaflow",
+    "desc": "Build and manage real-life data science projects with ease.",
+    "lang": "Python"
+  },
+  {
+    "title": "JasonGT/CleanArchitecture",
+    "url": "https://github.com/JasonGT/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 8 and .NET Core 3",
+    "lang": "C#"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "ipfs/go-ipfs",
+    "url": "https://github.com/ipfs/go-ipfs",
+    "desc": "IPFS implementation in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/nlp-recipes",
+    "url": "https://github.com/microsoft/nlp-recipes",
+    "desc": "Natural Language Processing Best Practices & Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
+    "lang": "C++"
+  },
+  {
+    "title": "RedDrip7/APT_Digital_Weapon",
+    "url": "https://github.com/RedDrip7/APT_Digital_Weapon",
+    "desc": "Indicators of compromise (IOCs) collected from public resources and categorized by Qi-AnXin."
+  },
+  {
+    "title": "SwiftLaTeX/SwiftLaTeX",
+    "url": "https://github.com/SwiftLaTeX/SwiftLaTeX",
+    "desc": "SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "projectdiscovery/subfinder",
+    "url": "https://github.com/projectdiscovery/subfinder",
+    "desc": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+    "lang": "Go"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "desc": "Xamarin.Forms Official Home",
+    "lang": "C#"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  }
+]
