@@ -1,0 +1,147 @@
+[
+  {
+    "title": "nickwalton/AIDungeon",
+    "url": "https://github.com/nickwalton/AIDungeon",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "desc": "Code for the paper Music Source Separation in the Waveform Domain",
+    "lang": "Python"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "desc": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C"
+  },
+  {
+    "title": "Kengxxiao/Punishing_GrayRaven_Tab",
+    "url": "https://github.com/Kengxxiao/Punishing_GrayRaven_Tab",
+    "desc": "《战双：帕弥什》游戏数据"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "ShusenTang/Dive-into-DL-PyTorch",
+    "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX",
+    "lang": "C++"
+  },
+  {
+    "title": "practicalAI/practicalAI",
+    "url": "https://github.com/practicalAI/practicalAI",
+    "desc": "📚 A practical approach to machine learning to enable everyone to learn, explore and build.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "redox-os/orbtk",
+    "url": "https://github.com/redox-os/orbtk",
+    "desc": "The Rust UI-Toolkit.",
+    "lang": "Rust"
+  },
+  {
+    "title": "projectdiscovery/subfinder",
+    "url": "https://github.com/projectdiscovery/subfinder",
+    "desc": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+    "lang": "Go"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "facebookresearch/ClassyVision",
+    "url": "https://github.com/facebookresearch/ClassyVision",
+    "desc": "An end-to-end PyTorch framework for image and video classification",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "TrickyGo/Dive-into-DL-TensorFlow2.0",
+    "url": "https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trekhleb/nano-neuron",
+    "url": "https://github.com/trekhleb/nano-neuron",
+    "desc": "🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually learn",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/STL",
+    "url": "https://github.com/microsoft/STL",
+    "desc": "MSVC's implementation of the C++ Standard Library.",
+    "lang": "C++"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "ycm-core/YouCompleteMe",
+    "url": "https://github.com/ycm-core/YouCompleteMe",
+    "desc": "A code-completion engine for Vim",
+    "lang": "Python"
+  }
+]
