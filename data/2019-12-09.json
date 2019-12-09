@@ -1,0 +1,148 @@
+[
+  {
+    "title": "AIDungeon/AIDungeon",
+    "url": "https://github.com/AIDungeon/AIDungeon",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "redox-os/orbtk",
+    "url": "https://github.com/redox-os/orbtk",
+    "desc": "The Rust UI-Toolkit.",
+    "lang": "Rust"
+  },
+  {
+    "title": "rclone/rclone",
+    "url": "https://github.com/rclone/rclone",
+    "desc": "rsync for cloud storage - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+    "lang": "Go"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "nothings/stb",
+    "url": "https://github.com/nothings/stb",
+    "desc": "stb single-file public domain libraries for C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "0vercl0k/CVE-2019-11708",
+    "url": "https://github.com/0vercl0k/CVE-2019-11708",
+    "desc": "Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HuaweiJoke/Huawei-Joke",
+    "url": "https://github.com/HuaweiJoke/Huawei-Joke",
+    "desc": "本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。"
+  },
+  {
+    "title": "RomelTorres/alpha_vantage",
+    "url": "https://github.com/RomelTorres/alpha_vantage",
+    "desc": "A python wrapper for Alpha Vantage API for financial data.",
+    "lang": "Python"
+  },
+  {
+    "title": "marblexu/PythonPlantsVsZombies",
+    "url": "https://github.com/marblexu/PythonPlantsVsZombies",
+    "desc": "a simple PlantsVsZombies game",
+    "lang": "Python"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "practicalAI/practicalAI",
+    "url": "https://github.com/practicalAI/practicalAI",
+    "desc": "📚 A practical approach to machine learning to enable everyone to learn, explore and build.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "synackuk/n1ghtshade",
+    "url": "https://github.com/synackuk/n1ghtshade",
+    "desc": "A bootchain jailbreak/downgrade utility for A6.",
+    "lang": "C"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "Aircoookie/WLED",
+    "url": "https://github.com/Aircoookie/WLED",
+    "desc": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!",
+    "lang": "C++"
+  },
+  {
+    "title": "HydrogensaysHDT/hdt-skyrimse-mods",
+    "url": "https://github.com/HydrogensaysHDT/hdt-skyrimse-mods",
+    "desc": "hdt skyrimse mods",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/STL",
+    "url": "https://github.com/microsoft/STL",
+    "desc": "MSVC's implementation of the C++ Standard Library.",
+    "lang": "C++"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "desc": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "desc": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies",
+    "lang": "C++"
+  },
+  {
+    "title": "ShusenTang/Dive-into-DL-PyTorch",
+    "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "lang": "C++"
+  },
+  {
+    "title": "EnggQasim/PIAIC_ISLAMABAD_BATCH3",
+    "url": "https://github.com/EnggQasim/PIAIC_ISLAMABAD_BATCH3",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  }
+]
