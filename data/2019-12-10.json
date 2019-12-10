@@ -1,0 +1,147 @@
+[
+  {
+    "title": "AIDungeon/AIDungeon",
+    "url": "https://github.com/AIDungeon/AIDungeon",
+    "desc": "Infinite AI adventures await!",
+    "lang": "Python"
+  },
+  {
+    "title": "rclone/rclone",
+    "url": "https://github.com/rclone/rclone",
+    "desc": "rsync for cloud storage - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+    "lang": "Go"
+  },
+  {
+    "title": "marblexu/PythonPlantsVsZombies",
+    "url": "https://github.com/marblexu/PythonPlantsVsZombies",
+    "desc": "a simple PlantsVsZombies game",
+    "lang": "Python"
+  },
+  {
+    "title": "redox-os/orbtk",
+    "url": "https://github.com/redox-os/orbtk",
+    "desc": "The Rust UI-Toolkit.",
+    "lang": "Rust"
+  },
+  {
+    "title": "sailay1996/UAC_Bypass_In_The_Wild",
+    "url": "https://github.com/sailay1996/UAC_Bypass_In_The_Wild",
+    "desc": "Windows 10 UAC bypass for all executable files which are autoelevate true .",
+    "lang": "C"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "alirezadir/Production-Level-Deep-Learning",
+    "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+    "desc": "A guideline for building practical production-level deep learning systems to be deployed in real world applications."
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "practicalAI/practicalAI",
+    "url": "https://github.com/practicalAI/practicalAI",
+    "desc": "📚 A practical approach to machine learning to enable everyone to learn, explore and build.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "HuaweiJoke/Huawei-Joke",
+    "url": "https://github.com/HuaweiJoke/Huawei-Joke",
+    "desc": "本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "eavichay/microfronts",
+    "url": "https://github.com/eavichay/microfronts",
+    "desc": "Polyglot Front-End Solution for running multiple frameworks as one",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (November 2019)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "desc": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码",
+    "lang": "Java"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ Halo 一款现代化的个人独立博客系统",
+    "lang": "Java"
+  },
+  {
+    "title": "serverless/serverless",
+    "url": "https://github.com/serverless/serverless",
+    "desc": "Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prometheus/client_golang",
+    "url": "https://github.com/prometheus/client_golang",
+    "desc": "Prometheus instrumentation library for Go applications",
+    "lang": "Go"
+  },
+  {
+    "title": "VMadalin/kotlin-sample-app",
+    "url": "https://github.com/VMadalin/kotlin-sample-app",
+    "desc": "📚 Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "davidfowl/FeatherHttp",
+    "url": "https://github.com/davidfowl/FeatherHttp",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "0vercl0k/CVE-2019-11708",
+    "url": "https://github.com/0vercl0k/CVE-2019-11708",
+    "desc": "Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "desc": "JavaScript 3D library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OfficeDev/office-ui-fabric-react",
+    "url": "https://github.com/OfficeDev/office-ui-fabric-react",
+    "desc": "React components for building Microsoft web experiences.",
+    "lang": "TypeScript"
+  }
+]
