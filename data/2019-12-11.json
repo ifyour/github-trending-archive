@@ -1,0 +1,147 @@
+[
+  {
+    "title": "marblexu/PythonPlantsVsZombies",
+    "url": "https://github.com/marblexu/PythonPlantsVsZombies",
+    "desc": "a simple PlantsVsZombies game",
+    "lang": "Python"
+  },
+  {
+    "title": "redox-os/orbtk",
+    "url": "https://github.com/redox-os/orbtk",
+    "desc": "The Rust UI-Toolkit.",
+    "lang": "Rust"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "saket/Press",
+    "url": "https://github.com/saket/Press",
+    "desc": "A cross-platform markdown editor written in Kotlin Multiplatform (work in progress)",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "AIDungeon/AIDungeon",
+    "url": "https://github.com/AIDungeon/AIDungeon",
+    "desc": "Infinite AI adventures await!",
+    "lang": "Python"
+  },
+  {
+    "title": "bytefury/crater",
+    "url": "https://github.com/bytefury/crater",
+    "desc": "Free & Open Source Invoice App for Freelancers & Small Businesses",
+    "lang": "PHP"
+  },
+  {
+    "title": "andrews1022/web-development-2020-course-list",
+    "url": "https://github.com/andrews1022/web-development-2020-course-list",
+    "desc": "A list of Udemy courses from Brad Traversy's Web Development 2020 video"
+  },
+  {
+    "title": "alyssaxuu/flowy",
+    "url": "https://github.com/alyssaxuu/flowy",
+    "desc": "The minimal javascript library to create flowcharts ✨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "infostreams/db",
+    "url": "https://github.com/infostreams/db",
+    "desc": "Version control for databases: save, restore, and archive snapshots of your database from the command line",
+    "lang": "Shell"
+  },
+  {
+    "title": "HuaweiJoke/Huawei-Joke",
+    "url": "https://github.com/HuaweiJoke/Huawei-Joke",
+    "desc": "本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。"
+  },
+  {
+    "title": "manchenkoff/skillbox-chat",
+    "url": "https://github.com/manchenkoff/skillbox-chat",
+    "desc": "Skillbox demo application for the Python course",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/VideoPose3D",
+    "url": "https://github.com/facebookresearch/VideoPose3D",
+    "desc": "Efficient 3D human pose estimation in video using 2D keypoint trajectories",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/pytorch-normalizing-flows",
+    "url": "https://github.com/karpathy/pytorch-normalizing-flows",
+    "desc": "Normalizing flows in PyTorch. Current intended use is education not production.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "desc": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码",
+    "lang": "Java"
+  },
+  {
+    "title": "Risk3sixty-Labs/geoapi",
+    "url": "https://github.com/Risk3sixty-Labs/geoapi",
+    "desc": "Lightweight API service to get geolocation data from IP addresses.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "google-research/ALBERT",
+    "url": "https://github.com/google-research/ALBERT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+  },
+  {
+    "title": "rclone/rclone",
+    "url": "https://github.com/rclone/rclone",
+    "desc": "rsync for cloud storage - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+    "lang": "Go"
+  },
+  {
+    "title": "CoatiSoftware/Sourcetrail",
+    "url": "https://github.com/CoatiSoftware/Sourcetrail",
+    "desc": "Sourcetrail - free and open-source interactive source explorer",
+    "lang": "C++"
+  },
+  {
+    "title": "serverless/serverless",
+    "url": "https://github.com/serverless/serverless",
+    "desc": "Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (November 2019)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "banzaicloud/bank-vaults",
+    "url": "https://github.com/banzaicloud/bank-vaults",
+    "desc": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",
+    "lang": "Go"
+  }
+]
