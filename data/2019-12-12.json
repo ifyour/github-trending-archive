@@ -1,0 +1,146 @@
+[
+  {
+    "title": "bytefury/crater",
+    "url": "https://github.com/bytefury/crater",
+    "desc": "Free & Open Source Invoice App for Freelancers & Small Businesses",
+    "lang": "PHP"
+  },
+  {
+    "title": "marblexu/PythonPlantsVsZombies",
+    "url": "https://github.com/marblexu/PythonPlantsVsZombies",
+    "desc": "a simple PlantsVsZombies game",
+    "lang": "Python"
+  },
+  {
+    "title": "renjie-feng-trash/fengrenjie",
+    "url": "https://github.com/renjie-feng-trash/fengrenjie",
+    "desc": "这个repo是为了锤北大垃圾教授——冯仁杰"
+  },
+  {
+    "title": "docker-slim/docker-slim",
+    "url": "https://github.com/docker-slim/docker-slim",
+    "desc": "DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+    "lang": "Go"
+  },
+  {
+    "title": "alphaSeclab/awesome-reverse-engineering",
+    "url": "https://github.com/alphaSeclab/awesome-reverse-engineering",
+    "desc": "Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect!"
+  },
+  {
+    "title": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "desc": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+  },
+  {
+    "title": "sudomesh/disaster-radio",
+    "url": "https://github.com/sudomesh/disaster-radio",
+    "desc": "A work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "RomelTorres/alpha_vantage",
+    "url": "https://github.com/RomelTorres/alpha_vantage",
+    "desc": "A python wrapper for Alpha Vantage API for financial data.",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "A 30 days of python programming challenge",
+    "lang": "Python"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "dhondta/dronesploit",
+    "url": "https://github.com/dhondta/dronesploit",
+    "desc": "Drone pentesting framework console",
+    "lang": "Python"
+  },
+  {
+    "title": "ElemeFE/element",
+    "url": "https://github.com/ElemeFE/element",
+    "desc": "A Vue.js 2.0 UI Toolkit for Web",
+    "lang": "Vue"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "robfig/cron",
+    "url": "https://github.com/robfig/cron",
+    "desc": "a cron library for go",
+    "lang": "Go"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "desc": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码",
+    "lang": "Java"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "desc": "📖 A collection of pure bash alternatives to external processes.",
+    "lang": "Shell"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  }
+]
