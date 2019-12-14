@@ -1,0 +1,150 @@
+[
+  {
+    "title": "NVlabs/stylegan2",
+    "url": "https://github.com/NVlabs/stylegan2",
+    "desc": "StyleGAN2 - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "huginn/huginn",
+    "url": "https://github.com/huginn/huginn",
+    "desc": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+    "lang": "Ruby"
+  },
+  {
+    "title": "nginx/nginx",
+    "url": "https://github.com/nginx/nginx",
+    "desc": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+    "lang": "C"
+  },
+  {
+    "title": "kyleconroy/sqlc",
+    "url": "https://github.com/kyleconroy/sqlc",
+    "desc": "Generate type safe Go from SQL",
+    "lang": "Go"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "gskinnerTeam/flutter_vignettes",
+    "url": "https://github.com/gskinnerTeam/flutter_vignettes",
+    "desc": "A collection of fun Flutter experiments, created by gskinner, in partnership with Google."
+  },
+  {
+    "title": "lmoroney/dlaicourse",
+    "url": "https://github.com/lmoroney/dlaicourse",
+    "desc": "Notebooks for learning deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pjialin/py12306",
+    "url": "https://github.com/pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "desc": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "lang": "Go"
+  },
+  {
+    "title": "jeremycw/httpserver.h",
+    "url": "https://github.com/jeremycw/httpserver.h",
+    "desc": "Single header library for writing non-blocking HTTP servers in C",
+    "lang": "C"
+  },
+  {
+    "title": "iambryanshen/kkndme_tianya",
+    "url": "https://github.com/iambryanshen/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vim/killersheep",
+    "url": "https://github.com/vim/killersheep",
+    "desc": "Silly game for Vim 8.2",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "ericclemmons/codelift",
+    "url": "https://github.com/ericclemmons/codelift",
+    "desc": "A No Code GUI for your existing React code.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zhaoolee/ChineseBQB",
+    "url": "https://github.com/zhaoolee/ChineseBQB",
+    "desc": "🇨🇳Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
+    "lang": "CSS"
+  },
+  {
+    "title": "cube-js/cube.js",
+    "url": "https://github.com/cube-js/cube.js",
+    "desc": "📊 Cube.js - Open Source Analytics Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/samples",
+    "url": "https://github.com/flutter/samples",
+    "desc": "A collection of Flutter examples and demos.",
+    "lang": "Dart"
+  },
+  {
+    "title": "yonaskolb/XcodeGen",
+    "url": "https://github.com/yonaskolb/XcodeGen",
+    "desc": "A Swift command line tool for generating your Xcode project",
+    "lang": "Swift"
+  },
+  {
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "desc": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "seata/seata",
+    "url": "https://github.com/seata/seata",
+    "desc": "🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "bytefury/crater",
+    "url": "https://github.com/bytefury/crater",
+    "desc": "Free & Open Source Invoice App for Freelancers & Small Businesses",
+    "lang": "PHP"
+  },
+  {
+    "title": "open-sdr/openwifi",
+    "url": "https://github.com/open-sdr/openwifi",
+    "desc": "open-source Wi-Fi baseband chip/FPGA design",
+    "lang": "C"
+  }
+]
