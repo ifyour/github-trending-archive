@@ -1,0 +1,150 @@
+[
+  {
+    "title": "LingDong-/wenyan-lang",
+    "url": "https://github.com/LingDong-/wenyan-lang",
+    "desc": "文言文編程語言 A programming language for the ancient Chinese.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "d2forum/14th",
+    "url": "https://github.com/d2forum/14th",
+    "desc": "第十四届D2前端技术论坛「创心」"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成demo，已经完成 52 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+    "lang": "Java"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "desc": "The Vue.js Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "crawlab-team/crawlab",
+    "url": "https://github.com/crawlab-team/crawlab",
+    "desc": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+    "lang": "Go"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱"
+  },
+  {
+    "title": "sindresorhus/refined-github",
+    "url": "https://github.com/sindresorhus/refined-github",
+    "desc": "Browser extension that simplifies the GitHub interface and adds useful features",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/ai-edu",
+    "url": "https://github.com/microsoft/ai-edu",
+    "desc": "AI education materials for Chinese students, teachers and IT professionals.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "lang": "Java"
+  },
+  {
+    "title": "PrestaShop/PrestaShop",
+    "url": "https://github.com/PrestaShop/PrestaShop",
+    "desc": "PrestaShop offers a fully scalable open source ecommerce solution.",
+    "lang": "PHP"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "desc": "Microsoft Azure PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "saasforge/open-source-saas-boilerpate",
+    "url": "https://github.com/saasforge/open-source-saas-boilerpate",
+    "desc": "Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "luoxue-victor/webpack-box",
+    "url": "https://github.com/luoxue-victor/webpack-box",
+    "desc": "我有一个梦想，就是将所有webpack相关的最佳实践都集成在这里，本项目长期维护/更新，有兴趣的同学可以一起成为维护者。issue下面TODO标签是接下来要做的事情，欢迎所有人都可以来提，让我们共创 webpack 工厂！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MTrajK/coding-problems",
+    "url": "https://github.com/MTrajK/coding-problems",
+    "desc": "Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures",
+    "lang": "Python"
+  },
+  {
+    "title": "debezium/debezium",
+    "url": "https://github.com/debezium/debezium",
+    "desc": "Change data capture for a variety of databases. https://debezium.io Please log issues in our JIRA at https://issues.jboss.org/projects/DBZ/issues",
+    "lang": "Java"
+  },
+  {
+    "title": "message-db/message-db",
+    "url": "https://github.com/message-db/message-db",
+    "desc": "Microservice native message and event store for Postgres",
+    "lang": "Shell"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "desc": "⏬ Dumb downloader that scrapes the web",
+    "lang": "Python"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "desc": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+    "lang": "Go"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "go-kit/kit",
+    "url": "https://github.com/go-kit/kit",
+    "desc": "A standard library for microservices.",
+    "lang": "Go"
+  }
+]
