@@ -1,0 +1,150 @@
+[
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends and family.",
+    "lang": "PHP"
+  },
+  {
+    "title": "hlissner/doom-emacs",
+    "url": "https://github.com/hlissner/doom-emacs",
+    "desc": "An Emacs configuration for the stubborn martian vimmer",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "pjialin/py12306",
+    "url": "https://github.com/pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "Yuheng-Li/MixNMatch",
+    "url": "https://github.com/Yuheng-Li/MixNMatch",
+    "desc": ""
+  },
+  {
+    "title": "okdalto/VisualizeMNIST",
+    "url": "https://github.com/okdalto/VisualizeMNIST",
+    "desc": "This project is real-time visualization of a network recognizing digits from user's input.",
+    "lang": "Processing"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "lemire/simdjson",
+    "url": "https://github.com/lemire/simdjson",
+    "desc": "Parsing gigabytes of JSON per second",
+    "lang": "C++"
+  },
+  {
+    "title": "naptha/tesseract.js",
+    "url": "https://github.com/naptha/tesseract.js",
+    "desc": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "justauth/JustAuth",
+    "url": "https://github.com/justauth/JustAuth",
+    "desc": "💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!",
+    "lang": "Java"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
+    "lang": "C++"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "desc": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies",
+    "lang": "C++"
+  },
+  {
+    "title": "eastlakeside/interpy-zh",
+    "url": "https://github.com/eastlakeside/interpy-zh",
+    "desc": "📘《Python进阶》（Intermediate Python 中文版）",
+    "lang": "Python"
+  },
+  {
+    "title": "inorichi/tachiyomi",
+    "url": "https://github.com/inorichi/tachiyomi",
+    "desc": "Free and open source manga reader for Android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ppy/osu",
+    "url": "https://github.com/ppy/osu",
+    "desc": "rhythm is just a *click* away!",
+    "lang": "C#"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "fastai/course-v3",
+    "url": "https://github.com/fastai/course-v3",
+    "desc": "The 3rd edition of course.fast.ai",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vapor/vapor",
+    "url": "https://github.com/vapor/vapor",
+    "desc": "💧 A server-side Swift web framework.",
+    "lang": "Swift"
+  }
+]
