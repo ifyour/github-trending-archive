@@ -1,0 +1,149 @@
+[
+  {
+    "title": "FiloSottile/age",
+    "url": "https://github.com/FiloSottile/age",
+    "desc": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "brentsimmons/NetNewsWire",
+    "url": "https://github.com/brentsimmons/NetNewsWire",
+    "desc": "RSS reader for macOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "iamshuaidi/CS-Book",
+    "url": "https://github.com/iamshuaidi/CS-Book",
+    "desc": "为方便查找对应的书籍，整理了几百本计算机类常用书籍，并且附带下载链接"
+  },
+  {
+    "title": "jackzhenguo/python-small-examples",
+    "url": "https://github.com/jackzhenguo/python-small-examples",
+    "desc": "Python有趣的小例子、小Demo一网打尽。Python基础、Web开发、数据科学、机器学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。",
+    "lang": "Python"
+  },
+  {
+    "title": "CoatiSoftware/Sourcetrail",
+    "url": "https://github.com/CoatiSoftware/Sourcetrail",
+    "desc": "Sourcetrail - free and open-source interactive source explorer",
+    "lang": "C++"
+  },
+  {
+    "title": "outline/outline",
+    "url": "https://github.com/outline/outline",
+    "desc": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "desc": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "giswqs/qgis-earthengine-examples",
+    "url": "https://github.com/giswqs/qgis-earthengine-examples",
+    "desc": "A collection of 270+ Python examples for using Google Earth Engine in QGIS",
+    "lang": "Python"
+  },
+  {
+    "title": "neeru1207/AI_Sudoku",
+    "url": "https://github.com/neeru1207/AI_Sudoku",
+    "desc": "GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it",
+    "lang": "Python"
+  },
+  {
+    "title": "graninas/software-design-in-haskell",
+    "url": "https://github.com/graninas/software-design-in-haskell",
+    "desc": "Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "Rannie/flui",
+    "url": "https://github.com/Rannie/flui",
+    "desc": "A widget kit for Google Flutter.",
+    "lang": "Dart"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "jerryc127/hexo-theme-butterfly",
+    "url": "https://github.com/jerryc127/hexo-theme-butterfly",
+    "desc": "A Hexo Theme: Butterfly",
+    "lang": "CSS"
+  },
+  {
+    "title": "chavyleung/scripts",
+    "url": "https://github.com/chavyleung/scripts",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "hmaverickadams/Beginner-Network-Pentesting",
+    "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+    "desc": "Notes for Beginner Network Pentesting Course"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "desc": "Abseil Common Libraries (C++)",
+    "lang": "C++"
+  },
+  {
+    "title": "Morgan-Stanley/hobbes",
+    "url": "https://github.com/Morgan-Stanley/hobbes",
+    "desc": "A language and an embedded JIT compiler",
+    "lang": "C"
+  },
+  {
+    "title": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "lang": "PHP"
+  },
+  {
+    "title": "shadowsocks/ShadowsocksX-NG",
+    "url": "https://github.com/shadowsocks/ShadowsocksX-NG",
+    "desc": "Next Generation of ShadowsocksX",
+    "lang": "Swift"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "",
+    "lang": "C#"
+  }
+]
