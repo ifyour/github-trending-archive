@@ -1,0 +1,143 @@
+[
+  {
+    "title": "FiloSottile/age",
+    "url": "https://github.com/FiloSottile/age",
+    "desc": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "desc": "An unidentifiable mechanism that helps you bypass GFW.",
+    "lang": "C++"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "launchbadge/sqlx",
+    "url": "https://github.com/launchbadge/sqlx",
+    "desc": "🧰 The Rust SQL Toolkit.",
+    "lang": "Rust"
+  },
+  {
+    "title": "iamshuaidi/CS-Book",
+    "url": "https://github.com/iamshuaidi/CS-Book",
+    "desc": "为方便查找对应的书籍，整理了几百本计算机类常用书籍，并且附带下载链接"
+  },
+  {
+    "title": "brentsimmons/NetNewsWire",
+    "url": "https://github.com/brentsimmons/NetNewsWire",
+    "desc": "RSS reader for macOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "kkroening/ffmpeg-python",
+    "url": "https://github.com/kkroening/ffmpeg-python",
+    "desc": "Python bindings for FFmpeg - with complex filtering support",
+    "lang": "Python"
+  },
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "neeru1207/AI_Sudoku",
+    "url": "https://github.com/neeru1207/AI_Sudoku",
+    "desc": "GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it",
+    "lang": "Python"
+  },
+  {
+    "title": "forax/java-guide",
+    "url": "https://github.com/forax/java-guide",
+    "desc": "A guide of modern Java (Java 17)",
+    "lang": "Java"
+  },
+  {
+    "title": "Linuzifer/FinSpy-Dokumentation",
+    "url": "https://github.com/Linuzifer/FinSpy-Dokumentation",
+    "desc": "CCC: Analyse des Staatstrojaners FinSpy für Android"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "tuanha2000vn/hasskit",
+    "url": "https://github.com/tuanha2000vn/hasskit",
+    "desc": "HassKit is a Touch-Friendly - Zero Config App to help users instantly start using Home Assistant",
+    "lang": "Dart"
+  },
+  {
+    "title": "mr-hashemi/mr-hashemi",
+    "url": "https://github.com/mr-hashemi/mr-hashemi",
+    "desc": "Mr. Hashemi Programming Language https://mr-hashemi.github.io/mr-hashemi/",
+    "lang": "Java"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "desc": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "toniblyx/my-arsenal-of-aws-security-tools",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "desc": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ShusenTang/Dive-into-DL-PyTorch",
+    "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "glfw/glfw",
+    "url": "https://github.com/glfw/glfw",
+    "desc": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+    "lang": "C"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  }
+]
