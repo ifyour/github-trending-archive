@@ -1,0 +1,144 @@
+[
+  {
+    "title": "neeru1207/AI_Sudoku",
+    "url": "https://github.com/neeru1207/AI_Sudoku",
+    "desc": "GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "FiloSottile/age",
+    "url": "https://github.com/FiloSottile/age",
+    "desc": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.",
+    "lang": "Go"
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "desc": "An unidentifiable mechanism that helps you bypass GFW.",
+    "lang": "C++"
+  },
+  {
+    "title": "sw-yx/spark-joy",
+    "url": "https://github.com/sw-yx/spark-joy",
+    "desc": "✨😂easy ways to add design flair, user delight, and whimsy to your product.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "neutraltone/awesome-stock-resources",
+    "url": "https://github.com/neutraltone/awesome-stock-resources",
+    "desc": "🌇 A collection of links for free stock photography, video and Illustration websites"
+  },
+  {
+    "title": "xiandanin/magnetW",
+    "url": "https://github.com/xiandanin/magnetW",
+    "desc": "磁力链接聚合搜索",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "lnishan/awesome-competitive-programming",
+    "url": "https://github.com/lnishan/awesome-competitive-programming",
+    "desc": "💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
+    "lang": "HTML"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "desc": ".NET is a cross-platform runtime for cloud, IoT, and desktop apps.",
+    "lang": "C#"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "keystonejs/keystone",
+    "url": "https://github.com/keystonejs/keystone",
+    "desc": "A scalable platform and CMS to build Node.js applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "desc": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WeBankFinTech/Linkis",
+    "url": "https://github.com/WeBankFinTech/Linkis",
+    "desc": "Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",
+    "lang": "Scala"
+  },
+  {
+    "title": "vitozyf/lucky-draw",
+    "url": "https://github.com/vitozyf/lucky-draw",
+    "desc": "年会抽奖程序",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ddbourgin/numpy-ml",
+    "url": "https://github.com/ddbourgin/numpy-ml",
+    "desc": "Machine learning, in numpy",
+    "lang": "Python"
+  },
+  {
+    "title": "kousun12/eternal",
+    "url": "https://github.com/kousun12/eternal",
+    "desc": "👾~ music, eternal ~ 👾",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "toniblyx/my-arsenal-of-aws-security-tools",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "desc": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "lang": "Shell"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "Spring Boot 2.X 专栏更新中，未来更新 Spring Cloud Alibaba 。欢迎胖友 Star 一波",
+    "lang": "Java"
+  },
+  {
+    "title": "davecgh/go-spew",
+    "url": "https://github.com/davecgh/go-spew",
+    "desc": "Implements a deep pretty printer for Go data structures to aid in debugging",
+    "lang": "Go"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ShusenTang/Dive-into-DL-PyTorch",
+    "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "lang": "Clojure"
+  }
+]
