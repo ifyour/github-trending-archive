@@ -1,0 +1,146 @@
+[
+  {
+    "title": "JohnSundell/Publish",
+    "url": "https://github.com/JohnSundell/Publish",
+    "desc": "A static site generator for Swift developers",
+    "lang": "Swift"
+  },
+  {
+    "title": "google-research/ALBERT",
+    "url": "https://github.com/google-research/ALBERT",
+    "desc": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+    "lang": "Python"
+  },
+  {
+    "title": "neeru1207/AI_Sudoku",
+    "url": "https://github.com/neeru1207/AI_Sudoku",
+    "desc": "GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it",
+    "lang": "Python"
+  },
+  {
+    "title": "badaix/snapcast",
+    "url": "https://github.com/badaix/snapcast",
+    "desc": "Synchronous multi-room audio player",
+    "lang": "C++"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "imsnif/bandwhich",
+    "url": "https://github.com/imsnif/bandwhich",
+    "desc": "Terminal bandwidth utilization tool (formerly known as what)",
+    "lang": "Rust"
+  },
+  {
+    "title": "neutraltone/awesome-stock-resources",
+    "url": "https://github.com/neutraltone/awesome-stock-resources",
+    "desc": "🌇 A collection of links for free stock photography, video and Illustration websites"
+  },
+  {
+    "title": "DevC-Casa/awesome-morocco",
+    "url": "https://github.com/DevC-Casa/awesome-morocco",
+    "desc": "👩‍💻 🇲🇦List of awesome Moroccan things for developers 🇲🇦👨🏻‍💻"
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "desc": "An unidentifiable mechanism that helps you bypass GFW.",
+    "lang": "C++"
+  },
+  {
+    "title": "creativetimofficial/tailwind-starter-kit",
+    "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
+    "desc": "Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source",
+    "lang": "CSS"
+  },
+  {
+    "title": "ddbourgin/numpy-ml",
+    "url": "https://github.com/ddbourgin/numpy-ml",
+    "desc": "Machine learning, in numpy",
+    "lang": "Python"
+  },
+  {
+    "title": "alphaSeclab/awesome-forensics",
+    "url": "https://github.com/alphaSeclab/awesome-forensics",
+    "desc": "Awesome Forensics Resources. Almost 300 open source forensics tools, and 600 blog posts about forensics."
+  },
+  {
+    "title": "lnishan/awesome-competitive-programming",
+    "url": "https://github.com/lnishan/awesome-competitive-programming",
+    "desc": "💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
+    "lang": "HTML"
+  },
+  {
+    "title": "quii/learn-go-with-tests",
+    "url": "https://github.com/quii/learn-go-with-tests",
+    "desc": "Learn Go with test-driven development",
+    "lang": "Go"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "sw-yx/spark-joy",
+    "url": "https://github.com/sw-yx/spark-joy",
+    "desc": "✨😂easy ways to add design flair, user delight, and whimsy to your product.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "Spring Boot 2.X 专栏更新中，未来更新 Spring Cloud Alibaba 。欢迎胖友 Star 一波",
+    "lang": "Java"
+  },
+  {
+    "title": "alphaSeclab/awesome-rat",
+    "url": "https://github.com/alphaSeclab/awesome-rat",
+    "desc": "Open source RAT collection, and RAT analysis blog/video collection."
+  },
+  {
+    "title": "cseagle/blc",
+    "url": "https://github.com/cseagle/blc",
+    "desc": "Integrate Ghidra's decompiler as an Ida plugin",
+    "lang": "C++"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "desc": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-aws",
+    "url": "https://github.com/terraform-providers/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "lang": "Go"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "lang": "Clojure"
+  }
+]
