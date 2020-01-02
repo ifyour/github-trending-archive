@@ -1,0 +1,149 @@
+[
+  {
+    "title": "mayeaux/nodetube",
+    "url": "https://github.com/mayeaux/nodetube",
+    "desc": "Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "victorqribeiro/isocity",
+    "url": "https://github.com/victorqribeiro/isocity",
+    "desc": "A isometric city builder in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "feelschaotic/AndroidKnowledgeSystem",
+    "url": "https://github.com/feelschaotic/AndroidKnowledgeSystem",
+    "desc": "The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "Spring Boot 2.X 专栏更新中，未来更新 Spring Cloud Alibaba 。欢迎胖友 Star 一波",
+    "lang": "Java"
+  },
+  {
+    "title": "pingcap/chaos-mesh",
+    "url": "https://github.com/pingcap/chaos-mesh",
+    "desc": "A Chaos Engineering Platform for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "synesthesiam/rhasspy",
+    "url": "https://github.com/synesthesiam/rhasspy",
+    "desc": "Rhasspy voice assistant for Home Assistant and Hass.IO",
+    "lang": "HTML"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+  },
+  {
+    "title": "JohnSundell/Publish",
+    "url": "https://github.com/JohnSundell/Publish",
+    "desc": "A static site generator for Swift developers",
+    "lang": "Swift"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "nfarina/homebridge",
+    "url": "https://github.com/nfarina/homebridge",
+    "desc": "HomeKit support for the impatient",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sw-yx/spark-joy",
+    "url": "https://github.com/sw-yx/spark-joy",
+    "desc": "✨😂easy ways to add design flair, user delight, and whimsy to your product.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "neeru1207/AI_Sudoku",
+    "url": "https://github.com/neeru1207/AI_Sudoku",
+    "desc": "GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "DavidBuchanan314/dlinject",
+    "url": "https://github.com/DavidBuchanan314/dlinject",
+    "desc": "Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/ALBERT",
+    "url": "https://github.com/google-research/ALBERT",
+    "desc": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+    "lang": "Python"
+  },
+  {
+    "title": "lin-xin/vue-manage-system",
+    "url": "https://github.com/lin-xin/vue-manage-system",
+    "desc": "基于vue + element的后台管理系统解决方案",
+    "lang": "Vue"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "lang": "C++"
+  },
+  {
+    "title": "gaearon/overreacted.io",
+    "url": "https://github.com/gaearon/overreacted.io",
+    "desc": "Personal blog by Dan Abramov.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Mr-xn/BurpSuite-collections",
+    "url": "https://github.com/Mr-xn/BurpSuite-collections",
+    "desc": "BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程，欢迎添砖加瓦---burpsuite-pro burpsuite-extender burpsuite cracked-version hackbar hacktools fuzzing fuzz-testing burp-plugin burp-extensions bapp-store brute-force-attacks brute-force-passwords waf sqlmap jar",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "badaix/snapcast",
+    "url": "https://github.com/badaix/snapcast",
+    "desc": "Synchronous multi-room audio player",
+    "lang": "C++"
+  },
+  {
+    "title": "imsnif/bandwhich",
+    "url": "https://github.com/imsnif/bandwhich",
+    "desc": "Terminal bandwidth utilization tool (formerly known as what)",
+    "lang": "Rust"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "StockSharp/StockSharp",
+    "url": "https://github.com/StockSharp/StockSharp",
+    "desc": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins and options).",
+    "lang": "C#"
+  }
+]
