@@ -1,0 +1,147 @@
+[
+  {
+    "title": "mrcsxsiq/Kotlin-Pokedex",
+    "url": "https://github.com/mrcsxsiq/Kotlin-Pokedex",
+    "desc": "🌀 A Pokedex app using ViewModel, LiveData, Room and Navigation",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "pingcap/chaos-mesh",
+    "url": "https://github.com/pingcap/chaos-mesh",
+    "desc": "A Chaos Engineering Platform for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "feelschaotic/AndroidKnowledgeSystem",
+    "url": "https://github.com/feelschaotic/AndroidKnowledgeSystem",
+    "desc": "The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xyjoey/fxxkmakeding",
+    "url": "https://github.com/xyjoey/fxxkmakeding",
+    "desc": ""
+  },
+  {
+    "title": "klinker-apps/pulse-sms-android",
+    "url": "https://github.com/klinker-apps/pulse-sms-android",
+    "desc": "The ultimate SMS app for Android, available across all of your devices.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "mayeaux/nodetube",
+    "url": "https://github.com/mayeaux/nodetube",
+    "desc": "Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zero-to-mastery/coding_challenge-25",
+    "url": "https://github.com/zero-to-mastery/coding_challenge-25",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+  },
+  {
+    "title": "google-research/ALBERT",
+    "url": "https://github.com/google-research/ALBERT",
+    "desc": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+    "lang": "Python"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱"
+  },
+  {
+    "title": "victorqribeiro/isocity",
+    "url": "https://github.com/victorqribeiro/isocity",
+    "desc": "A isometric city builder in JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "collabnix/dockerlabs",
+    "url": "https://github.com/collabnix/dockerlabs",
+    "desc": "Docker - Beginners | Intermediate | Advanced",
+    "lang": "PHP"
+  },
+  {
+    "title": "synesthesiam/rhasspy",
+    "url": "https://github.com/synesthesiam/rhasspy",
+    "desc": "Rhasspy voice assistant for Home Assistant and Hass.IO",
+    "lang": "HTML"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "creativetimofficial/tailwind-starter-kit",
+    "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
+    "desc": "Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source",
+    "lang": "CSS"
+  },
+  {
+    "title": "alyssaxuu/flowy",
+    "url": "https://github.com/alyssaxuu/flowy",
+    "desc": "The minimal javascript library to create flowcharts ✨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "gaearon/overreacted.io",
+    "url": "https://github.com/gaearon/overreacted.io",
+    "desc": "Personal blog by Dan Abramov.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成demo，已经完成 52 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+    "lang": "Java"
+  },
+  {
+    "title": "tuanha2000vn/hasskit",
+    "url": "https://github.com/tuanha2000vn/hasskit",
+    "desc": "HassKit is a Touch-Friendly - Zero Config App to help users instantly start using Home Assistant",
+    "lang": "Dart"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  }
+]
