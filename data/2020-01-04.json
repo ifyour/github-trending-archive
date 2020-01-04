@@ -1,0 +1,143 @@
+[
+  {
+    "title": "mayeaux/nodetube",
+    "url": "https://github.com/mayeaux/nodetube",
+    "desc": "Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Sketch hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "DataScienceResearchPeru/OpenSource-RoadMap-DataScience",
+    "url": "https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience",
+    "desc": "¡Camino a una educación autodidacta en Ciencia de Datos!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "rq/rq",
+    "url": "https://github.com/rq/rq",
+    "desc": "Simple job queues for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "antonioru/beautiful-react-hooks",
+    "url": "https://github.com/antonioru/beautiful-react-hooks",
+    "desc": "🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Asabeneh/30DaysOfJavaScript",
+    "url": "https://github.com/Asabeneh/30DaysOfJavaScript",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "Atarity/deploy-your-own-saas",
+    "url": "https://github.com/Atarity/deploy-your-own-saas",
+    "desc": "List of only yours cloud services for everyday needs 🏴"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "ahmetb/kubectl-tree",
+    "url": "https://github.com/ahmetb/kubectl-tree",
+    "desc": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)",
+    "lang": "Go"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "alphaSeclab/awesome-burp-suite",
+    "url": "https://github.com/alphaSeclab/awesome-burp-suite",
+    "desc": "Awesome Burp Suite Resources. 400+ open source Burp plugins, 500+ posts and videos."
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "xyjoey/fxxkmakeding",
+    "url": "https://github.com/xyjoey/fxxkmakeding",
+    "desc": ""
+  },
+  {
+    "title": "TrickyGo/Dive-into-DL-TensorFlow2.0",
+    "url": "https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "helm/helm",
+    "url": "https://github.com/helm/helm",
+    "desc": "The Kubernetes Package Manager",
+    "lang": "Go"
+  }
+]
