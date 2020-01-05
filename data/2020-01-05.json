@@ -1,0 +1,146 @@
+[
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Dive into Deep Learning: an interactive deep learning book with code, math, and discussions, based on the NumPy interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dani-garcia/bitwarden_rs",
+    "url": "https://github.com/dani-garcia/bitwarden_rs",
+    "desc": "Unofficial Bitwarden compatible server written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Sketch hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30DaysOfJavaScript",
+    "url": "https://github.com/Asabeneh/30DaysOfJavaScript",
+    "desc": "A 30 days of JavaScript programming challenge",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vaib25vicky/awesome-mobile-security",
+    "url": "https://github.com/vaib25vicky/awesome-mobile-security",
+    "desc": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it."
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "hakluke/hakrawler",
+    "url": "https://github.com/hakluke/hakrawler",
+    "desc": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+    "lang": "Go"
+  },
+  {
+    "title": "DataScienceResearchPeru/OpenSource-RoadMap-DataScience",
+    "url": "https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience",
+    "desc": "¡Camino a una educación autodidacta en Ciencia de Datos!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "toandaominh1997/EfficientDet.Pytorch",
+    "url": "https://github.com/toandaominh1997/EfficientDet.Pytorch",
+    "desc": "Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "TrickyGo/Dive-into-DL-TensorFlow2.0",
+    "url": "https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "mayeaux/nodetube",
+    "url": "https://github.com/mayeaux/nodetube",
+    "desc": "Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "s-macke/VoxelSpace",
+    "url": "https://github.com/s-macke/VoxelSpace",
+    "desc": "Terrain rendering algorithm in less than 20 lines of code",
+    "lang": "C"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+  },
+  {
+    "title": "MichMich/MagicMirror",
+    "url": "https://github.com/MichMich/MagicMirror",
+    "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX",
+    "lang": "C++"
+  },
+  {
+    "title": "ahmetb/kubectl-tree",
+    "url": "https://github.com/ahmetb/kubectl-tree",
+    "desc": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)",
+    "lang": "Go"
+  },
+  {
+    "title": "Z3Prover/z3",
+    "url": "https://github.com/Z3Prover/z3",
+    "desc": "The Z3 Theorem Prover",
+    "lang": "C++"
+  }
+]
