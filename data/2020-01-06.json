@@ -1,0 +1,147 @@
+[
+  {
+    "title": "PaulMcInnis/JobFunnel",
+    "url": "https://github.com/PaulMcInnis/JobFunnel",
+    "desc": "Tool for scraping job websites, and filtering and reviewing the job listings",
+    "lang": "Python"
+  },
+  {
+    "title": "ahmetb/kubectl-tree",
+    "url": "https://github.com/ahmetb/kubectl-tree",
+    "desc": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)",
+    "lang": "Go"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Sketch hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "hakluke/hakrawler",
+    "url": "https://github.com/hakluke/hakrawler",
+    "desc": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+    "lang": "Go"
+  },
+  {
+    "title": "Asabeneh/30DaysOfJavaScript",
+    "url": "https://github.com/Asabeneh/30DaysOfJavaScript",
+    "desc": "A 30 days of JavaScript programming challenge",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2019"
+  },
+  {
+    "title": "faustomorales/keras-ocr",
+    "url": "https://github.com/faustomorales/keras-ocr",
+    "desc": "A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.",
+    "lang": "Python"
+  },
+  {
+    "title": "stuxnet999/MemLabs",
+    "url": "https://github.com/stuxnet999/MemLabs",
+    "desc": "Educational, CTF-styled labs for individuals interested in Memory Forensics",
+    "lang": "Roff"
+  },
+  {
+    "title": "parcel-bundler/parcel",
+    "url": "https://github.com/parcel-bundler/parcel",
+    "desc": "📦🚀 Blazing fast, zero configuration web application bundler",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vaib25vicky/awesome-mobile-security",
+    "url": "https://github.com/vaib25vicky/awesome-mobile-security",
+    "desc": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it."
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "lang": "Python"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davidfowl/BedrockFramework",
+    "url": "https://github.com/davidfowl/BedrockFramework",
+    "desc": "High performance, low level networking APIs for building custom severs and clients.",
+    "lang": "C#"
+  },
+  {
+    "title": "Snailclimb/awesome-java",
+    "url": "https://github.com/Snailclimb/awesome-java",
+    "desc": "Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合)."
+  },
+  {
+    "title": "TrickyGo/Dive-into-DL-TensorFlow2.0",
+    "url": "https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "toandaominh1997/EfficientDet.Pytorch",
+    "url": "https://github.com/toandaominh1997/EfficientDet.Pytorch",
+    "desc": "Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "radareorg/cutter",
+    "url": "https://github.com/radareorg/cutter",
+    "desc": "Free and Open Source Reverse Engineering Platform powered by radare2",
+    "lang": "C++"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zpoint/CPython-Internals",
+    "url": "https://github.com/zpoint/CPython-Internals",
+    "desc": "Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节",
+    "lang": "Python"
+  },
+  {
+    "title": "Ahmadalsofi/SOTabBar",
+    "url": "https://github.com/Ahmadalsofi/SOTabBar",
+    "desc": "Light way to add Fancy bottom bar 📲",
+    "lang": "Swift"
+  },
+  {
+    "title": "0x4447/0x4447_product_s3_email",
+    "url": "https://github.com/0x4447/0x4447_product_s3_email",
+    "desc": "📫 A serverless email server on AWS using S3 and SES"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ Halo 一款现代化的个人独立博客系统",
+    "lang": "Java"
+  },
+  {
+    "title": "vcmi/vcmi",
+    "url": "https://github.com/vcmi/vcmi",
+    "desc": "Open-source engine for Heroes of Might and Magic III",
+    "lang": "C++"
+  }
+]
