@@ -1,0 +1,144 @@
+[
+  {
+    "title": "bilibili/kratos",
+    "url": "https://github.com/bilibili/kratos",
+    "desc": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "lang": "Go"
+  },
+  {
+    "title": "PaulMcInnis/JobFunnel",
+    "url": "https://github.com/PaulMcInnis/JobFunnel",
+    "desc": "Tool for scraping job websites, and filtering and reviewing the job listings",
+    "lang": "Python"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Sketch hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "tycrek/degoogle",
+    "url": "https://github.com/tycrek/degoogle",
+    "desc": "Repo for the r/privacy degoogle megathread"
+  },
+  {
+    "title": "practicalAI/practicalAI",
+    "url": "https://github.com/practicalAI/practicalAI",
+    "desc": "📚 A practical approach to machine learning to enable everyone to learn, explore and build.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "stuxnet999/MemLabs",
+    "url": "https://github.com/stuxnet999/MemLabs",
+    "desc": "Educational, CTF-styled labs for individuals interested in Memory Forensics",
+    "lang": "Roff"
+  },
+  {
+    "title": "yuanming-hu/taichi",
+    "url": "https://github.com/yuanming-hu/taichi",
+    "desc": "The Taichi programming language",
+    "lang": "C++"
+  },
+  {
+    "title": "Asabeneh/30DaysOfJavaScript",
+    "url": "https://github.com/Asabeneh/30DaysOfJavaScript",
+    "desc": "A 30 days of JavaScript programming challenge",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "lang": "Python"
+  },
+  {
+    "title": "DoctorWkt/acwj",
+    "url": "https://github.com/DoctorWkt/acwj",
+    "desc": "A Compiler Writing Journey",
+    "lang": "C"
+  },
+  {
+    "title": "nicolas-gervais/predicting-car-price-from-scraped-data",
+    "url": "https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data",
+    "desc": "Picture and specifications scraper",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement",
+    "url": "https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement",
+    "desc": "2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码",
+    "lang": "Python"
+  },
+  {
+    "title": "amitness/toolbox",
+    "url": "https://github.com/amitness/toolbox",
+    "desc": "Curated list of libraries for a faster machine learning workflow"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "vaib25vicky/awesome-mobile-security",
+    "url": "https://github.com/vaib25vicky/awesome-mobile-security",
+    "desc": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it."
+  },
+  {
+    "title": "Snailclimb/awesome-java",
+    "url": "https://github.com/Snailclimb/awesome-java",
+    "desc": "Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合)."
+  },
+  {
+    "title": "google/eng-practices",
+    "url": "https://github.com/google/eng-practices",
+    "desc": "Google's Engineering Practices documentation"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zpoint/CPython-Internals",
+    "url": "https://github.com/zpoint/CPython-Internals",
+    "desc": "Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节",
+    "lang": "Python"
+  },
+  {
+    "title": "hsoft/collapseos",
+    "url": "https://github.com/hsoft/collapseos",
+    "desc": "Bootstrap post-collapse technology",
+    "lang": "Assembly"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2019"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  }
+]
