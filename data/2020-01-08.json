@@ -1,0 +1,148 @@
+[
+  {
+    "title": "yuanming-hu/taichi",
+    "url": "https://github.com/yuanming-hu/taichi",
+    "desc": "The Taichi programming language",
+    "lang": "C++"
+  },
+  {
+    "title": "openlayers/openlayers",
+    "url": "https://github.com/openlayers/openlayers",
+    "desc": "OpenLayers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Simple and elegant live chat software 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "bilibili/kratos",
+    "url": "https://github.com/bilibili/kratos",
+    "desc": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "lang": "Go"
+  },
+  {
+    "title": "yuanming-hu/taichi_mpm",
+    "url": "https://github.com/yuanming-hu/taichi_mpm",
+    "desc": "High-performance material point method (MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)",
+    "lang": "C++"
+  },
+  {
+    "title": "facebookresearch/SlowFast",
+    "url": "https://github.com/facebookresearch/SlowFast",
+    "desc": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+    "lang": "Python"
+  },
+  {
+    "title": "practicalAI/practicalAI",
+    "url": "https://github.com/practicalAI/practicalAI",
+    "desc": "📚 A practical approach to machine learning to enable everyone to learn, explore and build.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "DoctorWkt/acwj",
+    "url": "https://github.com/DoctorWkt/acwj",
+    "desc": "A Compiler Writing Journey",
+    "lang": "C"
+  },
+  {
+    "title": "zpoint/CPython-Internals",
+    "url": "https://github.com/zpoint/CPython-Internals",
+    "desc": "Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节",
+    "lang": "Python"
+  },
+  {
+    "title": "PaulMcInnis/JobFunnel",
+    "url": "https://github.com/PaulMcInnis/JobFunnel",
+    "desc": "Tool for scraping job websites, and filtering and reviewing the job listings",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "Asabeneh/30DaysOfJavaScript",
+    "url": "https://github.com/Asabeneh/30DaysOfJavaScript",
+    "desc": "A 30 days of JavaScript programming challenge",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-amplify/amplify-js",
+    "url": "https://github.com/aws-amplify/amplify-js",
+    "desc": "A declarative JavaScript library for application development using cloud services.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/eng-practices",
+    "url": "https://github.com/google/eng-practices",
+    "desc": "Google's Engineering Practices documentation"
+  },
+  {
+    "title": "dotnet-presentations/blazor-workshop",
+    "url": "https://github.com/dotnet-presentations/blazor-workshop",
+    "desc": "Blazor workshop",
+    "lang": "C#"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The cross-shell prompt for astronauts",
+    "lang": "Rust"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "dotnetcore/WTM",
+    "url": "https://github.com/dotnetcore/WTM",
+    "desc": "WTM框架是针对中小规模后台管理系统的开发利器。基于DotNetCore，实现0编码创建项目，0编码生成业务模块。框架严格遵循MVVM的开发模式，并深得MVVM的精髓。对于新手，可以快速上手搭建项目；对于高手，可以把那些繁琐重复的工作交给框架生成，专心攻克需求难点。框架经过数十个真实项目检测，可以极大提高开发效率，降低开发成本。",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "kuaibiancheng/ProjectOpenCourse",
+    "url": "https://github.com/kuaibiancheng/ProjectOpenCourse",
+    "desc": "超高质量免费编程入门课",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "kubeflow/kubeflow",
+    "url": "https://github.com/kubeflow/kubeflow",
+    "desc": "Machine Learning Toolkit for Kubernetes",
+    "lang": "Jsonnet"
+  },
+  {
+    "title": "yuanming-hu/difftaichi",
+    "url": "https://github.com/yuanming-hu/difftaichi",
+    "desc": "10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)"
+  }
+]
