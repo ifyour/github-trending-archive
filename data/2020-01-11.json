@@ -1,0 +1,146 @@
+[
+  {
+    "title": "BLAKE3-team/BLAKE3",
+    "url": "https://github.com/BLAKE3-team/BLAKE3",
+    "desc": "The BLAKE3 cryptographic hash function",
+    "lang": "Rust"
+  },
+  {
+    "title": "emeryberger/scalene",
+    "url": "https://github.com/emeryberger/scalene",
+    "desc": "a high-performance, high-precision CPU and memory profiler for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Canop/broot",
+    "url": "https://github.com/Canop/broot",
+    "desc": "A new way to see and navigate directory trees",
+    "lang": "Rust"
+  },
+  {
+    "title": "wesbos/awesome-uses",
+    "url": "https://github.com/wesbos/awesome-uses",
+    "desc": "A list of /uses pages detailing developer setups, gear, software and configs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Simple and elegant live chat software 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host - all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "Tencent/TencentOS-kernel",
+    "url": "https://github.com/Tencent/TencentOS-kernel",
+    "desc": "腾讯针对云的场景研发的服务器操作系统",
+    "lang": "C"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "lang": "Python"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "brillout/awesome-react-components",
+    "url": "https://github.com/brillout/awesome-react-components",
+    "desc": "Curated List of React Components & Libraries."
+  },
+  {
+    "title": "Tencent/TencentOS-tiny",
+    "url": "https://github.com/Tencent/TencentOS-tiny",
+    "desc": "腾讯物联网终端操作系统",
+    "lang": "C"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "desc": "Things you can do with a browser in 2020 ☕️"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "porsager/postgres",
+    "url": "https://github.com/porsager/postgres",
+    "desc": "Postgres.js - The Fastest full featured PostgreSQL client for Node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paulhodel/jexcel",
+    "url": "https://github.com/paulhodel/jexcel",
+    "desc": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rakyll/govalidate",
+    "url": "https://github.com/rakyll/govalidate",
+    "desc": "Validates your Go installation and dependencies.",
+    "lang": "Go"
+  },
+  {
+    "title": "aspittel/coding-cheat-sheets",
+    "url": "https://github.com/aspittel/coding-cheat-sheets",
+    "desc": "Various cheat sheets on CS stuff"
+  },
+  {
+    "title": "lubosson/jetbrain-activation-code",
+    "url": "https://github.com/lubosson/jetbrain-activation-code",
+    "desc": "jetbrain software全家桶激活码activation code, including intellij idea，pycharm，datagrip, webstorm..."
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "antvis/L7",
+    "url": "https://github.com/antvis/L7",
+    "desc": "🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.",
+    "lang": "TypeScript"
+  }
+]
