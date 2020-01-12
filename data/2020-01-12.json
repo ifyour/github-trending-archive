@@ -1,0 +1,147 @@
+[
+  {
+    "title": "TerryCavanagh/VVVVVV",
+    "url": "https://github.com/TerryCavanagh/VVVVVV",
+    "desc": "The source code to VVVVVV!",
+    "lang": "C++"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BLAKE3-team/BLAKE3",
+    "url": "https://github.com/BLAKE3-team/BLAKE3",
+    "desc": "The BLAKE3 cryptographic hash function",
+    "lang": "Rust"
+  },
+  {
+    "title": "riggraz/astuto",
+    "url": "https://github.com/riggraz/astuto",
+    "desc": "A free, open source, self-hosted customer feedback tool 🦊",
+    "lang": "Ruby"
+  },
+  {
+    "title": "prevwong/craft.js",
+    "url": "https://github.com/prevwong/craft.js",
+    "desc": "🚀 A React Framework for building extensible drag and drop page editors",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host - all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "wesbos/awesome-uses",
+    "url": "https://github.com/wesbos/awesome-uses",
+    "desc": "A list of /uses pages detailing developer setups, gear, software and configs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "desc": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "lang": "Python"
+  },
+  {
+    "title": "xiandanin/magnetW",
+    "url": "https://github.com/xiandanin/magnetW",
+    "desc": "磁力链接聚合搜索",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "desc": "Papers with code. Sorted by stars. Updated weekly."
+  },
+  {
+    "title": "emeryberger/scalene",
+    "url": "https://github.com/emeryberger/scalene",
+    "desc": "a high-performance, high-precision CPU and memory profiler for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PySimpleGUI/PySimpleGUI",
+    "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+    "desc": "Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo…",
+    "lang": "Python"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "desc": "Things you can do with a browser in 2020 ☕️"
+  },
+  {
+    "title": "awslabs/autogluon",
+    "url": "https://github.com/awslabs/autogluon",
+    "desc": "AutoGluon: AutoML Toolkit for Deep Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/TencentOS-tiny",
+    "url": "https://github.com/Tencent/TencentOS-tiny",
+    "desc": "腾讯物联网终端操作系统",
+    "lang": "C"
+  },
+  {
+    "title": "daviddao/awful-ai",
+    "url": "https://github.com/daviddao/awful-ai",
+    "desc": "😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness"
+  }
+]
