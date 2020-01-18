@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/verona",
+    "url": "https://github.com/microsoft/verona",
+    "desc": "Research programming language for concurrent ownership",
+    "lang": "C++"
+  },
+  {
+    "title": "google/trax",
+    "url": "https://github.com/google/trax",
+    "desc": "Trax — your path to advanced deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/reformer-pytorch",
+    "url": "https://github.com/lucidrains/reformer-pytorch",
+    "desc": "Reformer, the efficient Transformer, implemented in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "actix/actix",
+    "url": "https://github.com/actix/actix",
+    "desc": "Actor framework for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "nurdism/neko",
+    "url": "https://github.com/nurdism/neko",
+    "desc": "A self hosted virtual browser (rabb.it clone) that runs in docker.",
+    "lang": "Go"
+  },
+  {
+    "title": "JetBrains/JetBrainsMono",
+    "url": "https://github.com/JetBrains/JetBrainsMono",
+    "desc": "JetBrains Mono – the free and open-source typeface for developers"
+  },
+  {
+    "title": "OpenMined/PySyft",
+    "url": "https://github.com/OpenMined/PySyft",
+    "desc": "A library for encrypted, privacy preserving machine learning",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/c9-python-getting-started",
+    "url": "https://github.com/microsoft/c9-python-getting-started",
+    "desc": "Sample code for Channel 9 Python for Beginners course",
+    "lang": "Python"
+  },
+  {
+    "title": "fafhrd91/actix-web",
+    "url": "https://github.com/fafhrd91/actix-web",
+    "desc": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+    "lang": "Rust"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codidact/core",
+    "url": "https://github.com/codidact/core",
+    "desc": "The core Codidact Q&A software implementation",
+    "lang": "C#"
+  },
+  {
+    "title": "magenta/ddsp",
+    "url": "https://github.com/magenta/ddsp",
+    "desc": "DDSP: Differentiable Digital Signal Processing",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ionicfirebaseapp/getflutter",
+    "url": "https://github.com/ionicfirebaseapp/getflutter",
+    "desc": "Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.",
+    "lang": "Dart"
+  },
+  {
+    "title": "kudelskisecurity/chainoffools",
+    "url": "https://github.com/kudelskisecurity/chainoffools",
+    "desc": "A PoC for CVE-2020-0601",
+    "lang": "Python"
+  },
+  {
+    "title": "exercism/v3",
+    "url": "https://github.com/exercism/v3",
+    "desc": "The work-in-progress project for developing v3 tracks",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ollypwn/CVE-2020-0601",
+    "url": "https://github.com/ollypwn/CVE-2020-0601",
+    "desc": "PoC for CVE-2020-0601",
+    "lang": "Ruby"
+  },
+  {
+    "title": "phodal/migration",
+    "url": "https://github.com/phodal/migration",
+    "desc": "《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护",
+    "lang": "Java"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 Firebase plugins for Flutter apps",
+    "lang": "Dart"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "desc": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "lang": "C++"
+  }
+]
