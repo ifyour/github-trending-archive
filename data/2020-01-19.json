@@ -1,0 +1,146 @@
+[
+  {
+    "title": "justinamiller/SoftwareArchitect",
+    "url": "https://github.com/justinamiller/SoftwareArchitect",
+    "desc": "Become a Better Software Architect"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "theonedev/onedev",
+    "url": "https://github.com/theonedev/onedev",
+    "desc": "Super Easy All-In-One DevOps Platform",
+    "lang": "Java"
+  },
+  {
+    "title": "actix/actix",
+    "url": "https://github.com/actix/actix",
+    "desc": "Actor framework for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "nurdism/neko",
+    "url": "https://github.com/nurdism/neko",
+    "desc": "A self hosted virtual browser (rabb.it clone) that runs in docker.",
+    "lang": "Go"
+  },
+  {
+    "title": "actix/actix-web",
+    "url": "https://github.com/actix/actix-web",
+    "desc": "Actix project postmortem"
+  },
+  {
+    "title": "google/trax",
+    "url": "https://github.com/google/trax",
+    "desc": "Trax — your path to advanced deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Hopson97/open-builder",
+    "url": "https://github.com/Hopson97/open-builder",
+    "desc": "Open source Minecraft-like game with multiplayer support.",
+    "lang": "C++"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization",
+    "lang": "Python"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/verona",
+    "url": "https://github.com/microsoft/verona",
+    "desc": "Research programming language for concurrent ownership",
+    "lang": "C++"
+  },
+  {
+    "title": "janroesner/sixty5o2",
+    "url": "https://github.com/janroesner/sixty5o2",
+    "desc": "Micro Kernel / Bootloader for Ben Eater's 6502 Computer",
+    "lang": "Assembly"
+  },
+  {
+    "title": "fafhrd91/actix-web",
+    "url": "https://github.com/fafhrd91/actix-web",
+    "desc": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lucidrains/reformer-pytorch",
+    "url": "https://github.com/lucidrains/reformer-pytorch",
+    "desc": "Reformer, the efficient Transformer, implemented in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "collabnix/kubelabs",
+    "url": "https://github.com/collabnix/kubelabs",
+    "desc": "Kubernetes - Beginners | Intermediate | Advanced",
+    "lang": "HTML"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "forbesmyester/esqlate",
+    "url": "https://github.com/forbesmyester/esqlate",
+    "desc": "Build minimum viable admin panels quickly with just SQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "phodal/migration",
+    "url": "https://github.com/phodal/migration",
+    "desc": "《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/c9-python-getting-started",
+    "url": "https://github.com/microsoft/c9-python-getting-started",
+    "desc": "Sample code for Channel 9 Python for Beginners course",
+    "lang": "Python"
+  },
+  {
+    "title": "addlew/my_iptv",
+    "url": "https://github.com/addlew/my_iptv",
+    "desc": "我自己搜集整理的iptv频道"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "Jack-Lee-Hiter/AlgorithmsByPython",
+    "url": "https://github.com/Jack-Lee-Hiter/AlgorithmsByPython",
+    "desc": "算法/数据结构/Python/剑指offer/机器学习/leetcode",
+    "lang": "Python"
+  },
+  {
+    "title": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
+    "lang": "C++"
+  },
+  {
+    "title": "Rocketseat/expo-common-issues",
+    "url": "https://github.com/Rocketseat/expo-common-issues",
+    "desc": "Common issues while developing with Expo"
+  }
+]
