@@ -1,0 +1,149 @@
+[
+  {
+    "title": "justinamiller/SoftwareArchitect",
+    "url": "https://github.com/justinamiller/SoftwareArchitect",
+    "desc": "Become a Better Software Architect"
+  },
+  {
+    "title": "sdlpal/sdlpal",
+    "url": "https://github.com/sdlpal/sdlpal",
+    "desc": "SDL-based reimplementation of the classic Chinese-language RPG Xiān jiàn Qí Xiá Zhuàn (also known as PAL).",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "phodal/migration",
+    "url": "https://github.com/phodal/migration",
+    "desc": "《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护",
+    "lang": "Java"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rachpt/lanzou-gui",
+    "url": "https://github.com/rachpt/lanzou-gui",
+    "desc": "蓝奏云 | 蓝奏云客户端 | 蓝奏网盘 GUI版本",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "theonedev/onedev",
+    "url": "https://github.com/theonedev/onedev",
+    "desc": "Super Easy All-In-One DevOps Platform",
+    "lang": "Java"
+  },
+  {
+    "title": "xiongziliang/ZLMediaKit",
+    "url": "https://github.com/xiongziliang/ZLMediaKit",
+    "desc": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization",
+    "lang": "Python"
+  },
+  {
+    "title": "collabnix/kubelabs",
+    "url": "https://github.com/collabnix/kubelabs",
+    "desc": "Kubernetes - Beginners | Intermediate | Advanced",
+    "lang": "HTML"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "microsoft/ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector",
+    "desc": "A software characterization source code analyzer that helps you understand what a program does by identifying interesting features and characteristics using static analysis and a customizable json based rules engine.",
+    "lang": "C#"
+  },
+  {
+    "title": "hlissner/doom-emacs",
+    "url": "https://github.com/hlissner/doom-emacs",
+    "desc": "An Emacs configuration for the stubborn martian vimmer",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "google/trax",
+    "url": "https://github.com/google/trax",
+    "desc": "Trax — your path to advanced deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "actix/actix-web",
+    "url": "https://github.com/actix/actix-web",
+    "desc": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+    "lang": "Rust"
+  },
+  {
+    "title": "janroesner/sixty5o2",
+    "url": "https://github.com/janroesner/sixty5o2",
+    "desc": "Micro Kernel / Bootloader for Ben Eater's 6502 Computer",
+    "lang": "Assembly"
+  },
+  {
+    "title": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
+    "lang": "C++"
+  },
+  {
+    "title": "tensortrade-org/tensortrade",
+    "url": "https://github.com/tensortrade-org/tensortrade",
+    "desc": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+    "lang": "Python"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "lang": "C++"
+  },
+  {
+    "title": "ApolloAuto/apollo",
+    "url": "https://github.com/ApolloAuto/apollo",
+    "desc": "An open autonomous driving platform",
+    "lang": "C++"
+  },
+  {
+    "title": "wangzhiwubigdata/God-Of-BigData",
+    "url": "https://github.com/wangzhiwubigdata/God-Of-BigData",
+    "desc": "大数据面试题，大数据成神之路开启...Flink/Spark/Hadoop/Hbase/Hive..."
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "desc": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "lang": "Java"
+  }
+]
