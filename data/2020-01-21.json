@@ -1,0 +1,147 @@
+[
+  {
+    "title": "kbariotis/templates",
+    "url": "https://github.com/kbariotis/templates",
+    "desc": "A set of standard document templates."
+  },
+  {
+    "title": "microsoft/ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector",
+    "desc": "A software characterization source code analyzer that helps you understand what a program does by identifying interesting features and characteristics using static analysis and a customizable json based rules engine.",
+    "lang": "C#"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xiongziliang/ZLMediaKit",
+    "url": "https://github.com/xiongziliang/ZLMediaKit",
+    "desc": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "justinamiller/SoftwareArchitect",
+    "url": "https://github.com/justinamiller/SoftwareArchitect",
+    "desc": "Path to a Software Architect"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "collabnix/kubelabs",
+    "url": "https://github.com/collabnix/kubelabs",
+    "desc": "Kubernetes - Beginners | Intermediate | Advanced",
+    "lang": "HTML"
+  },
+  {
+    "title": "BankSecurity/Red_Team",
+    "url": "https://github.com/BankSecurity/Red_Team",
+    "desc": "Some scripts useful for red team activities",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "ospray/ospray",
+    "url": "https://github.com/ospray/ospray",
+    "desc": "An Open, Scalable, Portable, Ray Tracing Based Rendering Engine for High-Fidelity Visualization",
+    "lang": "C++"
+  },
+  {
+    "title": "theonedev/onedev",
+    "url": "https://github.com/theonedev/onedev",
+    "desc": "Super Easy All-In-One DevOps Platform",
+    "lang": "Java"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cube-js/cube.js",
+    "url": "https://github.com/cube-js/cube.js",
+    "desc": "📊 Cube.js - Open Source Analytics Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dani-garcia/bitwarden_rs",
+    "url": "https://github.com/dani-garcia/bitwarden_rs",
+    "desc": "Unofficial Bitwarden compatible server written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "sdlpal/sdlpal",
+    "url": "https://github.com/sdlpal/sdlpal",
+    "desc": "SDL-based reimplementation of the classic Chinese-language RPG Xiān jiàn Qí Xiá Zhuàn (also known as PAL).",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "lang": "C++"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "ipfs/go-ipfs",
+    "url": "https://github.com/ipfs/go-ipfs",
+    "desc": "IPFS implementation in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "tensortrade-org/tensortrade",
+    "url": "https://github.com/tensortrade-org/tensortrade",
+    "desc": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+    "lang": "Python"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "guzzle/guzzle",
+    "url": "https://github.com/guzzle/guzzle",
+    "desc": "Guzzle, an extensible PHP HTTP client",
+    "lang": "PHP"
+  },
+  {
+    "title": "bephrem1/backtobackswe",
+    "url": "https://github.com/bephrem1/backtobackswe",
+    "desc": "Code Examples For Back To Back SWE Lessons",
+    "lang": "Java"
+  },
+  {
+    "title": "tc39/proposals",
+    "url": "https://github.com/tc39/proposals",
+    "desc": "Tracking ECMAScript Proposals"
+  },
+  {
+    "title": "davidfowl/Micronetes",
+    "url": "https://github.com/davidfowl/Micronetes",
+    "desc": "Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.",
+    "lang": "C#"
+  }
+]
