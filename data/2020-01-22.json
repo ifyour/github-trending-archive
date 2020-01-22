@@ -1,0 +1,146 @@
+[
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "anvaka/city-roads",
+    "url": "https://github.com/anvaka/city-roads",
+    "desc": "Visualization of all roads within any city",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector",
+    "desc": "A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.",
+    "lang": "C#"
+  },
+  {
+    "title": "kbariotis/templates",
+    "url": "https://github.com/kbariotis/templates",
+    "desc": "A set of standard document templates."
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "desc": "Connect, secure, control, and observe services.",
+    "lang": "Go"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bao-project/bao-hypervisor",
+    "url": "https://github.com/bao-project/bao-hypervisor",
+    "desc": "Bao, a Lightweight Static Partitioning Hypervisor",
+    "lang": "C"
+  },
+  {
+    "title": "wesbos/awesome-uses",
+    "url": "https://github.com/wesbos/awesome-uses",
+    "desc": "A list of /uses pages detailing developer setups, gear, software and configs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/flax",
+    "url": "https://github.com/google-research/flax",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "desc": "Clean Object-oriented & Layered Architecture",
+    "lang": "Java"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "End-to-end backend server for frontend and mobile developers. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "collabnix/kubelabs",
+    "url": "https://github.com/collabnix/kubelabs",
+    "desc": "Kubernetes - Beginners | Intermediate | Advanced",
+    "lang": "HTML"
+  },
+  {
+    "title": "justinamiller/SoftwareArchitect",
+    "url": "https://github.com/justinamiller/SoftwareArchitect",
+    "desc": "Path to a Software Architect"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "desc": "A collection of useful .gitignore templates"
+  },
+  {
+    "title": "Christopheraburns/AWS-JPL-OSR-Challenge",
+    "url": "https://github.com/Christopheraburns/AWS-JPL-OSR-Challenge",
+    "desc": "Official repo of the AWS-JPL Open Source Rover challenge",
+    "lang": "C++"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "clovaai/assembled-cnn",
+    "url": "https://github.com/clovaai/assembled-cnn",
+    "desc": "Official implementation of Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network",
+    "lang": "Python"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "Screetsec/TheFatRat",
+    "url": "https://github.com/Screetsec/TheFatRat",
+    "desc": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+    "lang": "C"
+  }
+]
