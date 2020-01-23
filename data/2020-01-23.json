@@ -1,0 +1,146 @@
+[
+  {
+    "title": "fpereiro/backendlore",
+    "url": "https://github.com/fpereiro/backendlore",
+    "desc": "How I write backends"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "anvaka/city-roads",
+    "url": "https://github.com/anvaka/city-roads",
+    "desc": "Visualization of all roads within any city",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/flax",
+    "url": "https://github.com/google-research/flax",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "projectdiscovery/naabu",
+    "url": "https://github.com/projectdiscovery/naabu",
+    "desc": "A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+    "lang": "Go"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "desc": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "Asabeneh/30DaysOfJavaScript",
+    "url": "https://github.com/Asabeneh/30DaysOfJavaScript",
+    "desc": "A 30 days of JavaScript programming challenge",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "alibaba/MNNKitDemo",
+    "url": "https://github.com/alibaba/MNNKitDemo",
+    "desc": "MNN Kit Demo",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "desc": "Connect, secure, control, and observe services.",
+    "lang": "Go"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "desc": "Microsoft Azure PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "MarcioQuimbundo/bank_app_neomorphism_flutter",
+    "url": "https://github.com/MarcioQuimbundo/bank_app_neomorphism_flutter",
+    "desc": "",
+    "lang": "Dart"
+  },
+  {
+    "title": "cpr1c/tools_ui_1c",
+    "url": "https://github.com/cpr1c/tools_ui_1c",
+    "desc": "Универсальные инструменты 1C для управляемых форм",
+    "lang": "1CEnterprise"
+  },
+  {
+    "title": "hindupuravinash/the-gan-zoo",
+    "url": "https://github.com/hindupuravinash/the-gan-zoo",
+    "desc": "A list of all named GANs!",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "desc": "Delightful JavaScript Testing.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ReactTraining/react-router",
+    "url": "https://github.com/ReactTraining/react-router",
+    "desc": "Declarative routing for React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "calebzulawski/fourier",
+    "url": "https://github.com/calebzulawski/fourier",
+    "desc": "Fast Fourier transforms (FFTs) in Rust",
+    "lang": "Rust"
+  }
+]
