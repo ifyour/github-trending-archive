@@ -1,0 +1,147 @@
+[
+  {
+    "title": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr",
+    "desc": "📚 Simplified and community-driven man pages",
+    "lang": "Shell"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "specterops/at-ps",
+    "url": "https://github.com/specterops/at-ps",
+    "desc": "Adversary Tactics - PowerShell Training",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "fpereiro/backendlore",
+    "url": "https://github.com/fpereiro/backendlore",
+    "desc": "How I write backends"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "anvaka/city-roads",
+    "url": "https://github.com/anvaka/city-roads",
+    "desc": "Visualization of all roads within any city",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "desc": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "desc": "Analytical Web Apps for Python & R. No JavaScript Required.",
+    "lang": "Python"
+  },
+  {
+    "title": "specialprojects-experiments/envelope",
+    "url": "https://github.com/specialprojects-experiments/envelope",
+    "desc": "An experimental app which temporarily transforms your phone into a simpler, calmer device. Currently supports Pixel 3a",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "mozilla/sops",
+    "url": "https://github.com/mozilla/sops",
+    "desc": "Simple and flexible tool for managing secrets",
+    "lang": "Go"
+  },
+  {
+    "title": "google-research/flax",
+    "url": "https://github.com/google-research/flax",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "awslabs/amazon-eks-ami",
+    "url": "https://github.com/awslabs/amazon-eks-ami",
+    "desc": "Packer configuration for building a custom EKS AMI",
+    "lang": "Shell"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30DaysOfJavaScript",
+    "url": "https://github.com/Asabeneh/30DaysOfJavaScript",
+    "desc": "A 30 days of JavaScript programming challenge",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "phoenixframework/phoenix",
+    "url": "https://github.com/phoenixframework/phoenix",
+    "desc": "Productive. Reliable. Fast.",
+    "lang": "Elixir"
+  },
+  {
+    "title": "argoproj/argo",
+    "url": "https://github.com/argoproj/argo",
+    "desc": "Argo Workflows: Get stuff done with Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "runatlantis/atlantis",
+    "url": "https://github.com/runatlantis/atlantis",
+    "desc": "Terraform Pull Request Automation",
+    "lang": "Go"
+  },
+  {
+    "title": "cucumber/cucumber",
+    "url": "https://github.com/cucumber/cucumber",
+    "desc": "Cucumber monorepo - building blocks for Cucumber in various languages",
+    "lang": "Java"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "JavaScript"
+  }
+]
