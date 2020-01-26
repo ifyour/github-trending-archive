@@ -1,0 +1,141 @@
+[
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "miragejs/miragejs",
+    "url": "https://github.com/miragejs/miragejs",
+    "desc": "A client-side server to develop, test and prototype your JavaScript app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "systemd/systemd",
+    "url": "https://github.com/systemd/systemd",
+    "desc": "The systemd System and Service Manager",
+    "lang": "C"
+  },
+  {
+    "title": "v2net/Apple",
+    "url": "https://github.com/v2net/Apple",
+    "desc": "苹果美区账号 APPLE ID 免费账号共享"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "url": "https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "desc": "Various tips & tricks",
+    "lang": "C"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "desc": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "lang": "C"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "Assistant/ModAssistant",
+    "url": "https://github.com/Assistant/ModAssistant",
+    "desc": "Simple Beat Saber Mod Installer",
+    "lang": "C#"
+  },
+  {
+    "title": "FilledStacks/flutter-tutorials",
+    "url": "https://github.com/FilledStacks/flutter-tutorials",
+    "desc": "The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.",
+    "lang": "Dart"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "A Magic Mask to Alter Android System Systemless-ly",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "meik97/XSpotify",
+    "url": "https://github.com/meik97/XSpotify",
+    "desc": "A modified Spotify client with DRM bypass.",
+    "lang": "C++"
+  },
+  {
+    "title": "carla-simulator/carla",
+    "url": "https://github.com/carla-simulator/carla",
+    "desc": "Open-source simulator for autonomous driving research.",
+    "lang": "C++"
+  },
+  {
+    "title": "boston-dynamics/spot-sdk",
+    "url": "https://github.com/boston-dynamics/spot-sdk",
+    "desc": "Spot SDK repo",
+    "lang": "HTML"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "ionicfirebaseapp/getflutter",
+    "url": "https://github.com/ionicfirebaseapp/getflutter",
+    "desc": "Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.",
+    "lang": "Dart"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "actions/starter-workflows",
+    "url": "https://github.com/actions/starter-workflows",
+    "desc": "Accelerating new GitHub Actions workflows"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  }
+]
