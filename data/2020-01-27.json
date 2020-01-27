@@ -1,0 +1,147 @@
+[
+  {
+    "title": "meik97/XSpotify",
+    "url": "https://github.com/meik97/XSpotify",
+    "desc": "A modified Spotify client with DRM bypass.",
+    "lang": "C++"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "wuhan2020/wuhan2020",
+    "url": "https://github.com/wuhan2020/wuhan2020",
+    "desc": "武汉新型冠状病毒防疫信息收集平台"
+  },
+  {
+    "title": "abdulr7mann/hackerEnv",
+    "url": "https://github.com/abdulr7mann/hackerEnv",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security."
+  },
+  {
+    "title": "hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "url": "https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "desc": "Various tips & tricks",
+    "lang": "C"
+  },
+  {
+    "title": "v2net/Apple",
+    "url": "https://github.com/v2net/Apple",
+    "desc": "苹果美区账号 APPLE ID 免费账号共享"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "ionicfirebaseapp/getflutter",
+    "url": "https://github.com/ionicfirebaseapp/getflutter",
+    "desc": "Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.",
+    "lang": "Dart"
+  },
+  {
+    "title": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+    "desc": "吴恩达老师的机器学习课程个人笔记",
+    "lang": "HTML"
+  },
+  {
+    "title": "lucidrains/reformer-pytorch",
+    "url": "https://github.com/lucidrains/reformer-pytorch",
+    "desc": "Reformer, the efficient Transformer, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "freddier/hyperblog",
+    "url": "https://github.com/freddier/hyperblog",
+    "desc": "Un blog increíble para el curso de Git y Github de Platzi",
+    "lang": "HTML"
+  },
+  {
+    "title": "thangchung/awesome-dotnet-core",
+    "url": "https://github.com/thangchung/awesome-dotnet-core",
+    "desc": "🐝 A collection of awesome .NET core libraries, tools, frameworks and software",
+    "lang": "C#"
+  },
+  {
+    "title": "233boy/v2ray",
+    "url": "https://github.com/233boy/v2ray",
+    "desc": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "nextstrain/ncov",
+    "url": "https://github.com/nextstrain/ncov",
+    "desc": "Nextstrain build for novel coronavirus (nCoV)",
+    "lang": "Python"
+  },
+  {
+    "title": "SoftUni/csharp-web",
+    "url": "https://github.com/SoftUni/csharp-web",
+    "desc": "This is the official GitHub repository for the C# Web Development courses",
+    "lang": "C#"
+  },
+  {
+    "title": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "desc": "The user-friendly command line shell.",
+    "lang": "Shell"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "boston-dynamics/spot-sdk",
+    "url": "https://github.com/boston-dynamics/spot-sdk",
+    "desc": "Spot SDK repo",
+    "lang": "HTML"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "systemd/systemd",
+    "url": "https://github.com/systemd/systemd",
+    "desc": "The systemd System and Service Manager",
+    "lang": "C"
+  }
+]
