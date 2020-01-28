@@ -1,0 +1,147 @@
+[
+  {
+    "title": "oldboyxx/jira_clone",
+    "url": "https://github.com/oldboyxx/jira_clone",
+    "desc": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security."
+  },
+  {
+    "title": "wuhan2020/wuhan2020",
+    "url": "https://github.com/wuhan2020/wuhan2020",
+    "desc": "武汉新型冠状病毒防疫信息收集平台"
+  },
+  {
+    "title": "meik97/XSpotify",
+    "url": "https://github.com/meik97/XSpotify",
+    "desc": "A modified Spotify client with DRM bypass.",
+    "lang": "C++"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "gaul/awesome-ld-preload",
+    "url": "https://github.com/gaul/awesome-ld-preload",
+    "desc": "List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "desc": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "wuhan2020/wuhan2020.github.io",
+    "url": "https://github.com/wuhan2020/wuhan2020.github.io",
+    "desc": "渐进式 Web 应用",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rstudio-conf-2020/dl-keras-tf",
+    "url": "https://github.com/rstudio-conf-2020/dl-keras-tf",
+    "desc": "rstudio::conf(2020) deep learning workshop",
+    "lang": "HTML"
+  },
+  {
+    "title": "rstudio-conf-2020/applied-ml",
+    "url": "https://github.com/rstudio-conf-2020/applied-ml",
+    "desc": "Code and Resources for Applied Machine Learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "github/markup",
+    "url": "https://github.com/github/markup",
+    "desc": "Determines which markup library to use to render a content file (e.g. README) on GitHub",
+    "lang": "Ruby"
+  },
+  {
+    "title": "OlafConijn/AwsOrganizationFormation",
+    "url": "https://github.com/OlafConijn/AwsOrganizationFormation",
+    "desc": "Better than landingzones!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "url": "https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "desc": "Various tips & tricks",
+    "lang": "C"
+  },
+  {
+    "title": "google/eng-practices",
+    "url": "https://github.com/google/eng-practices",
+    "desc": "Google's Engineering Practices documentation"
+  },
+  {
+    "title": "lyricat/call-for-health",
+    "url": "https://github.com/lyricat/call-for-health",
+    "desc": "",
+    "lang": "Vue"
+  },
+  {
+    "title": "yarnpkg/berry",
+    "url": "https://github.com/yarnpkg/berry",
+    "desc": "📦🐈 The active development trunk for Yarn 2 ⚒",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sighupio/permission-manager",
+    "url": "https://github.com/sighupio/permission-manager",
+    "desc": "Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wuhan2020/api-server",
+    "url": "https://github.com/wuhan2020/api-server",
+    "desc": "武汉新型冠状病毒防疫信息收集平台后端代理",
+    "lang": "Python"
+  },
+  {
+    "title": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+    "desc": "吴恩达老师的机器学习课程个人笔记",
+    "lang": "HTML"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "prabhuomkar/pytorch-cpp",
+    "url": "https://github.com/prabhuomkar/pytorch-cpp",
+    "desc": "C++ Implementation of PyTorch Tutorial for Deep Learning Researchers",
+    "lang": "C++"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/springcloud-learning",
+    "url": "https://github.com/macrozheng/springcloud-learning",
+    "desc": "一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。20篇文章，篇篇精华，30个Demo，涵盖大部分应用场景。",
+    "lang": "Java"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "rathena/rathena",
+    "url": "https://github.com/rathena/rathena",
+    "desc": "rAthena is an open-source cross-platform MMORPG server.",
+    "lang": "C++"
+  }
+]
