@@ -1,0 +1,147 @@
+[
+  {
+    "title": "wuhan2020/WebApp",
+    "url": "https://github.com/wuhan2020/WebApp",
+    "desc": "渐进式 Web 应用",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "oldboyxx/jira_clone",
+    "url": "https://github.com/oldboyxx/jira_clone",
+    "desc": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wuhan2020/wuhan2020",
+    "url": "https://github.com/wuhan2020/wuhan2020",
+    "desc": "武汉新型冠状病毒防疫信息收集平台"
+  },
+  {
+    "title": "microsoft/ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector",
+    "desc": "A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.",
+    "lang": "C#"
+  },
+  {
+    "title": "wuhan2020/api-server",
+    "url": "https://github.com/wuhan2020/api-server",
+    "desc": "武汉新型冠状病毒防疫信息收集平台后端代理",
+    "lang": "Python"
+  },
+  {
+    "title": "lispczz/pneumonia",
+    "url": "https://github.com/lispczz/pneumonia",
+    "desc": "中国新型冠状病毒肺炎地级市疫情图",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security."
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nicrusso7/rex-gym",
+    "url": "https://github.com/nicrusso7/rex-gym",
+    "desc": "OpenAI Gym environments for an open-source quadruped robot (SpotMicro)",
+    "lang": "Python"
+  },
+  {
+    "title": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "desc": "SpiderFoot, the most complete OSINT collection and reconnaissance tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "SwiftDocOrg/swift-doc",
+    "url": "https://github.com/SwiftDocOrg/swift-doc",
+    "desc": "Generates documentation for Swift projects",
+    "lang": "Swift"
+  },
+  {
+    "title": "outflanknl/Scripts",
+    "url": "https://github.com/outflanknl/Scripts",
+    "desc": "Small scripts that make life better",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "globalcitizen/2019-wuhan-coronavirus-data",
+    "url": "https://github.com/globalcitizen/2019-wuhan-coronavirus-data",
+    "desc": "2019 Wuhan Coronavirus data (2019-nCoV)",
+    "lang": "PHP"
+  },
+  {
+    "title": "sam-hosseini/freelancing-in-finland",
+    "url": "https://github.com/sam-hosseini/freelancing-in-finland",
+    "desc": "The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮"
+  },
+  {
+    "title": "hzwer/shareOI",
+    "url": "https://github.com/hzwer/shareOI",
+    "desc": "OI & ACM 课件分享"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "desc": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "giswqs/earthengine-py-notebooks",
+    "url": "https://github.com/giswqs/earthengine-py-notebooks",
+    "desc": "A collection of 300+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Kethku/neovide",
+    "url": "https://github.com/Kethku/neovide",
+    "desc": "No Nonsense Neovim Client in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "redcanaryco/atomic-red-team",
+    "url": "https://github.com/redcanaryco/atomic-red-team",
+    "desc": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "desc": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "lang": "Python"
+  },
+  {
+    "title": "joeycastillo/The-Open-Book",
+    "url": "https://github.com/joeycastillo/The-Open-Book",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "meik97/XSpotify",
+    "url": "https://github.com/meik97/XSpotify",
+    "desc": "A modified Spotify client with DRM bypass.",
+    "lang": "C++"
+  }
+]
