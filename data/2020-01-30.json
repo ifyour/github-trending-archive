@@ -1,0 +1,144 @@
+[
+  {
+    "title": "LINCnil/Guide-RGPD-du-developpeur",
+    "url": "https://github.com/LINCnil/Guide-RGPD-du-developpeur",
+    "desc": "La CNIL publie un guide RGPD pour les développeurs",
+    "lang": "HTML"
+  },
+  {
+    "title": "hzwer/shareOI",
+    "url": "https://github.com/hzwer/shareOI",
+    "desc": "OI & ACM 课件分享"
+  },
+  {
+    "title": "yuanming-hu/difftaichi",
+    "url": "https://github.com/yuanming-hu/difftaichi",
+    "desc": "10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security."
+  },
+  {
+    "title": "wuhan2020/wuhan2020",
+    "url": "https://github.com/wuhan2020/wuhan2020",
+    "desc": "武汉新型冠状病毒防疫信息收集平台"
+  },
+  {
+    "title": "oldboyxx/jira_clone",
+    "url": "https://github.com/oldboyxx/jira_clone",
+    "desc": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BlankerL/DXY-2019-nCoV-Crawler",
+    "url": "https://github.com/BlankerL/DXY-2019-nCoV-Crawler",
+    "desc": "2019新型冠状病毒疫情实时爬虫",
+    "lang": "Python"
+  },
+  {
+    "title": "wuhan2020/map-viz",
+    "url": "https://github.com/wuhan2020/map-viz",
+    "desc": "通用的地图可视化组件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "sam-hosseini/freelancing-in-finland",
+    "url": "https://github.com/sam-hosseini/freelancing-in-finland",
+    "desc": "The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮"
+  },
+  {
+    "title": "globalcitizen/2019-wuhan-coronavirus-data",
+    "url": "https://github.com/globalcitizen/2019-wuhan-coronavirus-data",
+    "desc": "2019 Wuhan Coronavirus data (2019-nCoV)",
+    "lang": "PHP"
+  },
+  {
+    "title": "dabl/dabl",
+    "url": "https://github.com/dabl/dabl",
+    "desc": "Data Analysis Baseline Library",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "desc": "SpiderFoot, the most complete OSINT collection and reconnaissance tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "wuhan2020/WebApp",
+    "url": "https://github.com/wuhan2020/WebApp",
+    "desc": "渐进式 Web 应用",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "desc": "Official repo for the #tidytuesday project",
+    "lang": "R"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱"
+  },
+  {
+    "title": "skriegman/reconfigurable_organisms",
+    "url": "https://github.com/skriegman/reconfigurable_organisms",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "desc": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "rish-16/sight",
+    "url": "https://github.com/rish-16/sight",
+    "desc": "👁Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "desc": "Companion webpage to the book Mathematics For Machine Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Awesome-Windows/Awesome",
+    "url": "https://github.com/Awesome-Windows/Awesome",
+    "desc": "💻 An awesome & curated list of best applications and tools for Windows."
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "lang": "Python"
+  }
+]
