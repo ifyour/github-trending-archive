@@ -1,0 +1,142 @@
+[
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱"
+  },
+  {
+    "title": "jonnyhyman/Chaos",
+    "url": "https://github.com/jonnyhyman/Chaos",
+    "desc": "Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video",
+    "lang": "Python"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LINCnil/Guide-RGPD-du-developpeur",
+    "url": "https://github.com/LINCnil/Guide-RGPD-du-developpeur",
+    "desc": "La CNIL publie un guide RGPD pour les développeurs",
+    "lang": "HTML"
+  },
+  {
+    "title": "Pysamlam/Tips-of-Feature-engineering",
+    "url": "https://github.com/Pysamlam/Tips-of-Feature-engineering",
+    "desc": "A feature engineering kit for each issue, to give you a deeper and deeper understanding of the work of feature engineering!"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "Serenity Operating System",
+    "lang": "C++"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security."
+  },
+  {
+    "title": "yuanming-hu/difftaichi",
+    "url": "https://github.com/yuanming-hu/difftaichi",
+    "desc": "10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)"
+  },
+  {
+    "title": "MarkSimos/MicrosoftSecurity",
+    "url": "https://github.com/MarkSimos/MicrosoftSecurity",
+    "desc": "Microsoft Security Guidance"
+  },
+  {
+    "title": "sam-hosseini/freelancing-in-finland",
+    "url": "https://github.com/sam-hosseini/freelancing-in-finland",
+    "desc": "The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮"
+  },
+  {
+    "title": "hzwer/shareOI",
+    "url": "https://github.com/hzwer/shareOI",
+    "desc": "算法竞赛课件分享"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google AI Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "desc": "jQuery JavaScript Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "aj-4/tinder-swipe-bot",
+    "url": "https://github.com/aj-4/tinder-swipe-bot",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "helm/charts",
+    "url": "https://github.com/helm/charts",
+    "desc": "Curated applications for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+  },
+  {
+    "title": "flutter/samples",
+    "url": "https://github.com/flutter/samples",
+    "desc": "A collection of Flutter examples and demos.",
+    "lang": "Dart"
+  },
+  {
+    "title": "eastlakeside/interpy-zh",
+    "url": "https://github.com/eastlakeside/interpy-zh",
+    "desc": "📘《Python进阶》（Intermediate Python 中文版）",
+    "lang": "Python"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "desc": "A collection of useful .gitignore templates"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "desc": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "lang": "Python"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  }
+]
