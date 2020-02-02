@@ -1,0 +1,147 @@
+[
+  {
+    "title": "google/OpenSK",
+    "url": "https://github.com/google/OpenSK",
+    "desc": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
+    "lang": "Rust"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "Dm2333/ATTCK-PenTester-Book",
+    "url": "https://github.com/Dm2333/ATTCK-PenTester-Book",
+    "desc": "ATTCK-PenTester-Book"
+  },
+  {
+    "title": "facebookresearch/hiplot",
+    "url": "https://github.com/facebookresearch/hiplot",
+    "desc": "HiPlot makes understanding high dimensional data easy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+  },
+  {
+    "title": "RPiList/specials",
+    "url": "https://github.com/RPiList/specials",
+    "desc": ""
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "desc": "A list of semi to fully remote-friendly companies in tech.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jonnyhyman/Chaos",
+    "url": "https://github.com/jonnyhyman/Chaos",
+    "desc": "Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video",
+    "lang": "Python"
+  },
+  {
+    "title": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "desc": "SpiderFoot, the most complete OSINT collection and reconnaissance tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "ClaudiuGeorgiu/PlaystoreDownloader",
+    "url": "https://github.com/ClaudiuGeorgiu/PlaystoreDownloader",
+    "desc": "A command line tool to download Android applications directly from the Google Play Store",
+    "lang": "Python"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-windows",
+    "url": "https://github.com/shadowsocks/shadowsocks-windows",
+    "desc": "If you want to keep a secret, you must also hide it from yourself.",
+    "lang": "C#"
+  },
+  {
+    "title": "getlantern/lantern",
+    "url": "https://github.com/getlantern/lantern",
+    "desc": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator",
+    "lang": "Go"
+  },
+  {
+    "title": "jackzhenguo/python-small-examples",
+    "url": "https://github.com/jackzhenguo/python-small-examples",
+    "desc": "Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "sovereign/sovereign",
+    "url": "https://github.com/sovereign/sovereign",
+    "desc": "A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/stylegan2",
+    "url": "https://github.com/NVlabs/stylegan2",
+    "desc": "StyleGAN2 - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "desc": "The Kotlin Programming Language",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  }
+]
