@@ -1,0 +1,146 @@
+[
+  {
+    "title": "KikiLetGo/VirusBroadcast",
+    "url": "https://github.com/KikiLetGo/VirusBroadcast",
+    "desc": "A java virus broadcast simulation",
+    "lang": "Java"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BlankerL/DXY-2019-nCoV-Data",
+    "url": "https://github.com/BlankerL/DXY-2019-nCoV-Data",
+    "desc": "2019新型冠状病毒疫情时间序列数据仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-aws",
+    "url": "https://github.com/terraform-providers/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "lang": "Go"
+  },
+  {
+    "title": "Echowxsy/CMPEDUDownload",
+    "url": "https://github.com/Echowxsy/CMPEDUDownload",
+    "desc": "机械工业出版社PDF下载器",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-amplify/amplify-cli",
+    "url": "https://github.com/aws-amplify/amplify-cli",
+    "desc": "A CLI toolchain for simplifying serverless web and mobile development.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "teivah/algodeck",
+    "url": "https://github.com/teivah/algodeck",
+    "desc": "An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯"
+  },
+  {
+    "title": "apple/swift-crypto",
+    "url": "https://github.com/apple/swift-crypto",
+    "desc": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.",
+    "lang": "Swift"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+  },
+  {
+    "title": "LinusHenze/Fugu",
+    "url": "https://github.com/LinusHenze/Fugu",
+    "desc": "Fugu is the first open source jailbreak based on the checkm8 exploit",
+    "lang": "C"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "desc": "A list of semi to fully remote-friendly companies in tech.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tangyudi/Ai-learn",
+    "url": "https://github.com/tangyudi/Ai-learn",
+    "desc": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域"
+  },
+  {
+    "title": "openlayers/openlayers",
+    "url": "https://github.com/openlayers/openlayers",
+    "desc": "OpenLayers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "desc": "An unidentifiable mechanism that helps you bypass GFW.",
+    "lang": "C++"
+  },
+  {
+    "title": "bitsadmin/fakelogonscreen",
+    "url": "https://github.com/bitsadmin/fakelogonscreen",
+    "desc": "Fake Windows logon screen to steal passwords",
+    "lang": "C#"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AzureAD/microsoft-authentication-library-for-js",
+    "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
+    "desc": "Microsoft Authentication Library (MSAL) for JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "desc": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "lang": "C"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "Canop/broot",
+    "url": "https://github.com/Canop/broot",
+    "desc": "A new way to see and navigate directory trees : https://dystroy.org/broot",
+    "lang": "Rust"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  }
+]
