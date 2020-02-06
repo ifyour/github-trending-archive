@@ -1,0 +1,145 @@
+[
+  {
+    "title": "2019ncovmemory/nCovMemory",
+    "url": "https://github.com/2019ncovmemory/nCovMemory",
+    "desc": "2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）"
+  },
+  {
+    "title": "Inori/GPCS4",
+    "url": "https://github.com/Inori/GPCS4",
+    "desc": "A Playstation 4 emulator just begin",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/DarkModeKit",
+    "url": "https://github.com/microsoft/DarkModeKit",
+    "desc": "A library for backporting Dark Mode in iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "smodnix/31-days-of-API-Security-Tips",
+    "url": "https://github.com/smodnix/31-days-of-API-Security-Tips",
+    "desc": "This challenge is Inon Shkedy's 31 days API Security Tips."
+  },
+  {
+    "title": "KikiLetGo/VirusBroadcast",
+    "url": "https://github.com/KikiLetGo/VirusBroadcast",
+    "desc": "A java virus broadcast simulation",
+    "lang": "Java"
+  },
+  {
+    "title": "OLayemii/chyker-foods",
+    "url": "https://github.com/OLayemii/chyker-foods",
+    "desc": "A food ordering app built with flutter and firebase",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "🚀 Fiber is an Express.js inspired web framework written in Go 🐿️",
+    "lang": "Go"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry"
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "quozd/awesome-dotnet",
+    "url": "https://github.com/quozd/awesome-dotnet",
+    "desc": "A collection of awesome .NET libraries, tools, frameworks and software"
+  },
+  {
+    "title": "tangyudi/Ai-learn",
+    "url": "https://github.com/tangyudi/Ai-learn",
+    "desc": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域"
+  },
+  {
+    "title": "eth0izzle/shhgit",
+    "url": "https://github.com/eth0izzle/shhgit",
+    "desc": "Ah shhgit! Find GitHub secrets in real time",
+    "lang": "Go"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "desc": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "tychxn/jd-assistant",
+    "url": "https://github.com/tychxn/jd-assistant",
+    "desc": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "lang": "Python"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "desc": "Companion webpage to the book Mathematics For Machine Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "desc": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "lang": "Python"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "sathishvj/awesome-gcp-certifications",
+    "url": "https://github.com/sathishvj/awesome-gcp-certifications",
+    "desc": "Google Cloud Platform Certification resources."
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "desc": "A PHP framework for web artisans",
+    "lang": "PHP"
+  }
+]
