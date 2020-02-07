@@ -1,0 +1,148 @@
+[
+  {
+    "title": "2019ncovmemory/nCovMemory",
+    "url": "https://github.com/2019ncovmemory/nCovMemory",
+    "desc": "2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "KikiLetGo/VirusBroadcast",
+    "url": "https://github.com/KikiLetGo/VirusBroadcast",
+    "desc": "A java virus broadcast simulation",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookresearch/pytorch3d",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "desc": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+    "lang": "Python"
+  },
+  {
+    "title": "zhanyong-wan/dongbei",
+    "url": "https://github.com/zhanyong-wan/dongbei",
+    "desc": "东北方言编程语言",
+    "lang": "Python"
+  },
+  {
+    "title": "NVAITC/ai-lab",
+    "url": "https://github.com/NVAITC/ai-lab",
+    "desc": "All-in-one AI container for rapid prototyping",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "B-Lang-org/bsc",
+    "url": "https://github.com/B-Lang-org/bsc",
+    "desc": "Bluespec Compiler (BSC)",
+    "lang": "Haskell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "smodnix/31-days-of-API-Security-Tips",
+    "url": "https://github.com/smodnix/31-days-of-API-Security-Tips",
+    "desc": "This challenge is Inon Shkedy's 31 days API Security Tips."
+  },
+  {
+    "title": "microsoft/WhatTheHack",
+    "url": "https://github.com/microsoft/WhatTheHack",
+    "desc": "A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.",
+    "lang": "HTML"
+  },
+  {
+    "title": "Inori/GPCS4",
+    "url": "https://github.com/Inori/GPCS4",
+    "desc": "A Playstation 4 emulator just begin",
+    "lang": "C++"
+  },
+  {
+    "title": "justinamiller/SoftwareArchitect",
+    "url": "https://github.com/justinamiller/SoftwareArchitect",
+    "desc": "Path to a Software Architect"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "🚀 Fiber is an Express.js inspired web framework written in Go 🐿️",
+    "lang": "Go"
+  },
+  {
+    "title": "OLayemii/chyker-foods",
+    "url": "https://github.com/OLayemii/chyker-foods",
+    "desc": "A food ordering app built with flutter and firebase",
+    "lang": "Dart"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "desc": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "lang": "Python"
+  },
+  {
+    "title": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaredpalmer/tsdx",
+    "url": "https://github.com/jaredpalmer/tsdx",
+    "desc": "Zero-config CLI for TypeScript package development",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "desc": "The PHP Interpreter",
+    "lang": "C"
+  },
+  {
+    "title": "yewstack/yew",
+    "url": "https://github.com/yewstack/yew",
+    "desc": "Rust / Wasm framework for building client web apps",
+    "lang": "Rust"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "lang": "Shell"
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "desc": "💥 Listing some playful open-source's challenges of jobs to test your knowledge"
+  },
+  {
+    "title": "ehang-io/nps",
+    "url": "https://github.com/ehang-io/nps",
+    "desc": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+    "lang": "Go"
+  }
+]
