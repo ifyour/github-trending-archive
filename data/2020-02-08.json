@@ -1,0 +1,149 @@
+[
+  {
+    "title": "facebookresearch/pytorch3d",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "desc": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+    "lang": "Python"
+  },
+  {
+    "title": "trustedsec/SysmonCommunityGuide",
+    "url": "https://github.com/trustedsec/SysmonCommunityGuide",
+    "desc": "TrustedSec Sysinternals Sysmon Community Guide",
+    "lang": "CSS"
+  },
+  {
+    "title": "complexdb/zincbase",
+    "url": "https://github.com/complexdb/zincbase",
+    "desc": "A state of the art knowledge base",
+    "lang": "Python"
+  },
+  {
+    "title": "2019ncovmemory/nCovMemory",
+    "url": "https://github.com/2019ncovmemory/nCovMemory",
+    "desc": "2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCov: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)",
+    "lang": "Vue"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "🚀 Fiber is an Express.js inspired web framework written in Go with 💖",
+    "lang": "Go"
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "desc": "💥 Listing some playful open-source's challenges of jobs to test your knowledge"
+  },
+  {
+    "title": "ReFirmLabs/binwalk",
+    "url": "https://github.com/ReFirmLabs/binwalk",
+    "desc": "Firmware Analysis Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "tangyudi/Ai-learn",
+    "url": "https://github.com/tangyudi/Ai-learn",
+    "desc": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "Inori/GPCS4",
+    "url": "https://github.com/Inori/GPCS4",
+    "desc": "A Playstation 4 emulator just begin",
+    "lang": "C++"
+  },
+  {
+    "title": "KevinMusgrave/pytorch-metric-learning",
+    "url": "https://github.com/KevinMusgrave/pytorch-metric-learning",
+    "desc": "The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.",
+    "lang": "Python"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Deploy machine learning models in production",
+    "lang": "Go"
+  },
+  {
+    "title": "cycz/jdBuyMask",
+    "url": "https://github.com/cycz/jdBuyMask",
+    "desc": "京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫",
+    "lang": "Python"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 8 and .NET Core 3.1",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/WhatTheHack",
+    "url": "https://github.com/microsoft/WhatTheHack",
+    "desc": "A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.",
+    "lang": "HTML"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tlbootcamp/tlroadmap",
+    "url": "https://github.com/tlbootcamp/tlroadmap",
+    "desc": "👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов",
+    "lang": "Python"
+  },
+  {
+    "title": "aspnetboilerplate/aspnetboilerplate",
+    "url": "https://github.com/aspnetboilerplate/aspnetboilerplate",
+    "desc": "ASP.NET Boilerplate - Web Application Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "desc": ".NET is a cross-platform runtime for cloud, IoT, and desktop apps.",
+    "lang": "C#"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  }
+]
