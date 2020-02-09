@@ -1,0 +1,149 @@
+[
+  {
+    "title": "domlysz/BlenderGIS",
+    "url": "https://github.com/domlysz/BlenderGIS",
+    "desc": "Blender addons to make the bridge between Blender and geographic data",
+    "lang": "Python"
+  },
+  {
+    "title": "jiayiliujiayi/2020nCov_individual_archives",
+    "url": "https://github.com/jiayiliujiayi/2020nCov_individual_archives",
+    "desc": "Every individual matters. Every individual has a role to play. 备份普通人在疫情期间的记录。（持续翻译 & 更新中）",
+    "lang": "R"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Deploy machine learning models in production",
+    "lang": "Go"
+  },
+  {
+    "title": "facebookresearch/pytorch3d",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "desc": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+    "lang": "Python"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "🚀 Fiber is an Express.js inspired web framework written in Go with 💖",
+    "lang": "Go"
+  },
+  {
+    "title": "twostraws/Sitrep",
+    "url": "https://github.com/twostraws/Sitrep",
+    "desc": "A source code analyzer for Swift projects.",
+    "lang": "Swift"
+  },
+  {
+    "title": "facebookresearch/meshrcnn",
+    "url": "https://github.com/facebookresearch/meshrcnn",
+    "desc": "code for Mesh R-CNN, an academic publication, presented at ICCV 2019",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "desc": "💥 Listing some playful open-source's challenges of jobs to test your knowledge"
+  },
+  {
+    "title": "ReFirmLabs/binwalk",
+    "url": "https://github.com/ReFirmLabs/binwalk",
+    "desc": "Firmware Analysis Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "freddier/hyperblog",
+    "url": "https://github.com/freddier/hyperblog",
+    "desc": "Un blog increíble para el curso de Git y Github de Platzi",
+    "lang": "HTML"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "desc": "阅读3.0",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "calebporzio/sushi",
+    "url": "https://github.com/calebporzio/sushi",
+    "desc": "Eloquent's missing array driver.",
+    "lang": "PHP"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trustedsec/SysmonCommunityGuide",
+    "url": "https://github.com/trustedsec/SysmonCommunityGuide",
+    "desc": "TrustedSec Sysinternals Sysmon Community Guide",
+    "lang": "CSS"
+  }
+]
