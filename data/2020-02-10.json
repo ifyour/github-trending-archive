@@ -1,0 +1,148 @@
+[
+  {
+    "title": "davidfowl/Todos",
+    "url": "https://github.com/davidfowl/Todos",
+    "desc": "Various todo list backend API implementations",
+    "lang": "C#"
+  },
+  {
+    "title": "fchollet/deep-learning-with-python-notebooks",
+    "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+    "desc": "Jupyter notebooks for the code samples of the book Deep Learning with Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "cycz/jdBuyMask",
+    "url": "https://github.com/cycz/jdBuyMask",
+    "desc": "京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫",
+    "lang": "Python"
+  },
+  {
+    "title": "domlysz/BlenderGIS",
+    "url": "https://github.com/domlysz/BlenderGIS",
+    "desc": "Blender addons to make the bridge between Blender and geographic data",
+    "lang": "Python"
+  },
+  {
+    "title": "sdushantha/fontpreview",
+    "url": "https://github.com/sdushantha/fontpreview",
+    "desc": "🔡 Very customizable and minimal font previewer written in bash",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Deploy machine learning models in production",
+    "lang": "Go"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "desc": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "f/fatura",
+    "url": "https://github.com/f/fatura",
+    "desc": "eArşiv / eFatura Fatura Oluşturucu",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "The-Cracker-Technology/ANDRAX-Mobile-Pentest",
+    "url": "https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest",
+    "desc": "ANDRAX Advanced Penetration Testing Platform for Android Smartphones",
+    "lang": "C"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "C++"
+  },
+  {
+    "title": "Rlacat/jd-automask",
+    "url": "https://github.com/Rlacat/jd-automask",
+    "desc": "防护-京东口罩自动抢购并下单",
+    "lang": "Python"
+  },
+  {
+    "title": "ppy/osu",
+    "url": "https://github.com/ppy/osu",
+    "desc": "rhythm is just a *click* away!",
+    "lang": "C#"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "🚀 Fiber is an Express.js inspired web framework written in Go with 💖",
+    "lang": "Go"
+  },
+  {
+    "title": "ConnersHua/Profiles",
+    "url": "https://github.com/ConnersHua/Profiles",
+    "desc": ""
+  },
+  {
+    "title": "prakhar1989/awesome-courses",
+    "url": "https://github.com/prakhar1989/awesome-courses",
+    "desc": "📚 List of awesome university courses for learning Computer Science!"
+  },
+  {
+    "title": "CodelyTV/php-ddd-example",
+    "url": "https://github.com/CodelyTV/php-ddd-example",
+    "desc": "🐘🎯 Hexagonal Architecture + DDD + CQRS applied in PHP using Symfony 5",
+    "lang": "PHP"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "desc": "阅读3.0",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/ESRGAN",
+    "url": "https://github.com/xinntao/ESRGAN",
+    "desc": "ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution (Third Region)",
+    "lang": "Python"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "desc": "🚀 Awesome list of open source applications for macOS.",
+    "lang": "Swift"
+  }
+]
