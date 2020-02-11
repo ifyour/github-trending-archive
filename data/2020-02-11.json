@@ -1,0 +1,148 @@
+[
+  {
+    "title": "fyne-io/fyne",
+    "url": "https://github.com/fyne-io/fyne",
+    "desc": "Cross platform GUI in Go based on Material Design",
+    "lang": "Go"
+  },
+  {
+    "title": "davidfowl/Todos",
+    "url": "https://github.com/davidfowl/Todos",
+    "desc": "Various todo list backend API implementations",
+    "lang": "C#"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "360EntSecGroup-Skylar/excelize",
+    "url": "https://github.com/360EntSecGroup-Skylar/excelize",
+    "desc": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+    "lang": "Go"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "adelf/acwa_book_ru",
+    "url": "https://github.com/adelf/acwa_book_ru",
+    "desc": "Книга Архитектура сложных веб-приложений. С примерами на Laravel"
+  },
+  {
+    "title": "brettkromkamp/contextualise",
+    "url": "https://github.com/brettkromkamp/contextualise",
+    "desc": "Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources",
+    "lang": "Python"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "🚀 Fiber is an Express.js inspired web framework written in Go with 💖",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/extensions",
+    "url": "https://github.com/dotnet/extensions",
+    "desc": ".NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.",
+    "lang": "C#"
+  },
+  {
+    "title": "fchollet/deep-learning-with-python-notebooks",
+    "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+    "desc": "Jupyter notebooks for the code samples of the book Deep Learning with Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Deploy machine learning models in production",
+    "lang": "Go"
+  },
+  {
+    "title": "mxgmn/WaveFunctionCollapse",
+    "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "desc": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.",
+    "lang": "C#"
+  },
+  {
+    "title": "philc/vimium",
+    "url": "https://github.com/philc/vimium",
+    "desc": "The hacker's browser.",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "marian42/wavefunctioncollapse",
+    "url": "https://github.com/marian42/wavefunctioncollapse",
+    "desc": "Walk through an infinite, procedurally generated city",
+    "lang": "C#"
+  },
+  {
+    "title": "banzaicloud/bank-vaults",
+    "url": "https://github.com/banzaicloud/bank-vaults",
+    "desc": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",
+    "lang": "Go"
+  },
+  {
+    "title": "ShusenTang/Dive-into-DL-PyTorch",
+    "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+    "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "sdushantha/fontpreview",
+    "url": "https://github.com/sdushantha/fontpreview",
+    "desc": "🔡 Very customizable and minimal font previewer written in bash",
+    "lang": "Shell"
+  },
+  {
+    "title": "furkankadioglu/efatura",
+    "url": "https://github.com/furkankadioglu/efatura",
+    "desc": "eArşiv üzerinden Fatura Oluşturucu",
+    "lang": "PHP"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "thedevs-network/kutt",
+    "url": "https://github.com/thedevs-network/kutt",
+    "desc": "Free Modern URL Shortener.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ton-blockchain/ton",
+    "url": "https://github.com/ton-blockchain/ton",
+    "desc": "",
+    "lang": "C++"
+  }
+]
