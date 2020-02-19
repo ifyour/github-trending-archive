@@ -58,7 +58,7 @@ function formatData(data = [], type) {
   return null;
 }
 
-axios.get('https://github.com/trending').then(({ data }) => {
+axios.get('https://i-cors.herokuapp.com/?https://github.com/trending').then(({ data }) => {
   const date = formatDate('yyyy-MM-dd');
   const arr = crawlData(data);
   saveFile('../data/', `${date}.json`, formatData(arr, 'json'));
