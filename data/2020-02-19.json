@@ -1,0 +1,146 @@
+[
+  {
+    "title": "VGraupera/1on1-questions",
+    "url": "https://github.com/VGraupera/1on1-questions",
+    "desc": "Mega list of 1 on 1 meeting questions compiled from a variety to sources",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "snooppr/snoop",
+    "url": "https://github.com/snooppr/snoop",
+    "desc": "Snoop — инструмент разведки на основе открытых данных",
+    "lang": "Python"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "google/trax",
+    "url": "https://github.com/google/trax",
+    "desc": "Trax — your path to advanced deep learning",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "rohanrhu/gdb-frontend",
+    "url": "https://github.com/rohanrhu/gdb-frontend",
+    "desc": "☕ GDBFrontend is an easy, flexible and extensionable gui debugger.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "jackzhenguo/python-small-examples",
+    "url": "https://github.com/jackzhenguo/python-small-examples",
+    "desc": "Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。",
+    "lang": "Python"
+  },
+  {
+    "title": "Merkie/freespeech",
+    "url": "https://github.com/Merkie/freespeech",
+    "desc": "A free program designed to help the non-verbal.",
+    "lang": "Vue"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "y-x-c/wearable-microphone-jamming",
+    "url": "https://github.com/y-x-c/wearable-microphone-jamming",
+    "desc": "Repository for our paper Wearable Microphone Jamming",
+    "lang": "C++"
+  },
+  {
+    "title": "tycrek/degoogle",
+    "url": "https://github.com/tycrek/degoogle",
+    "desc": "A huge list of alternatives to Google products. Privacy tips, tricks, and links."
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "desc": "🧠 Leon is your open-source personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "enaqx/awesome-pentest",
+    "url": "https://github.com/enaqx/awesome-pentest",
+    "desc": "A collection of awesome penetration testing resources, tools and other shiny things"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ZhongFuCheng3y/3y",
+    "url": "https://github.com/ZhongFuCheng3y/3y",
+    "desc": "📓从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ardalis/CleanArchitecture",
+    "url": "https://github.com/ardalis/CleanArchitecture",
+    "desc": "A starting point for Clean Architecture with ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "desc": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "lang": "C#"
+  },
+  {
+    "title": "briannesbitt/Carbon",
+    "url": "https://github.com/briannesbitt/Carbon",
+    "desc": "A simple PHP API extension for DateTime.",
+    "lang": "PHP"
+  },
+  {
+    "title": "jethrokuan/org-roam",
+    "url": "https://github.com/jethrokuan/org-roam",
+    "desc": "Rudimentary Roam replica with Org-mode",
+    "lang": "EmacsLisp"
+  }
+]
