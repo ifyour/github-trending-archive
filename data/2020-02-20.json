@@ -1,0 +1,146 @@
+[
+  {
+    "title": "jasonmayes/Real-Time-Person-Removal",
+    "url": "https://github.com/jasonmayes/Real-Time-Person-Removal",
+    "desc": "Removing people from complex backgrounds in real time using TensorFlow.js in the web browser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "y-x-c/wearable-microphone-jamming",
+    "url": "https://github.com/y-x-c/wearable-microphone-jamming",
+    "desc": "Repository for our paper Wearable Microphone Jamming",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "amzn/computer-vision-basics-in-microsoft-excel",
+    "url": "https://github.com/amzn/computer-vision-basics-in-microsoft-excel",
+    "desc": "Computer Vision Basics in Microsoft Excel (using just formulas)"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "handshake-org/hs-airdrop",
+    "url": "https://github.com/handshake-org/hs-airdrop",
+    "desc": "Decentralized airdrop to open source developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "MaterializeInc/materialize",
+    "url": "https://github.com/MaterializeInc/materialize",
+    "desc": "The Streaming Data Warehouse",
+    "lang": "Rust"
+  },
+  {
+    "title": "awslabs/amazon-sagemaker-examples",
+    "url": "https://github.com/awslabs/amazon-sagemaker-examples",
+    "desc": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sc0tfree/updog",
+    "url": "https://github.com/sc0tfree/updog",
+    "desc": "Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.",
+    "lang": "Python"
+  },
+  {
+    "title": "tycrek/degoogle",
+    "url": "https://github.com/tycrek/degoogle",
+    "desc": "A huge list of alternatives to Google products. Privacy tips, tricks, and links."
+  },
+  {
+    "title": "scullyio/scully",
+    "url": "https://github.com/scullyio/scully",
+    "desc": "The Static Site Generator for Angular apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wechat-miniprogram/kbone",
+    "url": "https://github.com/wechat-miniprogram/kbone",
+    "desc": "Web 与小程序同构解决方案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "reduxjs/cra-template-redux",
+    "url": "https://github.com/reduxjs/cra-template-redux",
+    "desc": "The official Redux+JS template for Create React App",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "klionsec/RedTeamer",
+    "url": "https://github.com/klionsec/RedTeamer",
+    "desc": "红方人员作战执行手册"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Awesome-Windows/Awesome",
+    "url": "https://github.com/Awesome-Windows/Awesome",
+    "desc": "💻 🎉 An awesome & curated list of best applications and tools for Windows."
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "desc": "Companion webpage to the book Mathematics For Machine Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "desc": "📚 Community guides for open source creators",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wcandillon/can-it-be-done-in-react-native",
+    "url": "https://github.com/wcandillon/can-it-be-done-in-react-native",
+    "desc": "⚛️📺Projects from the “Can it be done in React Native?” YouTube series",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]",
+    "lang": "Go"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "RichTextFormat"
+  }
+]
