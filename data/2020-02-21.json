@@ -1,0 +1,147 @@
+[
+  {
+    "title": "OpenRCE/Malware-Analysis-Training",
+    "url": "https://github.com/OpenRCE/Malware-Analysis-Training",
+    "desc": "Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.",
+    "lang": "HTML"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "iikira/BaiduPCS-Go",
+    "url": "https://github.com/iikira/BaiduPCS-Go",
+    "desc": "百度网盘客户端 - Go语言编写",
+    "lang": "Go"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (January 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "desc": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "lang": "Python"
+  },
+  {
+    "title": "amzn/computer-vision-basics-in-microsoft-excel",
+    "url": "https://github.com/amzn/computer-vision-basics-in-microsoft-excel",
+    "desc": "Computer Vision Basics in Microsoft Excel (using just formulas)"
+  },
+  {
+    "title": "Kr328/ClashForAndroid",
+    "url": "https://github.com/Kr328/ClashForAndroid",
+    "desc": "A rule-based tunnel for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "desc": "To Be Top Javaer - Java工程师成神之路",
+    "lang": "Java"
+  },
+  {
+    "title": "blackboxo/AutoDeleteFileOnPCWechat",
+    "url": "https://github.com/blackboxo/AutoDeleteFileOnPCWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  },
+  {
+    "title": "P3TERX/Actions-OpenWrt",
+    "url": "https://github.com/P3TERX/Actions-OpenWrt",
+    "desc": "Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt",
+    "lang": "Shell"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Rocketseat/unform",
+    "url": "https://github.com/Rocketseat/unform",
+    "desc": "Easy peasy high scalable ReactJS & React Native forms! 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "sindresorhus/refined-github",
+    "url": "https://github.com/sindresorhus/refined-github",
+    "desc": "Browser extension that simplifies the GitHub interface and adds useful features",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AdrienTorris/awesome-blazor",
+    "url": "https://github.com/AdrienTorris/awesome-blazor",
+    "desc": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+  },
+  {
+    "title": "Awesome-Windows/Awesome",
+    "url": "https://github.com/Awesome-Windows/Awesome",
+    "desc": "💻 🎉 An awesome & curated list of best applications and tools for Windows."
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]",
+    "lang": "Go"
+  },
+  {
+    "title": "linlinjava/litemall",
+    "url": "https://github.com/linlinjava/litemall",
+    "desc": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端",
+    "lang": "Java"
+  },
+  {
+    "title": "reduxjs/cra-template-redux",
+    "url": "https://github.com/reduxjs/cra-template-redux",
+    "desc": "The official Redux+JS template for Create React App",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "desc": "Official repo for the #tidytuesday project",
+    "lang": "R"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "jasonmayes/Real-Time-Person-Removal",
+    "url": "https://github.com/jasonmayes/Real-Time-Person-Removal",
+    "desc": "Removing people from complex backgrounds in real time using TensorFlow.js in the web browser",
+    "lang": "JavaScript"
+  }
+]
