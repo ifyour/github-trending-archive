@@ -1,0 +1,150 @@
+[
+  {
+    "title": "OpenRCE/Malware-Analysis-Training",
+    "url": "https://github.com/OpenRCE/Malware-Analysis-Training",
+    "desc": "Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.",
+    "lang": "HTML"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (January 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Shpota/goxygen",
+    "url": "https://github.com/Shpota/goxygen",
+    "desc": "Generate a modern web project with Go, React and MongoDB in seconds.",
+    "lang": "Go"
+  },
+  {
+    "title": "Awesome-Windows/Awesome",
+    "url": "https://github.com/Awesome-Windows/Awesome",
+    "desc": "💻 🎉 An awesome & curated list of best applications and tools for Windows."
+  },
+  {
+    "title": "woltapp/blurhash",
+    "url": "https://github.com/woltapp/blurhash",
+    "desc": "A very compact representation of a placeholder for an image.",
+    "lang": "C"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "desc": "🦔 PostHog is developer-friendly, open-source product analytics.",
+    "lang": "Python"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "lang": "Python"
+  },
+  {
+    "title": "threedr3am/learnjavabug",
+    "url": "https://github.com/threedr3am/learnjavabug",
+    "desc": "Java安全相关的漏洞和技术demo，其中包括原生Java、Fastjson、Jackson、Hessian2以及XML反序列化漏洞利用和Dubbo（Hessian2反序列化）、Shiro（PaddingOracleCBC）等框架的exploits，并且还有Java Security Manager绕过、Dubbo-Hessian2安全加固、RMI、tomcat漏洞利用等等实践代码。",
+    "lang": "Java"
+  },
+  {
+    "title": "jasonmayes/Real-Time-Person-Removal",
+    "url": "https://github.com/jasonmayes/Real-Time-Person-Removal",
+    "desc": "Removing people from complex backgrounds in real time using TensorFlow.js in the web browser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "desc": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "saadpasta/react-blog-github",
+    "url": "https://github.com/saadpasta/react-blog-github",
+    "desc": "React + Github Issues 👉 Your Personal Blog 🔥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "material-components/material-components-android",
+    "url": "https://github.com/material-components/material-components-android",
+    "desc": "Modular and customizable Material Design UI components for Android",
+    "lang": "Java"
+  },
+  {
+    "title": "man-group/dtale",
+    "url": "https://github.com/man-group/dtale",
+    "desc": "Flask/React client for visualizing pandas data structures",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepmind/dm-haiku",
+    "url": "https://github.com/deepmind/dm-haiku",
+    "desc": "JAX-based neural network library",
+    "lang": "Python"
+  },
+  {
+    "title": "terryum/awesome-deep-learning-papers",
+    "url": "https://github.com/terryum/awesome-deep-learning-papers",
+    "desc": "The most cited deep learning papers",
+    "lang": "TeX"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "haotian-wang/google-access-helper",
+    "url": "https://github.com/haotian-wang/google-access-helper",
+    "desc": "谷歌访问助手破解版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/packages",
+    "url": "https://github.com/flutter/packages",
+    "desc": "A collection of useful packages maintained by the Flutter team",
+    "lang": "Dart"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  }
+]
