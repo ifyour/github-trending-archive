@@ -1,0 +1,150 @@
+[
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "norvig/pytudes",
+    "url": "https://github.com/norvig/pytudes",
+    "desc": "Python programs to practice or demonstrate skills.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (January 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "woltapp/blurhash",
+    "url": "https://github.com/woltapp/blurhash",
+    "desc": "A very compact representation of a placeholder for an image.",
+    "lang": "C"
+  },
+  {
+    "title": "haotian-wang/google-access-helper",
+    "url": "https://github.com/haotian-wang/google-access-helper",
+    "desc": "谷歌访问助手破解版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "Shpota/goxygen",
+    "url": "https://github.com/Shpota/goxygen",
+    "desc": "Generate a modern web project with Go, React and MongoDB in seconds.",
+    "lang": "Go"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "desc": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "youngwanLEE/centermask2",
+    "url": "https://github.com/youngwanLEE/centermask2",
+    "desc": "CenterMask2 on top of detectron2",
+    "lang": "Python"
+  },
+  {
+    "title": "TheWanderingCoel/Trojan-Qt5",
+    "url": "https://github.com/TheWanderingCoel/Trojan-Qt5",
+    "desc": "A cross-platform trojan GUI client based on Shadowsocks-qt",
+    "lang": "C"
+  },
+  {
+    "title": "pjreddie/darknet",
+    "url": "https://github.com/pjreddie/darknet",
+    "desc": "Convolutional Neural Networks",
+    "lang": "C"
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "desc": "A curated list of applied machine learning and data science notebooks and libraries across different industries."
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "desc": "⏬ Dumb downloader that scrapes the web",
+    "lang": "Python"
+  },
+  {
+    "title": "Kr328/ClashForAndroid",
+    "url": "https://github.com/Kr328/ClashForAndroid",
+    "desc": "A rule-based tunnel for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "daolf/Most-recommended-programming-books",
+    "url": "https://github.com/daolf/Most-recommended-programming-books",
+    "desc": "The most recommended programming books of all-time."
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "desc": "An unidentifiable mechanism that helps you bypass GFW.",
+    "lang": "C++"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "desc": "To Be Top Javaer - Java工程师成神之路",
+    "lang": "Java"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "lang": "C"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "OpenRCE/Malware-Analysis-Training",
+    "url": "https://github.com/OpenRCE/Malware-Analysis-Training",
+    "desc": "Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.",
+    "lang": "HTML"
+  }
+]
