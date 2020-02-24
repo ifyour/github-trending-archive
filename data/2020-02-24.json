@@ -1,0 +1,147 @@
+[
+  {
+    "title": "WaykiChain/WaykiChain",
+    "url": "https://github.com/WaykiChain/WaykiChain",
+    "desc": "Public Blockchain as a Decentralized Economy Infrastructure Service Platform",
+    "lang": "C++"
+  },
+  {
+    "title": "wolverinn/Waking-Up",
+    "url": "https://github.com/wolverinn/Waking-Up",
+    "desc": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击面试；可用于模拟面试、面试前复习、短期内快速备战面试..."
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "norvig/pytudes",
+    "url": "https://github.com/norvig/pytudes",
+    "desc": "Python programs to practice or demonstrate skills.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The largest Node.js best practices list (January 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "monoxgas/Koppeling",
+    "url": "https://github.com/monoxgas/Koppeling",
+    "desc": "Adaptive DLL hijacking / dynamic export forwarding",
+    "lang": "C++"
+  },
+  {
+    "title": "TheWanderingCoel/Trojan-Qt5",
+    "url": "https://github.com/TheWanderingCoel/Trojan-Qt5",
+    "desc": "A cross-platform trojan GUI client based on Shadowsocks-qt",
+    "lang": "C"
+  },
+  {
+    "title": "TotallyNotChase/glitch-this",
+    "url": "https://github.com/TotallyNotChase/glitch-this",
+    "desc": "📷 Glitchify static images to glitched images and GIFs!",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "desc": "To Be Top Javaer - Java工程师成神之路",
+    "lang": "Java"
+  },
+  {
+    "title": "SpaceVim/SpaceVim",
+    "url": "https://github.com/SpaceVim/SpaceVim",
+    "desc": "A community-driven modular vim distribution - The ultimate vim configuration",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "deepmind/trfl",
+    "url": "https://github.com/deepmind/trfl",
+    "desc": "TensorFlow Reinforcement Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "anye931123/react-visual-editor",
+    "url": "https://github.com/anye931123/react-visual-editor",
+    "desc": "React可视化编辑",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mozilla/GSOC2020",
+    "url": "https://github.com/mozilla/GSOC2020",
+    "desc": "Mozilla and GSOC 2020"
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "desc": "A curated list of applied machine learning and data science notebooks and libraries across different industries."
+  },
+  {
+    "title": "Shpota/goxygen",
+    "url": "https://github.com/Shpota/goxygen",
+    "desc": "👩🏻‍💻 Generate a modern web project with Go, React and MongoDB in seconds 🚀",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "frank-lam/fullstack-tutorial",
+    "url": "https://github.com/frank-lam/fullstack-tutorial",
+    "desc": "🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试",
+    "lang": "Java"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  }
+]
