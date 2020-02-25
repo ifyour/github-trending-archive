@@ -1,0 +1,148 @@
+[
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "wolverinn/Waking-Up",
+    "url": "https://github.com/wolverinn/Waking-Up",
+    "desc": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试..."
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "guardianproject/haven",
+    "url": "https://github.com/guardianproject/haven",
+    "desc": "Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors",
+    "lang": "Java"
+  },
+  {
+    "title": "AIZOOTech/FaceMaskDetection",
+    "url": "https://github.com/AIZOOTech/FaceMaskDetection",
+    "desc": "开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "desc": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "codeigniter4/CodeIgniter4",
+    "url": "https://github.com/codeigniter4/CodeIgniter4",
+    "desc": "Open Source PHP Framework (originally from EllisLab)",
+    "lang": "PHP"
+  },
+  {
+    "title": "plaidml/plaidml",
+    "url": "https://github.com/plaidml/plaidml",
+    "desc": "PlaidML is a framework for making deep learning work everywhere.",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "skydoves/DisneyMotions",
+    "url": "https://github.com/skydoves/DisneyMotions",
+    "desc": "🦁 A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin) architecture.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "OpenAstroTech/OpenAstroTracker",
+    "url": "https://github.com/OpenAstroTech/OpenAstroTracker",
+    "desc": "3D printed DSLR tracking mount",
+    "lang": "C#"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "desc": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "lang": "Python"
+  },
+  {
+    "title": "IdentityModel/oidc-client-js",
+    "url": "https://github.com/IdentityModel/oidc-client-js",
+    "desc": "OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/re2",
+    "url": "https://github.com/google/re2",
+    "desc": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "title": "vapor/vapor",
+    "url": "https://github.com/vapor/vapor",
+    "desc": "💧 A server-side Swift web framework.",
+    "lang": "Swift"
+  },
+  {
+    "title": "spring-projects/spring-security",
+    "url": "https://github.com/spring-projects/spring-security",
+    "desc": "Spring Security",
+    "lang": "Java"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  }
+]
