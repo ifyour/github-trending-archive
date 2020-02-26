@@ -1,0 +1,146 @@
+[
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "refactoringui/heroicons",
+    "url": "https://github.com/refactoringui/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development."
+  },
+  {
+    "title": "Netflix/dispatch",
+    "url": "https://github.com/Netflix/dispatch",
+    "desc": "All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!",
+    "lang": "Python"
+  },
+  {
+    "title": "WaykiChain/WaykiChain",
+    "url": "https://github.com/WaykiChain/WaykiChain",
+    "desc": "Public Blockchain as a Decentralized Economy Infrastructure Service Platform",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "desc": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "title": "colikno/91Porn-crawler",
+    "url": "https://github.com/colikno/91Porn-crawler",
+    "desc": "🌭💦 91porn爬虫在线API接口（永久有效） 及 在线web预览",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "0xd4d/dnSpy",
+    "url": "https://github.com/0xd4d/dnSpy",
+    "desc": ".NET debugger and assembly editor",
+    "lang": "C#"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "desc": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "conanhujinming/tips_for_interview",
+    "url": "https://github.com/conanhujinming/tips_for_interview",
+    "desc": "Some of my thoughts about interview. 我的一些面试心得"
+  },
+  {
+    "title": "cilium/ebpf",
+    "url": "https://github.com/cilium/ebpf",
+    "desc": "eBPF Library for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "5cr1pt/GitCracken",
+    "url": "https://github.com/5cr1pt/GitCracken",
+    "desc": "Crack GitKraken",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "magento/magento2",
+    "url": "https://github.com/magento/magento2",
+    "desc": "All Submissions you make to Magento Inc. (Magento) through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…",
+    "lang": "PHP"
+  },
+  {
+    "title": "aim-uofa/adet",
+    "url": "https://github.com/aim-uofa/adet",
+    "desc": "AdelaiDet is an open source toolbox for multiple instance-level detection applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "benawad/destiny",
+    "url": "https://github.com/benawad/destiny",
+    "desc": "Prettier for File Structures",
+    "lang": "TypeScript"
+  }
+]
