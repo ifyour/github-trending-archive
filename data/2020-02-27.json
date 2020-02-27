@@ -1,0 +1,140 @@
+[
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "labuladong 的算法小抄，总结各种常考算法的套路，助力刷题面试（作者应届生，顺带求实习）"
+  },
+  {
+    "title": "allthemusicllc/atm-cli",
+    "url": "https://github.com/allthemusicllc/atm-cli",
+    "desc": "Command line tool for generating and working with MIDI files.",
+    "lang": "Rust"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "Netflix/dispatch",
+    "url": "https://github.com/Netflix/dispatch",
+    "desc": "All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kotartemiy/newscatcher",
+    "url": "https://github.com/kotartemiy/newscatcher",
+    "desc": "Programmatically collect normalized news from (almost) any website.",
+    "lang": "Python"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "RitikPatni/Front-End-Web-Development-Resources",
+    "url": "https://github.com/RitikPatni/Front-End-Web-Development-Resources",
+    "desc": "This repository contains content which will be helpful in your journey as a front-end Web Developer"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "denysdovhan/wtfjs",
+    "url": "https://github.com/denysdovhan/wtfjs",
+    "desc": "A list of funny and tricky JavaScript examples",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Machine-Learning-Tokyo/AI_Curriculum",
+    "url": "https://github.com/Machine-Learning-Tokyo/AI_Curriculum",
+    "desc": "Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley."
+  },
+  {
+    "title": "snipe/snipe-it",
+    "url": "https://github.com/snipe/snipe-it",
+    "desc": "A free open source IT asset/license management system",
+    "lang": "PHP"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "refactoringui/heroicons",
+    "url": "https://github.com/refactoringui/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development."
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "polakowo/vectorbt",
+    "url": "https://github.com/polakowo/vectorbt",
+    "desc": "Python library for backtesting and analyzing trading strategies at scale",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bacen/pix-dict-api",
+    "url": "https://github.com/bacen/pix-dict-api",
+    "desc": "API do DICT - Diretório de Identificadores de Contas Transacionais"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "open source driving agent",
+    "lang": "C++"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  }
+]
