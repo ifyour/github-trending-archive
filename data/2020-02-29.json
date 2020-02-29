@@ -1,0 +1,147 @@
+[
+  {
+    "title": "apple/swift-argument-parser",
+    "url": "https://github.com/apple/swift-argument-parser",
+    "desc": "Straightforward, type-safe argument parsing for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "kaz-ogiwara/covid19",
+    "url": "https://github.com/kaz-ogiwara/covid19",
+    "desc": "新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English translation is processing... Star this repo and come back soon:)"
+  },
+  {
+    "title": "JackZhu426/ElysiumMall",
+    "url": "https://github.com/JackZhu426/ElysiumMall",
+    "desc": "My Own Online Mall Project Using SpringBoot",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookexperimental/rome",
+    "url": "https://github.com/facebookexperimental/rome",
+    "desc": "An experimental JavaScript toolchain",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "chockenberry/MarkdownAttributedString",
+    "url": "https://github.com/chockenberry/MarkdownAttributedString",
+    "desc": "Adding Markdown support to NSAttributedString.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "klever1988/nanopi-openwrt",
+    "url": "https://github.com/klever1988/nanopi-openwrt",
+    "desc": "nanopi r1s r2s固件编译",
+    "lang": "Shell"
+  },
+  {
+    "title": "Tencent/kbone",
+    "url": "https://github.com/Tencent/kbone",
+    "desc": "一个致力于微信小程序和 Web 端同构的解决方案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mherrmann/helium",
+    "url": "https://github.com/mherrmann/helium",
+    "desc": "Selenium-python, 50% easier. Helium is the best Python library for web automation.",
+    "lang": "Python"
+  },
+  {
+    "title": "FBDevCLagos/The-Internship-v1",
+    "url": "https://github.com/FBDevCLagos/The-Internship-v1",
+    "desc": "That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real…"
+  },
+  {
+    "title": "modood/Administrative-divisions-of-China",
+    "url": "https://github.com/modood/Administrative-divisions-of-China",
+    "desc": "中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dodyg/practical-aspnetcore",
+    "url": "https://github.com/dodyg/practical-aspnetcore",
+    "desc": "Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.",
+    "lang": "C#"
+  },
+  {
+    "title": "OLayemii/uberr-ui",
+    "url": "https://github.com/OLayemii/uberr-ui",
+    "desc": "Flutter UI design for a car booking application",
+    "lang": "Dart"
+  },
+  {
+    "title": "Wox-launcher/Wox",
+    "url": "https://github.com/Wox-launcher/Wox",
+    "desc": "Launcher for Windows, an alternative to Alfred and Launchy.",
+    "lang": "C#"
+  },
+  {
+    "title": "allthemusicllc/atm-cli",
+    "url": "https://github.com/allthemusicllc/atm-cli",
+    "desc": "Command line tool for generating and working with MIDI files.",
+    "lang": "Rust"
+  },
+  {
+    "title": "pattle/simpsons-in-css",
+    "url": "https://github.com/pattle/simpsons-in-css",
+    "desc": "Simpsons characters in CSS",
+    "lang": "CSS"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "shunsukesaito/PIFu",
+    "url": "https://github.com/shunsukesaito/PIFu",
+    "desc": "This repository contains the code for the paper PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization",
+    "lang": "Python"
+  },
+  {
+    "title": "hoya012/deep_learning_object_detection",
+    "url": "https://github.com/hoya012/deep_learning_object_detection",
+    "desc": "A paper list of object detection using deep learning."
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列",
+    "lang": "Go"
+  },
+  {
+    "title": "meshtastic/Meshtastic-esp32",
+    "url": "https://github.com/meshtastic/Meshtastic-esp32",
+    "desc": "Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio",
+    "lang": "C++"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "desc": "Quarkus: Supersonic Subatomic Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  }
+]
