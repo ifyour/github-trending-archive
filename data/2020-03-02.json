@@ -1,0 +1,147 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "cyanharlow/purecss-francine",
+    "url": "https://github.com/cyanharlow/purecss-francine",
+    "desc": "HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.",
+    "lang": "CSS"
+  },
+  {
+    "title": "JackZhu426/ElysiumMall",
+    "url": "https://github.com/JackZhu426/ElysiumMall",
+    "desc": "My Own Online Mall Project Using SpringBoot",
+    "lang": "Java"
+  },
+  {
+    "title": "dodyg/practical-aspnetcore",
+    "url": "https://github.com/dodyg/practical-aspnetcore",
+    "desc": "Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.",
+    "lang": "C#"
+  },
+  {
+    "title": "informatici/openhospital",
+    "url": "https://github.com/informatici/openhospital",
+    "desc": "Open Hospital is a free and open source software for healthcare data management. This repository is used to build its portable releases.",
+    "lang": "Perl"
+  },
+  {
+    "title": "junaid33/opensource.builders",
+    "url": "https://github.com/junaid33/opensource.builders",
+    "desc": "Find open-source alternatives",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!"
+  },
+  {
+    "title": "CLUEbenchmark/CLUEDatasetSearch",
+    "url": "https://github.com/CLUEbenchmark/CLUEDatasetSearch",
+    "desc": "搜索所有中文NLP数据集，附常用英文NLP数据集",
+    "lang": "Python"
+  },
+  {
+    "title": "FBDevCLagos/The-Internship-v1",
+    "url": "https://github.com/FBDevCLagos/The-Internship-v1",
+    "desc": "That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real…"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列",
+    "lang": "Go"
+  },
+  {
+    "title": "Tessellate-Imaging/monk_v1",
+    "url": "https://github.com/Tessellate-Imaging/monk_v1",
+    "desc": "Monk is a low code Deep Learning tool and a unified wrapper for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "pattle/simpsons-in-css",
+    "url": "https://github.com/pattle/simpsons-in-css",
+    "desc": "Simpsons characters in CSS",
+    "lang": "CSS"
+  },
+  {
+    "title": "astrit/css.gg",
+    "url": "https://github.com/astrit/css.gg",
+    "desc": "500+ CSS Icons. Customizable, Retina Ready with API & NPM",
+    "lang": "CSS"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "alebcay/awesome-shell",
+    "url": "https://github.com/alebcay/awesome-shell",
+    "desc": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+  },
+  {
+    "title": "apple/swift-argument-parser",
+    "url": "https://github.com/apple/swift-argument-parser",
+    "desc": "Straightforward, type-safe argument parsing for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "tomohideshibata/BERT-related-papers",
+    "url": "https://github.com/tomohideshibata/BERT-related-papers",
+    "desc": "BERT-related papers"
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "desc": "Git with a cup of tea, painless self-hosted git service",
+    "lang": "Go"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "huawei-noah/ghostnet",
+    "url": "https://github.com/huawei-noah/ghostnet",
+    "desc": "[CVPR2020] Surpassing MobileNetV3: GhostNet: More Features from Cheap Operations",
+    "lang": "Python"
+  },
+  {
+    "title": "huginn/huginn",
+    "url": "https://github.com/huginn/huginn",
+    "desc": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+    "lang": "Ruby"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "Spring Boot 2.X 专栏更新完毕，Spring Cloud & Spring Cloud Alibaba 2.X 专栏更新中 。欢迎胖友 Star 一波",
+    "lang": "Java"
+  },
+  {
+    "title": "mkocabas/VIBE",
+    "url": "https://github.com/mkocabas/VIBE",
+    "desc": "Official implementation of CVPR2020 paper VIBE: Video Inference for Human Body Pose and Shape Estimation",
+    "lang": "Python"
+  }
+]
