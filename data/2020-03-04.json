@@ -1,0 +1,144 @@
+[
+  {
+    "title": "ctgk/PRML",
+    "url": "https://github.com/ctgk/PRML",
+    "desc": "PRML algorithms implemented in Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alexeygrigorev/data-science-interviews",
+    "url": "https://github.com/alexeygrigorev/data-science-interviews",
+    "desc": "Data science interview questions and answers"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!"
+  },
+  {
+    "title": "Rapiz1/DungeonRush",
+    "url": "https://github.com/Rapiz1/DungeonRush",
+    "desc": "👾🐍 A game inspired by Snake, written in pure C with SDL",
+    "lang": "C"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "google/fuzzbench",
+    "url": "https://github.com/google/fuzzbench",
+    "desc": "FuzzBench - Fuzzer benchmarking as a service.",
+    "lang": "Python"
+  },
+  {
+    "title": "Shpota/goxygen",
+    "url": "https://github.com/Shpota/goxygen",
+    "desc": "Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "thomasp85/ggplot2_workshop",
+    "url": "https://github.com/thomasp85/ggplot2_workshop",
+    "desc": "Material for Drawing Anything with ggplot2 workshop"
+  },
+  {
+    "title": "mike-goodwin/owasp-threat-dragon-desktop",
+    "url": "https://github.com/mike-goodwin/owasp-threat-dragon-desktop",
+    "desc": "An installable desktop variant of OWASP Threat Dragon",
+    "lang": "CSS"
+  },
+  {
+    "title": "philc/vimium",
+    "url": "https://github.com/philc/vimium",
+    "desc": "The hacker's browser.",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+  },
+  {
+    "title": "David-Else/modern-typescript-with-examples-cheat-sheet",
+    "url": "https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet",
+    "desc": "Fully printable summary of modern TypeScript language features with extensive examples to help you learn"
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "desc": "An open source library for face detection in images. The face detection speed can reach 1000FPS.",
+    "lang": "C++"
+  },
+  {
+    "title": "astrit/css.gg",
+    "url": "https://github.com/astrit/css.gg",
+    "desc": "500+ CSS Icons. Customizable, Retina Ready with API & NPM",
+    "lang": "CSS"
+  },
+  {
+    "title": "dodyg/practical-aspnetcore",
+    "url": "https://github.com/dodyg/practical-aspnetcore",
+    "desc": "Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.",
+    "lang": "C#"
+  },
+  {
+    "title": "zio/zio",
+    "url": "https://github.com/zio/zio",
+    "desc": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "lang": "Scala"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jettify/pytorch-optimizer",
+    "url": "https://github.com/jettify/pytorch-optimizer",
+    "desc": "torch-optimizer -- collection of optimizers for Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "desc": "A PHP framework for web artisans",
+    "lang": "PHP"
+  },
+  {
+    "title": "alebcay/awesome-shell",
+    "url": "https://github.com/alebcay/awesome-shell",
+    "desc": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+  },
+  {
+    "title": "midas-network/COVID-19",
+    "url": "https://github.com/midas-network/COVID-19",
+    "desc": "2019 novel coronavirus repository"
+  },
+  {
+    "title": "rack/rack",
+    "url": "https://github.com/rack/rack",
+    "desc": "a modular Ruby webserver interface",
+    "lang": "Ruby"
+  },
+  {
+    "title": "elastic/logstash",
+    "url": "https://github.com/elastic/logstash",
+    "desc": "Logstash - transport and process your logs, events, or other data",
+    "lang": "Ruby"
+  }
+]
