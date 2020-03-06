@@ -1,0 +1,150 @@
+[
+  {
+    "title": "tokyo-metropolitan-gov/covid19",
+    "url": "https://github.com/tokyo-metropolitan-gov/covid19",
+    "desc": "東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website",
+    "lang": "Vue"
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "desc": "An open source library for face detection in images. The face detection speed can reach 1000FPS.",
+    "lang": "C++"
+  },
+  {
+    "title": "keroro824/HashingDeepLearning",
+    "url": "https://github.com/keroro824/HashingDeepLearning",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "monitoror/monitoror",
+    "url": "https://github.com/monitoror/monitoror",
+    "desc": "Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.",
+    "lang": "Go"
+  },
+  {
+    "title": "corellium/projectsandcastle",
+    "url": "https://github.com/corellium/projectsandcastle",
+    "desc": "Supporting tools for Android/Linux on the iPhone",
+    "lang": "C"
+  },
+  {
+    "title": "kelseyhightower/nocode",
+    "url": "https://github.com/kelseyhightower/nocode",
+    "desc": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "alexeygrigorev/data-science-interviews",
+    "url": "https://github.com/alexeygrigorev/data-science-interviews",
+    "desc": "Data science interview questions and answers"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "desc": "Deep Learning (with PyTorch)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "The GitHub CLI",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "nextstrain/ncov",
+    "url": "https://github.com/nextstrain/ncov",
+    "desc": "Nextstrain build for novel coronavirus (nCoV)",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/stylegan2",
+    "url": "https://github.com/NVlabs/stylegan2",
+    "desc": "StyleGAN2 - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.",
+    "lang": "Python"
+  },
+  {
+    "title": "marmelab/react-admin",
+    "url": "https://github.com/marmelab/react-admin",
+    "desc": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "matplotlib/matplotlib",
+    "url": "https://github.com/matplotlib/matplotlib",
+    "desc": "matplotlib: plotting with Python",
+    "lang": "Python"
+  },
+  {
+    "title": "bacen/pix-dict-quickstart",
+    "url": "https://github.com/bacen/pix-dict-quickstart",
+    "desc": "Quickstart da API do DICT",
+    "lang": "Java"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spring-projects/spring-boot",
+    "url": "https://github.com/spring-projects/spring-boot",
+    "desc": "Spring Boot",
+    "lang": "Java"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React hooks for forms validation without the hassle.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zhou-xiaojun/jd_mask",
+    "url": "https://github.com/zhou-xiaojun/jd_mask",
+    "desc": "京东定时自动预约,抢购.(只针对性支持要先预约,到点抢购.然后直接下单的商品!)",
+    "lang": "Python"
+  }
+]
