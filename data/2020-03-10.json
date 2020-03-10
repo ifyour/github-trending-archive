@@ -1,0 +1,146 @@
+[
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "desc": "COVID-19 Italia - Monitoraggio situazione"
+  },
+  {
+    "title": "ouyanghuiyu/chineseocr_lite",
+    "url": "https://github.com/ouyanghuiyu/chineseocr_lite",
+    "desc": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M",
+    "lang": "C++"
+  },
+  {
+    "title": "leelovejava/cloud2020",
+    "url": "https://github.com/leelovejava/cloud2020",
+    "desc": "SpringCloud",
+    "lang": "Java"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+  },
+  {
+    "title": "iikira/BaiduPCS-Go",
+    "url": "https://github.com/iikira/BaiduPCS-Go",
+    "desc": "百度网盘客户端 - Go语言编写",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "PizzaPokerGuy/ultimate-coding-resources",
+    "url": "https://github.com/PizzaPokerGuy/ultimate-coding-resources",
+    "desc": "A collection of the best resources for programming, web development, computer science and more."
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "amusi/CVPR2020-Code",
+    "url": "https://github.com/amusi/CVPR2020-Code",
+    "desc": "CVPR 2020 论文开源项目合集"
+  },
+  {
+    "title": "subnub/myDrive",
+    "url": "https://github.com/subnub/myDrive",
+    "desc": "Node.js and mongoDB Google Drive Clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ziishaned/learn-regex",
+    "url": "https://github.com/ziishaned/learn-regex",
+    "desc": "Learn regex the easy way"
+  },
+  {
+    "title": "Screetsec/TheFatRat",
+    "url": "https://github.com/Screetsec/TheFatRat",
+    "desc": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+    "lang": "C"
+  },
+  {
+    "title": "guidovranken/vfuzz",
+    "url": "https://github.com/guidovranken/vfuzz",
+    "desc": "vfuzz",
+    "lang": "C++"
+  },
+  {
+    "title": "firstlookmedia/dangerzone",
+    "url": "https://github.com/firstlookmedia/dangerzone",
+    "desc": "Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF",
+    "lang": "Python"
+  },
+  {
+    "title": "ajeetdsouza/zoxide",
+    "url": "https://github.com/ajeetdsouza/zoxide",
+    "desc": "A fast cd command that learns your habits",
+    "lang": "Rust"
+  },
+  {
+    "title": "six2dez/wahh_extras",
+    "url": "https://github.com/six2dez/wahh_extras",
+    "desc": "The Web Application Hacker's Handbook - Extra Content",
+    "lang": "Java"
+  },
+  {
+    "title": "KeenS/webml",
+    "url": "https://github.com/KeenS/webml",
+    "desc": "A Standard ML Compiler for the Web",
+    "lang": "Rust"
+  },
+  {
+    "title": "marcinguy/CVE-2020-8597",
+    "url": "https://github.com/marcinguy/CVE-2020-8597",
+    "desc": "CVE-2020-8597",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/dispatch",
+    "url": "https://github.com/Netflix/dispatch",
+    "desc": "All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/incubator-shardingsphere",
+    "url": "https://github.com/apache/incubator-shardingsphere",
+    "desc": "Distributed database middleware",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "HospitalRun/hospitalrun-frontend",
+    "url": "https://github.com/HospitalRun/hospitalrun-frontend",
+    "desc": "Frontend for HospitalRun",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "lang": "Java"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "UniversalDataTool/universal-data-tool",
+    "url": "https://github.com/UniversalDataTool/universal-data-tool",
+    "desc": "Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.",
+    "lang": "JavaScript"
+  }
+]
