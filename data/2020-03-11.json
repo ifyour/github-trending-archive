@@ -1,0 +1,146 @@
+[
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "desc": "COVID-19 Italia - Monitoraggio situazione"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "lang": "Java"
+  },
+  {
+    "title": "ajeetdsouza/zoxide",
+    "url": "https://github.com/ajeetdsouza/zoxide",
+    "desc": "A fast cd command that learns your habits",
+    "lang": "Rust"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列",
+    "lang": "Go"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "amusi/CVPR2020-Code",
+    "url": "https://github.com/amusi/CVPR2020-Code",
+    "desc": "CVPR 2020 论文开源项目合集"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "tensorflow/quantum",
+    "url": "https://github.com/tensorflow/quantum",
+    "desc": "Hybrid Quantum-Classical Machine Learning in TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "SuprHackerSteve/Crescendo",
+    "url": "https://github.com/SuprHackerSteve/Crescendo",
+    "desc": "Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.",
+    "lang": "Swift"
+  },
+  {
+    "title": "PizzaPokerGuy/ultimate-coding-resources",
+    "url": "https://github.com/PizzaPokerGuy/ultimate-coding-resources",
+    "desc": "A collection of the best resources for programming, web development, computer science and more."
+  },
+  {
+    "title": "micheleg/dash-to-dock",
+    "url": "https://github.com/micheleg/dash-to-dock",
+    "desc": "A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "extreme-assistant/CVPR2020-Paper-Code-Interpretation",
+    "url": "https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation",
+    "desc": "cvpr2020/cvpr2019／cvpr2018/cvpr2017 papers，极市团队整理"
+  },
+  {
+    "title": "taviso/avscript",
+    "url": "https://github.com/taviso/avscript",
+    "desc": "Avast JavaScript Interactive Shell",
+    "lang": "C"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Netflix-Skunkworks/riskquant",
+    "url": "https://github.com/Netflix-Skunkworks/riskquant",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "lang": "Java"
+  },
+  {
+    "title": "UniversalDataTool/universal-data-tool",
+    "url": "https://github.com/UniversalDataTool/universal-data-tool",
+    "desc": "Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "subnub/myDrive",
+    "url": "https://github.com/subnub/myDrive",
+    "desc": "Node.js and mongoDB Google Drive Clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "UniLM - Unified Language Model Pre-training",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines",
+    "lang": "C++"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+  }
+]
