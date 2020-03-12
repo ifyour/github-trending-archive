@@ -1,0 +1,147 @@
+[
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "desc": "An operating system designed for hosting containers",
+    "lang": "Rust"
+  },
+  {
+    "title": "maxvoltar/photo-stream",
+    "url": "https://github.com/maxvoltar/photo-stream",
+    "desc": "Self-hosted, super simple photo stream",
+    "lang": "HTML"
+  },
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "desc": "COVID-19 Italia - Monitoraggio situazione"
+  },
+  {
+    "title": "redwoodjs/redwood",
+    "url": "https://github.com/redwoodjs/redwood",
+    "desc": "Bringing full-stack to the JAMstack.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tandasat/MiniVisorPkg",
+    "url": "https://github.com/tandasat/MiniVisorPkg",
+    "desc": "The research UEFI hypervisor that supports booting an operating system.",
+    "lang": "C"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "desc": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "meshtastic/Meshtastic-esp32",
+    "url": "https://github.com/meshtastic/Meshtastic-esp32",
+    "desc": "Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio",
+    "lang": "C++"
+  },
+  {
+    "title": "google-research/electra",
+    "url": "https://github.com/google-research/electra",
+    "desc": "ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "lang": "Java"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "EvgenyKashin/stylegan2-distillation",
+    "url": "https://github.com/EvgenyKashin/stylegan2-distillation",
+    "desc": ""
+  },
+  {
+    "title": "mai-lang-chai/Middleware-Vulnerability-detection",
+    "url": "https://github.com/mai-lang-chai/Middleware-Vulnerability-detection",
+    "desc": "CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15",
+    "lang": "Python"
+  },
+  {
+    "title": "MhdHejazi/CoronaTracker",
+    "url": "https://github.com/MhdHejazi/CoronaTracker",
+    "desc": "Coronavirus tracker app for iOS & macOS with maps & charts",
+    "lang": "Swift"
+  },
+  {
+    "title": "taviso/avscript",
+    "url": "https://github.com/taviso/avscript",
+    "desc": "Avast JavaScript Interactive Shell",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "CTF-MissFeng/bayonet",
+    "url": "https://github.com/CTF-MissFeng/bayonet",
+    "desc": "bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统",
+    "lang": "Python"
+  },
+  {
+    "title": "PizzaPokerGuy/ultimate-coding-resources",
+    "url": "https://github.com/PizzaPokerGuy/ultimate-coding-resources",
+    "desc": "A collection of the best resources for programming, web development, computer science and more."
+  },
+  {
+    "title": "Tencent/DVQA",
+    "url": "https://github.com/Tencent/DVQA",
+    "desc": "Deep learning-based Video Quality Assessment",
+    "lang": "Python"
+  },
+  {
+    "title": "emergenzeHack/covid19italia",
+    "url": "https://github.com/emergenzeHack/covid19italia",
+    "desc": "Condividiamo informazioni e segnalazioni sul COVID19",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "lemire/fast_double_parser",
+    "url": "https://github.com/lemire/fast_double_parser",
+    "desc": "Fast function to parse strings into double (binary64) floating-point values",
+    "lang": "C++"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "lang": "PHP"
+  }
+]
