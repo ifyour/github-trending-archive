@@ -1,0 +1,145 @@
+[
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines",
+    "lang": "C++"
+  },
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "desc": "An operating system designed for hosting containers",
+    "lang": "Rust"
+  },
+  {
+    "title": "phildini/stayinghomeclub",
+    "url": "https://github.com/phildini/stayinghomeclub",
+    "desc": "A list of all the companies WFH or events changed because of covid-19",
+    "lang": "Ruby"
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "MhdHejazi/CoronaTracker",
+    "url": "https://github.com/MhdHejazi/CoronaTracker",
+    "desc": "Coronavirus tracker app for iOS & macOS with maps & charts",
+    "lang": "Swift"
+  },
+  {
+    "title": "maxvoltar/photo-stream",
+    "url": "https://github.com/maxvoltar/photo-stream",
+    "desc": "Self-hosted, super simple photo stream",
+    "lang": "HTML"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "ollypwn/SMBGhost",
+    "url": "https://github.com/ollypwn/SMBGhost",
+    "desc": "Scanner for CVE-2020-0796 - SMBv3 RCE",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wenyan-lang/wenyan",
+    "url": "https://github.com/wenyan-lang/wenyan",
+    "desc": "文言文編程語言 A programming language for the ancient Chinese.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "denisidoro/navi",
+    "url": "https://github.com/denisidoro/navi",
+    "desc": "An interactive cheatsheet tool for the command-line",
+    "lang": "Rust"
+  },
+  {
+    "title": "aalansehaiyang/technology-talk",
+    "url": "https://github.com/aalansehaiyang/technology-talk",
+    "desc": "汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识"
+  },
+  {
+    "title": "pop-os/shell",
+    "url": "https://github.com/pop-os/shell",
+    "desc": "Pop!_OS Shell - WIP",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "herrbischoff/awesome-macos-command-line",
+    "url": "https://github.com/herrbischoff/awesome-macos-command-line",
+    "desc": "Use your macOS terminal shell to do awesome things."
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "taviso/loadlibrary",
+    "url": "https://github.com/taviso/loadlibrary",
+    "desc": "Porting Windows Dynamic Link Libraries to Linux",
+    "lang": "C"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EvgenyKashin/stylegan2-distillation",
+    "url": "https://github.com/EvgenyKashin/stylegan2-distillation",
+    "desc": ""
+  },
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "desc": "COVID-19 Italia - Monitoraggio situazione"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/FBGEMM",
+    "url": "https://github.com/pytorch/FBGEMM",
+    "desc": "FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/",
+    "lang": "C++"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "lang": "Java"
+  }
+]
