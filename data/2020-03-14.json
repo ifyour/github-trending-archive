@@ -1,0 +1,144 @@
+[
+  {
+    "title": "gwen001/pentest-tools",
+    "url": "https://github.com/gwen001/pentest-tools",
+    "desc": "Custom pentesting tools",
+    "lang": "Python"
+  },
+  {
+    "title": "CavsZhouyou/Front-End-Interview-Notebook",
+    "url": "https://github.com/CavsZhouyou/Front-End-Interview-Notebook",
+    "desc": "🐜前端面试复习笔记"
+  },
+  {
+    "title": "denisidoro/navi",
+    "url": "https://github.com/denisidoro/navi",
+    "desc": "An interactive cheatsheet tool for the command-line",
+    "lang": "Rust"
+  },
+  {
+    "title": "pop-os/shell",
+    "url": "https://github.com/pop-os/shell",
+    "desc": "Pop!_OS Shell - WIP",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cve-2020-0796/cve-2020-0796",
+    "url": "https://github.com/cve-2020-0796/cve-2020-0796",
+    "desc": "CVE-2020-0796 - a wormable SMBv3 vulnerability. How to work.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines",
+    "lang": "C++"
+  },
+  {
+    "title": "ollypwn/SMBGhost",
+    "url": "https://github.com/ollypwn/SMBGhost",
+    "desc": "Scanner for CVE-2020-0796 - SMBv3 RCE",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nextstrain/ncov",
+    "url": "https://github.com/nextstrain/ncov",
+    "desc": "Nextstrain build for novel coronavirus (nCoV)",
+    "lang": "Python"
+  },
+  {
+    "title": "midas-network/COVID-19",
+    "url": "https://github.com/midas-network/COVID-19",
+    "desc": "2019 novel coronavirus repository"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "aalansehaiyang/technology-talk",
+    "url": "https://github.com/aalansehaiyang/technology-talk",
+    "desc": "汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识"
+  },
+  {
+    "title": "MhdHejazi/CoronaTracker",
+    "url": "https://github.com/MhdHejazi/CoronaTracker",
+    "desc": "Coronavirus tracker app for iOS & macOS with maps & charts",
+    "lang": "Swift"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FoldingAtHome/coronavirus",
+    "url": "https://github.com/FoldingAtHome/coronavirus",
+    "desc": "Folding@home COVID-19 efforts",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "joesocktwo/Wall-Street-Bets-Master-Doc",
+    "url": "https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc",
+    "desc": "This repository is intended for research pertaining to the repo market and the international banking system. It is to be used for analysis by the autists of WSB."
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "konradkalemba/korona.ws",
+    "url": "https://github.com/konradkalemba/korona.ws",
+    "desc": "Map of confirmed coronavirus cases in Poland",
+    "lang": "JavaScript"
+  }
+]
