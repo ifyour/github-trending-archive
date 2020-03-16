@@ -1,0 +1,150 @@
+[
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "ExpDev07/coronavirus-tracker-api",
+    "url": "https://github.com/ExpDev07/coronavirus-tracker-api",
+    "desc": "🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🍼 Flask framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "opencovid19-fr/data",
+    "url": "https://github.com/opencovid19-fr/data",
+    "desc": "Consolidation des données de sources officielles concernant l'épidémie de COVID19",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "gwen001/pentest-tools",
+    "url": "https://github.com/gwen001/pentest-tools",
+    "desc": "Custom pentesting tools",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twiecki/covid19",
+    "url": "https://github.com/twiecki/covid19",
+    "desc": "Analyses about the COVID-19 virus",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/or-tools",
+    "url": "https://github.com/google/or-tools",
+    "desc": "Google's Operations Research tools:",
+    "lang": "C++"
+  },
+  {
+    "title": "FoldingAtHome/coronavirus",
+    "url": "https://github.com/FoldingAtHome/coronavirus",
+    "desc": "Folding@home COVID-19 efforts",
+    "lang": "Python"
+  },
+  {
+    "title": "mathdroid/covid-19-api",
+    "url": "https://github.com/mathdroid/covid-19-api",
+    "desc": "COVID-19 global data (from JHU CSSE for now) as-a-service",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "BlankerL/DXY-COVID-19-Data",
+    "url": "https://github.com/BlankerL/DXY-COVID-19-Data",
+    "desc": "2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse",
+    "lang": "Python"
+  },
+  {
+    "title": "aydinnyunus/Keylogger",
+    "url": "https://github.com/aydinnyunus/Keylogger",
+    "desc": "Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.",
+    "lang": "Python"
+  },
+  {
+    "title": "operator-framework/operator-lifecycle-manager",
+    "url": "https://github.com/operator-framework/operator-lifecycle-manager",
+    "desc": "A management framework for extending Kubernetes with Operators",
+    "lang": "Go"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "CTF-MissFeng/bayonet",
+    "url": "https://github.com/CTF-MissFeng/bayonet",
+    "desc": "bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统",
+    "lang": "Python"
+  },
+  {
+    "title": "Code-Pop/real-world-vue",
+    "url": "https://github.com/Code-Pop/real-world-vue",
+    "desc": "The application that we build in Vue Mastery's courses starting with Real World Vue",
+    "lang": "Vue"
+  },
+  {
+    "title": "midas-network/COVID-19",
+    "url": "https://github.com/midas-network/COVID-19",
+    "desc": "2019 novel coronavirus repository",
+    "lang": "TeX"
+  },
+  {
+    "title": "Code-Pop/watch-us-build-trello",
+    "url": "https://github.com/Code-Pop/watch-us-build-trello",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NovelCOVID/API",
+    "url": "https://github.com/NovelCOVID/API",
+    "desc": "API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "datadista/datasets",
+    "url": "https://github.com/datadista/datasets",
+    "desc": "Fuente de datos de los reportajes y proyectos de periodismo de investigación y datos de DATADISTA",
+    "lang": "HTML"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "CavsZhouyou/Front-End-Interview-Notebook",
+    "url": "https://github.com/CavsZhouyou/Front-End-Interview-Notebook",
+    "desc": "🐜前端面试复习笔记"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "lang": "C++"
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "desc": "Classical equations and diagrams in machine learning",
+    "lang": "TeX"
+  }
+]
