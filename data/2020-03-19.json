@@ -1,0 +1,146 @@
+[
+  {
+    "title": "zhoubolei/introRL",
+    "url": "https://github.com/zhoubolei/introRL",
+    "desc": "Intro to Reinforcement Learning (强化学习纲要）"
+  },
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "desc": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fastai/course-v4",
+    "url": "https://github.com/fastai/course-v4",
+    "desc": "Pre-release of v4 of course.fast.ai",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jcl5m1/ventilator",
+    "url": "https://github.com/jcl5m1/ventilator",
+    "desc": "Low-Cost Open Source Ventilator",
+    "lang": "C++"
+  },
+  {
+    "title": "spotify/backstage",
+    "url": "https://github.com/spotify/backstage",
+    "desc": "Backstage is an open platform for building developer portals",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/automl",
+    "url": "https://github.com/google/automl",
+    "desc": "Google Brain AutoML",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "ieee8023/covid-chestxray-dataset",
+    "url": "https://github.com/ieee8023/covid-chestxray-dataset",
+    "desc": "We are building an open database of COVID-19 cases with chest X-ray or CT images."
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "C"
+  },
+  {
+    "title": "midas-network/COVID-19",
+    "url": "https://github.com/midas-network/COVID-19",
+    "desc": "2019 novel coronavirus repository",
+    "lang": "TeX"
+  },
+  {
+    "title": "MayaPosch/NymphCast",
+    "url": "https://github.com/MayaPosch/NymphCast",
+    "desc": "Audio and video casting system with support for custom applications.",
+    "lang": "C++"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "sagarkarira/coronavirus-tracker-cli",
+    "url": "https://github.com/sagarkarira/coronavirus-tracker-cli",
+    "desc": "Track conronavirus cases from command line. curl https://corona-stats.online/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dsfsi/covid19za",
+    "url": "https://github.com/dsfsi/covid19za",
+    "desc": "COVID 19 Data and Dashboard for South Africa",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vikbez/covid-sortie",
+    "url": "https://github.com/vikbez/covid-sortie",
+    "desc": "Formulaire rapide d'autorisation de sortie covid-19",
+    "lang": "HTML"
+  },
+  {
+    "title": "Ethiopia-COVID19/community",
+    "url": "https://github.com/Ethiopia-COVID19/community",
+    "desc": "Welcome to Ethiopia COVID-19 Response Task Force Community"
+  },
+  {
+    "title": "newbee-ltd/newbee-mall",
+    "url": "https://github.com/newbee-ltd/newbee-mall",
+    "desc": "newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "jitsi/jitsi-meet",
+    "url": "https://github.com/jitsi/jitsi-meet",
+    "desc": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ionic-team/ionic",
+    "url": "https://github.com/ionic-team/ionic",
+    "desc": "Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  },
+  {
+    "title": "NovelCOVID/API",
+    "url": "https://github.com/NovelCOVID/API",
+    "desc": "API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ResultadosDigitais/matrix",
+    "url": "https://github.com/ResultadosDigitais/matrix",
+    "desc": "#matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.",
+    "lang": "JavaScript"
+  }
+]
