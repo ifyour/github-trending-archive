@@ -1,0 +1,147 @@
+[
+  {
+    "title": "tabler/tabler-icons",
+    "url": "https://github.com/tabler/tabler-icons",
+    "desc": "A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "desc": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "lang": "C#"
+  },
+  {
+    "title": "cwoomi/cert-covid19",
+    "url": "https://github.com/cwoomi/cert-covid19",
+    "desc": "Informationssammlung zum Thema CoVid-19"
+  },
+  {
+    "title": "MayaPosch/NymphCast",
+    "url": "https://github.com/MayaPosch/NymphCast",
+    "desc": "Audio and video casting system with support for custom applications.",
+    "lang": "C++"
+  },
+  {
+    "title": "zhoubolei/introRL",
+    "url": "https://github.com/zhoubolei/introRL",
+    "desc": "Intro to Reinforcement Learning (强化学习纲要）"
+  },
+  {
+    "title": "google/automl",
+    "url": "https://github.com/google/automl",
+    "desc": "Google Brain AutoML",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "spotify/backstage",
+    "url": "https://github.com/spotify/backstage",
+    "desc": "Backstage is an open platform for building developer portals",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "uber/piranha",
+    "url": "https://github.com/uber/piranha",
+    "desc": "A tool for refactoring code related to feature flag APIs",
+    "lang": "Java"
+  },
+  {
+    "title": "daenuprobst/covid19-cases-switzerland",
+    "url": "https://github.com/daenuprobst/covid19-cases-switzerland",
+    "desc": "Data from BAG Tweets made useful.",
+    "lang": "HTML"
+  },
+  {
+    "title": "jcl5m1/ventilator",
+    "url": "https://github.com/jcl5m1/ventilator",
+    "desc": "Low-Cost Open Source Ventilator or PAPR",
+    "lang": "C++"
+  },
+  {
+    "title": "WorldHealthOrganization/app",
+    "url": "https://github.com/WorldHealthOrganization/app",
+    "desc": "World Health Organization App",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NovelCOVID/API",
+    "url": "https://github.com/NovelCOVID/API",
+    "desc": "API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/covid19-dashboard",
+    "url": "https://github.com/github/covid19-dashboard",
+    "desc": "A site that displays up to date COVID-19 stats, powered by fastpages.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "r0ysue/AndroidSecurityStudy",
+    "url": "https://github.com/r0ysue/AndroidSecurityStudy",
+    "desc": "安卓应用安全学习",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）",
+    "lang": "Python"
+  },
+  {
+    "title": "tripleblindmarket/private-kit",
+    "url": "https://github.com/tripleblindmarket/private-kit",
+    "desc": "Private Kit, an open source privacy preserving system for using personal information",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "C"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+  },
+  {
+    "title": "SSHeRun/CS-Xmind-Note",
+    "url": "https://github.com/SSHeRun/CS-Xmind-Note",
+    "desc": "计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "desc": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "lang": "HTML"
+  },
+  {
+    "title": "natethegreate/hent-AI",
+    "url": "https://github.com/natethegreate/hent-AI",
+    "desc": "Automation of censor bar detection",
+    "lang": "HTML"
+  },
+  {
+    "title": "chuabingquan/helm",
+    "url": "https://github.com/chuabingquan/helm",
+    "desc": "💪 Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.",
+    "lang": "Dart"
+  }
+]
