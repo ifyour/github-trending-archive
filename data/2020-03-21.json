@@ -1,0 +1,148 @@
+[
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "desc": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ethereum-oasis/baseline",
+    "url": "https://github.com/ethereum-oasis/baseline",
+    "desc": "The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "web-platform-tests/wpt",
+    "url": "https://github.com/web-platform-tests/wpt",
+    "desc": "Test suites for Web platform specs — including WHATWG, W3C, and others",
+    "lang": "HTML"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "C"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "desc": "Things you can do with a browser in 2020 ☕️"
+  },
+  {
+    "title": "google/automl",
+    "url": "https://github.com/google/automl",
+    "desc": "Google Brain AutoML",
+    "lang": "Python"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）",
+    "lang": "Python"
+  },
+  {
+    "title": "cwoomi/cert-covid19",
+    "url": "https://github.com/cwoomi/cert-covid19",
+    "desc": "Informationssammlung zum Thema CoVid-19"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "leomelki/LoupGarou",
+    "url": "https://github.com/leomelki/LoupGarou",
+    "desc": "LoupGarou dans Minecraft par leomelki",
+    "lang": "Java"
+  },
+  {
+    "title": "Tencent/rapidjson",
+    "url": "https://github.com/Tencent/rapidjson",
+    "desc": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+    "lang": "C++"
+  },
+  {
+    "title": "daenuprobst/covid19-cases-switzerland",
+    "url": "https://github.com/daenuprobst/covid19-cases-switzerland",
+    "desc": "Data from BAG Tweets made useful.",
+    "lang": "HTML"
+  },
+  {
+    "title": "tbodt/ish",
+    "url": "https://github.com/tbodt/ish",
+    "desc": "Linux shell for iOS",
+    "lang": "C"
+  },
+  {
+    "title": "openZH/covid_19",
+    "url": "https://github.com/openZH/covid_19",
+    "desc": "COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Help closing the gaps:",
+    "lang": "R"
+  },
+  {
+    "title": "PizzaPokerGuy/ultimate-coding-resources",
+    "url": "https://github.com/PizzaPokerGuy/ultimate-coding-resources",
+    "desc": "A collection of the best resources for programming, web development, computer science and more."
+  },
+  {
+    "title": "soroushchehresa/awesome-coronavirus",
+    "url": "https://github.com/soroushchehresa/awesome-coronavirus",
+    "desc": "🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tabler/tabler-icons",
+    "url": "https://github.com/tabler/tabler-icons",
+    "desc": "A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MayaPosch/NymphCast",
+    "url": "https://github.com/MayaPosch/NymphCast",
+    "desc": "Audio and video casting system with support for custom applications.",
+    "lang": "C++"
+  },
+  {
+    "title": "r0ysue/AndroidSecurityStudy",
+    "url": "https://github.com/r0ysue/AndroidSecurityStudy",
+    "desc": "安卓应用安全学习",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "desc": "The next major version of Vue (WIP)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "jitsi/jitsi-meet",
+    "url": "https://github.com/jitsi/jitsi-meet",
+    "desc": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "desc": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "lang": "C#"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases",
+    "lang": "PHP"
+  }
+]
