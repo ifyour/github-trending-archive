@@ -1,0 +1,149 @@
+[
+  {
+    "title": "PatilShreyas/Foodium",
+    "url": "https://github.com/PatilShreyas/Foodium",
+    "desc": "🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）",
+    "lang": "Python"
+  },
+  {
+    "title": "graykode/nlp-tutorial",
+    "url": "https://github.com/graykode/nlp-tutorial",
+    "desc": "Natural Language Processing Tutorial for Deep Learning Researchers",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "KalleHallden/BookOmatic",
+    "url": "https://github.com/KalleHallden/BookOmatic",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "domoticz/domoticz",
+    "url": "https://github.com/domoticz/domoticz",
+    "desc": "Open source Home Automation System",
+    "lang": "C"
+  },
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "desc": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bmild/nerf",
+    "url": "https://github.com/bmild/nerf",
+    "desc": "Code release for NeRF (Neural Radiance Fields)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "desc": "Things you can do with a browser in 2020 ☕️"
+  },
+  {
+    "title": "didi/nightingale",
+    "url": "https://github.com/didi/nightingale",
+    "desc": "A Distributed and High-Performance Monitoring System",
+    "lang": "Go"
+  },
+  {
+    "title": "coronasafe/coronasafe.in",
+    "url": "https://github.com/coronasafe/coronasafe.in",
+    "desc": "A crowd-sourced guide to staying safe in Coronavirus disease (COVID-19) outbreak."
+  },
+  {
+    "title": "developer-learning/night-reading-go",
+    "url": "https://github.com/developer-learning/night-reading-go",
+    "desc": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+    "lang": "Go"
+  },
+  {
+    "title": "openZH/covid_19",
+    "url": "https://github.com/openZH/covid_19",
+    "desc": "COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary). Start with the README! Help closing the gaps:",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "into-ai/deeplearning2020",
+    "url": "https://github.com/into-ai/deeplearning2020",
+    "desc": "course materials for introduction to deep learning 2020",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "daenuprobst/covid19-cases-switzerland",
+    "url": "https://github.com/daenuprobst/covid19-cases-switzerland",
+    "desc": "Data from BAG Tweets made useful.",
+    "lang": "HTML"
+  },
+  {
+    "title": "ethereum-oasis/baseline",
+    "url": "https://github.com/ethereum-oasis/baseline",
+    "desc": "The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "peixebabel/COVID-19",
+    "url": "https://github.com/peixebabel/COVID-19",
+    "desc": "Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "SSHeRun/CS-Xmind-Note",
+    "url": "https://github.com/SSHeRun/CS-Xmind-Note",
+    "desc": "计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）"
+  },
+  {
+    "title": "google/automl",
+    "url": "https://github.com/google/automl",
+    "desc": "Google Brain AutoML",
+    "lang": "Python"
+  },
+  {
+    "title": "Jittor/jittor",
+    "url": "https://github.com/Jittor/jittor",
+    "desc": "Jittor website",
+    "lang": "C++"
+  },
+  {
+    "title": "deepset-ai/COVID-QA",
+    "url": "https://github.com/deepset-ai/COVID-QA",
+    "desc": "API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "elcronos/COVID-19",
+    "url": "https://github.com/elcronos/COVID-19",
+    "desc": "COVID-19 Detector from x-rays using Computer Vision and Deep Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "stevenliuyi/covid19",
+    "url": "https://github.com/stevenliuyi/covid19",
+    "desc": "an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aburkov/theMLbook",
+    "url": "https://github.com/aburkov/theMLbook",
+    "desc": "The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.",
+    "lang": "Python"
+  },
+  {
+    "title": "JAVClub/core",
+    "url": "https://github.com/JAVClub/core",
+    "desc": "🔞 JAVClub - 让你的大姐姐不再走丢",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "huihut/interview",
+    "url": "https://github.com/huihut/interview",
+    "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。",
+    "lang": "C++"
+  }
+]
