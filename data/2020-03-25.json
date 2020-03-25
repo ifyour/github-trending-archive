@@ -1,0 +1,147 @@
+[
+  {
+    "title": "PatilShreyas/Foodium",
+    "url": "https://github.com/PatilShreyas/Foodium",
+    "desc": "🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "didi/nightingale",
+    "url": "https://github.com/didi/nightingale",
+    "desc": "A Distributed and High-Performance Monitoring System",
+    "lang": "Go"
+  },
+  {
+    "title": "grocy/grocy",
+    "url": "https://github.com/grocy/grocy",
+    "desc": "ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elcronos/COVID-19",
+    "url": "https://github.com/elcronos/COVID-19",
+    "desc": "COVID-19 Detector from x-rays using Computer Vision and Deep Learning",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "datasets/covid-19",
+    "url": "https://github.com/datasets/covid-19",
+    "desc": "Novel Coronavirus 2019 time series data on cases",
+    "lang": "Python"
+  },
+  {
+    "title": "ahmadawais/corona-cli",
+    "url": "https://github.com/ahmadawais/corona-cli",
+    "desc": "🦠 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States. Fast response time (< 100ms).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "lang": "Python"
+  },
+  {
+    "title": "deepset-ai/COVID-QA",
+    "url": "https://github.com/deepset-ai/COVID-QA",
+    "desc": "API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted, curated data sources.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "coronasafe/care",
+    "url": "https://github.com/coronasafe/care",
+    "desc": "Care is a single point to link Hospitals, Corona Care Centers and Volunteers to the unified Corona Safe Network so that the Kerala Chief Minister's Office has direct access to live reports of health data v/s our total. healthcare capacity",
+    "lang": "Python"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）",
+    "lang": "Python"
+  },
+  {
+    "title": "alexeygrigorev/data-science-interviews",
+    "url": "https://github.com/alexeygrigorev/data-science-interviews",
+    "desc": "Data science interview questions and answers"
+  },
+  {
+    "title": "Jittor/jittor",
+    "url": "https://github.com/Jittor/jittor",
+    "desc": "Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.",
+    "lang": "C++"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LingCoder/OnJava8",
+    "url": "https://github.com/LingCoder/OnJava8",
+    "desc": "《On Java 8》中文版，又名《Java编程思想》 第5版"
+  },
+  {
+    "title": "nzw9314/QuantumultX",
+    "url": "https://github.com/nzw9314/QuantumultX",
+    "desc": "QuantumultX"
+  },
+  {
+    "title": "peixebabel/COVID-19",
+    "url": "https://github.com/peixebabel/COVID-19",
+    "desc": "Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ElderJames/ant-design-blazor",
+    "url": "https://github.com/ElderJames/ant-design-blazor",
+    "desc": "🌈An enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+    "lang": "CSS"
+  },
+  {
+    "title": "ProtofyTeam/OxyGEN",
+    "url": "https://github.com/ProtofyTeam/OxyGEN",
+    "desc": "OxyGEN",
+    "lang": "MATLAB"
+  },
+  {
+    "title": "pomber/covid19",
+    "url": "https://github.com/pomber/covid19",
+    "desc": "JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trojan-gfw/igniter",
+    "url": "https://github.com/trojan-gfw/igniter",
+    "desc": "A trojan client for Android (UNDER CONSTRUCTION).",
+    "lang": "Java"
+  },
+  {
+    "title": "jobbole/awesome-java-cn",
+    "url": "https://github.com/jobbole/awesome-java-cn",
+    "desc": "Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。"
+  },
+  {
+    "title": "huihut/interview",
+    "url": "https://github.com/huihut/interview",
+    "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。",
+    "lang": "C++"
+  },
+  {
+    "title": "google/automl",
+    "url": "https://github.com/google/automl",
+    "desc": "Google Brain AutoML",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "desc": "COVID-19 Italia - Monitoraggio situazione"
+  }
+]
