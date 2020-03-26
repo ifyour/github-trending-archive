@@ -1,0 +1,148 @@
+[
+  {
+    "title": "MegEngine/MegEngine",
+    "url": "https://github.com/MegEngine/MegEngine",
+    "desc": "MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架",
+    "lang": "C++"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "desc": "Source code of main website",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "someshkar/covid19india-cluster",
+    "url": "https://github.com/someshkar/covid19india-cluster",
+    "desc": "🔬 COVID19 India Cluster Network",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BustByte/coronastatus",
+    "url": "https://github.com/BustByte/coronastatus",
+    "desc": "🇳🇴🇳🇱🇸🇰🇲🇽🇮🇹🇮🇳🇵🇭🇸🇪🇩🇰🇹🇷🇧🇪🇫🇷🇨🇦🇨🇴🇧🇷🇺🇸🇺🇦Join the fight! Open source webapp that let people report their health status to get overview of COVID-19",
+    "lang": "HTML"
+  },
+  {
+    "title": "didi/nightingale",
+    "url": "https://github.com/didi/nightingale",
+    "desc": "A Distributed and High-Performance Monitoring System",
+    "lang": "Go"
+  },
+  {
+    "title": "gcreddy42/hiring2020",
+    "url": "https://github.com/gcreddy42/hiring2020",
+    "desc": "Internship status of companies - COVID-19 outbreak"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "lindawangg/COVID-Net",
+    "url": "https://github.com/lindawangg/COVID-Net",
+    "desc": "COVID-Net model for COVID-19 detection on COVIDx dataset",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "简称 DoKit 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/",
+    "lang": "Java"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss."
+  },
+  {
+    "title": "CloverHackyColor/CloverBootloader",
+    "url": "https://github.com/CloverHackyColor/CloverBootloader",
+    "desc": "Bootloader for macOS, Windows and Linux in UEFI and in legacy mode",
+    "lang": "C"
+  },
+  {
+    "title": "zloirock/core-js",
+    "url": "https://github.com/zloirock/core-js",
+    "desc": "Standard Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/moco",
+    "url": "https://github.com/facebookresearch/moco",
+    "desc": "PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722",
+    "lang": "Python"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "desc": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/corona",
+    "url": "https://github.com/geohot/corona",
+    "desc": "Reverse engineering SARS-CoV-2",
+    "lang": "Python"
+  },
+  {
+    "title": "karan/Projects",
+    "url": "https://github.com/karan/Projects",
+    "desc": "📃 A list of practical projects that anyone can solve in any programming language."
+  },
+  {
+    "title": "uber/piranha",
+    "url": "https://github.com/uber/piranha",
+    "desc": "A tool for refactoring code related to feature flag APIs",
+    "lang": "Java"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LukeMathWalker/build-your-own-jira-with-rust",
+    "url": "https://github.com/LukeMathWalker/build-your-own-jira-with-rust",
+    "desc": "A test-driven workshop to learn Rust building your own JIRA clone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "jamiebuilds/the-super-tiny-compiler",
+    "url": "https://github.com/jamiebuilds/the-super-tiny-compiler",
+    "desc": "⛄️ Possibly the smallest compiler ever",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "piexlmax/gin-vue-admin",
+    "url": "https://github.com/piexlmax/gin-vue-admin",
+    "desc": "基于gin+gorm+vue搭建的快速后台管理系统模板，包含jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载等基础功能，更多功能正在开发中，欢迎iss，欢迎pr",
+    "lang": "Go"
+  },
+  {
+    "title": "google-research/seed_rl",
+    "url": "https://github.com/google-research/seed_rl",
+    "desc": "SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft",
+    "lang": "JupyterNotebook"
+  }
+]
