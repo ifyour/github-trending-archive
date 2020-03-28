@@ -1,0 +1,150 @@
+[
+  {
+    "title": "WorldHealthOrganization/app",
+    "url": "https://github.com/WorldHealthOrganization/app",
+    "desc": "World Health Organization App",
+    "lang": "Dart"
+  },
+  {
+    "title": "facebookexperimental/rome",
+    "url": "https://github.com/facebookexperimental/rome",
+    "desc": "An experimental JavaScript toolchain",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pion/ion",
+    "url": "https://github.com/pion/ion",
+    "desc": "Distributed RTC System by pure Go and Flutter",
+    "lang": "Go"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "CSSALTlab/Open_Source_Ventilator",
+    "url": "https://github.com/CSSALTlab/Open_Source_Ventilator",
+    "desc": "Open source for use worldwide and contributions from others worldwide",
+    "lang": "C++"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "desc": "Source code of main website",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gustavoguanabara/gustavoguanabara.github.io",
+    "url": "https://github.com/gustavoguanabara/gustavoguanabara.github.io",
+    "desc": "GitHub Gustavo Guanabara"
+  },
+  {
+    "title": "mpplab/mnssp3",
+    "url": "https://github.com/mpplab/mnssp3",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "gyoogle/tech-interview-for-developer",
+    "url": "https://github.com/gyoogle/tech-interview-for-developer",
+    "desc": "👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
+    "lang": "Java"
+  },
+  {
+    "title": "someshkar/covid19india-cluster",
+    "url": "https://github.com/someshkar/covid19india-cluster",
+    "desc": "🔬 COVID19 India Cluster Network",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dair-ai/nlp_paper_summaries",
+    "url": "https://github.com/dair-ai/nlp_paper_summaries",
+    "desc": "✍️ A carefully curated list of NLP paper summaries"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zloirock/core-js",
+    "url": "https://github.com/zloirock/core-js",
+    "desc": "Standard Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lihengming/spring-boot-api-project-seed",
+    "url": "https://github.com/lihengming/spring-boot-api-project-seed",
+    "desc": "🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~",
+    "lang": "Java"
+  },
+  {
+    "title": "0x000cb/otc",
+    "url": "https://github.com/0x000cb/otc",
+    "desc": "OneTapCrack DLL Loader",
+    "lang": "C++"
+  },
+  {
+    "title": "lindawangg/COVID-Net",
+    "url": "https://github.com/lindawangg/COVID-Net",
+    "desc": "COVID-Net model for COVID-19 detection on COVIDx dataset",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "DIY-Beatmungsgerat/diy-beatmungsgeraet",
+    "url": "https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet",
+    "desc": "CPAP Beatmungsgerät selbst gebaut - basierend auf einem Open Source und Open Hardware Entwurf",
+    "lang": "C++"
+  },
+  {
+    "title": "Datlyfe/jira_clone",
+    "url": "https://github.com/Datlyfe/jira_clone",
+    "desc": "A Jira clone built with Vuejs & Nodejs/Graphql",
+    "lang": "Vue"
+  },
+  {
+    "title": "android/user-interface-samples",
+    "url": "https://github.com/android/user-interface-samples",
+    "desc": "Multiple samples showing the best practices in the user interface on Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "ryansmcgee/seirsplus",
+    "url": "https://github.com/ryansmcgee/seirsplus",
+    "desc": "Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing.",
+    "lang": "Python"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "welovedevs/react-ultimate-resume",
+    "url": "https://github.com/welovedevs/react-ultimate-resume",
+    "desc": "💼 🎨 A modern software developer resume built with React and JSONResume",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MindorksOpenSource/ridesharing-uber-lyft-app",
+    "url": "https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app",
+    "desc": "Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  }
+]
