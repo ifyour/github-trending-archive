@@ -1,0 +1,146 @@
+[
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nytimes/covid-19-data",
+    "url": "https://github.com/nytimes/covid-19-data",
+    "desc": "An ongoing repository of data on coronavirus cases and deaths in the U.S."
+  },
+  {
+    "title": "welovedevs/react-ultimate-resume",
+    "url": "https://github.com/welovedevs/react-ultimate-resume",
+    "desc": "💼 🎨 A modern software developer resume built with React and JSONResume",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "desc": "📊 Source code of the main website",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "sjsdfg/effective-java-3rd-chinese",
+    "url": "https://github.com/sjsdfg/effective-java-3rd-chinese",
+    "desc": "effective-java-3rd 中文版 https://sjsdfg.github.io/effective-java-3rd-chinese"
+  },
+  {
+    "title": "Datlyfe/jira_clone",
+    "url": "https://github.com/Datlyfe/jira_clone",
+    "desc": "A Jira clone built with Vuejs & Nodejs/Graphql",
+    "lang": "Vue"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "desc": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies",
+    "lang": "C++"
+  },
+  {
+    "title": "WorldHealthOrganization/app",
+    "url": "https://github.com/WorldHealthOrganization/app",
+    "desc": "World Health Organization App",
+    "lang": "Java"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "darlinghq/darling",
+    "url": "https://github.com/darlinghq/darling",
+    "desc": "Darwin/macOS emulation layer for Linux",
+    "lang": "C"
+  },
+  {
+    "title": "wangshub/RL-Stock",
+    "url": "https://github.com/wangshub/RL-Stock",
+    "desc": "📈 如何用深度强化学习自动炒股",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "uber/fiber",
+    "url": "https://github.com/uber/fiber",
+    "desc": "Distributed Computing for AI Made Simple",
+    "lang": "Python"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "title": "PubInv/covid19-vent-list",
+    "url": "https://github.com/PubInv/covid19-vent-list",
+    "desc": "A list projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "Elizabeth-Warren/Spoke",
+    "url": "https://github.com/Elizabeth-Warren/Spoke",
+    "desc": "",
+    "lang": "JavaScript"
+  }
+]
