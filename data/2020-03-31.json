@@ -1,0 +1,147 @@
+[
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "title": "austingebauer/go-leetcode",
+    "url": "https://github.com/austingebauer/go-leetcode",
+    "desc": "A collection of 100+ popular LeetCode problems that I've solved in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "phil-opp/blog_os",
+    "url": "https://github.com/phil-opp/blog_os",
+    "desc": "Writing an OS in Rust",
+    "lang": "HTML"
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "desc": "Telegram Desktop messaging app",
+    "lang": "C++"
+  },
+  {
+    "title": "micro/go-micro",
+    "url": "https://github.com/micro/go-micro",
+    "desc": "The Go Micro services development framework",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "open-coronavirus/open-coronavirus",
+    "url": "https://github.com/open-coronavirus/open-coronavirus",
+    "desc": "Open Coronavirus",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aalansehaiyang/technology-talk",
+    "url": "https://github.com/aalansehaiyang/technology-talk",
+    "desc": "汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识"
+  },
+  {
+    "title": "wangshub/RL-Stock",
+    "url": "https://github.com/wangshub/RL-Stock",
+    "desc": "📈 如何用深度强化学习自动炒股",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Elizabeth-Warren/Spoke",
+    "url": "https://github.com/Elizabeth-Warren/Spoke",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "m0bilesecurity/RMS-Runtime-Mobile-Security",
+    "url": "https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security",
+    "desc": "Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "CoreyMSchafer/code_snippets",
+    "url": "https://github.com/CoreyMSchafer/code_snippets",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tanrax/maza-ad-blocking",
+    "url": "https://github.com/tanrax/maza-ad-blocking",
+    "desc": "Local ad blocker. Like Pi-hole but local and using your operating system.",
+    "lang": "Shell"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "suadev/turkish-microservice-architecture-book",
+    "url": "https://github.com/suadev/turkish-microservice-architecture-book",
+    "desc": "Open Source Turkish Microservices eBook. Feel free to contribute."
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alex3dbros/ICUVent",
+    "url": "https://github.com/alex3dbros/ICUVent",
+    "desc": "A repository made for an opensource hardware and software for ICU Ventilator",
+    "lang": "C++"
+  },
+  {
+    "title": "aatishb/covidtrends",
+    "url": "https://github.com/aatishb/covidtrends",
+    "desc": "Tracking the growth of COVID-19 Cases woldwide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "home-assistant/frontend",
+    "url": "https://github.com/home-assistant/frontend",
+    "desc": "🍭 Frontend for Home Assistant",
+    "lang": "TypeScript"
+  }
+]
