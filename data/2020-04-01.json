@@ -1,0 +1,148 @@
+[
+  {
+    "title": "DanielHe4rt/bbbot",
+    "url": "https://github.com/DanielHe4rt/bbbot",
+    "desc": "Bot feito para estudos de leitura de imagem",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ImperialCollegeLondon/covid19model",
+    "url": "https://github.com/ImperialCollegeLondon/covid19model",
+    "desc": "Code for modelling estimated deaths and cases for COVID19.",
+    "lang": "R"
+  },
+  {
+    "title": "wangshub/RL-Stock",
+    "url": "https://github.com/wangshub/RL-Stock",
+    "desc": "📈 如何用深度强化学习自动炒股",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "title": "oscarhealth/covid19-testing",
+    "url": "https://github.com/oscarhealth/covid19-testing",
+    "desc": "COVID-19 Testing Site Finder with Risk Assessment",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "micro/go-micro",
+    "url": "https://github.com/micro/go-micro",
+    "desc": "The Go Micro services development framework",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "phil-opp/blog_os",
+    "url": "https://github.com/phil-opp/blog_os",
+    "desc": "Writing an OS in Rust",
+    "lang": "HTML"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "diegoveloper/flutter-samples",
+    "url": "https://github.com/diegoveloper/flutter-samples",
+    "desc": "Flutter Samples",
+    "lang": "Dart"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "desc": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "danigargu/CVE-2020-0796",
+    "url": "https://github.com/danigargu/CVE-2020-0796",
+    "desc": "CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost",
+    "lang": "C"
+  },
+  {
+    "title": "austingebauer/go-leetcode",
+    "url": "https://github.com/austingebauer/go-leetcode",
+    "desc": "A collection of 100+ popular LeetCode problems that I've solved in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "Inspire-Poli-USP/Inspire-OpenLung",
+    "url": "https://github.com/Inspire-Poli-USP/Inspire-OpenLung",
+    "desc": "An another [IN PROGRESS] open source, low cost, low resource, quick deployment ventilator design that utilizes a Ambu-bag as a core component. 'War' against COVID-19",
+    "lang": "C++"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "seata/seata",
+    "url": "https://github.com/seata/seata",
+    "desc": "🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "Heeexy/SpringBoot-Shiro-Vue",
+    "url": "https://github.com/Heeexy/SpringBoot-Shiro-Vue",
+    "desc": "提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限",
+    "lang": "Java"
+  },
+  {
+    "title": "LingCoder/OnJava8",
+    "url": "https://github.com/LingCoder/OnJava8",
+    "desc": "《On Java 8》中文版，又名《Java编程思想》 第5版"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "m0bilesecurity/RMS-Runtime-Mobile-Security",
+    "url": "https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security",
+    "desc": "Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime",
+    "lang": "Python"
+  },
+  {
+    "title": "szymonmaszke/torchlayers",
+    "url": "https://github.com/szymonmaszke/torchlayers",
+    "desc": "Shape inference for PyTorch (like in Keras) + new SoTA layers!",
+    "lang": "Python"
+  },
+  {
+    "title": "prisma/prisma-examples",
+    "url": "https://github.com/prisma/prisma-examples",
+    "desc": "◭ Examples of Prisma using different languages and technologies",
+    "lang": "TypeScript"
+  }
+]
