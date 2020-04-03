@@ -1,0 +1,144 @@
+[
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "nychealth/coronavirus-data",
+    "url": "https://github.com/nychealth/coronavirus-data",
+    "desc": ""
+  },
+  {
+    "title": "iTaysonLab/gorkiy",
+    "url": "https://github.com/iTaysonLab/gorkiy",
+    "desc": "JaDX decompile of com.askgps.personaltrackercore (Moscow COVID-19 person tracker). Note that I'm NOT related to the development of this app.",
+    "lang": "Java"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "linuxtips/FiqueEmCasaConf",
+    "url": "https://github.com/linuxtips/FiqueEmCasaConf",
+    "desc": "Repositório para a conferência #FiqueEmCasa"
+  },
+  {
+    "title": "ImperialCollegeLondon/covid19model",
+    "url": "https://github.com/ImperialCollegeLondon/covid19model",
+    "desc": "Code for modelling estimated deaths and cases for COVID19.",
+    "lang": "R"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "ihmeuw-msca/CurveFit",
+    "url": "https://github.com/ihmeuw-msca/CurveFit",
+    "desc": "Generic curve fitting package with nonlinear mixed effects model",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "phuoc-ng/html-dom",
+    "url": "https://github.com/phuoc-ng/html-dom",
+    "desc": "Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GoogleContainerTools/kpt",
+    "url": "https://github.com/GoogleContainerTools/kpt",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "ElemeFE/element",
+    "url": "https://github.com/ElemeFE/element",
+    "desc": "A Vue.js 2.0 UI Toolkit for Web",
+    "lang": "Vue"
+  },
+  {
+    "title": "AmboVent/AmboVent",
+    "url": "https://github.com/AmboVent/AmboVent",
+    "desc": "AmboVent 1690.108",
+    "lang": "C++"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "desc": "A collection of useful .gitignore templates"
+  },
+  {
+    "title": "hamaluik/timecop",
+    "url": "https://github.com/hamaluik/timecop",
+    "desc": "A time tracking app that respects your privacy and the gets the job done without being fancy.",
+    "lang": "Dart"
+  },
+  {
+    "title": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "desc": "🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "lang": "Shell"
+  },
+  {
+    "title": "UCSD-AI4H/COVID-CT",
+    "url": "https://github.com/UCSD-AI4H/COVID-CT",
+    "desc": "COVID-CT-Dataset: A CT Scan Dataset about COVID-19",
+    "lang": "Python"
+  }
+]
