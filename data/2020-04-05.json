@@ -1,0 +1,150 @@
+[
+  {
+    "title": "ProteGO-app/android",
+    "url": "https://github.com/ProteGO-app/android",
+    "desc": "Aplikacja Android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ProteGO-app/backend",
+    "url": "https://github.com/ProteGO-app/backend",
+    "desc": "Backend do uruchomienia na GCP",
+    "lang": "Python"
+  },
+  {
+    "title": "ProteGO-app/specs",
+    "url": "https://github.com/ProteGO-app/specs",
+    "desc": "Opis, specyfikacja i zadania. Zacznij tutaj."
+  },
+  {
+    "title": "hecrj/iced",
+    "url": "https://github.com/hecrj/iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "lang": "Rust"
+  },
+  {
+    "title": "nychealth/coronavirus-data",
+    "url": "https://github.com/nychealth/coronavirus-data",
+    "desc": ""
+  },
+  {
+    "title": "ProteGO-app/ios",
+    "url": "https://github.com/ProteGO-app/ios",
+    "desc": "Aplikacja iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "desc": "📊 Source code of the main website",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/samples",
+    "url": "https://github.com/flutter/samples",
+    "desc": "A collection of Flutter examples and demos.",
+    "lang": "Dart"
+  },
+  {
+    "title": "pcomputo/Whole-Foods-Delivery-Slot",
+    "url": "https://github.com/pcomputo/Whole-Foods-Delivery-Slot",
+    "desc": "Automated script for Whole Foods and Amazon Fresh delivery slot",
+    "lang": "Python"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+    "lang": "Java"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "adi1090x/plymouth-themes",
+    "url": "https://github.com/adi1090x/plymouth-themes",
+    "desc": "A hugh collection (80+) of plymouth themes ported from android bootanimations",
+    "lang": "Shell"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "lmoroney/dlaicourse",
+    "url": "https://github.com/lmoroney/dlaicourse",
+    "desc": "Notebooks for learning deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "afteracademy/nodejs-backend-architecture-typescript",
+    "url": "https://github.com/afteracademy/nodejs-backend-architecture-typescript",
+    "desc": "Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "desc": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "lang": "Python"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "libgdx/libgdx",
+    "url": "https://github.com/libgdx/libgdx",
+    "desc": "Desktop/Android/HTML5/iOS Java game development framework",
+    "lang": "Java"
+  },
+  {
+    "title": "TimeToogo/ff-proxy",
+    "url": "https://github.com/TimeToogo/ff-proxy",
+    "desc": "A UDP to TCP proxy server for sending HTTP requests with zero latency",
+    "lang": "C"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "nim-lang/Nim",
+    "url": "https://github.com/nim-lang/Nim",
+    "desc": "Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+    "lang": "Nim"
+  },
+  {
+    "title": "gohugoio/hugo",
+    "url": "https://github.com/gohugoio/hugo",
+    "desc": "The world’s fastest framework for building websites.",
+    "lang": "Go"
+  },
+  {
+    "title": "2019ncovmemory/nCovMemory",
+    "url": "https://github.com/2019ncovmemory/nCovMemory",
+    "desc": "2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)",
+    "lang": "JavaScript"
+  }
+]
