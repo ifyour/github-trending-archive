@@ -1,0 +1,148 @@
+[
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+    "lang": "Java"
+  },
+  {
+    "title": "tokyo-metropolitan-gov/covid19",
+    "url": "https://github.com/tokyo-metropolitan-gov/covid19",
+    "desc": "東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website",
+    "lang": "Vue"
+  },
+  {
+    "title": "playbook-ui/playbook-ios",
+    "url": "https://github.com/playbook-ui/playbook-ios",
+    "desc": "📘A library for isolated developing UI components and automatically snapshots of them.",
+    "lang": "Swift"
+  },
+  {
+    "title": "ProteGO-app/specs",
+    "url": "https://github.com/ProteGO-app/specs",
+    "desc": "Opis, specyfikacja i zadania. Zacznij tutaj."
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "afteracademy/nodejs-backend-architecture-typescript",
+    "url": "https://github.com/afteracademy/nodejs-backend-architecture-typescript",
+    "desc": "Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "nzw9314/QuantumultX",
+    "url": "https://github.com/nzw9314/QuantumultX",
+    "desc": "QuantumultX"
+  },
+  {
+    "title": "vcg-uvic/viper",
+    "url": "https://github.com/vcg-uvic/viper",
+    "desc": "Open-source code for VIPER -- Volume Invariant Position-based Elastic Rods",
+    "lang": "C++"
+  },
+  {
+    "title": "pcomputo/Whole-Foods-Delivery-Slot",
+    "url": "https://github.com/pcomputo/Whole-Foods-Delivery-Slot",
+    "desc": "Automated script for Whole Foods and Amazon Fresh delivery slot",
+    "lang": "Python"
+  },
+  {
+    "title": "ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder",
+    "url": "https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder",
+    "desc": "A tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services",
+    "lang": "AppleScript"
+  },
+  {
+    "title": "lmoroney/dlaicourse",
+    "url": "https://github.com/lmoroney/dlaicourse",
+    "desc": "Notebooks for learning deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nim-lang/Nim",
+    "url": "https://github.com/nim-lang/Nim",
+    "desc": "Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+    "lang": "Nim"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "desc": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "lang": "Python"
+  },
+  {
+    "title": "reactos/reactos",
+    "url": "https://github.com/reactos/reactos",
+    "desc": "A free Windows-compatible Operating System",
+    "lang": "C"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "MichMich/MagicMirror",
+    "url": "https://github.com/MichMich/MagicMirror",
+    "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "desc": "📊 Source code of the main website",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "desc": "aka Bayesian Methods for Hackers: An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)",
+    "lang": "JupyterNotebook"
+  }
+]
