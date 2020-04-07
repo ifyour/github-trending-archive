@@ -1,0 +1,148 @@
+[
+  {
+    "title": "playbook-ui/playbook-ios",
+    "url": "https://github.com/playbook-ui/playbook-ios",
+    "desc": "📘A library for isolated developing UI components and automatically snapshots of them.",
+    "lang": "Swift"
+  },
+  {
+    "title": "rojter-tech/pluradl.py",
+    "url": "https://github.com/rojter-tech/pluradl.py",
+    "desc": "Automated download of Pluralsight courses",
+    "lang": "Python"
+  },
+  {
+    "title": "afteracademy/nodejs-backend-architecture-typescript",
+    "url": "https://github.com/afteracademy/nodejs-backend-architecture-typescript",
+    "desc": "Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to use Docker image - Open-Source Project By AfterAcademy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bjmashibing/InternetArchitect",
+    "url": "https://github.com/bjmashibing/InternetArchitect",
+    "desc": "年薪百万互联网架构师课程文档及源码(公开部分)",
+    "lang": "CSS"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rclone/rclone",
+    "url": "https://github.com/rclone/rclone",
+    "desc": "rsync for cloud storage - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+    "lang": "Go"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "vahidk/EffectivePyTorch",
+    "url": "https://github.com/vahidk/EffectivePyTorch",
+    "desc": "PyTorch tutorials and best practices."
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder",
+    "url": "https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder",
+    "desc": "A tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services",
+    "lang": "AppleScript"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+    "lang": "Java"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "pdown2020/pdown",
+    "url": "https://github.com/pdown2020/pdown",
+    "desc": "百度网盘下载器，2020百度网盘高速下载"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "munificent/craftinginterpreters",
+    "url": "https://github.com/munificent/craftinginterpreters",
+    "desc": "Repository for the book Crafting Interpreters",
+    "lang": "HTML"
+  },
+  {
+    "title": "snail007/goproxy",
+    "url": "https://github.com/snail007/goproxy",
+    "desc": "Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。",
+    "lang": "Go"
+  },
+  {
+    "title": "kivy/kivy",
+    "url": "https://github.com/kivy/kivy",
+    "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "lang": "Python"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "nzw9314/QuantumultX",
+    "url": "https://github.com/nzw9314/QuantumultX",
+    "desc": "QuantumultX"
+  },
+  {
+    "title": "quantopian/zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "desc": "Zipline, a Pythonic Algorithmic Trading Library",
+    "lang": "Python"
+  },
+  {
+    "title": "spmallick/learnopencv",
+    "url": "https://github.com/spmallick/learnopencv",
+    "desc": "Learn OpenCV : C++ and Python Examples",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  }
+]
