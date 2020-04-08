@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "rojter-tech/pluradl.py",
+    "url": "https://github.com/rojter-tech/pluradl.py",
+    "desc": "Automated download of Pluralsight courses",
+    "lang": "Python"
+  },
+  {
+    "title": "mikebryant/ac-nh-turnip-prices",
+    "url": "https://github.com/mikebryant/ac-nh-turnip-prices",
+    "desc": "Price calculator/predictor for Turnip prices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "Pratitya/wuhan2020-timeline",
+    "url": "https://github.com/Pratitya/wuhan2020-timeline",
+    "desc": "以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "google-research/text-to-text-transfer-transformer",
+    "url": "https://github.com/google-research/text-to-text-transfer-transformer",
+    "desc": "Code for the paper Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "manchenkoff/skillbox-async-chat",
+    "url": "https://github.com/manchenkoff/skillbox-async-chat",
+    "desc": "Пример клиент-серверного чата на Python для Skillbox",
+    "lang": "Python"
+  },
+  {
+    "title": "crawlab-team/crawlab",
+    "url": "https://github.com/crawlab-team/crawlab",
+    "desc": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+    "lang": "Go"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+    "lang": "Java"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "lang": "C++"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "devinpleuler/analytics-handbook",
+    "url": "https://github.com/devinpleuler/analytics-handbook",
+    "desc": "Getting started with soccer analytics",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "juliangarnier/anime",
+    "url": "https://github.com/juliangarnier/anime",
+    "desc": "JavaScript animation engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate, sorry",
+    "lang": "CSS"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "olexale/flutter_roadmap",
+    "url": "https://github.com/olexale/flutter_roadmap",
+    "desc": ""
+  },
+  {
+    "title": "brimsec/brim",
+    "url": "https://github.com/brimsec/brim",
+    "desc": "Desktop application to efficiently search large packet captures and Zeek logs.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pcomputo/Whole-Foods-Delivery-Slot",
+    "url": "https://github.com/pcomputo/Whole-Foods-Delivery-Slot",
+    "desc": "Automated script for Whole Foods and Amazon Fresh delivery slot",
+    "lang": "Python"
+  },
+  {
+    "title": "LAB-MI/deplacement-covid-19",
+    "url": "https://github.com/LAB-MI/deplacement-covid-19",
+    "desc": "Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19",
+    "lang": "HTML"
+  },
+  {
+    "title": "yenchenlin/nerf-pytorch",
+    "url": "https://github.com/yenchenlin/nerf-pytorch",
+    "desc": "A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.",
+    "lang": "Python"
+  }
+]
