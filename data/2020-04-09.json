@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "aranja/rakning-c19-app",
+    "url": "https://github.com/aranja/rakning-c19-app",
+    "desc": "App that helps to analyse individuals’ travel and trace their movements when cases of infection arise.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sirupsen/logrus",
+    "url": "https://github.com/sirupsen/logrus",
+    "desc": "Structured, pluggable logging for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "rojter-tech/pluradl.py",
+    "url": "https://github.com/rojter-tech/pluradl.py",
+    "desc": "Automated download of Pluralsight courses",
+    "lang": "Python"
+  },
+  {
+    "title": "ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder",
+    "url": "https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder",
+    "desc": "A Mac tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services",
+    "lang": "AppleScript"
+  },
+  {
+    "title": "crawlab-team/crawlab",
+    "url": "https://github.com/crawlab-team/crawlab",
+    "desc": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+    "lang": "Go"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+    "lang": "CSS"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "justmarkham/scikit-learn-tips",
+    "url": "https://github.com/justmarkham/scikit-learn-tips",
+    "desc": "🤖⚡ Daily scikit-learn tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "andreasbm/web-skills",
+    "url": "https://github.com/andreasbm/web-skills",
+    "desc": "A visual overview of useful skills to learn as a web developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bats3c/Ghost-In-The-Logs",
+    "url": "https://github.com/bats3c/Ghost-In-The-Logs",
+    "desc": "Evade sysmon and windows event logging",
+    "lang": "C"
+  },
+  {
+    "title": "caoscott/SReC",
+    "url": "https://github.com/caoscott/SReC",
+    "desc": "PyTorch Implementation of Lossless Image Compression through Super-Resolution",
+    "lang": "Python"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "desc": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "lang": "Python"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "compose-spec/compose-spec",
+    "url": "https://github.com/compose-spec/compose-spec",
+    "desc": "The Compose specification",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "manchenkoff/skillbox-async-chat",
+    "url": "https://github.com/manchenkoff/skillbox-async-chat",
+    "desc": "Пример клиент-серверного чата на Python для Skillbox",
+    "lang": "Python"
+  },
+  {
+    "title": "vinaygaba/Learn-Jetpack-Compose-By-Example",
+    "url": "https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example",
+    "desc": "This project contains various examples that show how you would do things the Jetpack Compose way",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Pratitya/wuhan2020-timeline",
+    "url": "https://github.com/Pratitya/wuhan2020-timeline",
+    "desc": "以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。"
+  },
+  {
+    "title": "ouyanghuiyu/chineseocr_lite",
+    "url": "https://github.com/ouyanghuiyu/chineseocr_lite",
+    "desc": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M",
+    "lang": "C++"
+  },
+  {
+    "title": "XiaohangZhan/deocclusion",
+    "url": "https://github.com/XiaohangZhan/deocclusion",
+    "desc": "Code for our CVPR 2020 work.",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/text-to-text-transfer-transformer",
+    "url": "https://github.com/google-research/text-to-text-transfer-transformer",
+    "desc": "Code for the paper Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "lang": "Python"
+  }
+]
