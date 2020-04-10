@@ -1,0 +1,147 @@
+[
+  {
+    "title": "ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder",
+    "url": "https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder",
+    "desc": "A Mac tool that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services",
+    "lang": "AppleScript"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom and Skype",
+    "lang": "Python"
+  },
+  {
+    "title": "LAB-MI/deplacement-covid-19",
+    "url": "https://github.com/LAB-MI/deplacement-covid-19",
+    "desc": "Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19",
+    "lang": "HTML"
+  },
+  {
+    "title": "sirupsen/logrus",
+    "url": "https://github.com/sirupsen/logrus",
+    "desc": "Structured, pluggable logging for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "elxris/Turnip-Calculator",
+    "url": "https://github.com/elxris/Turnip-Calculator",
+    "desc": "ACNH Turnip Calculator Responsive Web App",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "desc": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "lang": "Python"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "TCNCoalition/TCN",
+    "url": "https://github.com/TCNCoalition/TCN",
+    "desc": "Specification and reference implementation of the CEN Protocol for decentralized, privacy-preserving contact tracing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "DP-3T/documents",
+    "url": "https://github.com/DP-3T/documents",
+    "desc": "Decentralized Privacy-Preserving Proximity Tracing -- Documents"
+  },
+  {
+    "title": "bigbluebutton/bigbluebutton",
+    "url": "https://github.com/bigbluebutton/bigbluebutton",
+    "desc": "Complete open source web conferencing system.",
+    "lang": "Java"
+  },
+  {
+    "title": "wekan/wekan",
+    "url": "https://github.com/wekan/wekan",
+    "desc": "The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/forecasting",
+    "url": "https://github.com/microsoft/forecasting",
+    "desc": "Time Series Forecasting Best Practices & Examples",
+    "lang": "HTML"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/nlp-recipes",
+    "url": "https://github.com/microsoft/nlp-recipes",
+    "desc": "Natural Language Processing Best Practices & Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "gustavoguanabara/git-github",
+    "url": "https://github.com/gustavoguanabara/git-github",
+    "desc": "Material do Curso de Git e GitHub"
+  },
+  {
+    "title": "Rocketseat/bootcamp-gostack-desafios",
+    "url": "https://github.com/Rocketseat/bootcamp-gostack-desafios",
+    "desc": "Repositório contendo todos os desafios dos módulos do Bootcamp Gostack"
+  },
+  {
+    "title": "andybrewer/mvp",
+    "url": "https://github.com/andybrewer/mvp",
+    "desc": "MVP.css — Minimalist stylesheet for HTML elements",
+    "lang": "HTML"
+  },
+  {
+    "title": "andreasbm/web-skills",
+    "url": "https://github.com/andreasbm/web-skills",
+    "desc": "A visual overview of useful skills to learn as a web developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  }
+]
