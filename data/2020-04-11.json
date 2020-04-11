@@ -1,0 +1,145 @@
+[
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "title": "opentrace-community/opentrace-android",
+    "url": "https://github.com/opentrace-community/opentrace-android",
+    "desc": "OpenTrace Android app. Reference implementation of the BlueTrace protocol.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "opentrace-community/opentrace-ios",
+    "url": "https://github.com/opentrace-community/opentrace-ios",
+    "desc": "OpenTrace iOS app. Reference implementation of the BlueTrace protocol.",
+    "lang": "Swift"
+  },
+  {
+    "title": "opentrace-community/opentrace-cloud-functions",
+    "url": "https://github.com/opentrace-community/opentrace-cloud-functions",
+    "desc": "OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ifzhang/FairMOT",
+    "url": "https://github.com/ifzhang/FairMOT",
+    "desc": "A simple baseline for one-shot multi-object tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom and Skype",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "desc": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "lang": "C#"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "desc": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "lang": "Python"
+  },
+  {
+    "title": "LAB-MI/deplacement-covid-19",
+    "url": "https://github.com/LAB-MI/deplacement-covid-19",
+    "desc": "Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19",
+    "lang": "HTML"
+  },
+  {
+    "title": "jitsi/jitsi-meet-electron",
+    "url": "https://github.com/jitsi/jitsi-meet-electron",
+    "desc": "Jitsi Meet desktop application powered by",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gregsramblings/google-cloud-4-words",
+    "url": "https://github.com/gregsramblings/google-cloud-4-words",
+    "desc": "The Google Cloud Developer's Cheat Sheet"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "bmild/nerf",
+    "url": "https://github.com/bmild/nerf",
+    "desc": "Code release for NeRF (Neural Radiance Fields)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zhzyker/exphub",
+    "url": "https://github.com/zhzyker/exphub",
+    "desc": "Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat的漏洞利用脚本，均为亲测可用的脚本文件，优先更新高危且易利用的漏洞利用脚本，最近添加CVE-2020-1938、CVE-2020-2551、CVE-2019-2618、CVE-2019-6340",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "MinCiencia/Datos-COVID19",
+    "url": "https://github.com/MinCiencia/Datos-COVID19",
+    "desc": "En formato estándar",
+    "lang": "Python"
+  },
+  {
+    "title": "opentrace-community/opentrace-calibration",
+    "url": "https://github.com/opentrace-community/opentrace-calibration",
+    "desc": "OpenTrace Calibration. Device calibration data and Trial Methodologies for testing implementations of the BlueTrace protocol."
+  },
+  {
+    "title": "microsoft/nlp-recipes",
+    "url": "https://github.com/microsoft/nlp-recipes",
+    "desc": "Natural Language Processing Best Practices & Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  }
+]
