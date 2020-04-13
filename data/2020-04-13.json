@@ -1,0 +1,145 @@
+[
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "desc": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "lang": "Python"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom and Skype",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。",
+    "lang": "Java"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dlunion/DBFace",
+    "url": "https://github.com/dlunion/DBFace",
+    "desc": "DBFace is a real-time, single-stage detector for face detection, with faster speed and higher accuracy",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "bmild/nerf",
+    "url": "https://github.com/bmild/nerf",
+    "desc": "Code release for NeRF (Neural Radiance Fields)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "zylo117/Yet-Another-EfficientDet-Pytorch",
+    "url": "https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch",
+    "desc": "The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.",
+    "lang": "Python"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "Do you think you know Python?",
+    "lang": "Python"
+  },
+  {
+    "title": "OneLoneCoder/olcPixelGameEngine",
+    "url": "https://github.com/OneLoneCoder/olcPixelGameEngine",
+    "desc": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",
+    "lang": "C++"
+  },
+  {
+    "title": "AUMSA/2020-MSA-content",
+    "url": "https://github.com/AUMSA/2020-MSA-content",
+    "desc": "MSA Australia 2020 Official GitHub Repository"
+  },
+  {
+    "title": "opentrace-community/opentrace-ios",
+    "url": "https://github.com/opentrace-community/opentrace-ios",
+    "desc": "OpenTrace iOS app. Reference implementation of the BlueTrace protocol.",
+    "lang": "Swift"
+  },
+  {
+    "title": "huihut/interview",
+    "url": "https://github.com/huihut/interview",
+    "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。",
+    "lang": "C++"
+  },
+  {
+    "title": "DP-3T/documents",
+    "url": "https://github.com/DP-3T/documents",
+    "desc": "Decentralized Privacy-Preserving Proximity Tracing -- Documents"
+  },
+  {
+    "title": "zxystd/itlwm",
+    "url": "https://github.com/zxystd/itlwm",
+    "desc": "IntelWifi",
+    "lang": "C"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  },
+  {
+    "title": "iam4x/bobarr",
+    "url": "https://github.com/iam4x/bobarr",
+    "desc": "🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker",
+    "lang": "TypeScript"
+  }
+]
