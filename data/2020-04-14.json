@@ -1,0 +1,146 @@
+[
+  {
+    "title": "ianramzy/decentralized-video-chat",
+    "url": "https://github.com/ianramzy/decentralized-video-chat",
+    "desc": "🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "desc": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "lang": "Python"
+  },
+  {
+    "title": "huihut/interview",
+    "url": "https://github.com/huihut/interview",
+    "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。",
+    "lang": "C++"
+  },
+  {
+    "title": "lihengming/spring-boot-api-project-seed",
+    "url": "https://github.com/lihengming/spring-boot-api-project-seed",
+    "desc": "🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~",
+    "lang": "Java"
+  },
+  {
+    "title": "inconvergent/weir",
+    "url": "https://github.com/inconvergent/weir",
+    "desc": "A system for making generative systems",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "zylo117/Yet-Another-EfficientDet-Pytorch",
+    "url": "https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch",
+    "desc": "The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.",
+    "lang": "Python"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "lang": "Python"
+  },
+  {
+    "title": "openmainframeproject/cobol-programming-course",
+    "url": "https://github.com/openmainframeproject/cobol-programming-course",
+    "desc": "COBOL Programming Course"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "desc": "To Be Top Javaer - Java工程师成神之路",
+    "lang": "Java"
+  },
+  {
+    "title": "itorr/nbnhhsh",
+    "url": "https://github.com/itorr/nbnhhsh",
+    "desc": "😩「能不能好好说话？」 拼音首字母缩写翻译工具",
+    "lang": "HTML"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  },
+  {
+    "title": "AUMSA/2020-MSA-content",
+    "url": "https://github.com/AUMSA/2020-MSA-content",
+    "desc": "MSA Australia 2020 Official GitHub Repository"
+  },
+  {
+    "title": "fangfufu/Linux-Fake-Background-Webcam",
+    "url": "https://github.com/fangfufu/Linux-Fake-Background-Webcam",
+    "desc": "Faking your webcam background under GNU/Linux.",
+    "lang": "Python"
+  },
+  {
+    "title": "OneLoneCoder/olcPixelGameEngine",
+    "url": "https://github.com/OneLoneCoder/olcPixelGameEngine",
+    "desc": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",
+    "lang": "C++"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "title": "V33RU/IoTSecurity101",
+    "url": "https://github.com/V33RU/IoTSecurity101",
+    "desc": "A Curated list of IoT Security Resources"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "Do you think you know Python?",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dlunion/DBFace",
+    "url": "https://github.com/dlunion/DBFace",
+    "desc": "DBFace is a real-time, single-stage detector for face detection, with faster speed and higher accuracy",
+    "lang": "Python"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "saasify-sh/twitter-search",
+    "url": "https://github.com/saasify-sh/twitter-search",
+    "desc": "Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "thelinuxchoice/shellphish",
+    "url": "https://github.com/thelinuxchoice/shellphish",
+    "desc": "19 Social Media Phishing Pages #phishing #shellphish #phish",
+    "lang": "HTML"
+  },
+  {
+    "title": "fengdu78/Data-Science-Notes",
+    "url": "https://github.com/fengdu78/Data-Science-Notes",
+    "desc": "数据科学的笔记以及资料搜集",
+    "lang": "JupyterNotebook"
+  }
+]
