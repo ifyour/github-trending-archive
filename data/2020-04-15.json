@@ -1,0 +1,149 @@
+[
+  {
+    "title": "zylo117/Yet-Another-EfficientDet-Pytorch",
+    "url": "https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch",
+    "desc": "The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.",
+    "lang": "Python"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  },
+  {
+    "title": "lihengming/spring-boot-api-project-seed",
+    "url": "https://github.com/lihengming/spring-boot-api-project-seed",
+    "desc": "🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~",
+    "lang": "Java"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "openmainframeproject/cobol-programming-course",
+    "url": "https://github.com/openmainframeproject/cobol-programming-course",
+    "desc": "COBOL Programming Course"
+  },
+  {
+    "title": "k-sys/covid-19",
+    "url": "https://github.com/k-sys/covid-19",
+    "desc": "A collection of work related to COVID-19",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Mascobot/pandemic-ventilator-2.0",
+    "url": "https://github.com/Mascobot/pandemic-ventilator-2.0",
+    "desc": "Open Source Pandemic Ventilator with Raspberry Pi and Arduino",
+    "lang": "Python"
+  },
+  {
+    "title": "ianramzy/decentralized-video-chat",
+    "url": "https://github.com/ianramzy/decentralized-video-chat",
+    "desc": "🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gerryguy311/CyberProfDevelopmentCovidResources",
+    "url": "https://github.com/gerryguy311/CyberProfDevelopmentCovidResources",
+    "desc": "An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock."
+  },
+  {
+    "title": "huihut/interview",
+    "url": "https://github.com/huihut/interview",
+    "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。",
+    "lang": "C++"
+  },
+  {
+    "title": "athas/raytracers",
+    "url": "https://github.com/athas/raytracers",
+    "desc": "Performance comparison of parallel ray tracing in functional programming languages",
+    "lang": "Rust"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "lang": "Python"
+  },
+  {
+    "title": "OneLoneCoder/olcPixelGameEngine",
+    "url": "https://github.com/OneLoneCoder/olcPixelGameEngine",
+    "desc": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",
+    "lang": "C++"
+  },
+  {
+    "title": "karpathy/micrograd",
+    "url": "https://github.com/karpathy/micrograd",
+    "desc": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "desc": "To Be Top Javaer - Java工程师成神之路",
+    "lang": "Java"
+  },
+  {
+    "title": "Code-Pop/real-world-vue",
+    "url": "https://github.com/Code-Pop/real-world-vue",
+    "desc": "The application that we build in Vue Mastery's courses starting with Real World Vue",
+    "lang": "Vue"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Cloud native model serving infrastructure",
+    "lang": "Go"
+  },
+  {
+    "title": "keycloak/keycloak",
+    "url": "https://github.com/keycloak/keycloak",
+    "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "desc": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "itorr/nbnhhsh",
+    "url": "https://github.com/itorr/nbnhhsh",
+    "desc": "😩「能不能好好说话？」 拼音首字母缩写翻译工具",
+    "lang": "HTML"
+  },
+  {
+    "title": "material-components/material-components-web",
+    "url": "https://github.com/material-components/material-components-web",
+    "desc": "Modular and customizable Material Design UI components for the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "inconvergent/weir",
+    "url": "https://github.com/inconvergent/weir",
+    "desc": "A system for making generative systems",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  }
+]
