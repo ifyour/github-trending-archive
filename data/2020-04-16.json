@@ -1,0 +1,147 @@
+[
+  {
+    "title": "openmainframeproject/cobol-programming-course",
+    "url": "https://github.com/openmainframeproject/cobol-programming-course",
+    "desc": "COBOL Programming Course",
+    "lang": "COBOL"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "TheLartians/ModernCppStarter",
+    "url": "https://github.com/TheLartians/ModernCppStarter",
+    "desc": "Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.",
+    "lang": "CMake"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "desc": "To Be Top Javaer - Java工程师成神之路",
+    "lang": "Java"
+  },
+  {
+    "title": "carlospolop/privilege-escalation-awesome-scripts-suite",
+    "url": "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite",
+    "desc": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+    "lang": "C#"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "desc": "A set of best practices for JavaScript projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/automl",
+    "url": "https://github.com/google/automl",
+    "desc": "Google Brain AutoML",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  },
+  {
+    "title": "Fugiman/google-meet-grid-view",
+    "url": "https://github.com/Fugiman/google-meet-grid-view",
+    "desc": "Userscript to offer a grid-view layout in Google Meets",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "gerryguy311/CyberProfDevelopmentCovidResources",
+    "url": "https://github.com/gerryguy311/CyberProfDevelopmentCovidResources",
+    "desc": "An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock."
+  },
+  {
+    "title": "k-sys/covid-19",
+    "url": "https://github.com/k-sys/covid-19",
+    "desc": "A collection of work related to COVID-19",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "osresearch/airbreak",
+    "url": "https://github.com/osresearch/airbreak",
+    "desc": "CPAP jailbreak to allow it to be used as a temporary ventilator",
+    "lang": "Assembly"
+  },
+  {
+    "title": "Code-Pop/real-world-vue",
+    "url": "https://github.com/Code-Pop/real-world-vue",
+    "desc": "The application that we build in Vue Mastery's courses starting with Real World Vue",
+    "lang": "Vue"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "keycloak/keycloak",
+    "url": "https://github.com/keycloak/keycloak",
+    "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+    "lang": "Java"
+  },
+  {
+    "title": "ionic-team/ionic",
+    "url": "https://github.com/ionic-team/ionic",
+    "desc": "Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wenjianzhang/go-admin",
+    "url": "https://github.com/wenjianzhang/go-admin",
+    "desc": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）",
+    "lang": "Go"
+  },
+  {
+    "title": "ianramzy/decentralized-video-chat",
+    "url": "https://github.com/ianramzy/decentralized-video-chat",
+    "desc": "🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  }
+]
