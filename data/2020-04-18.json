@@ -1,0 +1,147 @@
+[
+  {
+    "title": "bradtraversy/vanilla-parcel-boilerplate",
+    "url": "https://github.com/bradtraversy/vanilla-parcel-boilerplate",
+    "desc": "Simple starter workflow for building vanilla js apps with Parcel",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "games50/pong",
+    "url": "https://github.com/games50/pong",
+    "desc": "Atari's 1972 classic, implemented in Lua with LÖVE",
+    "lang": "Lua"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "ricklamers/gridstudio",
+    "url": "https://github.com/ricklamers/gridstudio",
+    "desc": "Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iikira/BaiduPCS-Go",
+    "url": "https://github.com/iikira/BaiduPCS-Go",
+    "desc": "百度网盘客户端 - Go语言编写",
+    "lang": "Go"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheLartians/ModernCppStarter",
+    "url": "https://github.com/TheLartians/ModernCppStarter",
+    "desc": "Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.",
+    "lang": "CMake"
+  },
+  {
+    "title": "spring-projects-experimental/spring-authorization-server",
+    "url": "https://github.com/spring-projects-experimental/spring-authorization-server",
+    "desc": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
+    "lang": "Java"
+  },
+  {
+    "title": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "desc": "Analytical Web Apps for Python, R, and Julia. No JavaScript Required.",
+    "lang": "Python"
+  },
+  {
+    "title": "umijs/qiankun",
+    "url": "https://github.com/umijs/qiankun",
+    "desc": "📦🚀Blazing fast, simple and completed solution for micro frontends.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "plotly/falcon",
+    "url": "https://github.com/plotly/falcon",
+    "desc": "Free, open-source SQL client for Windows and Mac 🦅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WaterFishJ/ShengDownload",
+    "url": "https://github.com/WaterFishJ/ShengDownload",
+    "desc": "2020-4-15 panDownload终究倒下，还是没能逃过xxx的xxx。他的替代品ShengDownload即日起正式启动。基于ShengLang开发，跨平台"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "desc": "A set of best practices for JavaScript projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lauragift21/awesome-learning-resources",
+    "url": "https://github.com/lauragift21/awesome-learning-resources",
+    "desc": "🔥Awesome list of resources on Web Development."
+  },
+  {
+    "title": "huggingface/awesome-papers",
+    "url": "https://github.com/huggingface/awesome-papers",
+    "desc": "Papers & presentations from Hugging Face's weekly science day"
+  },
+  {
+    "title": "ProtonMail/proton-bridge",
+    "url": "https://github.com/ProtonMail/proton-bridge",
+    "desc": "ProtonMail Bridge application",
+    "lang": "Go"
+  },
+  {
+    "title": "Fugiman/google-meet-grid-view",
+    "url": "https://github.com/Fugiman/google-meet-grid-view",
+    "desc": "Userscript to offer a grid-view layout in Google Meets",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jethrokuan/org-roam",
+    "url": "https://github.com/jethrokuan/org-roam",
+    "desc": "Rudimentary Roam replica with Org-mode",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  },
+  {
+    "title": "pmmp/PocketMine-MP",
+    "url": "https://github.com/pmmp/PocketMine-MP",
+    "desc": "A server software for Minecraft: Bedrock Edition in PHP",
+    "lang": "PHP"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "desc": "To Be Top Javaer - Java工程师成神之路",
+    "lang": "Java"
+  }
+]
