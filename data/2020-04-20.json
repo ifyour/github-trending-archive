@@ -1,0 +1,142 @@
+[
+  {
+    "title": "natewong1313/bird-bot",
+    "url": "https://github.com/natewong1313/bird-bot",
+    "desc": "A Nintendo Switch checkout bot. Currently supports Walmart and Bestbuy",
+    "lang": "Python"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "Code-Pop/real-world-vue",
+    "url": "https://github.com/Code-Pop/real-world-vue",
+    "desc": "The application that we build in Vue Mastery's courses starting with Real World Vue",
+    "lang": "Vue"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "lang": "C++"
+  },
+  {
+    "title": "jbranchaud/til",
+    "url": "https://github.com/jbranchaud/til",
+    "desc": "📝 Today I Learned",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "VIP-Share/Baidu-XunleiVIP",
+    "url": "https://github.com/VIP-Share/Baidu-XunleiVIP",
+    "desc": "百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。"
+  },
+  {
+    "title": "goyoka/vip_share",
+    "url": "https://github.com/goyoka/vip_share",
+    "desc": "每日分享 百度网盘SVIP账号、爱奇艺会员、芒果会员、搜狐会员、喜马拉雅会员、优酷会员、迅雷会员会员账号分享 (低调使用)"
+  },
+  {
+    "title": "dortania/OpenCore-Desktop-Guide",
+    "url": "https://github.com/dortania/OpenCore-Desktop-Guide",
+    "desc": "Repo for the OpenCore Desktop Guide",
+    "lang": "CSS"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "desc": "C++那些事",
+    "lang": "C++"
+  },
+  {
+    "title": "gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js",
+    "url": "https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js",
+    "desc": "Author : Gun Gun Febrianza",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lpg-it/BaiduYunVIP",
+    "url": "https://github.com/lpg-it/BaiduYunVIP",
+    "desc": "百度云百度网盘超级会员账号SVIP账号免费分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）."
+  },
+  {
+    "title": "DP-3T/dp3t-app-android",
+    "url": "https://github.com/DP-3T/dp3t-app-android",
+    "desc": "The DP3T-App for Android"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom and Skype",
+    "lang": "Python"
+  },
+  {
+    "title": "benedekrozemberczki/awesome-graph-classification",
+    "url": "https://github.com/benedekrozemberczki/awesome-graph-classification",
+    "desc": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+    "lang": "Python"
+  },
+  {
+    "title": "ROBERT-proximity-tracing/documents",
+    "url": "https://github.com/ROBERT-proximity-tracing/documents",
+    "desc": "Protocol specification, white paper, high level documents, etc."
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "lauragift21/awesome-learning-resources",
+    "url": "https://github.com/lauragift21/awesome-learning-resources",
+    "desc": "🔥Awesome list of resources on Web Development."
+  }
+]
