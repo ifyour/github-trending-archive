@@ -1,0 +1,146 @@
+[
+  {
+    "title": "claudiodangelis/qrcp",
+    "url": "https://github.com/claudiodangelis/qrcp",
+    "desc": "⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.",
+    "lang": "Go"
+  },
+  {
+    "title": "DP-3T/dp3t-app-ios",
+    "url": "https://github.com/DP-3T/dp3t-app-ios",
+    "desc": "The DP3T-App for iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "desc": "Distributed database middleware",
+    "lang": "Java"
+  },
+  {
+    "title": "natewong1313/bird-bot",
+    "url": "https://github.com/natewong1313/bird-bot",
+    "desc": "A Nintendo Switch checkout bot. Currently supports Walmart and Best buy",
+    "lang": "Python"
+  },
+  {
+    "title": "LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android",
+    "url": "https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android",
+    "desc": "🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Baekalfen/PyBoy",
+    "url": "https://github.com/Baekalfen/PyBoy",
+    "desc": "Game Boy emulator written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "VIP-Share/Baidu-XunleiVIP",
+    "url": "https://github.com/VIP-Share/Baidu-XunleiVIP",
+    "desc": "百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。"
+  },
+  {
+    "title": "orbitdb/orbit-db",
+    "url": "https://github.com/orbitdb/orbit-db",
+    "desc": "Peer-to-Peer Databases for the Decentralized Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oneinfra/oneinfra",
+    "url": "https://github.com/oneinfra/oneinfra",
+    "desc": "Kubernetes as a Service",
+    "lang": "Go"
+  },
+  {
+    "title": "lpg-it/BaiduYunVIP",
+    "url": "https://github.com/lpg-it/BaiduYunVIP",
+    "desc": "百度云百度网盘超级会员账号SVIP账号免费分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）."
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom and Skype",
+    "lang": "Python"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "title": "k-sys/covid-19",
+    "url": "https://github.com/k-sys/covid-19",
+    "desc": "A collection of work related to COVID-19",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "lang": "TeX"
+  },
+  {
+    "title": "datawhalechina/joyful-pandas",
+    "url": "https://github.com/datawhalechina/joyful-pandas",
+    "desc": "Pandas中文教程",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "byt3bl33d3r/CrackMapExec",
+    "url": "https://github.com/byt3bl33d3r/CrackMapExec",
+    "desc": "A swiss army knife for pentesting networks",
+    "lang": "Python"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "DP-3T/dp3t-app-android",
+    "url": "https://github.com/DP-3T/dp3t-app-android",
+    "desc": "The DP3T-App for Android",
+    "lang": "Java"
+  },
+  {
+    "title": "pepp-pt/pepp-pt-documentation",
+    "url": "https://github.com/pepp-pt/pepp-pt-documentation",
+    "desc": "Documentation for Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT)"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "desc": "Toturial coming with data science roadmap graphe.",
+    "lang": "Python"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "lang": "Go"
+  },
+  {
+    "title": "jbranchaud/til",
+    "url": "https://github.com/jbranchaud/til",
+    "desc": "📝 Today I Learned",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "goyoka/vip_share",
+    "url": "https://github.com/goyoka/vip_share",
+    "desc": "每日分享 百度网盘SVIP账号、爱奇艺会员、芒果会员、搜狐会员、喜马拉雅会员、优酷会员、迅雷会员会员账号分享 (低调使用)"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  }
+]
