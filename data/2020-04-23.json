@@ -1,0 +1,152 @@
+[
+  {
+    "title": "vuejs/vite",
+    "url": "https://github.com/vuejs/vite",
+    "desc": "Experimental no-bundle dev server for Vue SFCs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "claudiodangelis/qrcp",
+    "url": "https://github.com/claudiodangelis/qrcp",
+    "desc": "⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "Baekalfen/PyBoy",
+    "url": "https://github.com/Baekalfen/PyBoy",
+    "desc": "Game Boy emulator written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Project-MONAI/MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "desc": "AI Toolkit for Healthcare Imaging",
+    "lang": "Python"
+  },
+  {
+    "title": "maxchehab/phelia",
+    "url": "https://github.com/maxchehab/phelia",
+    "desc": "⚡ A reactive Slack application framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "monitoror/monitoror",
+    "url": "https://github.com/monitoror/monitoror",
+    "desc": "Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.",
+    "lang": "Go"
+  },
+  {
+    "title": "pedrib/PoC",
+    "url": "https://github.com/pedrib/PoC",
+    "desc": "",
+    "lang": "Ruby"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bansal-io/pattern.css",
+    "url": "https://github.com/bansal-io/pattern.css",
+    "desc": "CSS only library to fill empty background with beautiful patterns.",
+    "lang": "HTML"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "crawlab-team/crawlab",
+    "url": "https://github.com/crawlab-team/crawlab",
+    "desc": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/c9-python-getting-started",
+    "url": "https://github.com/microsoft/c9-python-getting-started",
+    "desc": "Sample code for Channel 9 Python for Beginners course",
+    "lang": "Python"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 9 and .NET Core 3.1",
+    "lang": "C#"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "desc": "Like Prometheus, but for logs.",
+    "lang": "Go"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "desc": "Distributed database middleware",
+    "lang": "Java"
+  },
+  {
+    "title": "bxcodec/go-clean-arch",
+    "url": "https://github.com/bxcodec/go-clean-arch",
+    "desc": "Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture",
+    "lang": "Go"
+  },
+  {
+    "title": "android/architecture-samples",
+    "url": "https://github.com/android/architecture-samples",
+    "desc": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "desc": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~",
+    "lang": "Go"
+  },
+  {
+    "title": "golangci/golangci-lint",
+    "url": "https://github.com/golangci/golangci-lint",
+    "desc": "Linters Runner for Go. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+    "lang": "Go"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "desc": "Xamarin.Forms Official Home",
+    "lang": "C#"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  }
+]
