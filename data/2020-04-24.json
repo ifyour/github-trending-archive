@@ -1,0 +1,152 @@
+[
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "brave/brave-browser",
+    "url": "https://github.com/brave/brave-browser",
+    "desc": "Next generation Brave browser for macOS, Windows, Linux, Android.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Unity-Technologies/Graphics",
+    "url": "https://github.com/Unity-Technologies/Graphics",
+    "desc": "Unity Graphics - Including Scriptable Render Pipeline",
+    "lang": "HTML"
+  },
+  {
+    "title": "Project-MONAI/MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "desc": "AI Toolkit for Healthcare Imaging",
+    "lang": "Python"
+  },
+  {
+    "title": "jdan/98.css",
+    "url": "https://github.com/jdan/98.css",
+    "desc": "A design system for building faithful recreations of old UIs",
+    "lang": "CSS"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "desc": "[CVPR2020] Adversarial Latent Autoencoders",
+    "lang": "Python"
+  },
+  {
+    "title": "confluentinc/demo-scene",
+    "url": "https://github.com/confluentinc/demo-scene",
+    "desc": "Scripts and samples to support Confluent Platform talks. May be rough around the edges. For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/",
+    "lang": "Shell"
+  },
+  {
+    "title": "ahmetb/kubectx",
+    "url": "https://github.com/ahmetb/kubectx",
+    "desc": "Faster way to switch between clusters and namespaces in kubectl",
+    "lang": "Shell"
+  },
+  {
+    "title": "NicknineTheEagle/TF2-Base",
+    "url": "https://github.com/NicknineTheEagle/TF2-Base",
+    "desc": "The old Team Fortress 2 source code ported to Source SDK 2013",
+    "lang": "C++"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "desc": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shomali11/go-interview",
+    "url": "https://github.com/shomali11/go-interview",
+    "desc": "Collection of Technical Interview Questions solved with Go",
+    "lang": "Go"
+  },
+  {
+    "title": "kwsch/NHSE",
+    "url": "https://github.com/kwsch/NHSE",
+    "desc": "Animal Crossing: New Horizons save editor",
+    "lang": "C#"
+  },
+  {
+    "title": "serverless/serverless",
+    "url": "https://github.com/serverless/serverless",
+    "desc": "Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vite",
+    "url": "https://github.com/vuejs/vite",
+    "desc": "Experimental no-bundle dev server for Vue SFCs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "scala/scala",
+    "url": "https://github.com/scala/scala",
+    "desc": "Scala 2 compiler and standard library. For bugs, see scala/bug",
+    "lang": "Scala"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "desc": "Microsoft Azure PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/Sentinel",
+    "url": "https://github.com/alibaba/Sentinel",
+    "desc": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+    "lang": "Java"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  }
+]
