@@ -1,0 +1,151 @@
+[
+  {
+    "title": "aristocratos/bashtop",
+    "url": "https://github.com/aristocratos/bashtop",
+    "desc": "Linux resource monitor",
+    "lang": "Shell"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "desc": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "refactoringui/heroicons",
+    "url": "https://github.com/refactoringui/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development."
+  },
+  {
+    "title": "microsoft/azure-pipelines-tasks",
+    "url": "https://github.com/microsoft/azure-pipelines-tasks",
+    "desc": "Tasks for Azure Pipelines",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jdan/98.css",
+    "url": "https://github.com/jdan/98.css",
+    "desc": "A design system for building faithful recreations of old UIs",
+    "lang": "CSS"
+  },
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "desc": "[CVPR2020] Adversarial Latent Autoencoders",
+    "lang": "Python"
+  },
+  {
+    "title": "Project-MONAI/MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "desc": "AI Toolkit for Healthcare Imaging",
+    "lang": "Python"
+  },
+  {
+    "title": "pjreddie/darknet",
+    "url": "https://github.com/pjreddie/darknet",
+    "desc": "Convolutional Neural Networks",
+    "lang": "C"
+  },
+  {
+    "title": "blitz-js/blitz",
+    "url": "https://github.com/blitz-js/blitz",
+    "desc": "⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kgrzybek/modular-monolith-with-ddd",
+    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "lang": "C#"
+  },
+  {
+    "title": "phuoc-ng/html-dom",
+    "url": "https://github.com/phuoc-ng/html-dom",
+    "desc": "Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Cloud native model serving infrastructure",
+    "lang": "Go"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "benawad/destiny",
+    "url": "https://github.com/benawad/destiny",
+    "desc": "Prettier for File Structures",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pyenv/pyenv",
+    "url": "https://github.com/pyenv/pyenv",
+    "desc": "Simple Python version management",
+    "lang": "Shell"
+  },
+  {
+    "title": "AaronFeng753/Waifu2x-Extension-GUI",
+    "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI",
+    "desc": "Image, GIF and Video enlarger/upscaler(super-resolution) achieved with waifu2x-ncnn-vulkan, waifu2x-converter, SRMD-ncnn-Vulkan and Anime4K.",
+    "lang": "C++"
+  },
+  {
+    "title": "http-rs/tide",
+    "url": "https://github.com/http-rs/tide",
+    "desc": "Fast and friendly HTTP server framework for async Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "serverless/serverless",
+    "url": "https://github.com/serverless/serverless",
+    "desc": "Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "systemd/systemd",
+    "url": "https://github.com/systemd/systemd",
+    "desc": "The systemd System and Service Manager",
+    "lang": "C"
+  }
+]
