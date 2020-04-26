@@ -1,0 +1,148 @@
+[
+  {
+    "title": "aristocratos/bashtop",
+    "url": "https://github.com/aristocratos/bashtop",
+    "desc": "Linux resource monitor",
+    "lang": "Shell"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alexgand/springer_free_books",
+    "url": "https://github.com/alexgand/springer_free_books",
+    "desc": "Python script to download all Springer books released for free during the 2020 COVID-19 quarantine",
+    "lang": "Python"
+  },
+  {
+    "title": "pjreddie/darknet",
+    "url": "https://github.com/pjreddie/darknet",
+    "desc": "Convolutional Neural Networks",
+    "lang": "C"
+  },
+  {
+    "title": "blitz-js/blitz",
+    "url": "https://github.com/blitz-js/blitz",
+    "desc": "⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C++"
+  },
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "desc": "[CVPR2020] Adversarial Latent Autoencoders",
+    "lang": "Python"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "tirthajyoti/Data-science-best-resources",
+    "url": "https://github.com/tirthajyoti/Data-science-best-resources",
+    "desc": "Carefully curated resource links for data science in one place"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "desc": "🌟 V2Ray/Trojan-GFW/SSR Linux/Windows/macOS 跨平台 GUI 🔨 使用 C++17/Qt5 ，支持订阅，扫描二维码，自定义路由编辑 🌟",
+    "lang": "C++"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+    "desc": "List of Data Science Cheatsheets to rule the world"
+  },
+  {
+    "title": "austrianredcross/stopp-corona-ios",
+    "url": "https://github.com/austrianredcross/stopp-corona-ios",
+    "desc": "iOS Source Code"
+  },
+  {
+    "title": "Sentdex/NNfSiX",
+    "url": "https://github.com/Sentdex/NNfSiX",
+    "desc": "Neural Networks from Scratch in other languages",
+    "lang": "Assembly"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "desc": "Toturial coming with data science roadmap graphe.",
+    "lang": "Python"
+  },
+  {
+    "title": "0wczar/airframe-react",
+    "url": "https://github.com/0wczar/airframe-react",
+    "desc": "Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "title": "kgrzybek/modular-monolith-with-ddd",
+    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "lang": "C#"
+  },
+  {
+    "title": "austrianredcross/stopp-corona-android",
+    "url": "https://github.com/austrianredcross/stopp-corona-android",
+    "desc": "Android Source Code",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "neha-chawla/RandomPython",
+    "url": "https://github.com/neha-chawla/RandomPython",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "AaronFeng753/Waifu2x-Extension-GUI",
+    "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI",
+    "desc": "Image, GIF and Video enlarger/upscaler(super-resolution) achieved with waifu2x-ncnn-vulkan, waifu2x-converter, SRMD-ncnn-Vulkan and Anime4K.",
+    "lang": "C++"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "elixir-lang/elixir",
+    "url": "https://github.com/elixir-lang/elixir",
+    "desc": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
+    "lang": "Elixir"
+  }
+]
