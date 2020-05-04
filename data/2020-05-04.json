@@ -1,0 +1,151 @@
+[
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "desc": "[CVPR2020] Adversarial Latent Autoencoders",
+    "lang": "Python"
+  },
+  {
+    "title": "aristocratos/bashtop",
+    "url": "https://github.com/aristocratos/bashtop",
+    "desc": "Linux resource monitor",
+    "lang": "Shell"
+  },
+  {
+    "title": "beefytech/Beef",
+    "url": "https://github.com/beefytech/Beef",
+    "desc": "Beef Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "desc": "🌟 支持 V2Ray/Trojan/SSR 的 Linux/Windows/macOS 跨平台 GUI 🔨 C++17/Qt5 ，支持订阅，自定义路由编辑，插件式设计 🌟",
+    "lang": "C++"
+  },
+  {
+    "title": "timgrossmann/InstaPy",
+    "url": "https://github.com/timgrossmann/InstaPy",
+    "desc": "📷 Instagram Bot - Tool for automated Instagram interactions",
+    "lang": "Python"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-java",
+    "url": "https://github.com/open-telemetry/opentelemetry-java",
+    "desc": "OpenTelemetry Java SDK",
+    "lang": "Java"
+  },
+  {
+    "title": "Unity-Technologies/ml-agents",
+    "url": "https://github.com/Unity-Technologies/ml-agents",
+    "desc": "Unity Machine Learning Agents Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "desc": "Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C++"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "opentrace-community/opentrace-android",
+    "url": "https://github.com/opentrace-community/opentrace-android",
+    "desc": "OpenTrace Android app. Reference implementation of the BlueTrace protocol.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "minetest/minetest",
+    "url": "https://github.com/minetest/minetest",
+    "desc": "Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game",
+    "lang": "C++"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~",
+    "lang": "Go"
+  },
+  {
+    "title": "FreeCAD/FreeCAD",
+    "url": "https://github.com/FreeCAD/FreeCAD",
+    "desc": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
+    "lang": "C++"
+  },
+  {
+    "title": "pcottle/learnGitBranching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "desc": "An interactive git visualization to challenge and educate!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "then/is-promise",
+    "url": "https://github.com/then/is-promise",
+    "desc": "Test whether an object looks like a promises-a+ promise",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "desc": "Abseil Common Libraries (C++)",
+    "lang": "C++"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "refactoringui/heroicons",
+    "url": "https://github.com/refactoringui/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development."
+  }
+]
