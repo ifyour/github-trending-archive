@@ -1,0 +1,149 @@
+[
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "desc": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "lang": "C"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "desc": "Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "phuoc-ng/1loc",
+    "url": "https://github.com/phuoc-ng/1loc",
+    "desc": "What's your favorite JavaScript single LOC (line of code)?",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "infosecn1nja/Red-Teaming-Toolkit",
+    "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+    "desc": "A collection of open source and commercial tools that aid in red team operations."
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "desc": "Fast, multi-platform web server with automatic HTTPS",
+    "lang": "Go"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Language: A fresh approach to technical computing.",
+    "lang": "Julia"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ramitsurana/awesome-kubernetes",
+    "url": "https://github.com/ramitsurana/awesome-kubernetes",
+    "desc": "A curated list for awesome kubernetes sources 🚢🎉",
+    "lang": "Makefile"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "Dimillian/ACHNBrowserUI",
+    "url": "https://github.com/Dimillian/ACHNBrowserUI",
+    "desc": "Animal Crossing New Horizon items catalog in SwiftUI",
+    "lang": "Swift"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "desc": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "desc": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "lang": "Python"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mikebryant/ac-nh-turnip-prices",
+    "url": "https://github.com/mikebryant/ac-nh-turnip-prices",
+    "desc": "Price calculator/predictor for Turnip prices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rubocop-hq/rubocop",
+    "url": "https://github.com/rubocop-hq/rubocop",
+    "desc": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "lang": "Ruby"
+  }
+]
