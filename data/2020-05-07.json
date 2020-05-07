@@ -1,0 +1,150 @@
+[
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "desc": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "lang": "C"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "rossengeorgiev/salt-security-backports",
+    "url": "https://github.com/rossengeorgiev/salt-security-backports",
+    "desc": "Salt security backports for CVE-2020-11651 & CVE-2020-11652",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/c9-python-getting-started",
+    "url": "https://github.com/microsoft/c9-python-getting-started",
+    "desc": "Sample code for Channel 9 Python for Beginners course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "ramitsurana/awesome-kubernetes",
+    "url": "https://github.com/ramitsurana/awesome-kubernetes",
+    "desc": "A curated list for awesome kubernetes sources 🚢🎉",
+    "lang": "Makefile"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "desc": "Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "Dimillian/ACHNBrowserUI",
+    "url": "https://github.com/Dimillian/ACHNBrowserUI",
+    "desc": "Animal Crossing New Horizon items catalog in SwiftUI",
+    "lang": "Swift"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "desc": "Fast, multi-platform web server with automatic HTTPS",
+    "lang": "Go"
+  },
+  {
+    "title": "google/eng-practices",
+    "url": "https://github.com/google/eng-practices",
+    "desc": "Google's Engineering Practices documentation"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "phuoc-ng/1loc",
+    "url": "https://github.com/phuoc-ng/1loc",
+    "desc": "What's your favorite JavaScript single LOC (line of code)?",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "dotnet-presentations/blazor-workshop",
+    "url": "https://github.com/dotnet-presentations/blazor-workshop",
+    "desc": "Blazor workshop",
+    "lang": "CSS"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "MalitsPlus/ShizuruNotes",
+    "url": "https://github.com/MalitsPlus/ShizuruNotes",
+    "desc": "An unofficial Android tool application of the game Princess Connect Re:Dive",
+    "lang": "Java"
+  }
+]
