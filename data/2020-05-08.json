@@ -1,0 +1,151 @@
+[
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "keybase/client",
+    "url": "https://github.com/keybase/client",
+    "desc": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",
+    "lang": "Go"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "beekeeper-studio/beekeeper-studio",
+    "url": "https://github.com/beekeeper-studio/beekeeper-studio",
+    "desc": "Cross platform SQL editor and database management app for Windows, Linux, and Mac.",
+    "lang": "TSQL"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "desc": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "frappe/books",
+    "url": "https://github.com/frappe/books",
+    "desc": "Free Desktop book-keeping software for small-businesses and freelancers.",
+    "lang": "Vue"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/codeql",
+    "url": "https://github.com/github/codeql",
+    "desc": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise",
+    "lang": "CodeQL"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "desc": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "lang": "Java"
+  },
+  {
+    "title": "react-native-community/react-native-video",
+    "url": "https://github.com/react-native-community/react-native-video",
+    "desc": "A <Video /> component for react-native",
+    "lang": "Java"
+  },
+  {
+    "title": "cats-oss/android-gpuimage",
+    "url": "https://github.com/cats-oss/android-gpuimage",
+    "desc": "Android filters based on OpenGL (idea from GPUImage for iOS)",
+    "lang": "Java"
+  },
+  {
+    "title": "jwasham/computer-science-flash-cards",
+    "url": "https://github.com/jwasham/computer-science-flash-cards",
+    "desc": "Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.",
+    "lang": "HTML"
+  },
+  {
+    "title": "flutter/packages",
+    "url": "https://github.com/flutter/packages",
+    "desc": "A collection of useful packages maintained by the Flutter team",
+    "lang": "Dart"
+  },
+  {
+    "title": "Dimillian/ACHNBrowserUI",
+    "url": "https://github.com/Dimillian/ACHNBrowserUI",
+    "desc": "Animal Crossing New Horizon items catalog in SwiftUI",
+    "lang": "Swift"
+  },
+  {
+    "title": "umijs/qiankun",
+    "url": "https://github.com/umijs/qiankun",
+    "desc": "📦🚀Blazing fast, simple and completed solution for micro frontends.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/guava",
+    "url": "https://github.com/google/guava",
+    "desc": "Google core libraries for Java",
+    "lang": "Java"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kubernetes-client/python",
+    "url": "https://github.com/kubernetes-client/python",
+    "desc": "Official Python client library for kubernetes",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/c9-python-getting-started",
+    "url": "https://github.com/microsoft/c9-python-getting-started",
+    "desc": "Sample code for Channel 9 Python for Beginners course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Quantum",
+    "url": "https://github.com/microsoft/Quantum",
+    "desc": "Microsoft Quantum Development Kit Samples",
+    "lang": "PowerShell"
+  }
+]
