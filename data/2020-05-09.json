@@ -1,0 +1,149 @@
+[
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "beekeeper-studio/beekeeper-studio",
+    "url": "https://github.com/beekeeper-studio/beekeeper-studio",
+    "desc": "Cross platform SQL editor and database management app for Windows, Linux, and Mac.",
+    "lang": "TSQL"
+  },
+  {
+    "title": "vueComponent/ant-design-vue-pro",
+    "url": "https://github.com/vueComponent/ant-design-vue-pro",
+    "desc": "👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!",
+    "lang": "Vue"
+  },
+  {
+    "title": "keybase/client",
+    "url": "https://github.com/keybase/client",
+    "desc": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "desc": "Things you can do with a browser in 2020 ☕️"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "desc": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/eng-practices",
+    "url": "https://github.com/google/eng-practices",
+    "desc": "Google's Engineering Practices documentation"
+  },
+  {
+    "title": "alibaba/spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "desc": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "lang": "Java"
+  },
+  {
+    "title": "Kotlin/kotlinx.coroutines",
+    "url": "https://github.com/Kotlin/kotlinx.coroutines",
+    "desc": "Library support for Kotlin coroutines",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "iview/iview-admin",
+    "url": "https://github.com/iview/iview-admin",
+    "desc": "Vue 2.0 admin management system template based on iView",
+    "lang": "Vue"
+  },
+  {
+    "title": "jinzhu/gorm",
+    "url": "https://github.com/jinzhu/gorm",
+    "desc": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)",
+    "lang": "Go"
+  },
+  {
+    "title": "osixia/docker-openldap",
+    "url": "https://github.com/osixia/docker-openldap",
+    "desc": "A docker image to run OpenLDAP 🐳",
+    "lang": "Shell"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding",
+    "lang": "Python"
+  },
+  {
+    "title": "antvis/G2",
+    "url": "https://github.com/antvis/G2",
+    "desc": "📊 A highly interactive data-driven visualization grammar for statistical charts.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/ncnn",
+    "url": "https://github.com/Tencent/ncnn",
+    "desc": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+    "lang": "C++"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "ElemeFE/element",
+    "url": "https://github.com/ElemeFE/element",
+    "desc": "A Vue.js 2.0 UI Toolkit for Web",
+    "lang": "Vue"
+  }
+]
