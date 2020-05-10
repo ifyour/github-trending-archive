@@ -1,0 +1,150 @@
+[
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "CMU-Perceptual-Computing-Lab/openpose",
+    "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+    "desc": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "lang": "C++"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "async-graphql/async-graphql",
+    "url": "https://github.com/async-graphql/async-graphql",
+    "desc": "The GraphQL server library implemented by rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "desc": "Things you can do with a browser in 2020 ☕️"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "An interactive deep learning book with code, math, and discussions, based on the NumPy interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "vueComponent/ant-design-vue-pro",
+    "url": "https://github.com/vueComponent/ant-design-vue-pro",
+    "desc": "👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!",
+    "lang": "Vue"
+  },
+  {
+    "title": "google/eng-practices",
+    "url": "https://github.com/google/eng-practices",
+    "desc": "Google's Engineering Practices documentation"
+  },
+  {
+    "title": "pycaret/pycaret",
+    "url": "https://github.com/pycaret/pycaret",
+    "desc": "An open source, low-code machine learning library in Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "skypjack/entt",
+    "url": "https://github.com/skypjack/entt",
+    "desc": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+    "lang": "C++"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "desc": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "lang": "C++"
+  },
+  {
+    "title": "AppleIntelWifi/adapter",
+    "url": "https://github.com/AppleIntelWifi/adapter",
+    "desc": "Kext providing initial support for Intel wireless devices",
+    "lang": "C"
+  },
+  {
+    "title": "umijs/qiankun",
+    "url": "https://github.com/umijs/qiankun",
+    "desc": "📦🚀Blazing fast, simple and completed solution for micro frontends.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "kritiksoman/GIMP-ML",
+    "url": "https://github.com/kritiksoman/GIMP-ML",
+    "desc": "Set of Machine Learning Python plugins for GIMP",
+    "lang": "Python"
+  },
+  {
+    "title": "Trojan-Qt5/Trojan-Qt5",
+    "url": "https://github.com/Trojan-Qt5/Trojan-Qt5",
+    "desc": "A cross-platform trojan GUI client based on Shadowsocks-qt. 有问题请加tg群反馈",
+    "lang": "C++"
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "desc": "completely free for everyone. Its build-in Flutter Dart.",
+    "lang": "Dart"
+  },
+  {
+    "title": "athensresearch/athens",
+    "url": "https://github.com/athensresearch/athens",
+    "desc": "Open-Source Roam",
+    "lang": "Clojure"
+  },
+  {
+    "title": "htr-tech/nexphisher",
+    "url": "https://github.com/htr-tech/nexphisher",
+    "desc": "Advanced Phishing tool for Linux & Termux",
+    "lang": "Shell"
+  },
+  {
+    "title": "cloudwu/skynet",
+    "url": "https://github.com/cloudwu/skynet",
+    "desc": "A lightweight online game framework",
+    "lang": "C"
+  },
+  {
+    "title": "ethereum/go-ethereum",
+    "url": "https://github.com/ethereum/go-ethereum",
+    "desc": "Official Go implementation of the Ethereum protocol",
+    "lang": "Go"
+  }
+]
