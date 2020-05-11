@@ -1,0 +1,151 @@
+[
+  {
+    "title": "rxi/lite",
+    "url": "https://github.com/rxi/lite",
+    "desc": "A lightweight text editor written in Lua",
+    "lang": "Lua"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "skypjack/entt",
+    "url": "https://github.com/skypjack/entt",
+    "desc": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+    "lang": "C++"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sphawes/index",
+    "url": "https://github.com/sphawes/index",
+    "desc": "The Index is an open source pick and place machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "adi1090x/CustomArch",
+    "url": "https://github.com/adi1090x/CustomArch",
+    "desc": "Various Arch Linux Based Custom ISOs Made With Archiso",
+    "lang": "Shell"
+  },
+  {
+    "title": "alexellis/awesome-baremetal",
+    "url": "https://github.com/alexellis/awesome-baremetal",
+    "desc": "Bare-metal is awesome. Let's share our favourite tools."
+  },
+  {
+    "title": "epezent/implot",
+    "url": "https://github.com/epezent/implot",
+    "desc": "Advanced 2D Plotting for Dear ImGui",
+    "lang": "C++"
+  },
+  {
+    "title": "cnlohr/rawdrawandroid",
+    "url": "https://github.com/cnlohr/rawdrawandroid",
+    "desc": "Build android apps without any java, entirely in C",
+    "lang": "C"
+  },
+  {
+    "title": "ImperialCollegeLondon/covid19model",
+    "url": "https://github.com/ImperialCollegeLondon/covid19model",
+    "desc": "Code for modelling estimated deaths and cases for COVID19.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "primer/github-vscode-theme",
+    "url": "https://github.com/primer/github-vscode-theme",
+    "desc": "GitHub's VS Code theme",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate",
+    "lang": "Python"
+  },
+  {
+    "title": "yewstack/yew",
+    "url": "https://github.com/yewstack/yew",
+    "desc": "Rust / Wasm framework for building client web apps",
+    "lang": "Rust"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "Sycnex/Windows10Debloater",
+    "url": "https://github.com/Sycnex/Windows10Debloater",
+    "desc": "Script to remove Windows 10 bloatware.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "OWASP/Amass",
+    "url": "https://github.com/OWASP/Amass",
+    "desc": "In-depth Attack Surface Mapping and Asset Discovery",
+    "lang": "Go"
+  },
+  {
+    "title": "LukeSmithxyz/dwm",
+    "url": "https://github.com/LukeSmithxyz/dwm",
+    "desc": "Luke's build of dwm",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "r0oth3x49/udemy-dl",
+    "url": "https://github.com/r0oth3x49/udemy-dl",
+    "desc": "A cross-platform python based utility to download courses from udemy for personal offline use.",
+    "lang": "Python"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "chonyy/AI-basketball-analysis",
+    "url": "https://github.com/chonyy/AI-basketball-analysis",
+    "desc": "🏀🤖🏀 AI web app and API to analyze basketball shots.",
+    "lang": "Python"
+  },
+  {
+    "title": "kritiksoman/GIMP-ML",
+    "url": "https://github.com/kritiksoman/GIMP-ML",
+    "desc": "Set of Machine Learning Python plugins for GIMP",
+    "lang": "Python"
+  }
+]
