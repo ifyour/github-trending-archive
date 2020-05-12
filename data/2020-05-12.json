@@ -1,0 +1,151 @@
+[
+  {
+    "title": "cnlohr/rawdrawandroid",
+    "url": "https://github.com/cnlohr/rawdrawandroid",
+    "desc": "Build android apps without any java, entirely in C",
+    "lang": "C"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "primer/github-vscode-theme",
+    "url": "https://github.com/primer/github-vscode-theme",
+    "desc": "GitHub's VS Code theme",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "jantic/DeOldify",
+    "url": "https://github.com/jantic/DeOldify",
+    "desc": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "adi1090x/CustomArch",
+    "url": "https://github.com/adi1090x/CustomArch",
+    "desc": "Various Arch Linux Based Custom ISOs Made With Archiso",
+    "lang": "Shell"
+  },
+  {
+    "title": "spf13/viper",
+    "url": "https://github.com/spf13/viper",
+    "desc": "Go configuration with fangs",
+    "lang": "Go"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "sphawes/index",
+    "url": "https://github.com/sphawes/index",
+    "desc": "The Index is an open source pick and place machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "360EntSecGroup-Skylar/excelize",
+    "url": "https://github.com/360EntSecGroup-Skylar/excelize",
+    "desc": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+    "lang": "Go"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate",
+    "lang": "Python"
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yewstack/yew",
+    "url": "https://github.com/yewstack/yew",
+    "desc": "Rust / Wasm framework for building client web apps",
+    "lang": "Rust"
+  },
+  {
+    "title": "pi-hole/docker-pi-hole",
+    "url": "https://github.com/pi-hole/docker-pi-hole",
+    "desc": "Pi-hole in a docker container",
+    "lang": "Python"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/hive",
+    "url": "https://github.com/apache/hive",
+    "desc": "Apache Hive",
+    "lang": "Java"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "tinygo-org/tinygo",
+    "url": "https://github.com/tinygo-org/tinygo",
+    "desc": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+    "lang": "Go"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xamarin/xamarin-forms-samples",
+    "url": "https://github.com/xamarin/xamarin-forms-samples",
+    "desc": "Sample apps built using the Xamarin.Forms framework",
+    "lang": "C#"
+  }
+]
