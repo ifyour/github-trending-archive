@@ -1,0 +1,150 @@
+[
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "CISOfy/lynis",
+    "url": "https://github.com/CISOfy/lynis",
+    "desc": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+    "lang": "Shell"
+  },
+  {
+    "title": "apache/incubator-apisix",
+    "url": "https://github.com/apache/incubator-apisix",
+    "desc": "Cloud-Native Microservices API Gateway",
+    "lang": "Lua"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "desc": "Microsoft Azure PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "alexellis/awesome-baremetal",
+    "url": "https://github.com/alexellis/awesome-baremetal",
+    "desc": "Bare-metal is awesome. Let's share our favourite tools."
+  },
+  {
+    "title": "LupusLeaks/EasyFN",
+    "url": "https://github.com/LupusLeaks/EasyFN",
+    "desc": "(UPDATING PLEASE WAIT) With EasyFNBot you can easily create you own Fortnite Lobby Bot in less then 5 minutes which will be online forever!",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "desc": "Public interface definitions of Google APIs.",
+    "lang": "Starlark"
+  },
+  {
+    "title": "liyasthomas/postwoman",
+    "url": "https://github.com/liyasthomas/postwoman",
+    "desc": "👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "zeit/next.js",
+    "url": "https://github.com/zeit/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "christophM/interpretable-ml-book",
+    "url": "https://github.com/christophM/interpretable-ml-book",
+    "desc": "Book about interpretable machine learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "desc": "Official repo for the #tidytuesday project",
+    "lang": "HTML"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "desc": "🐉 Material Component Framework for Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "tannerlinsley/react-table",
+    "url": "https://github.com/tannerlinsley/react-table",
+    "desc": "⚛️ Hooks for building fast and extendable tables and datagrids for React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "daltoniam/Starscream",
+    "url": "https://github.com/daltoniam/Starscream",
+    "desc": "Websockets in swift for iOS and OSX",
+    "lang": "Swift"
+  },
+  {
+    "title": "ChristianChiarulli/nvim",
+    "url": "https://github.com/ChristianChiarulli/nvim",
+    "desc": "Neovim config",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  }
+]
