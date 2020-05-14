@@ -1,0 +1,152 @@
+[
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "CISOfy/lynis",
+    "url": "https://github.com/CISOfy/lynis",
+    "desc": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "goharbor/harbor",
+    "url": "https://github.com/goharbor/harbor",
+    "desc": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "lang": "Go"
+  },
+  {
+    "title": "igorwojda/android-showcase",
+    "url": "https://github.com/igorwojda/android-showcase",
+    "desc": "💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "PureBasic"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "desc": "Microsoft Azure PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "fluxcd/flux",
+    "url": "https://github.com/fluxcd/flux",
+    "desc": "The GitOps Kubernetes operator",
+    "lang": "Go"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "testing-library/dom-testing-library",
+    "url": "https://github.com/testing-library/dom-testing-library",
+    "desc": "🐙 Simple and complete DOM testing utilities that encourage good testing practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexatiks/jetbrains-reset-trial-evaluation-mac",
+    "url": "https://github.com/alexatiks/jetbrains-reset-trial-evaluation-mac",
+    "desc": "Reset Intellij IDEA, WebStorm, DataGrip and PhpStorm evaluation (2019 / 2020 / Mac OS)",
+    "lang": "Shell"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "Unity-Technologies/arfoundation-samples",
+    "url": "https://github.com/Unity-Technologies/arfoundation-samples",
+    "desc": "Example content for Unity projects based on AR Foundation",
+    "lang": "C#"
+  },
+  {
+    "title": "Unity-Technologies/Graphics",
+    "url": "https://github.com/Unity-Technologies/Graphics",
+    "desc": "Unity Graphics - Including Scriptable Render Pipeline",
+    "lang": "HTML"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "lang": "Go"
+  },
+  {
+    "title": "denoland/deno_website2",
+    "url": "https://github.com/denoland/deno_website2",
+    "desc": "deno.land website",
+    "lang": "TypeScript"
+  }
+]
