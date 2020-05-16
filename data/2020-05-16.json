@@ -1,0 +1,151 @@
+[
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "fluxcd/flux",
+    "url": "https://github.com/fluxcd/flux",
+    "desc": "The GitOps Kubernetes operator",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "CocoaPods/CocoaPods",
+    "url": "https://github.com/CocoaPods/CocoaPods",
+    "desc": "The Cocoa Dependency Manager.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "yaronzz/Tidal-Media-Downloader",
+    "url": "https://github.com/yaronzz/Tidal-Media-Downloader",
+    "desc": "Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)",
+    "lang": "C#"
+  },
+  {
+    "title": "denoland/deno_website2",
+    "url": "https://github.com/denoland/deno_website2",
+    "desc": "deno.land website",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 Firebase plugins for Flutter apps",
+    "lang": "Dart"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "DP-3T/documents",
+    "url": "https://github.com/DP-3T/documents",
+    "desc": "Decentralized Privacy-Preserving Proximity Tracing -- Documents",
+    "lang": "Shell"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "datasets/covid-19",
+    "url": "https://github.com/datasets/covid-19",
+    "desc": "Novel Coronavirus 2019 time series data on cases",
+    "lang": "Python"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "aws-amplify/amplify-cli",
+    "url": "https://github.com/aws-amplify/amplify-cli",
+    "desc": "A CLI toolchain for simplifying serverless web and mobile development.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/rocketmq",
+    "url": "https://github.com/apache/rocketmq",
+    "desc": "Mirror of Apache RocketMQ",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "desc": "Ultimate Go study guide",
+    "lang": "Go"
+  },
+  {
+    "title": "jaredpalmer/formik",
+    "url": "https://github.com/jaredpalmer/formik",
+    "desc": "Build forms in React, without the tears 😭",
+    "lang": "TypeScript"
+  }
+]
