@@ -1,0 +1,151 @@
+[
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "desc": "immudb is lightweight, high-speed immutable database for systems and applications",
+    "lang": "Go"
+  },
+  {
+    "title": "Pryaxis/TShock",
+    "url": "https://github.com/Pryaxis/TShock",
+    "desc": "☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.",
+    "lang": "C#"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "desc": "blazing fast terminal-ui for git written in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "All Algorithms implemented in C",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "All Algorithms implemented in C++",
+    "lang": "C++"
+  },
+  {
+    "title": "jaakkopasanen/AutoEq",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "desc": "Automatic headphone equalization from frequency responses",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Trojan-Qt5/Trojan-Qt5",
+    "url": "https://github.com/Trojan-Qt5/Trojan-Qt5",
+    "desc": "A cross-platform ss/ssr/vmess/trojan GUI client based on Shadowsocks-qt. 有问题请加tg群反馈",
+    "lang": "C++"
+  },
+  {
+    "title": "buger/jsonparser",
+    "url": "https://github.com/buger/jsonparser",
+    "desc": "Alternative JSON parser for Go that does not require schema (so far fastest)",
+    "lang": "Go"
+  },
+  {
+    "title": "gregsramblings/google-cloud-4-words",
+    "url": "https://github.com/gregsramblings/google-cloud-4-words",
+    "desc": "The Google Cloud Developer's Cheat Sheet"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "google/fuzzing",
+    "url": "https://github.com/google/fuzzing",
+    "desc": "Tutorials, examples, discussions, research proposals, and other resources related to fuzzing",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "raspberrypi/rpi-eeprom",
+    "url": "https://github.com/raspberrypi/rpi-eeprom",
+    "desc": "Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs",
+    "lang": "Shell"
+  },
+  {
+    "title": "google/flatbuffers",
+    "url": "https://github.com/google/flatbuffers",
+    "desc": "FlatBuffers: Memory Efficient Serialization Library",
+    "lang": "C++"
+  },
+  {
+    "title": "dbeaver/dbeaver",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "desc": "Free universal database tool and SQL client",
+    "lang": "Java"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/winrt-rs",
+    "url": "https://github.com/microsoft/winrt-rs",
+    "desc": "Rust/WinRT is a Rust language projection for the Windows Runtime",
+    "lang": "Rust"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "Python"
+  }
+]
