@@ -1,0 +1,150 @@
+[
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "All Algorithms implemented in C++",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "All Algorithms implemented in C",
+    "lang": "C"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "versatica/mediasoup",
+    "url": "https://github.com/versatica/mediasoup",
+    "desc": "Cutting Edge WebRTC Video Conferencing",
+    "lang": "C++"
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Go",
+    "url": "https://github.com/TheAlgorithms/Go",
+    "desc": "Algorithms Implemented in GoLang",
+    "lang": "Go"
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "desc": "A modified browser that helps in responsive web development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iampawan/FlutterExampleApps",
+    "url": "https://github.com/iampawan/FlutterExampleApps",
+    "desc": "[Example APPS] Basic Flutter apps, for flutter devs.",
+    "lang": "Dart"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "ifzhang/FairMOT",
+    "url": "https://github.com/ifzhang/FairMOT",
+    "desc": "A simple baseline for one-shot multi-object tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "lang": "Shell"
+  },
+  {
+    "title": "NectarJS/nectarjs",
+    "url": "https://github.com/NectarJS/nectarjs",
+    "desc": "🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "desc": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "lang": "Python"
+  }
+]
