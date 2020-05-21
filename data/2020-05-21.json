@@ -1,0 +1,148 @@
+[
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "All Algorithms implemented in C++",
+    "lang": "C++"
+  },
+  {
+    "title": "idris-lang/Idris2",
+    "url": "https://github.com/idris-lang/Idris2",
+    "desc": "A purely functional programming language with first class types",
+    "lang": "Idris"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "desc": "The Microsoft community Windows Package Manager manifest repository",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "C#"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "desc": "Backend implementation for the Apple/Google exposure notification API.",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/StudentsAtBuild",
+    "url": "https://github.com/microsoft/StudentsAtBuild",
+    "desc": "Find all of the resources you might need to try out code presented in the Student Zone at Build 2020 for yourself!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ddd-crew/ddd-starter-modelling-process",
+    "url": "https://github.com/ddd-crew/ddd-starter-modelling-process",
+    "desc": "If you're new to DDD and not sure where to start, this process will guide you step-by-step"
+  },
+  {
+    "title": "graphql/graphiql",
+    "url": "https://github.com/graphql/graphiql",
+    "desc": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "All Algorithms implemented in C",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Go",
+    "url": "https://github.com/TheAlgorithms/Go",
+    "desc": "Algorithms Implemented in GoLang",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/ProjectReunion",
+    "url": "https://github.com/microsoft/ProjectReunion",
+    "desc": "Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open."
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "desc": "A modified browser that helps in responsive web development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "N-l1/lovelace-soft-ui",
+    "url": "https://github.com/N-l1/lovelace-soft-ui",
+    "desc": "💫 Lovelace Soft UI Configuration"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "title": "naganandy/graph-based-deep-learning-literature",
+    "url": "https://github.com/naganandy/graph-based-deep-learning-literature",
+    "desc": "links to conference publications in graph-based deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/Xaml-Controls-Gallery",
+    "url": "https://github.com/microsoft/Xaml-Controls-Gallery",
+    "desc": "This app demonstrates the controls available in WinUI and the Fluent Design System.",
+    "lang": "C#"
+  },
+  {
+    "title": "iampawan/FlutterExampleApps",
+    "url": "https://github.com/iampawan/FlutterExampleApps",
+    "desc": "[Example APPS] Basic Flutter apps, for flutter devs.",
+    "lang": "Dart"
+  }
+]
