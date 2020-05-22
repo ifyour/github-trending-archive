@@ -1,0 +1,147 @@
+[
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "Rolstenhouse/unofficial-apis",
+    "url": "https://github.com/Rolstenhouse/unofficial-apis",
+    "desc": "A collection of unofficial apis. Designed to inspire your next Friday night hack"
+  },
+  {
+    "title": "nccgroup/ScoutSuite",
+    "url": "https://github.com/nccgroup/ScoutSuite",
+    "desc": "Multi-Cloud Security Auditing Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "jasminmif/react-interactive-paycard",
+    "url": "https://github.com/jasminmif/react-interactive-paycard",
+    "desc": "Interactive React Paycard",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "education/graduation",
+    "url": "https://github.com/education/graduation",
+    "desc": "$ git remote <graduation> yearbook"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "desc": "The Microsoft community Windows Package Manager manifest repository",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "idris-lang/Idris2",
+    "url": "https://github.com/idris-lang/Idris2",
+    "desc": "A purely functional programming language with first class types",
+    "lang": "Idris"
+  },
+  {
+    "title": "pry0cc/axiom",
+    "url": "https://github.com/pry0cc/axiom",
+    "desc": "A dynamic infrastructure toolkit for red teamers and bug bounty hunters!",
+    "lang": "Shell"
+  },
+  {
+    "title": "rgommezz/react-native-scroll-bottom-sheet",
+    "url": "https://github.com/rgommezz/react-native-scroll-bottom-sheet",
+    "desc": "Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet-architecture/eShopOnContainers",
+    "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+    "lang": "C#"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "samratashok/nishang",
+    "url": "https://github.com/samratashok/nishang",
+    "desc": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Go",
+    "url": "https://github.com/TheAlgorithms/Go",
+    "desc": "Algorithms Implemented in GoLang",
+    "lang": "Go"
+  },
+  {
+    "title": "N-l1/lovelace-soft-ui",
+    "url": "https://github.com/N-l1/lovelace-soft-ui",
+    "desc": "💫 Lovelace Soft UI Configuration"
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "desc": "A modified browser that helps in responsive web development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "OpenRA/OpenRA",
+    "url": "https://github.com/OpenRA/OpenRA",
+    "desc": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "All Algorithms implemented in C++",
+    "lang": "C++"
+  },
+  {
+    "title": "esp8266/Arduino",
+    "url": "https://github.com/esp8266/Arduino",
+    "desc": "ESP8266 core for Arduino",
+    "lang": "C"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  }
+]
