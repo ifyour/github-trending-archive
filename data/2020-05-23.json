@@ -1,0 +1,150 @@
+[
+  {
+    "title": "ant-design-blazor/ant-design-blazor",
+    "url": "https://github.com/ant-design-blazor/ant-design-blazor",
+    "desc": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+    "lang": "CSS"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/MS-DOS",
+    "url": "https://github.com/microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "lang": "Go"
+  },
+  {
+    "title": "f-prime/Blunt",
+    "url": "https://github.com/f-prime/Blunt",
+    "desc": "A CSS framework that helps with layouts and leaves your styling alone.",
+    "lang": "CSS"
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "desc": "A modified browser that helps in responsive web development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aleju/imgaug",
+    "url": "https://github.com/aleju/imgaug",
+    "desc": "Image augmentation for machine learning experiments.",
+    "lang": "Python"
+  },
+  {
+    "title": "ericm/stonks",
+    "url": "https://github.com/ericm/stonks",
+    "desc": "Stonks is a terminal based stock visualizer and tracker that displays realtime stocks in graph format in a terminal. See how fast your stonks will crash.",
+    "lang": "Go"
+  },
+  {
+    "title": "kotartemiy/newscatcher",
+    "url": "https://github.com/kotartemiy/newscatcher",
+    "desc": "Programmatically collect normalized news from (almost) any website.",
+    "lang": "Python"
+  },
+  {
+    "title": "benbusby/whoogle-search",
+    "url": "https://github.com/benbusby/whoogle-search",
+    "desc": "Self-hosted, ad-free, privacy-respecting Google metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "desc": "Toturial coming with data science roadmap graphe.",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "open source driving agent",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "vueComponent/ant-design-vue-pro",
+    "url": "https://github.com/vueComponent/ant-design-vue-pro",
+    "desc": "👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!",
+    "lang": "Vue"
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "desc": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "lang": "C#"
+  },
+  {
+    "title": "bridgecrewio/terragoat",
+    "url": "https://github.com/bridgecrewio/terragoat",
+    "desc": "TerraGoat is Bridgecrew's Vulnerable by Design Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
+    "lang": "HCL"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "gibbed/SteamAchievementManager",
+    "url": "https://github.com/gibbed/SteamAchievementManager",
+    "desc": "A manager for game achievements in Steam.",
+    "lang": "C#"
+  },
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "desc": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "desc": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "lang": "Ruby"
+  }
+]
