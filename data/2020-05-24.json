@@ -1,0 +1,145 @@
+[
+  {
+    "title": "myspaghetti/macos-virtualbox",
+    "url": "https://github.com/myspaghetti/macos-virtualbox",
+    "desc": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
+    "lang": "Shell"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "desc": "Educational blog posts for Rust beginners",
+    "lang": "Rust"
+  },
+  {
+    "title": "emadboctorx/yolov3-keras-tf2",
+    "url": "https://github.com/emadboctorx/yolov3-keras-tf2",
+    "desc": "yolo implementation in keras and tensorflow 2.2",
+    "lang": "Python"
+  },
+  {
+    "title": "ianzhao05/textshot",
+    "url": "https://github.com/ianzhao05/textshot",
+    "desc": "Python tool for grabbing text via screenshot",
+    "lang": "Python"
+  },
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "desc": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "desc": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/MS-DOS",
+    "url": "https://github.com/microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "ant-design-blazor/ant-design-blazor",
+    "url": "https://github.com/ant-design-blazor/ant-design-blazor",
+    "desc": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+    "lang": "CSS"
+  },
+  {
+    "title": "rgommezz/react-native-scroll-bottom-sheet",
+    "url": "https://github.com/rgommezz/react-native-scroll-bottom-sheet",
+    "desc": "Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "olivia-ai/olivia",
+    "url": "https://github.com/olivia-ai/olivia",
+    "desc": "💁‍♀️Your new best friend powered by an artificial neural network",
+    "lang": "Go"
+  },
+  {
+    "title": "gibbed/SteamAchievementManager",
+    "url": "https://github.com/gibbed/SteamAchievementManager",
+    "desc": "A manager for game achievements in Steam.",
+    "lang": "C#"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "transmission/transmission",
+    "url": "https://github.com/transmission/transmission",
+    "desc": "Official Transmission BitTorrent client repository",
+    "lang": "C"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "google-research/big_transfer",
+    "url": "https://github.com/google-research/big_transfer",
+    "desc": "Official repository for the Big Transfer (BiT): General Visual Representation Learning paper.",
+    "lang": "Python"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "microsoft/verona",
+    "url": "https://github.com/microsoft/verona",
+    "desc": "Research programming language for concurrent ownership",
+    "lang": "C++"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  }
+]
