@@ -1,0 +1,147 @@
+[
+  {
+    "title": "myspaghetti/macos-virtualbox",
+    "url": "https://github.com/myspaghetti/macos-virtualbox",
+    "desc": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
+    "lang": "Shell"
+  },
+  {
+    "title": "vincentdoerig/latex-css",
+    "url": "https://github.com/vincentdoerig/latex-css",
+    "desc": "LaTeX.css is a CSS library that makes your website look like a LaTeX document",
+    "lang": "HTML"
+  },
+  {
+    "title": "olivia-ai/olivia",
+    "url": "https://github.com/olivia-ai/olivia",
+    "desc": "💁‍♀️Your new best friend powered by an artificial neural network",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/MS-DOS",
+    "url": "https://github.com/microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "lang": "Assembly"
+  },
+  {
+    "title": "transmission/transmission",
+    "url": "https://github.com/transmission/transmission",
+    "desc": "Official Transmission BitTorrent client repository",
+    "lang": "C"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "desc": "Open Source Computer Vision Library",
+    "lang": "C++"
+  },
+  {
+    "title": "ehmatthes/pcc_2e",
+    "url": "https://github.com/ehmatthes/pcc_2e",
+    "desc": "Online resources for Python Crash Course (Second Edition), from No Starch Press",
+    "lang": "HTML"
+  },
+  {
+    "title": "KhronosGroup/Vulkan-Samples",
+    "url": "https://github.com/KhronosGroup/Vulkan-Samples",
+    "desc": "One stop solution for all Vulkan samples",
+    "lang": "C++"
+  },
+  {
+    "title": "pwn20wndstuff/Undecimus",
+    "url": "https://github.com/pwn20wndstuff/Undecimus",
+    "desc": "unc0ver jailbreak for iOS 11.0 - 12.4",
+    "lang": "C"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "cwida/duckdb",
+    "url": "https://github.com/cwida/duckdb",
+    "desc": "DuckDB is an embeddable SQL OLAP Database Management System",
+    "lang": "C++"
+  },
+  {
+    "title": "ranjian0/building_tool",
+    "url": "https://github.com/ranjian0/building_tool",
+    "desc": "Building generation addon for blender",
+    "lang": "Python"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "microsoft/AirSim",
+    "url": "https://github.com/microsoft/AirSim",
+    "desc": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+    "lang": "C++"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (May 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/big_transfer",
+    "url": "https://github.com/google-research/big_transfer",
+    "desc": "Official repository for the Big Transfer (BiT): General Visual Representation Learning paper.",
+    "lang": "Python"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "desc": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "lang": "C++"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "emadboctorx/yolov3-keras-tf2",
+    "url": "https://github.com/emadboctorx/yolov3-keras-tf2",
+    "desc": "yolo implementation in keras and tensorflow 2.2",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "raspberrypi/firmware",
+    "url": "https://github.com/raspberrypi/firmware",
+    "desc": "This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.",
+    "lang": "C"
+  },
+  {
+    "title": "Mini-Conf/Mini-Conf",
+    "url": "https://github.com/Mini-Conf/Mini-Conf",
+    "desc": "",
+    "lang": "JavaScript"
+  }
+]
