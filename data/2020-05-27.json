@@ -1,0 +1,143 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "dbanay/Smalltalk",
+    "url": "https://github.com/dbanay/Smalltalk",
+    "desc": "By the Bluebook implementation of Smalltalk-80",
+    "lang": "C"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "expnkx/fast_io",
+    "url": "https://github.com/expnkx/fast_io",
+    "desc": "fast_io is a C++ io exception-safe RAII library based on C++ 20 Concepts. It is at least 10 times faster than cstdio than iostream.",
+    "lang": "C++"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "desc": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "lang": "C++"
+  },
+  {
+    "title": "dair-ai/ml-visuals",
+    "url": "https://github.com/dair-ai/ml-visuals",
+    "desc": "Visuals contains figures and templates which you can reuse and customize to improve your scientific writing."
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (May 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "azure-rtos/threadx",
+    "url": "https://github.com/azure-rtos/threadx",
+    "desc": "Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+    "lang": "C"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "nuxt/content",
+    "url": "https://github.com/nuxt/content",
+    "desc": "Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Chrismettal/EleLab_v2",
+    "url": "https://github.com/Chrismettal/EleLab_v2",
+    "desc": "Cheap DIY lab system for hobbyists and the tinkering folk"
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "desc": "A modified browser that helps in responsive web development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  }
+]
