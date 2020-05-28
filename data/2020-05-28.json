@@ -1,0 +1,150 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dbanay/Smalltalk",
+    "url": "https://github.com/dbanay/Smalltalk",
+    "desc": "By the Bluebook implementation of Smalltalk-80",
+    "lang": "C"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "renatoviolin/next_word_prediction",
+    "url": "https://github.com/renatoviolin/next_word_prediction",
+    "desc": "Using transformers to predict next word and predict <mask> word",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "desc": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (May 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "free5gc/free5gc",
+    "url": "https://github.com/free5gc/free5gc",
+    "desc": "Open source 5G core network base on 3GPP R15",
+    "lang": "Go"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "lang": "C++"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "desc": "n³ The missing terminal file manager for X.",
+    "lang": "C"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "azure-rtos/threadx",
+    "url": "https://github.com/azure-rtos/threadx",
+    "desc": "Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+    "lang": "C"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "flairNLP/flair",
+    "url": "https://github.com/flairNLP/flair",
+    "desc": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "lang": "Python"
+  },
+  {
+    "title": "DLR-RM/stable-baselines3",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
+    "desc": "PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thelinuxchoice/locator",
+    "url": "https://github.com/thelinuxchoice/locator",
+    "desc": "Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok)",
+    "lang": "Shell"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  }
+]
