@@ -1,0 +1,149 @@
+[
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "desc": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pikapkg/create-snowpack-app",
+    "url": "https://github.com/pikapkg/create-snowpack-app",
+    "desc": "CSA - Get started with the fastest dev environment available.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "lang": "C++"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "desc": "A fast JSON parser/generator for Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "zyedidia/micro",
+    "url": "https://github.com/zyedidia/micro",
+    "desc": "A modern and intuitive terminal-based text editor",
+    "lang": "Go"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (May 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "fw876/helloworld",
+    "url": "https://github.com/fw876/helloworld",
+    "desc": "",
+    "lang": "Lua"
+  },
+  {
+    "title": "zhoubolei/introRL",
+    "url": "https://github.com/zhoubolei/introRL",
+    "desc": "Intro to Reinforcement Learning (强化学习纲要）"
+  },
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "desc": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pikapkg/snowpack",
+    "url": "https://github.com/pikapkg/snowpack",
+    "desc": "☶ A faster dev environment for modern web apps.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "extendedmode/extendedmode",
+    "url": "https://github.com/extendedmode/extendedmode",
+    "desc": "Community fork of es_extended",
+    "lang": "Lua"
+  },
+  {
+    "title": "docker/roadmap",
+    "url": "https://github.com/docker/roadmap",
+    "desc": "Welcome to the Public Roadmap for All Things Docker! We welcome your ideas."
+  },
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "lang": "Python"
+  },
+  {
+    "title": "pypa/pipenv",
+    "url": "https://github.com/pypa/pipenv",
+    "desc": "Python Development Workflow for Humans.",
+    "lang": "Python"
+  }
+]
