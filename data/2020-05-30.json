@@ -1,0 +1,151 @@
+[
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shomali11/go-interview",
+    "url": "https://github.com/shomali11/go-interview",
+    "desc": "Collection of Technical Interview Questions solved with Go",
+    "lang": "Go"
+  },
+  {
+    "title": "go-vgo/robotgo",
+    "url": "https://github.com/go-vgo/robotgo",
+    "desc": "RobotGo, Go Native cross-platform GUI automation @vcaesar",
+    "lang": "C"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "software-mansion/react-native-reanimated",
+    "url": "https://github.com/software-mansion/react-native-reanimated",
+    "desc": "React Native's Animated library reimplemented",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "desc": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dry-python/returns",
+    "url": "https://github.com/dry-python/returns",
+    "desc": "Make your functions return something meaningful, typed, and safe!",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "desc": "A fast JSON parser/generator for Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "zyedidia/micro",
+    "url": "https://github.com/zyedidia/micro",
+    "desc": "A modern and intuitive terminal-based text editor",
+    "lang": "Go"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "bigskysoftware/htmx",
+    "url": "https://github.com/bigskysoftware/htmx",
+    "desc": "</> htmx - high power tools for HTML",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicrosoftLearning/Lab-Demo-Recordings",
+    "url": "https://github.com/MicrosoftLearning/Lab-Demo-Recordings",
+    "desc": "Recordings and Demos of Labs"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "danielkrupinski/Osiris",
+    "url": "https://github.com/danielkrupinski/Osiris",
+    "desc": "Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.",
+    "lang": "C++"
+  },
+  {
+    "title": "pikapkg/snowpack",
+    "url": "https://github.com/pikapkg/snowpack",
+    "desc": "☶ A faster dev environment for modern web apps.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "A modern data workflow platform",
+    "lang": "Python"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "runatlantis/atlantis",
+    "url": "https://github.com/runatlantis/atlantis",
+    "desc": "Terraform Pull Request Automation",
+    "lang": "Go"
+  },
+  {
+    "title": "nficano/pytube",
+    "url": "https://github.com/nficano/pytube",
+    "desc": "🎞 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/vagrant",
+    "url": "https://github.com/hashicorp/vagrant",
+    "desc": "Vagrant is a tool for building and distributing development environments.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "lang": "C++"
+  }
+]
