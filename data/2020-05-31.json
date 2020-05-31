@@ -1,0 +1,149 @@
+[
+  {
+    "title": "go-vgo/robotgo",
+    "url": "https://github.com/go-vgo/robotgo",
+    "desc": "RobotGo, Go Native cross-platform GUI automation @vcaesar",
+    "lang": "C"
+  },
+  {
+    "title": "shomali11/go-interview",
+    "url": "https://github.com/shomali11/go-interview",
+    "desc": "Collection of Technical Interview Questions solved with Go",
+    "lang": "Go"
+  },
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "A modern data workflow platform",
+    "lang": "Python"
+  },
+  {
+    "title": "xi-editor/xi-editor",
+    "url": "https://github.com/xi-editor/xi-editor",
+    "desc": "A modern editor with a backend written in Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/msquic",
+    "url": "https://github.com/microsoft/msquic",
+    "desc": "Cross platform C implementation of the IETF QUIC protocol.",
+    "lang": "C"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "derailed/k9s",
+    "url": "https://github.com/derailed/k9s",
+    "desc": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "lang": "Go"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "An interactive deep learning book with code, math, and discussions.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "desc": "🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "lang": "Shell"
+  },
+  {
+    "title": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "desc": "A fast JSON parser/generator for Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "desc": "Project overview, general documentation, and white papers."
+  },
+  {
+    "title": "danielkrupinski/Osiris",
+    "url": "https://github.com/danielkrupinski/Osiris",
+    "desc": "Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.",
+    "lang": "C++"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicrosoftLearning/Lab-Demo-Recordings",
+    "url": "https://github.com/MicrosoftLearning/Lab-Demo-Recordings",
+    "desc": "Recordings and Demos of Labs"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "raspberrypi/firmware",
+    "url": "https://github.com/raspberrypi/firmware",
+    "desc": "This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.",
+    "lang": "C"
+  },
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "desc": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "pikapkg/snowpack",
+    "url": "https://github.com/pikapkg/snowpack",
+    "desc": "☶ A faster dev environment for modern web apps.",
+    "lang": "JavaScript"
+  }
+]
