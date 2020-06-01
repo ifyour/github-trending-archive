@@ -1,0 +1,150 @@
+[
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "desc": "Project overview, general documentation, and white papers."
+  },
+  {
+    "title": "bigH/git-fuzzy",
+    "url": "https://github.com/bigH/git-fuzzy",
+    "desc": "interactive `git` with the help of `fzf`",
+    "lang": "Shell"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "shomali11/go-interview",
+    "url": "https://github.com/shomali11/go-interview",
+    "desc": "Collection of Technical Interview Questions solved with Go",
+    "lang": "Go"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "desc": "Backend implementation for the Apple/Google exposure notification API.",
+    "lang": "Java"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "beekeeper-studio/beekeeper-studio",
+    "url": "https://github.com/beekeeper-studio/beekeeper-studio",
+    "desc": "Cross platform SQL editor and database management app for Windows, Linux, and Mac.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "desc": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "lang": "C++"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "go-vgo/robotgo",
+    "url": "https://github.com/go-vgo/robotgo",
+    "desc": "RobotGo, Go Native cross-platform GUI automation @vcaesar",
+    "lang": "C"
+  },
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "desc": "[CVPR2020] Adversarial Latent Autoencoders",
+    "lang": "Python"
+  },
+  {
+    "title": "an-tao/drogon",
+    "url": "https://github.com/an-tao/drogon",
+    "desc": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "Trojan-Qt5/Trojan-Qt5",
+    "url": "https://github.com/Trojan-Qt5/Trojan-Qt5",
+    "desc": "A cross-platform ss/ssr/vmess/trojan GUI client based on Shadowsocks-qt. 有问题请加tg群反馈",
+    "lang": "C++"
+  },
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MostlyAdequate/mostly-adequate-guide",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+    "desc": "Mostly adequate guide to FP (in javascript)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lazyprogrammer/machine_learning_examples",
+    "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+    "desc": "A collection of machine learning examples and tutorials.",
+    "lang": "Python"
+  },
+  {
+    "title": "Project-MONAI/MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "desc": "AI Toolkit for Healthcare Imaging",
+    "lang": "Python"
+  },
+  {
+    "title": "hmaverickadams/Beginner-Network-Pentesting",
+    "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+    "desc": "Notes for Beginner Network Pentesting Course"
+  },
+  {
+    "title": "hudson-and-thames/mlfinlab",
+    "url": "https://github.com/hudson-and-thames/mlfinlab",
+    "desc": "MlFinlab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.",
+    "lang": "Python"
+  },
+  {
+    "title": "derailed/k9s",
+    "url": "https://github.com/derailed/k9s",
+    "desc": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "lang": "Go"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "⚡️ Fiber is an Express inspired web framework written in Go with ☕️",
+    "lang": "Go"
+  },
+  {
+    "title": "Errichto/youtube",
+    "url": "https://github.com/Errichto/youtube",
+    "desc": "codes for my streams and YT videos",
+    "lang": "C++"
+  },
+  {
+    "title": "yewstack/yew",
+    "url": "https://github.com/yewstack/yew",
+    "desc": "Rust / Wasm framework for building client web apps",
+    "lang": "Rust"
+  }
+]
