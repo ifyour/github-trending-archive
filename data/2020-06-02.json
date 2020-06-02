@@ -1,0 +1,149 @@
+[
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "desc": "Web APIs for Django. 🎸",
+    "lang": "Python"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "desc": "A fast JSON parser/generator for Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "desc": "⭐ A cross-platform V2ray/SSR/Trojan GUI Client written in C++ / Qt ⭐",
+    "lang": "C++"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Productive & portable programming language for high-performance, sparse & differentiable computing",
+    "lang": "C++"
+  },
+  {
+    "title": "bigH/git-fuzzy",
+    "url": "https://github.com/bigH/git-fuzzy",
+    "desc": "interactive `git` with the help of `fzf`",
+    "lang": "Shell"
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "desc": "An unidentifiable mechanism that helps you bypass GFW.",
+    "lang": "C++"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "desc": "Project overview, general documentation, and white papers."
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "supabase/realtime",
+    "url": "https://github.com/supabase/realtime",
+    "desc": "Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.",
+    "lang": "Elixir"
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "desc": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "lang": "C#"
+  },
+  {
+    "title": "aristocratos/bashtop",
+    "url": "https://github.com/aristocratos/bashtop",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "lang": "Shell"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "desc": "Connect, secure, control, and observe services.",
+    "lang": "Go"
+  },
+  {
+    "title": "saurabhdaware/text-to-handwriting",
+    "url": "https://github.com/saurabhdaware/text-to-handwriting",
+    "desc": "So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jonataslaw/get",
+    "url": "https://github.com/jonataslaw/get",
+    "desc": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+    "lang": "Dart"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "desc": "Backend implementation for the Apple/Google exposure notification API.",
+    "lang": "Java"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "Open MMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "amrrs/For-Data-Science-Beginners",
+    "url": "https://github.com/amrrs/For-Data-Science-Beginners",
+    "desc": "Set of 📝 with 🔗 to help those who are Data Science beginners 🤖"
+  }
+]
