@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Police-Data-Accessibility-Project/Police-Data-Accessibility-Project",
+    "url": "https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project",
+    "desc": "A repository for all code related to the Police Data Accessibility Project",
+    "lang": "Python"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (June 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build custom ML tools",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "filipdutescu/modern-cpp-template",
+    "url": "https://github.com/filipdutescu/modern-cpp-template",
+    "desc": "A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.",
+    "lang": "CMake"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "vercel/swr",
+    "url": "https://github.com/vercel/swr",
+    "desc": "React Hooks library for remote data fetching",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "supabase/realtime",
+    "url": "https://github.com/supabase/realtime",
+    "desc": "Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.",
+    "lang": "Elixir"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "Open MMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "desc": "Web APIs for Django. 🎸",
+    "lang": "Python"
+  },
+  {
+    "title": "saurabhdaware/text-to-handwriting",
+    "url": "https://github.com/saurabhdaware/text-to-handwriting",
+    "desc": "So your teacher asked you to upload written assignments on ERP? Hate writing assigments? This tool will help you convert your text to handwriting xD",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "desc": "Project overview, general documentation, and white papers."
+  },
+  {
+    "title": "washingtonpost/data-police-shootings",
+    "url": "https://github.com/washingtonpost/data-police-shootings",
+    "desc": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty in 2015 and 2016."
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "desc": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 04 April 2020 works; yo ho ho from Ukraine!"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "JDAI-CV/fast-reid",
+    "url": "https://github.com/JDAI-CV/fast-reid",
+    "desc": "SOTA ReID Methods and Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "desc": "Spring源码阅读",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/vscode-cpptools",
+    "url": "https://github.com/microsoft/vscode-cpptools",
+    "desc": "Official repository for the Microsoft C/C++ extension for VS Code.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "lang": "C++"
+  }
+]
