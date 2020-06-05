@@ -1,0 +1,150 @@
+[
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "desc": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Scalable user load testing tool written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "desc": "Simple HTML5 Charts using the <canvas> tag",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "altair-viz/altair",
+    "url": "https://github.com/altair-viz/altair",
+    "desc": "Declarative statistical visualization library for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Police-Data-Accessibility-Project/Police-Data-Accessibility-Project",
+    "url": "https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project",
+    "desc": "A repository for all code related to the Police Data Accessibility Project",
+    "lang": "Python"
+  },
+  {
+    "title": "typescript-cheatsheets/react-typescript-cheatsheet",
+    "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+    "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "washingtonpost/data-police-shootings",
+    "url": "https://github.com/washingtonpost/data-police-shootings",
+    "desc": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty in 2015 and 2016."
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "An interactive deep learning book with code, math, and discussions.",
+    "lang": "Python"
+  },
+  {
+    "title": "sirupsen/logrus",
+    "url": "https://github.com/sirupsen/logrus",
+    "desc": "Structured, pluggable logging for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "johnboiles/obs-mac-virtualcam",
+    "url": "https://github.com/johnboiles/obs-mac-virtualcam",
+    "desc": "Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.",
+    "lang": "Objective-C++"
+  },
+  {
+    "title": "adam-p/markdown-here",
+    "url": "https://github.com/adam-p/markdown-here",
+    "desc": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws/containers-roadmap",
+    "url": "https://github.com/aws/containers-roadmap",
+    "desc": "This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",
+    "lang": "Shell"
+  },
+  {
+    "title": "dropwizard/dropwizard",
+    "url": "https://github.com/dropwizard/dropwizard",
+    "desc": "A damn simple library for building production-ready RESTful web services.",
+    "lang": "Java"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "desc": "🍃 JavaScript library for mobile-friendly interactive maps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rusty1s/pytorch_geometric",
+    "url": "https://github.com/rusty1s/pytorch_geometric",
+    "desc": "Geometric Deep Learning Extension Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "primefaces/primeng",
+    "url": "https://github.com/primefaces/primeng",
+    "desc": "The Most Complete Angular UI Component Library",
+    "lang": "TypeScript"
+  }
+]
