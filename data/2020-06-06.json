@@ -1,0 +1,152 @@
+[
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "An interactive deep learning book with code, math, and discussions.",
+    "lang": "Python"
+  },
+  {
+    "title": "Say-Their-Name/say-their-names-ios",
+    "url": "https://github.com/Say-Their-Name/say-their-names-ios",
+    "desc": "Say Their Name - iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "migueldeicaza/gui.cs",
+    "url": "https://github.com/migueldeicaza/gui.cs",
+    "desc": "Console-based user interface toolkit for .NET applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "desc": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "2020PB/police-brutality",
+    "url": "https://github.com/2020PB/police-brutality",
+    "desc": "Repository containing evidence of police brutality during the 2020 George Floyd protests",
+    "lang": "Go"
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "desc": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!",
+    "lang": "VBScript"
+  },
+  {
+    "title": "free5gc/free5gc",
+    "url": "https://github.com/free5gc/free5gc",
+    "desc": "Open source 5G core network base on 3GPP R15",
+    "lang": "Go"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "desc": "Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.",
+    "lang": "Shell"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "typescript-cheatsheets/react-typescript-cheatsheet",
+    "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+    "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "Gr1mmie/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources",
+    "desc": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "lang": "Python"
+  },
+  {
+    "title": "mukulhase/WebWhatsapp-Wrapper",
+    "url": "https://github.com/mukulhase/WebWhatsapp-Wrapper",
+    "desc": "An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018]",
+    "lang": "Python"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-wa/wa-automate-nodejs",
+    "url": "https://github.com/open-wa/wa-automate-nodejs",
+    "desc": "💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JDAI-CV/fast-reid",
+    "url": "https://github.com/JDAI-CV/fast-reid",
+    "desc": "SOTA ReID Methods and Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenRA/OpenRA",
+    "url": "https://github.com/OpenRA/OpenRA",
+    "desc": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/Azure-Sentinel",
+    "url": "https://github.com/Azure/Azure-Sentinel",
+    "desc": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+    "lang": "C#"
+  }
+]
