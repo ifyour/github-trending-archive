@@ -1,0 +1,151 @@
+[
+  {
+    "title": "apple/password-manager-resources",
+    "url": "https://github.com/apple/password-manager-resources",
+    "desc": "A place for creators and users of password managers to collaborate on resources to make password management better.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Say-Their-Name/say-their-names-ios",
+    "url": "https://github.com/Say-Their-Name/say-their-names-ios",
+    "desc": "Say Their Name - iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "desc": "Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.",
+    "lang": "Shell"
+  },
+  {
+    "title": "2020PB/police-brutality",
+    "url": "https://github.com/2020PB/police-brutality",
+    "desc": "Repository containing evidence of police brutality during the 2020 George Floyd protests",
+    "lang": "Go"
+  },
+  {
+    "title": "grid-js/gridjs",
+    "url": "https://github.com/grid-js/gridjs",
+    "desc": "Advanced table plugin",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "All Algorithms implemented in C++",
+    "lang": "C++"
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "desc": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!",
+    "lang": "VBScript"
+  },
+  {
+    "title": "aymericdamien/TensorFlow-Examples",
+    "url": "https://github.com/aymericdamien/TensorFlow-Examples",
+    "desc": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "desc": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "hudson-and-thames/research",
+    "url": "https://github.com/hudson-and-thames/research",
+    "desc": "Notebooks based on financial machine learning.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "An interactive deep learning book with code, math, and discussions.",
+    "lang": "Python"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "desc": "🦔 PostHog is developer-friendly, open-source product analytics.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "drawrowfly/tiktok-scraper",
+    "url": "https://github.com/drawrowfly/tiktok-scraper",
+    "desc": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "All Algorithms implemented in C",
+    "lang": "C"
+  },
+  {
+    "title": "JDAI-CV/fast-reid",
+    "url": "https://github.com/JDAI-CV/fast-reid",
+    "desc": "SOTA ReID Methods and Toolbox",
+    "lang": "Python"
+  }
+]
