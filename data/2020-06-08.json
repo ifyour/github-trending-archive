@@ -1,0 +1,150 @@
+[
+  {
+    "title": "carlini/printf-tac-toe",
+    "url": "https://github.com/carlini/printf-tac-toe",
+    "desc": "tic-tac-toe in a single call to printf",
+    "lang": "C"
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "desc": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!",
+    "lang": "VBScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OpenRA/OpenRA",
+    "url": "https://github.com/OpenRA/OpenRA",
+    "desc": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+    "lang": "C#"
+  },
+  {
+    "title": "azure-rtos/threadx",
+    "url": "https://github.com/azure-rtos/threadx",
+    "desc": "Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+    "lang": "C"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "Zettlr/Zettlr",
+    "url": "https://github.com/Zettlr/Zettlr",
+    "desc": "A Markdown Editor for the 21st century.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "desc": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)"
+  },
+  {
+    "title": "veeral-patel/learn-security-engineering",
+    "url": "https://github.com/veeral-patel/learn-security-engineering",
+    "desc": "How I'm learning to build secure systems"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+    "url": "https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+    "desc": "A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP",
+    "lang": "HLSL"
+  },
+  {
+    "title": "aymericdamien/TensorFlow-Examples",
+    "url": "https://github.com/aymericdamien/TensorFlow-Examples",
+    "desc": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "All Algorithms implemented in C++",
+    "lang": "C++"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "apple/password-manager-resources",
+    "url": "https://github.com/apple/password-manager-resources",
+    "desc": "A place for creators and users of password managers to collaborate on resources to make password management better.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "webiny/webiny-js",
+    "url": "https://github.com/webiny/webiny-js",
+    "desc": "Platform for building serverless applications and API (Node.js, React, GraphQL)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ReddyyZ/GhostShell",
+    "url": "https://github.com/ReddyyZ/GhostShell",
+    "desc": "Malware indetectable, with AV bypass techniques, anti-disassembly, etc.",
+    "lang": "C"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "desc": "📙 Amazon Web Services — a practical guide",
+    "lang": "Shell"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "desc": "Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.",
+    "lang": "Shell"
+  }
+]
