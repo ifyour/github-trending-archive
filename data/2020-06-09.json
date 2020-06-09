@@ -1,0 +1,147 @@
+[
+  {
+    "title": "hsoft/collapseos",
+    "url": "https://github.com/hsoft/collapseos",
+    "desc": "Bootstrap post-collapse technology",
+    "lang": "C"
+  },
+  {
+    "title": "carlini/printf-tac-toe",
+    "url": "https://github.com/carlini/printf-tac-toe",
+    "desc": "tic-tac-toe in a single call to printf",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "All Algorithms implemented in C++",
+    "lang": "C++"
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "desc": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!",
+    "lang": "VBScript"
+  },
+  {
+    "title": "boostorg/boost",
+    "url": "https://github.com/boostorg/boost",
+    "desc": "Super-project for modularized Boost",
+    "lang": "HTML"
+  },
+  {
+    "title": "pry0cc/axiom",
+    "url": "https://github.com/pry0cc/axiom",
+    "desc": "A dynamic infrastructure toolkit for red teamers and bug bounty hunters!",
+    "lang": "Shell"
+  },
+  {
+    "title": "EmilHernvall/dnsguide",
+    "url": "https://github.com/EmilHernvall/dnsguide",
+    "desc": "A guide to writing a DNS Server from scratch in Rust"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+  },
+  {
+    "title": "VSCodium/vscodium",
+    "url": "https://github.com/VSCodium/vscodium",
+    "desc": "binary releases of VS Code without MS branding/telemetry/licensing",
+    "lang": "Shell"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "Manisso/fsociety",
+    "url": "https://github.com/Manisso/fsociety",
+    "desc": "fsociety Hacking Tools Pack – A Penetration Testing Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "rubocop-hq/rubocop",
+    "url": "https://github.com/rubocop-hq/rubocop",
+    "desc": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "veeral-patel/learn-security-engineering",
+    "url": "https://github.com/veeral-patel/learn-security-engineering",
+    "desc": "How I'm learning to build secure systems"
+  },
+  {
+    "title": "meshtastic/Meshtastic-device",
+    "url": "https://github.com/meshtastic/Meshtastic-device",
+    "desc": "Device code for the Meshtastic ski/hike/fly/customizable open GPS radio",
+    "lang": "C++"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "desc": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)"
+  },
+  {
+    "title": "star7th/showdoc",
+    "url": "https://github.com/star7th/showdoc",
+    "desc": "ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "mswjs/msw",
+    "url": "https://github.com/mswjs/msw",
+    "desc": "Seamless REST/GraphQL API mocking library for browser and Node.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apple/password-manager-resources",
+    "url": "https://github.com/apple/password-manager-resources",
+    "desc": "A place for creators and users of password managers to collaborate on resources to make password management better.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookexperimental/Recoil",
+    "url": "https://github.com/facebookexperimental/Recoil",
+    "desc": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "desc": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+    "lang": "Go"
+  }
+]
