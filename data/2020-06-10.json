@@ -1,0 +1,146 @@
+[
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build custom ML tools",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "docker/distribution",
+    "url": "https://github.com/docker/distribution",
+    "desc": "The Docker toolset to pack, ship, store, and deliver content",
+    "lang": "Go"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "desc": "n³ The missing terminal file manager for X.",
+    "lang": "C"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "krzyzanowskim/CryptoSwift",
+    "url": "https://github.com/krzyzanowskim/CryptoSwift",
+    "desc": "CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "dotnet/dotnet-docker",
+    "url": "https://github.com/dotnet/dotnet-docker",
+    "desc": "Docker images for .NET Core and the .NET Core Tools.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "phpstan/phpstan",
+    "url": "https://github.com/phpstan/phpstan",
+    "desc": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+    "lang": "HTML"
+  },
+  {
+    "title": "outline/outline",
+    "url": "https://github.com/outline/outline",
+    "desc": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "googleapis/google-cloud-go",
+    "url": "https://github.com/googleapis/google-cloud-go",
+    "desc": "Google Cloud Client Libraries for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "gogo/protobuf",
+    "url": "https://github.com/gogo/protobuf",
+    "desc": "Protocol Buffers for Go with Gadgets",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "All Algorithms implemented in C++",
+    "lang": "C++"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openshift/origin",
+    "url": "https://github.com/openshift/origin",
+    "desc": "Images for OpenShift 3 and 4 - see openshift/okd for more",
+    "lang": "Go"
+  },
+  {
+    "title": "golang/protobuf",
+    "url": "https://github.com/golang/protobuf",
+    "desc": "Go support for Google's protocol buffers",
+    "lang": "Go"
+  },
+  {
+    "title": "Verasl/BoatAttack",
+    "url": "https://github.com/Verasl/BoatAttack",
+    "desc": "Demo Project using the Universal RP from Unity3D",
+    "lang": "C#"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "go-sql-driver/mysql",
+    "url": "https://github.com/go-sql-driver/mysql",
+    "desc": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "lang": "Go"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  }
+]
