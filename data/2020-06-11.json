@@ -1,0 +1,150 @@
+[
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build custom ML tools",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "phpstan/phpstan",
+    "url": "https://github.com/phpstan/phpstan",
+    "desc": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+    "lang": "HTML"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "lang": "C++"
+  },
+  {
+    "title": "LingDong-/shan-shui-inf",
+    "url": "https://github.com/LingDong-/shan-shui-inf",
+    "desc": "Procedurally generated Chinese landscape painting.",
+    "lang": "HTML"
+  },
+  {
+    "title": "microsoft/hummingbird",
+    "url": "https://github.com/microsoft/hummingbird",
+    "desc": "Hummingbird compiles trained ML models into tensor computation for faster inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+  },
+  {
+    "title": "EduardoPires/EquinoxProject",
+    "url": "https://github.com/EduardoPires/EquinoxProject",
+    "desc": "Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts",
+    "lang": "C#"
+  },
+  {
+    "title": "googleapis/google-cloud-go",
+    "url": "https://github.com/googleapis/google-cloud-go",
+    "desc": "Google Cloud Client Libraries for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "lang": "PHP"
+  },
+  {
+    "title": "marcobambini/gravity",
+    "url": "https://github.com/marcobambini/gravity",
+    "desc": "Gravity Programming Language",
+    "lang": "C"
+  },
+  {
+    "title": "files-community/files-uwp",
+    "url": "https://github.com/files-community/files-uwp",
+    "desc": "More than just a rewrite of Windows Explorer",
+    "lang": "C#"
+  },
+  {
+    "title": "GoogleCloudPlatform/community",
+    "url": "https://github.com/GoogleCloudPlatform/community",
+    "desc": "This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ will appear at https://cloud.google.com/community/tutorials.",
+    "lang": "Java"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "ksindi/managers-playbook",
+    "url": "https://github.com/ksindi/managers-playbook",
+    "desc": "📖 Heuristics for effective management"
+  },
+  {
+    "title": "KuroLabs/stegcloak",
+    "url": "https://github.com/KuroLabs/stegcloak",
+    "desc": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rossumur/esp_8_bit",
+    "url": "https://github.com/rossumur/esp_8_bit",
+    "desc": "Atari 8 bit computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia",
+    "lang": "C"
+  },
+  {
+    "title": "DefinitelyTyped/DefinitelyTyped",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "desc": "The repository for high quality TypeScript type definitions.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "desc": "n³ The missing terminal file manager for X.",
+    "lang": "C"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "desc": "Repo for Vue 3.0 (currently in beta)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mxrch/penglab",
+    "url": "https://github.com/mxrch/penglab",
+    "desc": "Abuse of Google Colab for fun and profit. 🐧",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "helm/charts",
+    "url": "https://github.com/helm/charts",
+    "desc": "Curated applications for Kubernetes",
+    "lang": "Go"
+  }
+]
