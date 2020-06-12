@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "desc": "Xamarin.Forms Official Home",
+    "lang": "C#"
+  },
+  {
+    "title": "amusi/CVPR2020-Code",
+    "url": "https://github.com/amusi/CVPR2020-Code",
+    "desc": "CVPR 2020 论文开源项目合集"
+  },
+  {
+    "title": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "googleapis/google-cloud-go",
+    "url": "https://github.com/googleapis/google-cloud-go",
+    "desc": "Google Cloud Client Libraries for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "KuroLabs/stegcloak",
+    "url": "https://github.com/KuroLabs/stegcloak",
+    "desc": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ksindi/managers-playbook",
+    "url": "https://github.com/ksindi/managers-playbook",
+    "desc": "📖 Heuristics for effective management"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "desc": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "lang": "C++"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build custom ML tools",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+  },
+  {
+    "title": "Disassembler0/Win10-Initial-Setup-Script",
+    "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
+    "desc": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "GoogleCloudPlatform/community",
+    "url": "https://github.com/GoogleCloudPlatform/community",
+    "desc": "This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ will appear at https://cloud.google.com/community/tutorials.",
+    "lang": "Java"
+  },
+  {
+    "title": "mre/tinysearch",
+    "url": "https://github.com/mre/tinysearch",
+    "desc": "🔍 Tiny, full-text search engine for static websites built with Rust and WASM",
+    "lang": "Rust"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "palantir/blueprint",
+    "url": "https://github.com/palantir/blueprint",
+    "desc": "A React-based UI toolkit for the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "grpc/grpc-go",
+    "url": "https://github.com/grpc/grpc-go",
+    "desc": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "lang": "Go"
+  },
+  {
+    "title": "seata/seata",
+    "url": "https://github.com/seata/seata",
+    "desc": "🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "argoproj/argo",
+    "url": "https://github.com/argoproj/argo",
+    "desc": "Argo Workflows: Get stuff done with Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "handsontable/handsontable",
+    "url": "https://github.com/handsontable/handsontable",
+    "desc": "Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "lang": "Go"
+  }
+]
