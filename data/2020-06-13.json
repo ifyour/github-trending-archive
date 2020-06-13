@@ -1,0 +1,147 @@
+[
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hamler-lang/hamler",
+    "url": "https://github.com/hamler-lang/hamler",
+    "desc": "Haskell-style functional programming language running on Erlang VM.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Build machine learning APIs",
+    "lang": "Go"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "desc": "🤗 nlp: datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cypress-io/cypress-realworld-app",
+    "url": "https://github.com/cypress-io/cypress-realworld-app",
+    "desc": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sathishvj/awesome-gcp-certifications",
+    "url": "https://github.com/sathishvj/awesome-gcp-certifications",
+    "desc": "Google Cloud Platform Certification resources."
+  },
+  {
+    "title": "amusi/CVPR2020-Code",
+    "url": "https://github.com/amusi/CVPR2020-Code",
+    "desc": "CVPR 2020 论文开源项目合集"
+  },
+  {
+    "title": "facebookresearch/mmf",
+    "url": "https://github.com/facebookresearch/mmf",
+    "desc": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)",
+    "lang": "Python"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "EONRaider/blackhat-python3",
+    "url": "https://github.com/EONRaider/blackhat-python3",
+    "desc": "Source code for the book Black Hat Python by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.",
+    "lang": "Python"
+  },
+  {
+    "title": "KuroLabs/stegcloak",
+    "url": "https://github.com/KuroLabs/stegcloak",
+    "desc": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Disassembler0/Win10-Initial-Setup-Script",
+    "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
+    "desc": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "ksindi/managers-playbook",
+    "url": "https://github.com/ksindi/managers-playbook",
+    "desc": "📖 Heuristics for effective management"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "desc": "Xamarin.Forms Official Home",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/Quantum",
+    "url": "https://github.com/microsoft/Quantum",
+    "desc": "Microsoft Quantum Development Kit Samples",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+  },
+  {
+    "title": "AFNetworking/AFNetworking",
+    "url": "https://github.com/AFNetworking/AFNetworking",
+    "desc": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "iaincollins/next-auth",
+    "url": "https://github.com/iaincollins/next-auth",
+    "desc": "An authentication library for Next.js projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thelinuxchoice/evilpdf",
+    "url": "https://github.com/thelinuxchoice/evilpdf",
+    "desc": "Embedding executable files in PDF Documents",
+    "lang": "Shell"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "lang": "C++"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LingDong-/shan-shui-inf",
+    "url": "https://github.com/LingDong-/shan-shui-inf",
+    "desc": "Procedurally generated Chinese landscape painting.",
+    "lang": "HTML"
+  }
+]
