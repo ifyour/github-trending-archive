@@ -1,0 +1,148 @@
+[
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Build machine learning APIs",
+    "lang": "Go"
+  },
+  {
+    "title": "ajinabraham/nodejsscan",
+    "url": "https://github.com/ajinabraham/nodejsscan",
+    "desc": "nodejsscan is a static security code scanner for Node.js applications.",
+    "lang": "CSS"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts",
+    "url": "https://github.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts",
+    "desc": "The ultimate collection of scripts for YouTube-DL.",
+    "lang": "Shell"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "desc": "The fastai deep learning library, plus lessons and tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vueComponent/ant-design-vue",
+    "url": "https://github.com/vueComponent/ant-design-vue",
+    "desc": "An enterprise-class UI components based on Ant Design and Vue. 🐜",
+    "lang": "Vue"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "desc": "⏬ Dumb downloader that scrapes the web",
+    "lang": "Python"
+  },
+  {
+    "title": "hamler-lang/hamler",
+    "url": "https://github.com/hamler-lang/hamler",
+    "desc": "Haskell-style functional programming language running on Erlang VM.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "ksindi/managers-playbook",
+    "url": "https://github.com/ksindi/managers-playbook",
+    "desc": "📖 Heuristics for effective management"
+  },
+  {
+    "title": "balena-io/etcher",
+    "url": "https://github.com/balena-io/etcher",
+    "desc": "Flash OS images to SD cards & USB drives, safely and easily.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Disassembler0/Win10-Initial-Setup-Script",
+    "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
+    "desc": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "esp8266/Arduino",
+    "url": "https://github.com/esp8266/Arduino",
+    "desc": "ESP8266 core for Arduino",
+    "lang": "C"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "desc": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "vapor/vapor",
+    "url": "https://github.com/vapor/vapor",
+    "desc": "💧 A server-side Swift web framework.",
+    "lang": "Swift"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/mmf",
+    "url": "https://github.com/facebookresearch/mmf",
+    "desc": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)",
+    "lang": "Python"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "lang": "C++"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "Ignitetch/AdvPhishing",
+    "url": "https://github.com/Ignitetch/AdvPhishing",
+    "desc": "This is Advance Phishing Tool ! OTP PHISHING",
+    "lang": "PHP"
+  }
+]
