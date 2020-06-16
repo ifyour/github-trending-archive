@@ -1,0 +1,150 @@
+[
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "desc": "Backend implementation for the Apple/Google exposure notification API.",
+    "lang": "Java"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "url": "https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "desc": "AZ-204: Developing solutions for Microsoft Azure",
+    "lang": "C#"
+  },
+  {
+    "title": "DataDog/integrations-core",
+    "url": "https://github.com/DataDog/integrations-core",
+    "desc": "Core integrations of the Datadog Agent",
+    "lang": "Python"
+  },
+  {
+    "title": "testcontainers/testcontainers-java",
+    "url": "https://github.com/testcontainers/testcontainers-java",
+    "desc": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+    "lang": "Java"
+  },
+  {
+    "title": "ARMmbed/mbed-os",
+    "url": "https://github.com/ARMmbed/mbed-os",
+    "desc": "Arm Mbed OS is a platform operating system designed for the internet of things",
+    "lang": "C"
+  },
+  {
+    "title": "astrit/css.gg",
+    "url": "https://github.com/astrit/css.gg",
+    "desc": "700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API",
+    "lang": "CSS"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "ifzhang/FairMOT",
+    "url": "https://github.com/ifzhang/FairMOT",
+    "desc": "A simple baseline for one-shot multi-object tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "desc": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ARMmbed/mbedtls",
+    "url": "https://github.com/ARMmbed/mbedtls",
+    "desc": "An open source, portable, easy to use, readable and flexible SSL library",
+    "lang": "C"
+  },
+  {
+    "title": "SpiderLabs/ModSecurity",
+    "url": "https://github.com/SpiderLabs/ModSecurity",
+    "desc": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
+    "lang": "C++"
+  },
+  {
+    "title": "mui-org/material-ui-pickers",
+    "url": "https://github.com/mui-org/material-ui-pickers",
+    "desc": "Date & Time pickers, built with ❤️ for @material-ui/core",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign",
+    "url": "https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign",
+    "desc": "",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoftgraph/microsoft-graph-docs",
+    "url": "https://github.com/microsoftgraph/microsoft-graph-docs",
+    "desc": "Documentation for the Microsoft Graph REST API",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "desc": "Project overview, general documentation, and white papers.",
+    "lang": "TeX"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "desc": "Like Prometheus, but for logs.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  }
+]
