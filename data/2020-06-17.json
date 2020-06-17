@@ -1,0 +1,147 @@
+[
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "desc": "Project overview, general documentation, and white papers.",
+    "lang": "TeX"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "desc": "Backend implementation for the Apple/Google exposure notification API.",
+    "lang": "Java"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "desc": "BYOB (Build Your Own Botnet)",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/stylegan2",
+    "url": "https://github.com/NVlabs/stylegan2",
+    "desc": "StyleGAN2 - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "edp963/davinci",
+    "url": "https://github.com/edp963/davinci",
+    "desc": "Davinci is a DVsaaS (Data Visualization as a Service) Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "astrit/css.gg",
+    "url": "https://github.com/astrit/css.gg",
+    "desc": "700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API",
+    "lang": "CSS"
+  },
+  {
+    "title": "uber/piranha",
+    "url": "https://github.com/uber/piranha",
+    "desc": "A tool for refactoring code related to feature flag APIs",
+    "lang": "Java"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "entynetproject/ghost",
+    "url": "https://github.com/entynetproject/ghost",
+    "desc": "Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "android/views-widgets-samples",
+    "url": "https://github.com/android/views-widgets-samples",
+    "desc": "Multiple samples showing the best practices in views-widgets on Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "FFmpeg/FFmpeg",
+    "url": "https://github.com/FFmpeg/FFmpeg",
+    "desc": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+    "lang": "C"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "sqshq/piggymetrics",
+    "url": "https://github.com/sqshq/piggymetrics",
+    "desc": "Microservice Architecture with Spring Boot, Spring Cloud and Docker",
+    "lang": "Java"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "apache/incubator-brpc",
+    "url": "https://github.com/apache/incubator-brpc",
+    "desc": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called baidu-rpc inside Baidu.",
+    "lang": "C++"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "desc": "Abseil Common Libraries (C++)",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "douyu/jupiter",
+    "url": "https://github.com/douyu/jupiter",
+    "desc": "Jupiter是douyu开源的面向服务治理的Golang微服务框架",
+    "lang": "Go"
+  }
+]
