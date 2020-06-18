@@ -1,0 +1,150 @@
+[
+  {
+    "title": "edp963/davinci",
+    "url": "https://github.com/edp963/davinci",
+    "desc": "Davinci is a DVsaaS (Data Visualization as a Service) Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "alibaba/hooks",
+    "url": "https://github.com/alibaba/hooks",
+    "desc": "React Hooks Library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "desc": "Project overview, general documentation, and white papers.",
+    "lang": "TeX"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "desc": "Backend implementation for the Apple/Google exposure notification API.",
+    "lang": "Java"
+  },
+  {
+    "title": "PaddlePaddle/PARL",
+    "url": "https://github.com/PaddlePaddle/PARL",
+    "desc": "PARL A high-performance distributed training framework for Reinforcement Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "IvanMathy/Boop",
+    "url": "https://github.com/IvanMathy/Boop",
+    "desc": "A scriptable scratchpad for developers. In slow yet steady progress.",
+    "lang": "Swift"
+  },
+  {
+    "title": "open-mmlab/OpenSelfSup",
+    "url": "https://github.com/open-mmlab/OpenSelfSup",
+    "desc": "Self-Supervised Learning Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "eth-sri/silq",
+    "url": "https://github.com/eth-sri/silq",
+    "desc": "",
+    "lang": "D"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gogcom/galaxy-integrations-python-api",
+    "url": "https://github.com/gogcom/galaxy-integrations-python-api",
+    "desc": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu",
+    "lang": "Python"
+  },
+  {
+    "title": "astrit/css.gg",
+    "url": "https://github.com/astrit/css.gg",
+    "desc": "700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API",
+    "lang": "CSS"
+  },
+  {
+    "title": "morpheusthewhite/spicetify-themes",
+    "url": "https://github.com/morpheusthewhite/spicetify-themes",
+    "desc": "A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)",
+    "lang": "CSS"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "GeyserMC/Geyser",
+    "url": "https://github.com/GeyserMC/Geyser",
+    "desc": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.",
+    "lang": "Java"
+  },
+  {
+    "title": "neoml-lib/neoml",
+    "url": "https://github.com/neoml-lib/neoml",
+    "desc": "Machine learning framework for both deep learning and traditional algorithms",
+    "lang": "C++"
+  },
+  {
+    "title": "espnet/espnet",
+    "url": "https://github.com/espnet/espnet",
+    "desc": "End-to-End Speech Processing Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "Mixaill/awesome-gog-galaxy",
+    "url": "https://github.com/Mixaill/awesome-gog-galaxy",
+    "desc": "A list of GOG Galaxy 2.0 integrations and upcoming features"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "desc": "World's fastest and most advanced password recovery utility",
+    "lang": "C"
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "desc": "A modified browser that helps in responsive web development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "desc": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jitsi/jitsi-meet",
+    "url": "https://github.com/jitsi/jitsi-meet",
+    "desc": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+    "lang": "JavaScript"
+  }
+]
