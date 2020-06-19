@@ -1,0 +1,148 @@
+[
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "douyu/jupiter",
+    "url": "https://github.com/douyu/jupiter",
+    "desc": "Jupiter是douyu开源的面向服务治理的Golang微服务框架",
+    "lang": "Go"
+  },
+  {
+    "title": "edp963/davinci",
+    "url": "https://github.com/edp963/davinci",
+    "desc": "Davinci is a DVsaaS (Data Visualization as a Service) Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "kwsch/PKHeX",
+    "url": "https://github.com/kwsch/PKHeX",
+    "desc": "Pokémon Save File Editor",
+    "lang": "C#"
+  },
+  {
+    "title": "CastagnaIT/plugin.video.netflix",
+    "url": "https://github.com/CastagnaIT/plugin.video.netflix",
+    "desc": "InputStream based Netflix plugin for Kodi",
+    "lang": "Python"
+  },
+  {
+    "title": "Mixaill/awesome-gog-galaxy",
+    "url": "https://github.com/Mixaill/awesome-gog-galaxy",
+    "desc": "A list of GOG Galaxy 2.0 integrations and upcoming features"
+  },
+  {
+    "title": "open-mmlab/OpenSelfSup",
+    "url": "https://github.com/open-mmlab/OpenSelfSup",
+    "desc": "Self-Supervised Learning Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "Ameobea/robintrack",
+    "url": "https://github.com/Ameobea/robintrack",
+    "desc": "Scrapes the Robinhood API to retrieve + store popularity and price data.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NVlabs/stylegan2",
+    "url": "https://github.com/NVlabs/stylegan2",
+    "desc": "StyleGAN2 - Official TensorFlow Implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "prusa3d/PrusaSlicer",
+    "url": "https://github.com/prusa3d/PrusaSlicer",
+    "desc": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/docusaurus",
+    "url": "https://github.com/facebook/docusaurus",
+    "desc": "Easy to maintain open source documentation websites.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fengyuanchen/cropperjs",
+    "url": "https://github.com/fengyuanchen/cropperjs",
+    "desc": "JavaScript image cropper.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  }
+]
