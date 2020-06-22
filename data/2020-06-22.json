@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Covid-19Radar/Covid19Radar",
+    "url": "https://github.com/Covid-19Radar/Covid19Radar",
+    "desc": "Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.",
+    "lang": "C#"
+  },
+  {
+    "title": "Yours3lf/rpi-vk-driver",
+    "url": "https://github.com/Yours3lf/rpi-vk-driver",
+    "desc": "VK driver for the Raspberry Pi (Broadcom Videocore IV)",
+    "lang": "C++"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Python"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "SigmaQuan/Better-Python-59-Ways",
+    "url": "https://github.com/SigmaQuan/Better-Python-59-Ways",
+    "desc": "Code Sample of Book Effective Python: 59 Specific Ways to Write Better Pyton by Brett Slatkin",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "iaincollins/next-auth",
+    "url": "https://github.com/iaincollins/next-auth",
+    "desc": "Easy authentication for Next.js and Serverless",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "digital-standard/ThreeDPoseTracker",
+    "url": "https://github.com/digital-standard/ThreeDPoseTracker",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "keithnull/TeachYourselfCS-CN",
+    "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+    "desc": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "joeycastillo/The-Open-Book",
+    "url": "https://github.com/joeycastillo/The-Open-Book",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "rougier/elegant-emacs",
+    "url": "https://github.com/rougier/elegant-emacs",
+    "desc": "A very minimal but elegant emacs (I think)",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "bradtraversy/storybooks",
+    "url": "https://github.com/bradtraversy/storybooks",
+    "desc": "Node.js app with Google OAuth",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "snipsnapdev/snipsnap",
+    "url": "https://github.com/snipsnapdev/snipsnap",
+    "desc": "The ultimate snippets collection for VS Code"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "desc": "OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "desc": "Tracking the impact of COVID-19 in India",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "desc": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "lang": "C++"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  }
+]
