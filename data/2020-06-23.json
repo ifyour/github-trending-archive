@@ -1,0 +1,147 @@
+[
+  {
+    "title": "alibaba/hooks",
+    "url": "https://github.com/alibaba/hooks",
+    "desc": "React Hooks Library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "keithnull/TeachYourselfCS-CN",
+    "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+    "desc": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "title": "Yours3lf/rpi-vk-driver",
+    "url": "https://github.com/Yours3lf/rpi-vk-driver",
+    "desc": "VK driver for the Raspberry Pi (Broadcom Videocore IV)",
+    "lang": "C++"
+  },
+  {
+    "title": "AdrienTorris/awesome-blazor",
+    "url": "https://github.com/AdrienTorris/awesome-blazor",
+    "desc": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "wg/wrk",
+    "url": "https://github.com/wg/wrk",
+    "desc": "Modern HTTP benchmarking tool",
+    "lang": "C"
+  },
+  {
+    "title": "NuclearTalent/MachineLearningECT",
+    "url": "https://github.com/NuclearTalent/MachineLearningECT",
+    "desc": "For better displaying html files and course material use this link"
+  },
+  {
+    "title": "Covid-19Radar/Covid19Radar",
+    "url": "https://github.com/Covid-19Radar/Covid19Radar",
+    "desc": "Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.",
+    "lang": "C#"
+  },
+  {
+    "title": "thingsboard/thingsboard",
+    "url": "https://github.com/thingsboard/thingsboard",
+    "desc": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/spark",
+    "url": "https://github.com/apache/spark",
+    "desc": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "lang": "Scala"
+  },
+  {
+    "title": "ant-design-blazor/ant-design-blazor",
+    "url": "https://github.com/ant-design-blazor/ant-design-blazor",
+    "desc": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+    "lang": "C#"
+  },
+  {
+    "title": "thelinuxchoice/instainsane",
+    "url": "https://github.com/thelinuxchoice/instainsane",
+    "desc": "Multi-threaded Instagram Brute Forcer (100 attemps at once)",
+    "lang": "Shell"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Universal code search (self-hosted)",
+    "lang": "Go"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "spmallick/learnopencv",
+    "url": "https://github.com/spmallick/learnopencv",
+    "desc": "Learn OpenCV : C++ and Python Examples",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "digital-standard/ThreeDPoseTracker",
+    "url": "https://github.com/digital-standard/ThreeDPoseTracker",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "desc": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hecrj/iced",
+    "url": "https://github.com/hecrj/iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "lang": "Rust"
+  },
+  {
+    "title": "IdentityServer/IdentityServer4",
+    "url": "https://github.com/IdentityServer/IdentityServer4",
+    "desc": "OpenID Connect and OAuth 2.0 Framework for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "codecept-js/CodeceptJS",
+    "url": "https://github.com/codecept-js/CodeceptJS",
+    "desc": "Supercharged End 2 End Testing Framework for NodeJS",
+    "lang": "JavaScript"
+  }
+]
