@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "desc": "The PHP Interpreter",
+    "lang": "C"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "desc": "Learning operating system development using Linux kernel and Raspberry Pi",
+    "lang": "C"
+  },
+  {
+    "title": "erikgrinaker/toydb",
+    "url": "https://github.com/erikgrinaker/toydb",
+    "desc": "Distributed SQL database in Rust, written as a learning project",
+    "lang": "Rust"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "desc": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "lang": "Shell"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "lang": "Python"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "desc": "[CVPR2020] Adversarial Latent Autoencoders",
+    "lang": "Python"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "lang": "PHP"
+  },
+  {
+    "title": "tholman/elevator.js",
+    "url": "https://github.com/tholman/elevator.js",
+    "desc": "Finally, a back to top button that behaves like a real elevator.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-aws",
+    "url": "https://github.com/terraform-providers/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "lang": "Go"
+  },
+  {
+    "title": "spmallick/learnopencv",
+    "url": "https://github.com/spmallick/learnopencv",
+    "desc": "Learn OpenCV : C++ and Python Examples",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "desc": "The Ruby Programming Language [mirror]",
+    "lang": "Ruby"
+  },
+  {
+    "title": "tirthajyoti/Papers-Literature-ML-DL-RL-AI",
+    "url": "https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI",
+    "desc": "Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning"
+  },
+  {
+    "title": "jhipster/generator-jhipster",
+    "url": "https://github.com/jhipster/generator-jhipster",
+    "desc": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Python"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ivanpaulovich/clean-architecture-manga",
+    "url": "https://github.com/ivanpaulovich/clean-architecture-manga",
+    "desc": "🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",
+    "lang": "C#"
+  }
+]
