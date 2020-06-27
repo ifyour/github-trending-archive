@@ -1,0 +1,151 @@
+[
+  {
+    "title": "erikgrinaker/toydb",
+    "url": "https://github.com/erikgrinaker/toydb",
+    "desc": "Distributed SQL database in Rust, written as a learning project",
+    "lang": "Rust"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "desc": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "coronalabs/corona",
+    "url": "https://github.com/coronalabs/corona",
+    "desc": "Solar2D Game Engine main repository (ex Corona SDK)",
+    "lang": "C++"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "lang": "Python"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "desc": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "lang": "Shell"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fastai/numerical-linear-algebra",
+    "url": "https://github.com/fastai/numerical-linear-algebra",
+    "desc": "Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vtil-project/VTIL-Core",
+    "url": "https://github.com/vtil-project/VTIL-Core",
+    "desc": "Virtual-machine Translation Intermediate Language",
+    "lang": "C++"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "formik/formik",
+    "url": "https://github.com/formik/formik",
+    "desc": "Build forms in React, without the tears 😭",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jhipster/generator-jhipster",
+    "url": "https://github.com/jhipster/generator-jhipster",
+    "desc": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "subhra74/xdm",
+    "url": "https://github.com/subhra74/xdm",
+    "desc": "Powerfull download accelerator and video downloader",
+    "lang": "Java"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "EasyCorp/EasyAdminBundle",
+    "url": "https://github.com/EasyCorp/EasyAdminBundle",
+    "desc": "The new (and simple) admin generator for Symfony applications.",
+    "lang": "PHP"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "desc": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "sajal2692/data-science-portfolio",
+    "url": "https://github.com/sajal2692/data-science-portfolio",
+    "desc": "Portfolio of data science projects completed by me for academic, self learning, and hobby purposes.",
+    "lang": "JupyterNotebook"
+  }
+]
