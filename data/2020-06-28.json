@@ -1,0 +1,150 @@
+[
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Shell"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "desc": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "formik/formik",
+    "url": "https://github.com/formik/formik",
+    "desc": "Build forms in React, without the tears 😭",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "CRYTEK/CRYENGINE",
+    "url": "https://github.com/CRYTEK/CRYENGINE",
+    "desc": "CRYENGINE is a powerful real-time game development platform created by Crytek.",
+    "lang": "C++"
+  },
+  {
+    "title": "fastai/numerical-linear-algebra",
+    "url": "https://github.com/fastai/numerical-linear-algebra",
+    "desc": "Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "apple/password-manager-resources",
+    "url": "https://github.com/apple/password-manager-resources",
+    "desc": "A place for creators and users of password managers to collaborate on resources to make password management better.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "m4ll0k/Bug-Bounty-Toolz",
+    "url": "https://github.com/m4ll0k/Bug-Bounty-Toolz",
+    "desc": "BBT - Bug Bounty Tools",
+    "lang": "Python"
+  },
+  {
+    "title": "timberio/vector",
+    "url": "https://github.com/timberio/vector",
+    "desc": "A lightweight and ultra-fast tool for building observability pipelines",
+    "lang": "Rust"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "erikgrinaker/toydb",
+    "url": "https://github.com/erikgrinaker/toydb",
+    "desc": "Distributed SQL database in Rust, written as a learning project",
+    "lang": "Rust"
+  },
+  {
+    "title": "lnbook/lnbook",
+    "url": "https://github.com/lnbook/lnbook",
+    "desc": "Mastering the Lightning Network (LN)",
+    "lang": "Shell"
+  },
+  {
+    "title": "astaxie/beego",
+    "url": "https://github.com/astaxie/beego",
+    "desc": "beego is an open-source, high-performance web framework for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "jonataslaw/getx",
+    "url": "https://github.com/jonataslaw/getx",
+    "desc": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+    "lang": "Dart"
+  },
+  {
+    "title": "emilk/emigui",
+    "url": "https://github.com/emilk/emigui",
+    "desc": "egui: Immediate mode GUI written in Rust, made for WASM",
+    "lang": "Rust"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "lang": "Python"
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "desc": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "lang": "Shell"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "geongeorge/i-hate-regex",
+    "url": "https://github.com/geongeorge/i-hate-regex",
+    "desc": "The code for iHateregex.io 😈 - The Regex Cheat Sheet",
+    "lang": "Vue"
+  },
+  {
+    "title": "coronalabs/corona",
+    "url": "https://github.com/coronalabs/corona",
+    "desc": "Solar2D Game Engine main repository (ex Corona SDK)",
+    "lang": "C++"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  }
+]
