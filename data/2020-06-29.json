@@ -1,0 +1,150 @@
+[
+  {
+    "title": "CRYTEK/CRYENGINE",
+    "url": "https://github.com/CRYTEK/CRYENGINE",
+    "desc": "CRYENGINE is a powerful real-time game development platform created by Crytek.",
+    "lang": "C++"
+  },
+  {
+    "title": "LemmyNet/lemmy",
+    "url": "https://github.com/LemmyNet/lemmy",
+    "desc": "🐀 Building a federated alternative to reddit in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "desc": "Open Source Computer Vision Library",
+    "lang": "C++"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "desc": "Learning Convolutional Neural Networks with Interactive Visualization.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "maxgoedjen/secretive",
+    "url": "https://github.com/maxgoedjen/secretive",
+    "desc": "Store SSH keys in the Secure Enclave",
+    "lang": "Swift"
+  },
+  {
+    "title": "apache/shardingsphere-elasticjob-lite",
+    "url": "https://github.com/apache/shardingsphere-elasticjob-lite",
+    "desc": "Distributed scheduled job framework",
+    "lang": "Java"
+  },
+  {
+    "title": "prakhar1989/awesome-courses",
+    "url": "https://github.com/prakhar1989/awesome-courses",
+    "desc": "📚 List of awesome university courses for learning Computer Science!"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "pikapkg/snowpack",
+    "url": "https://github.com/pikapkg/snowpack",
+    "desc": "The near-instant build tool for modern web apps.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielegrattarola/spektral",
+    "url": "https://github.com/danielegrattarola/spektral",
+    "desc": "Graph Neural Networks with Keras and Tensorflow 2.",
+    "lang": "Python"
+  },
+  {
+    "title": "timberio/vector",
+    "url": "https://github.com/timberio/vector",
+    "desc": "A lightweight and ultra-fast tool for building observability pipelines",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "m4ll0k/Bug-Bounty-Toolz",
+    "url": "https://github.com/m4ll0k/Bug-Bounty-Toolz",
+    "desc": "BBT - Bug Bounty Tools",
+    "lang": "Python"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NetchX/Netch",
+    "url": "https://github.com/NetchX/Netch",
+    "desc": "Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray, Trojan proxies. UDP NAT FullCone",
+    "lang": "C#"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "QData/TextAttack",
+    "url": "https://github.com/QData/TextAttack",
+    "desc": "TextAttack 🐙 is a Python framework for adversarial attacks, data augmentation, and model training in NLP",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/rocketmq",
+    "url": "https://github.com/apache/rocketmq",
+    "desc": "Mirror of Apache RocketMQ",
+    "lang": "Java"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "desc": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "lang": "TypeScript"
+  }
+]
