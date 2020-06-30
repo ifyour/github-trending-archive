@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "LemmyNet/lemmy",
+    "url": "https://github.com/LemmyNet/lemmy",
+    "desc": "🐀 Building a federated alternative to reddit in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "desc": "Learning Convolutional Neural Networks with Interactive Visualization.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "desc": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots",
+    "lang": "Go"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "johannesjo/super-productivity",
+    "url": "https://github.com/johannesjo/super-productivity",
+    "desc": "To-do list & time tracker for programmers & other digital workers with Jira, Github and Gitlab integration",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc"
+  },
+  {
+    "title": "prakhar1989/awesome-courses",
+    "url": "https://github.com/prakhar1989/awesome-courses",
+    "desc": "📚 List of awesome university courses for learning Computer Science!"
+  },
+  {
+    "title": "nasa-jpl/Pulse",
+    "url": "https://github.com/nasa-jpl/Pulse",
+    "desc": "A pendant to warn you when you touch your face"
+  },
+  {
+    "title": "garrettj403/SciencePlots",
+    "url": "https://github.com/garrettj403/SciencePlots",
+    "desc": "Matplotlib styles for scientific plotting",
+    "lang": "Python"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+  },
+  {
+    "title": "coodict/python3-in-one-pic",
+    "url": "https://github.com/coodict/python3-in-one-pic",
+    "desc": "Learn python3 in one picture.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "danielegrattarola/spektral",
+    "url": "https://github.com/danielegrattarola/spektral",
+    "desc": "Graph Neural Networks with Keras and Tensorflow 2.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/shardingsphere-elasticjob-lite",
+    "url": "https://github.com/apache/shardingsphere-elasticjob-lite",
+    "desc": "Distributed scheduled job framework",
+    "lang": "Java"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "react-native-community/react-native-maps",
+    "url": "https://github.com/react-native-community/react-native-maps",
+    "desc": "React Native Mapview component for iOS + Android",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "plotly/dash-sample-apps",
+    "url": "https://github.com/plotly/dash-sample-apps",
+    "desc": "Apps hosted in the Dash Gallery",
+    "lang": "Lasso"
+  },
+  {
+    "title": "pikapkg/snowpack",
+    "url": "https://github.com/pikapkg/snowpack",
+    "desc": "The near-instant build tool for modern web apps.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SheetJS/sheetjs",
+    "url": "https://github.com/SheetJS/sheetjs",
+    "desc": "📗 SheetJS Community Edition -- Spreadsheet Data Toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "desc": "Microsoft Azure PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "vuejs/vuex",
+    "url": "https://github.com/vuejs/vuex",
+    "desc": "🗃️ Centralized State Management for Vue.js.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate",
+    "lang": "Python"
+  },
+  {
+    "title": "WeBankFinTech/Linkis",
+    "url": "https://github.com/WeBankFinTech/Linkis",
+    "desc": "Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",
+    "lang": "Scala"
+  }
+]
