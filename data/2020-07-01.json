@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "2020PB/police-brutality",
+    "url": "https://github.com/2020PB/police-brutality",
+    "desc": "Repository containing evidence of police brutality during the 2020 George Floyd protests",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "desc": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "desc": "Learning Convolutional Neural Networks with Interactive Visualization.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PrestaShop/PrestaShop",
+    "url": "https://github.com/PrestaShop/PrestaShop",
+    "desc": "PrestaShop offers a fully scalable open source ecommerce solution.",
+    "lang": "PHP"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "desc": "Ultimate Go study guide",
+    "lang": "Go"
+  },
+  {
+    "title": "SystemErrorWang/White-box-Cartoonization",
+    "url": "https://github.com/SystemErrorWang/White-box-Cartoonization",
+    "desc": "Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”",
+    "lang": "Python"
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "desc": "Python training for business analysts and traders",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "coodict/python3-in-one-pic",
+    "url": "https://github.com/coodict/python3-in-one-pic",
+    "desc": "Learn python3 in one picture.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "lang": "Go"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc"
+  },
+  {
+    "title": "turanszkij/WickedEngine",
+    "url": "https://github.com/turanszkij/WickedEngine",
+    "desc": "C++ game engine focusing on modern rendering techniques and performance.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/MixedRealityToolkit-Unity",
+    "url": "https://github.com/microsoft/MixedRealityToolkit-Unity",
+    "desc": "Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.",
+    "lang": "C#"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "prakhar1989/awesome-courses",
+    "url": "https://github.com/prakhar1989/awesome-courses",
+    "desc": "📚 List of awesome university courses for learning Computer Science!"
+  },
+  {
+    "title": "IBM/adversarial-robustness-toolbox",
+    "url": "https://github.com/IBM/adversarial-robustness-toolbox",
+    "desc": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference",
+    "lang": "Python"
+  },
+  {
+    "title": "Tianxiaomo/pytorch-YOLOv4",
+    "url": "https://github.com/Tianxiaomo/pytorch-YOLOv4",
+    "desc": "PyTorch ,ONNX and TensorRT implementation of YOLOv4",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "harfbuzz/harfbuzz",
+    "url": "https://github.com/harfbuzz/harfbuzz",
+    "desc": "HarfBuzz text shaping engine",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "dotnet/roslyn",
+    "url": "https://github.com/dotnet/roslyn",
+    "desc": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+    "lang": "C#"
+  },
+  {
+    "title": "yhirose/cpp-httplib",
+    "url": "https://github.com/yhirose/cpp-httplib",
+    "desc": "A C++ header-only HTTP/HTTPS server and client library",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  }
+]
