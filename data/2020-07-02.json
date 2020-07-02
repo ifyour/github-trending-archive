@@ -1,0 +1,148 @@
+[
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "desc": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "desc": "Python training for business analysts and traders",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "desc": "Ultimate Go study guide",
+    "lang": "Go"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "desc": "Learning Convolutional Neural Networks with Interactive Visualization.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "snipsnapdev/snipsnap",
+    "url": "https://github.com/snipsnapdev/snipsnap",
+    "desc": "The ultimate snippets collection for VS Code"
+  },
+  {
+    "title": "coodict/python3-in-one-pic",
+    "url": "https://github.com/coodict/python3-in-one-pic",
+    "desc": "Learn python3 in one picture.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PrestaShop/PrestaShop",
+    "url": "https://github.com/PrestaShop/PrestaShop",
+    "desc": "PrestaShop offers a fully scalable open source ecommerce solution.",
+    "lang": "PHP"
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "desc": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "johannesjo/super-productivity",
+    "url": "https://github.com/johannesjo/super-productivity",
+    "desc": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "C#"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "pytorch/examples",
+    "url": "https://github.com/pytorch/examples",
+    "desc": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "yunjey/pytorch-tutorial",
+    "url": "https://github.com/yunjey/pytorch-tutorial",
+    "desc": "PyTorch Tutorial for Deep Learning Researchers",
+    "lang": "Python"
+  },
+  {
+    "title": "prakhar1989/awesome-courses",
+    "url": "https://github.com/prakhar1989/awesome-courses",
+    "desc": "📚 List of awesome university courses for learning Computer Science!"
+  },
+  {
+    "title": "yhirose/cpp-httplib",
+    "url": "https://github.com/yhirose/cpp-httplib",
+    "desc": "A C++ header-only HTTP/HTTPS server and client library",
+    "lang": "C++"
+  },
+  {
+    "title": "turanszkij/WickedEngine",
+    "url": "https://github.com/turanszkij/WickedEngine",
+    "desc": "C++ game engine focusing on modern rendering techniques and performance.",
+    "lang": "C++"
+  }
+]
