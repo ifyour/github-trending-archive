@@ -1,0 +1,150 @@
+[
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "desc": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "desc": "Native-ESM powered web dev build tool. It's fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "lang": "Go"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "mozilla-mobile/fenix",
+    "url": "https://github.com/mozilla-mobile/fenix",
+    "desc": "Firefox Preview",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "desc": "Ultimate Go study guide",
+    "lang": "Go"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "yangyutu/EssentialMath",
+    "url": "https://github.com/yangyutu/EssentialMath",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "B-Software/Ward",
+    "url": "https://github.com/B-Software/Ward",
+    "desc": "Simple and minimalistic server dashboard",
+    "lang": "CSS"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "lang": "C++"
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships",
+    "desc": "Collection of Summer 2021 tech internships!"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "midwayjs/midway",
+    "url": "https://github.com/midwayjs/midway",
+    "desc": "🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "seanmonstar/warp",
+    "url": "https://github.com/seanmonstar/warp",
+    "desc": "A super-easy, composable, web server framework for warp speeds.",
+    "lang": "Rust"
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "desc": "Python training for business analysts and traders",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "victordiaz/PHONK",
+    "url": "https://github.com/victordiaz/PHONK",
+    "desc": "PHONK is a self-contained creative scripting toolbox for new and old Android Devices",
+    "lang": "Java"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "desc": "Vanced Installer",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bqi343/USACO",
+    "url": "https://github.com/bqi343/USACO",
+    "desc": "General Resources for Competitive Programming",
+    "lang": "C++"
+  },
+  {
+    "title": "xitonix/trubka",
+    "url": "https://github.com/xitonix/trubka",
+    "desc": "A CLI tool for Kafka",
+    "lang": "Go"
+  },
+  {
+    "title": "tholman/elevator.js",
+    "url": "https://github.com/tholman/elevator.js",
+    "desc": "Finally, a back to top button that behaves like a real elevator.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "desc": "Odoo. Open Source Apps To Grow Your Business.",
+    "lang": "JavaScript"
+  }
+]
