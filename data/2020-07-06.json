@@ -1,0 +1,148 @@
+[
+  {
+    "title": "spotify/backstage",
+    "url": "https://github.com/spotify/backstage",
+    "desc": "Backstage is an open platform for building developer portals",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "desc": "Native-ESM powered web dev build tool. It's fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "HackerPoet/NonEuclidean",
+    "url": "https://github.com/HackerPoet/NonEuclidean",
+    "desc": "A Non-Euclidean Rendering Engine for 3D scenes.",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ReactTraining/react-router",
+    "url": "https://github.com/ReactTraining/react-router",
+    "desc": "Declarative routing for React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paulhodel/jexcel",
+    "url": "https://github.com/paulhodel/jexcel",
+    "desc": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LeelaChessZero/lc0",
+    "url": "https://github.com/LeelaChessZero/lc0",
+    "desc": "The rewritten engine, originally for tensorflow. Now all other backends have been ported here.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/TypeScript-Website",
+    "url": "https://github.com/microsoft/TypeScript-Website",
+    "desc": "The Website and web infrastructure for learning TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "lang": "Go"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "NetchX/Netch",
+    "url": "https://github.com/NetchX/Netch",
+    "desc": "Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray, Trojan proxies. UDP NAT FullCone",
+    "lang": "C#"
+  },
+  {
+    "title": "rstacruz/cheatsheets",
+    "url": "https://github.com/rstacruz/cheatsheets",
+    "desc": "My cheatsheets",
+    "lang": "CSS"
+  },
+  {
+    "title": "talkpython/python-for-absolute-beginners-course",
+    "url": "https://github.com/talkpython/python-for-absolute-beginners-course",
+    "desc": "Code samples and other handouts for our course.",
+    "lang": "Python"
+  }
+]
