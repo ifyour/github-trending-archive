@@ -1,0 +1,151 @@
+[
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HackerPoet/NonEuclidean",
+    "url": "https://github.com/HackerPoet/NonEuclidean",
+    "desc": "A Non-Euclidean Rendering Engine for 3D scenes.",
+    "lang": "C++"
+  },
+  {
+    "title": "spotify/backstage",
+    "url": "https://github.com/spotify/backstage",
+    "desc": "Backstage is an open platform for building developer portals",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "dask/dask-tutorial",
+    "url": "https://github.com/dask/dask-tutorial",
+    "desc": "Dask tutorial",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bitcoinbook/bitcoinbook",
+    "url": "https://github.com/bitcoinbook/bitcoinbook",
+    "desc": "Mastering Bitcoin 2nd Edition - Programming the Open Blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "desc": "Summer course content for Neuromatch Academy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alibaba/dragonwell8",
+    "url": "https://github.com/alibaba/dragonwell8",
+    "desc": "Alibaba Dragonwell8 JDK",
+    "lang": "Shell"
+  },
+  {
+    "title": "invertase/react-native-firebase",
+    "url": "https://github.com/invertase/react-native-firebase",
+    "desc": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jbesomi/texthero",
+    "url": "https://github.com/jbesomi/texthero",
+    "desc": "Text preprocessing, representation and visualization from zero to hero.",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "MaggieAppleton/digital-gardeners",
+    "url": "https://github.com/MaggieAppleton/digital-gardeners",
+    "desc": "Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws-amplify/amplify-cli",
+    "url": "https://github.com/aws-amplify/amplify-cli",
+    "desc": "A CLI toolchain for simplifying serverless web and mobile development.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tesseract-ocr/tesseract",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "desc": "Tesseract Open Source OCR Engine (main repository)",
+    "lang": "C++"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spack/spack",
+    "url": "https://github.com/spack/spack",
+    "desc": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "lang": "Python"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "desc": "OpenVINO™ Toolkit repository",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ianstormtaylor/slate",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "desc": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+    "lang": "JavaScript"
+  }
+]
