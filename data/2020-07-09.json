@@ -1,0 +1,152 @@
+[
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "deep-learning-with-pytorch/dlwpt-code",
+    "url": "https://github.com/deep-learning-with-pytorch/dlwpt-code",
+    "desc": "Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+    "lang": "Rust"
+  },
+  {
+    "title": "jbesomi/texthero",
+    "url": "https://github.com/jbesomi/texthero",
+    "desc": "Text preprocessing, representation and visualization from zero to hero.",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "invertase/react-native-firebase",
+    "url": "https://github.com/invertase/react-native-firebase",
+    "desc": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kentcdodds/bookshelf",
+    "url": "https://github.com/kentcdodds/bookshelf",
+    "desc": "Build a ReactJS App workshop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "desc": "The adaptive interface system  for modern web experiences.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "Critical-Start/Team-Ares",
+    "url": "https://github.com/Critical-Start/Team-Ares",
+    "desc": "Repository for all TeamARES POC code and tools.",
+    "lang": "Python"
+  },
+  {
+    "title": "grpc/grpc-java",
+    "url": "https://github.com/grpc/grpc-java",
+    "desc": "The Java gRPC implementation. HTTP/2 based RPC",
+    "lang": "Java"
+  },
+  {
+    "title": "emscripten-core/emscripten",
+    "url": "https://github.com/emscripten-core/emscripten",
+    "desc": "Emscripten: An LLVM-to-Web Compiler",
+    "lang": "C++"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "desc": "Summer course content for Neuromatch Academy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mozilla/send",
+    "url": "https://github.com/mozilla/send",
+    "desc": "Simple, private file sharing from the makers of Firefox",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vercel/swr",
+    "url": "https://github.com/vercel/swr",
+    "desc": "React Hooks library for remote data fetching",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MindorksOpenSource/android-interview-questions",
+    "url": "https://github.com/MindorksOpenSource/android-interview-questions",
+    "desc": "Your Cheat Sheet For Android Interview - Android Interview Questions",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "confluentinc/ksql",
+    "url": "https://github.com/confluentinc/ksql",
+    "desc": "The event streaming database purpose-built for stream processing applications",
+    "lang": "Java"
+  },
+  {
+    "title": "vimeo/psalm",
+    "url": "https://github.com/vimeo/psalm",
+    "desc": "A static analysis tool for finding errors in PHP applications",
+    "lang": "PHP"
+  },
+  {
+    "title": "HackerPoet/NonEuclidean",
+    "url": "https://github.com/HackerPoet/NonEuclidean",
+    "desc": "A Non-Euclidean Rendering Engine for 3D scenes.",
+    "lang": "C++"
+  },
+  {
+    "title": "EduardoPires/EquinoxProject",
+    "url": "https://github.com/EduardoPires/EquinoxProject",
+    "desc": "Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts",
+    "lang": "C#"
+  }
+]
