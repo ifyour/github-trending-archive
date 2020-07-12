@@ -1,0 +1,150 @@
+[
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "ant-design-blazor/ant-design-blazor",
+    "url": "https://github.com/ant-design-blazor/ant-design-blazor",
+    "desc": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+    "lang": "C#"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~",
+    "lang": "Go"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "desc": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "desc": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "lang": "Java"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding",
+    "lang": "Python"
+  },
+  {
+    "title": "full-stack-deep-learning/fsdl-text-recognizer-project",
+    "url": "https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project",
+    "desc": "The source repository is at https://github.com/full-stack-deep-learning/fsdl-text-recognizer",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "desc": "Summer course content for Neuromatch Academy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "DarkSecDevelopers/HiddenEye",
+    "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+    "desc": "Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services [ Android-Support-Available ]",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "unit8co/darts",
+    "url": "https://github.com/unit8co/darts",
+    "desc": "A python library for easy manipulation and forecasting of time series.",
+    "lang": "Python"
+  },
+  {
+    "title": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "desc": "🎥 Command line video player",
+    "lang": "C"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "an-tao/drogon",
+    "url": "https://github.com/an-tao/drogon",
+    "desc": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  }
+]
