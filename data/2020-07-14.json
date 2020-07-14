@@ -1,0 +1,152 @@
+[
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "desc": "Summer course content for Neuromatch Academy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "voila-dashboards/voila",
+    "url": "https://github.com/voila-dashboards/voila",
+    "desc": "Voilà turns Jupyter notebooks into standalone web applications",
+    "lang": "Python"
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "desc": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+    "lang": "Dart"
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "desc": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "outline/outline",
+    "url": "https://github.com/outline/outline",
+    "desc": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~",
+    "lang": "Go"
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "desc": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fzaninotto/Faker",
+    "url": "https://github.com/fzaninotto/Faker",
+    "desc": "Faker is a PHP library that generates fake data for you",
+    "lang": "PHP"
+  },
+  {
+    "title": "guipsamora/pandas_exercises",
+    "url": "https://github.com/guipsamora/pandas_exercises",
+    "desc": "Practice your pandas skills!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kgrzybek/modular-monolith-with-ddd",
+    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "lang": "C#"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "desc": "Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "lang": "Java"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "Dimillian/MovieSwiftUI",
+    "url": "https://github.com/Dimillian/MovieSwiftUI",
+    "desc": "SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "ant-design-blazor/ant-design-blazor",
+    "url": "https://github.com/ant-design-blazor/ant-design-blazor",
+    "desc": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+    "lang": "C#"
+  },
+  {
+    "title": "nats-io/nats-server",
+    "url": "https://github.com/nats-io/nats-server",
+    "desc": "High-Performance server for NATS, the cloud native messaging system.",
+    "lang": "Go"
+  },
+  {
+    "title": "caouecs/Laravel-lang",
+    "url": "https://github.com/caouecs/Laravel-lang",
+    "desc": "List of 75 languages for Laravel 4, 5, 6 and 7",
+    "lang": "PHP"
+  }
+]
