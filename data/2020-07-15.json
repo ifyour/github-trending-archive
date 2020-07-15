@@ -1,0 +1,152 @@
+[
+  {
+    "title": "ivanpaulovich/clean-architecture-manga",
+    "url": "https://github.com/ivanpaulovich/clean-architecture-manga",
+    "desc": "🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",
+    "lang": "C#"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "desc": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "desc": "Summer course content for Neuromatch Academy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "desc": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+    "lang": "Dart"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Rapidly create UIs for prototyping your machine learning model in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "desc": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedrolemoz/MagicMagnet-Python",
+    "url": "https://github.com/pedrolemoz/MagicMagnet-Python",
+    "desc": "Get magnet links from internet without any effort! 🧲",
+    "lang": "Python"
+  },
+  {
+    "title": "voila-dashboards/voila",
+    "url": "https://github.com/voila-dashboards/voila",
+    "desc": "Voilà turns Jupyter notebooks into standalone web applications",
+    "lang": "Python"
+  },
+  {
+    "title": "gtworek/PSBits",
+    "url": "https://github.com/gtworek/PSBits",
+    "desc": "Simple (relatively) things allowing you to dig a bit deeper than usual.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "desc": "Public interface definitions of Google APIs.",
+    "lang": "Starlark"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate",
+    "lang": "Python"
+  },
+  {
+    "title": "golang/protobuf",
+    "url": "https://github.com/golang/protobuf",
+    "desc": "Go support for Google's protocol buffers",
+    "lang": "Go"
+  },
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "desc": "Ruby on Rails",
+    "lang": "Ruby"
+  },
+  {
+    "title": "outline/outline",
+    "url": "https://github.com/outline/outline",
+    "desc": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "micropython/micropython",
+    "url": "https://github.com/micropython/micropython",
+    "desc": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+    "lang": "C"
+  },
+  {
+    "title": "UKPLab/sentence-transformers",
+    "url": "https://github.com/UKPLab/sentence-transformers",
+    "desc": "Sentence Embeddings with BERT & XLNet",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "desc": "Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "wechaty/wechaty",
+    "url": "https://github.com/wechaty/wechaty",
+    "desc": "Conversational AI RPA SDK for Chatbot Hackers",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "ctripcorp/apollo",
+    "url": "https://github.com/ctripcorp/apollo",
+    "desc": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。",
+    "lang": "Java"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "desc": "⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "C#"
+  },
+  {
+    "title": "Dash-Industry-Forum/dash.js",
+    "url": "https://github.com/Dash-Industry-Forum/dash.js",
+    "desc": "A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  }
+]
