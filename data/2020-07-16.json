@@ -1,0 +1,149 @@
+[
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "desc": "Public interface definitions of Google APIs.",
+    "lang": "Starlark"
+  },
+  {
+    "title": "ivanpaulovich/clean-architecture-manga",
+    "url": "https://github.com/ivanpaulovich/clean-architecture-manga",
+    "desc": "🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",
+    "lang": "C#"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "desc": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "title": "photonstorm/phaser",
+    "url": "https://github.com/photonstorm/phaser",
+    "desc": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for prototyping your machine learning model in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "desc": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GuidoBartoli/sherloq",
+    "url": "https://github.com/GuidoBartoli/sherloq",
+    "desc": "An open-source digital image forensic toolset",
+    "lang": "Perl"
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "desc": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+    "lang": "Dart"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "microsoft/Microsoft-threat-protection-Hunting-Queries",
+    "url": "https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries",
+    "desc": "Sample queries for Advanced hunting in Microsoft Threat Protection",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "elyra-ai/elyra",
+    "url": "https://github.com/elyra-ai/elyra",
+    "desc": "Elyra extends JupyterLab Notebooks with an AI centric approach.",
+    "lang": "Python"
+  },
+  {
+    "title": "openid/AppAuth-Android",
+    "url": "https://github.com/openid/AppAuth-Android",
+    "desc": "Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
+    "lang": "Java"
+  },
+  {
+    "title": "CocoaPods/CocoaPods",
+    "url": "https://github.com/CocoaPods/CocoaPods",
+    "desc": "The Cocoa Dependency Manager.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "kubernetes-sigs/kustomize",
+    "url": "https://github.com/kubernetes-sigs/kustomize",
+    "desc": "Customization of kubernetes YAML configurations",
+    "lang": "Go"
+  },
+  {
+    "title": "vishnubob/wait-for-it",
+    "url": "https://github.com/vishnubob/wait-for-it",
+    "desc": "Pure bash script to test and wait on the availability of a TCP host and port",
+    "lang": "Python"
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "desc": "Deep Learning (with PyTorch)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "confluentinc/confluent-kafka-dotnet",
+    "url": "https://github.com/confluentinc/confluent-kafka-dotnet",
+    "desc": "Confluent's Apache Kafka .NET client",
+    "lang": "C#"
+  },
+  {
+    "title": "marmelab/react-admin",
+    "url": "https://github.com/marmelab/react-admin",
+    "desc": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+    "lang": "TypeScript"
+  }
+]
