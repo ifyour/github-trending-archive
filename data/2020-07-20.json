@@ -1,0 +1,147 @@
+[
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "desc": "For empowering community 🌱",
+    "lang": "Ruby"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "desc": "completely free for everyone. Its build-in Flutter Dart.",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAlphamerc/flutter_twitter_clone",
+    "url": "https://github.com/TheAlphamerc/flutter_twitter_clone",
+    "desc": "Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage",
+    "lang": "Dart"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server - powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "desc": "Open Source Computer Vision Library",
+    "lang": "C++"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "microsoft/ailab",
+    "url": "https://github.com/microsoft/ailab",
+    "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+    "lang": "C#"
+  },
+  {
+    "title": "OvidijusParsiunas/myvision",
+    "url": "https://github.com/OvidijusParsiunas/myvision",
+    "desc": "Computer vision based ML training data generation tool 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "lang": "Python"
+  },
+  {
+    "title": "elyra-ai/elyra",
+    "url": "https://github.com/elyra-ai/elyra",
+    "desc": "Elyra extends JupyterLab Notebooks with an AI centric approach.",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "desc": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "gfx-rs/wgpu-rs",
+    "url": "https://github.com/gfx-rs/wgpu-rs",
+    "desc": "Rust bindings to wgpu native library",
+    "lang": "Rust"
+  },
+  {
+    "title": "pi-hole/docker-pi-hole",
+    "url": "https://github.com/pi-hole/docker-pi-hole",
+    "desc": "Pi-hole in a docker container",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "SFML/SFML",
+    "url": "https://github.com/SFML/SFML",
+    "desc": "Simple and Fast Multimedia Library",
+    "lang": "C++"
+  }
+]
