@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Requarks/wiki",
+    "url": "https://github.com/Requarks/wiki",
+    "desc": "Wiki.js | A modern, lightweight and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "rappasoft/laravel-boilerplate",
+    "url": "https://github.com/rappasoft/laravel-boilerplate",
+    "desc": "The Laravel Boilerplate Project - https://laravel-boilerplate.com",
+    "lang": "PHP"
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "desc": "completely free for everyone. Its build-in Flutter Dart.",
+    "lang": "Dart"
+  },
+  {
+    "title": "luspr/awesome-ml-courses",
+    "url": "https://github.com/luspr/awesome-ml-courses",
+    "desc": "Awesome free machine learning and AI courses with video lectures."
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "lang": "Python"
+  },
+  {
+    "title": "antfu/vueuse",
+    "url": "https://github.com/antfu/vueuse",
+    "desc": "🧰 Collection of Composition API utils for Vue 2 and 3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "desc": "Open Source Computer Vision Library",
+    "lang": "C++"
+  },
+  {
+    "title": "ardanlabs/gotraining",
+    "url": "https://github.com/ardanlabs/gotraining",
+    "desc": "Go Training Class Material :",
+    "lang": "Go"
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "desc": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "lang": "Python"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "josdejong/jsoneditor",
+    "url": "https://github.com/josdejong/jsoneditor",
+    "desc": "A web-based tool to view, edit, format, and validate JSON",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "projectstorm/react-diagrams",
+    "url": "https://github.com/projectstorm/react-diagrams",
+    "desc": "a super simple, no-nonsense diagramming library written in react that just works",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "openai/baselines",
+    "url": "https://github.com/openai/baselines",
+    "desc": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "AzureAD/microsoft-authentication-library-for-js",
+    "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
+    "desc": "Microsoft Authentication Library (MSAL) for JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "grpc/grpc-java",
+    "url": "https://github.com/grpc/grpc-java",
+    "desc": "The Java gRPC implementation. HTTP/2 based RPC",
+    "lang": "Java"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "kubernetes/autoscaler",
+    "url": "https://github.com/kubernetes/autoscaler",
+    "desc": "Autoscaling components for Kubernetes",
+    "lang": "Go"
+  }
+]
