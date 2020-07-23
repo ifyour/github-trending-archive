@@ -1,0 +1,149 @@
+[
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "Requarks/wiki",
+    "url": "https://github.com/Requarks/wiki",
+    "desc": "Wiki.js | A modern, lightweight and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "desc": "Your window into the Elastic Stack",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "luspr/awesome-ml-courses",
+    "url": "https://github.com/luspr/awesome-ml-courses",
+    "desc": "Awesome free machine learning and AI courses with video lectures."
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "lang": "Python"
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "desc": "completely free for everyone. Its build-in Flutter Dart.",
+    "lang": "Dart"
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "ardanlabs/gotraining",
+    "url": "https://github.com/ardanlabs/gotraining",
+    "desc": "Go Training Class Material :",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "desc": "A web framework for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "guipsamora/pandas_exercises",
+    "url": "https://github.com/guipsamora/pandas_exercises",
+    "desc": "Practice your pandas skills!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships",
+    "desc": "Collection of Summer 2021 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "WordPress/gutenberg",
+    "url": "https://github.com/WordPress/gutenberg",
+    "desc": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "elastic/logstash",
+    "url": "https://github.com/elastic/logstash",
+    "desc": "Logstash - transport and process your logs, events, or other data",
+    "lang": "Ruby"
+  },
+  {
+    "title": "jitsi/jitsi-meet",
+    "url": "https://github.com/jitsi/jitsi-meet",
+    "desc": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  }
+]
