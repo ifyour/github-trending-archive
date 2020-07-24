@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "desc": "Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes",
+    "lang": "Python"
+  },
+  {
+    "title": "Requarks/wiki",
+    "url": "https://github.com/Requarks/wiki",
+    "desc": "Wiki.js | A modern, lightweight and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "desc": "Implementation of the Filecoin protocol, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "Curated papers, articles & videos on data science & machine learning applied in production, with results."
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tc39/proposal-record-tuple",
+    "url": "https://github.com/tc39/proposal-record-tuple",
+    "desc": "ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!",
+    "lang": "HTML"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "umi-top/umi-core-php",
+    "url": "https://github.com/umi-top/umi-core-php",
+    "desc": "UMI Core PHP Library",
+    "lang": "PHP"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "luspr/awesome-ml-courses",
+    "url": "https://github.com/luspr/awesome-ml-courses",
+    "desc": "Awesome free machine learning and AI courses with video lectures."
+  },
+  {
+    "title": "umi-top/umi-core-js",
+    "url": "https://github.com/umi-top/umi-core-js",
+    "desc": "UMI Core JS Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ardanlabs/gotraining",
+    "url": "https://github.com/ardanlabs/gotraining",
+    "desc": "Go Training Class Material :",
+    "lang": "Go"
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "desc": "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "desc": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "lang": "Python"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "desc": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "lang": "C#"
+  },
+  {
+    "title": "apache/camel",
+    "url": "https://github.com/apache/camel",
+    "desc": "Apache Camel",
+    "lang": "Java"
+  },
+  {
+    "title": "thangchung/awesome-dotnet-core",
+    "url": "https://github.com/thangchung/awesome-dotnet-core",
+    "desc": "🐝 A collection of awesome .NET core libraries, tools, frameworks and software",
+    "lang": "C#"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "desc": "A full-featured App (iOS & Android) development assistant. You deserve it. 简称 DoKit 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/",
+    "lang": "Java"
+  },
+  {
+    "title": "returntocorp/semgrep",
+    "url": "https://github.com/returntocorp/semgrep",
+    "desc": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "lang": "Python"
+  },
+  {
+    "title": "hiloteam/Sein.js",
+    "url": "https://github.com/hiloteam/Sein.js",
+    "desc": "Progressive web 3D game engine.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  }
+]
