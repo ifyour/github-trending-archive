@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "desc": "Rust explained using easy English"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "desc": "Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes",
+    "lang": "Python"
+  },
+  {
+    "title": "David00/rpi-power-monitor",
+    "url": "https://github.com/David00/rpi-power-monitor",
+    "desc": "Raspberry Pi Power Monitor",
+    "lang": "Python"
+  },
+  {
+    "title": "umi-top/umi-core-php",
+    "url": "https://github.com/umi-top/umi-core-php",
+    "desc": "UMI Core PHP Library",
+    "lang": "PHP"
+  },
+  {
+    "title": "umi-top/umi-core-js",
+    "url": "https://github.com/umi-top/umi-core-js",
+    "desc": "UMI Core JS Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "desc": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "desc": "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WordPress/gutenberg",
+    "url": "https://github.com/WordPress/gutenberg",
+    "desc": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "interpretml/interpret",
+    "url": "https://github.com/interpretml/interpret",
+    "desc": "Fit interpretable models. Explain blackbox machine learning.",
+    "lang": "C++"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "liyasthomas/postwoman",
+    "url": "https://github.com/liyasthomas/postwoman",
+    "desc": "👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 67k+ developers. https://postwoman.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ImprovedTube/ImprovedTube",
+    "url": "https://github.com/ImprovedTube/ImprovedTube",
+    "desc": "Youtube Extension: Refine Youtube with 64+ Features! Non-obtrusive. No nonsense. Longest standing. Please translate, code or donate",
+    "lang": "CSS"
+  },
+  {
+    "title": "brillout/awesome-react-components",
+    "url": "https://github.com/brillout/awesome-react-components",
+    "desc": "Curated List of React Components & Libraries."
+  },
+  {
+    "title": "Requarks/wiki",
+    "url": "https://github.com/Requarks/wiki",
+    "desc": "Wiki.js | A modern, lightweight and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "biubug6/Pytorch_Retinaface",
+    "url": "https://github.com/biubug6/Pytorch_Retinaface",
+    "desc": "Retinaface get 80.99% in widerface hard val using mobilenet0.25.",
+    "lang": "Python"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "Curated papers, articles & videos on data science & machine learning applied in production, with results."
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "desc": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "lang": "JavaScript"
+  }
+]
