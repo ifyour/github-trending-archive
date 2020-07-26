@@ -1,0 +1,150 @@
+[
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "desc": "An open source re-implementation of Diablo 2",
+    "lang": "Go"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "desc": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "radareorg/cutter",
+    "url": "https://github.com/radareorg/cutter",
+    "desc": "Free and Open Source Reverse Engineering Platform powered by radare2",
+    "lang": "C++"
+  },
+  {
+    "title": "hwayne/awesome-cold-showers",
+    "url": "https://github.com/hwayne/awesome-cold-showers",
+    "desc": "For when people get too hyped up about things"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "umi-top/umi-core-js",
+    "url": "https://github.com/umi-top/umi-core-js",
+    "desc": "UMI Core JS Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "desc": "Rust explained using easy English",
+    "lang": "Shell"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "David00/rpi-power-monitor",
+    "url": "https://github.com/David00/rpi-power-monitor",
+    "desc": "Raspberry Pi Power Monitor",
+    "lang": "Python"
+  },
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "desc": "Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes",
+    "lang": "Python"
+  },
+  {
+    "title": "umi-top/umi-core-php",
+    "url": "https://github.com/umi-top/umi-core-php",
+    "desc": "UMI Core PHP Library",
+    "lang": "PHP"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "timgrossmann/InstaPy",
+    "url": "https://github.com/timgrossmann/InstaPy",
+    "desc": "📷 Instagram Bot - Tool for automated Instagram interactions",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ankitects/anki",
+    "url": "https://github.com/ankitects/anki",
+    "desc": "Anki for desktop computers",
+    "lang": "Python"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "desc": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+    "lang": "C"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "tdlib/td",
+    "url": "https://github.com/tdlib/td",
+    "desc": "Cross-platform library for building Telegram clients",
+    "lang": "C++"
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "desc": "Arduino core for the ESP32",
+    "lang": "C"
+  },
+  {
+    "title": "haskell/haskell-language-server",
+    "url": "https://github.com/haskell/haskell-language-server",
+    "desc": "Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  }
+]
