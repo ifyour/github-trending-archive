@@ -1,0 +1,149 @@
+[
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "icsharpcode/ILSpy",
+    "url": "https://github.com/icsharpcode/ILSpy",
+    "desc": ".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!",
+    "lang": "C#"
+  },
+  {
+    "title": "pikvm/pikvm",
+    "url": "https://github.com/pikvm/pikvm",
+    "desc": "Open and cheap DIY IP-KVM based on Raspberry Pi"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "desc": "The Swift Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "kdeldycke/awesome-falsehood",
+    "url": "https://github.com/kdeldycke/awesome-falsehood",
+    "desc": "😱 Falsehoods Programmers Believe in"
+  },
+  {
+    "title": "radareorg/cutter",
+    "url": "https://github.com/radareorg/cutter",
+    "desc": "Free and Open Source Reverse Engineering Platform powered by radare2",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "desc": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
+    "lang": "C++"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "desc": "The Intuitive Vue Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular.js",
+    "url": "https://github.com/angular/angular.js",
+    "desc": "AngularJS - HTML enhanced for web apps!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython",
+    "lang": "Python"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "ceccocats/tkDNN",
+    "url": "https://github.com/ceccocats/tkDNN",
+    "desc": "Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "C#"
+  }
+]
