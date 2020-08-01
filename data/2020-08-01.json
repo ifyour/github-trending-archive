@@ -1,0 +1,147 @@
+[
+  {
+    "title": "careercup/CtCI-6th-Edition",
+    "url": "https://github.com/careercup/CtCI-6th-Edition",
+    "desc": "Cracking the Coding Interview 6th Ed. Solutions",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "winterbe/java8-tutorial",
+    "url": "https://github.com/winterbe/java8-tutorial",
+    "desc": "Modern Java - A Guide to Java 8",
+    "lang": "Java"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jhipster/generator-jhipster",
+    "url": "https://github.com/jhipster/generator-jhipster",
+    "desc": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IBM/fhe-toolkit-linux",
+    "url": "https://github.com/IBM/fhe-toolkit-linux",
+    "desc": "IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/api-guidelines",
+    "url": "https://github.com/microsoft/api-guidelines",
+    "desc": "Microsoft REST API Guidelines"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "openssl/openssl",
+    "url": "https://github.com/openssl/openssl",
+    "desc": "TLS/SSL and crypto library",
+    "lang": "C"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet-presentations/dotNETConf",
+    "url": "https://github.com/dotnet-presentations/dotNETConf",
+    "desc": "Creative and technical content for running a .NET Conf local event in your community",
+    "lang": "C#"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "cyberark/SkyArk",
+    "url": "https://github.com/cyberark/SkyArk",
+    "desc": "SkyArk helps to discover, assess and secure the most privileged entities in Azure and AWS",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "kdeldycke/awesome-falsehood",
+    "url": "https://github.com/kdeldycke/awesome-falsehood",
+    "desc": "😱 Falsehoods Programmers Believe in"
+  },
+  {
+    "title": "formium/formik",
+    "url": "https://github.com/formium/formik",
+    "desc": "Build forms in React, without the tears 😭",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "envoyproxy/envoy",
+    "url": "https://github.com/envoyproxy/envoy",
+    "desc": "Cloud-native high-performance edge/middle/service proxy",
+    "lang": "C++"
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "desc": "Summer course content for Neuromatch Academy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "lang": "C++"
+  },
+  {
+    "title": "bulletphysics/bullet3",
+    "url": "https://github.com/bulletphysics/bullet3",
+    "desc": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+    "lang": "C++"
+  }
+]
