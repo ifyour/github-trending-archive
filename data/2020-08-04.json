@@ -1,0 +1,147 @@
+[
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "desc": "How to systematically secure anything: a repository about security engineering"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "gpujs/gpu.js",
+    "url": "https://github.com/gpujs/gpu.js",
+    "desc": "GPU Accelerated JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "IBM/fhe-toolkit-linux",
+    "url": "https://github.com/IBM/fhe-toolkit-linux",
+    "desc": "IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.",
+    "lang": "C++"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "lang": "C++"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "rbhatia46/Data-Science-Interview-Resources",
+    "url": "https://github.com/rbhatia46/Data-Science-Interview-Resources",
+    "desc": "A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently."
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "desc": "Automated decryption tool",
+    "lang": "Python"
+  },
+  {
+    "title": "pycaret/pycaret",
+    "url": "https://github.com/pycaret/pycaret",
+    "desc": "An open source, low-code machine learning library in Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "desc": "Simple and privacy-friendly alternative to Google Analytics",
+    "lang": "Elixir"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "desc": "Source to app.diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leeoniya/uPlot",
+    "url": "https://github.com/leeoniya/uPlot",
+    "desc": "📈 A small, fast chart for time series, lines, areas, ohlc & bars",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "odedshimon/BruteShark",
+    "url": "https://github.com/odedshimon/BruteShark",
+    "desc": "Network Analysis Tool",
+    "lang": "C#"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "jnross/Bluetility",
+    "url": "https://github.com/jnross/Bluetility",
+    "desc": "A Bluetooth Low Energy browser, an open-source alternative to LightBlue for OS X",
+    "lang": "Swift"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "lazyprogrammer/machine_learning_examples",
+    "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+    "desc": "A collection of machine learning examples and tutorials.",
+    "lang": "Python"
+  }
+]
