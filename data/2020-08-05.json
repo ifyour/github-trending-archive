@@ -1,0 +1,144 @@
+[
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "desc": "Automated decryption tool",
+    "lang": "Python"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "austinhuang0131/instagrabber",
+    "url": "https://github.com/austinhuang0131/instagrabber",
+    "desc": "InstaGrabber, the open-source Instagram client for Android. Originally by @AwaisKing.",
+    "lang": "Java"
+  },
+  {
+    "title": "Ignitetechnologies/Privilege-Escalation",
+    "url": "https://github.com/Ignitetechnologies/Privilege-Escalation",
+    "desc": "This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples."
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "desc": "How to systematically secure anything: a repository about security engineering"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "tiangolo/full-stack-fastapi-postgresql",
+    "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+    "desc": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "farridav/django-jazzmin",
+    "url": "https://github.com/farridav/django-jazzmin",
+    "desc": "Jazzy theme for Django",
+    "lang": "CSS"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "lang": "C"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "desc": "Simple and privacy-friendly alternative to Google Analytics",
+    "lang": "Elixir"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "✅ Curated list of resources for college students"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "desc": "Source to app.diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "rbhatia46/Data-Science-Interview-Resources",
+    "url": "https://github.com/rbhatia46/Data-Science-Interview-Resources",
+    "desc": "A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently."
+  },
+  {
+    "title": "gpujs/gpu.js",
+    "url": "https://github.com/gpujs/gpu.js",
+    "desc": "GPU Accelerated JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  }
+]
