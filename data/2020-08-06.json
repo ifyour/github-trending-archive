@@ -1,0 +1,149 @@
+[
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "desc": "Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes",
+    "lang": "Python"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "desc": "How to systematically secure anything: a repository about security engineering"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "lang": "C"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "desc": "Automated decryption tool",
+    "lang": "Python"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "desc": "Source to app.diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PCrnjak/Faze4-Robotic-arm",
+    "url": "https://github.com/PCrnjak/Faze4-Robotic-arm",
+    "desc": "All files for 6 axis robot arm with cycloidal gearboxes .",
+    "lang": "C++"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ARMmbed/mbed-os",
+    "url": "https://github.com/ARMmbed/mbed-os",
+    "desc": "Arm Mbed OS is a platform operating system designed for the internet of things",
+    "lang": "C"
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "desc": "Universal dependency update tool that fits into your workflows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "aws-amplify/amplify-js",
+    "url": "https://github.com/aws-amplify/amplify-js",
+    "desc": "A declarative JavaScript library for application development using cloud services.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "desc": "Simple and privacy-friendly alternative to Google Analytics",
+    "lang": "Elixir"
+  },
+  {
+    "title": "gpujs/gpu.js",
+    "url": "https://github.com/gpujs/gpu.js",
+    "desc": "GPU Accelerated JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antlr/antlr4",
+    "url": "https://github.com/antlr/antlr4",
+    "desc": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
+    "lang": "Java"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships",
+    "desc": "Collection of Summer 2021 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  }
+]
