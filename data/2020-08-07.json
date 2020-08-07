@@ -1,0 +1,148 @@
+[
+  {
+    "title": "simdjson/simdjson",
+    "url": "https://github.com/simdjson/simdjson",
+    "desc": "Parsing gigabytes of JSON per second",
+    "lang": "C++"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "iGhibli/iOS-DeviceSupport",
+    "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+    "desc": "This repository holds the device support files for the iOS, and I will update it regularly.",
+    "lang": "Python"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "lang": "C"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "lang": "Python"
+  },
+  {
+    "title": "PCrnjak/Faze4-Robotic-arm",
+    "url": "https://github.com/PCrnjak/Faze4-Robotic-arm",
+    "desc": "All files for 6 axis robot arm with cycloidal gearboxes .",
+    "lang": "C++"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "lang": "C++"
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "desc": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
+    "lang": "C#"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "lang": "C++"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "lang": "Java"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "helm/charts",
+    "url": "https://github.com/helm/charts",
+    "desc": "Curated applications for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & articles of companies sharing their work on applied data science & machine learning."
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "lang": "Shell"
+  },
+  {
+    "title": "pietrzakadrian/bank",
+    "url": "https://github.com/pietrzakadrian/bank",
+    "desc": "Full Stack Web Application similar to financial software that is used in banking institutions | React.js and Node.js"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "desc": "Automated decryption tool",
+    "lang": "Python"
+  },
+  {
+    "title": "douyu/jupiter",
+    "url": "https://github.com/douyu/jupiter",
+    "desc": "Jupiter是斗鱼开源的面向服务治理的Golang微服务框架",
+    "lang": "Go"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  }
+]
