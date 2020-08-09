@@ -1,0 +1,145 @@
+[
+  {
+    "title": "facebook/pyre-check",
+    "url": "https://github.com/facebook/pyre-check",
+    "desc": "Performant type-checking for python.",
+    "lang": "OCaml"
+  },
+  {
+    "title": "liljencrantz/crush",
+    "url": "https://github.com/liljencrantz/crush",
+    "desc": "Crush is an attempt to make a command line shell that is also a powerful modern programming language.",
+    "lang": "Rust"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ct-Open-Source/tuya-convert",
+    "url": "https://github.com/ct-Open-Source/tuya-convert",
+    "desc": "A collection of scripts to flash Tuya IoT devices to alternative firmwares",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "desc": "The adaptive interface system  for modern web experiences.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+  },
+  {
+    "title": "romefrontend/rome",
+    "url": "https://github.com/romefrontend/rome",
+    "desc": "The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "longjunyu2/MCinaBox",
+    "url": "https://github.com/longjunyu2/MCinaBox",
+    "desc": "MCinaBox - A Minecraft Java Edition Launcher on Android",
+    "lang": "Java"
+  },
+  {
+    "title": "kahun/awesome-sysadmin",
+    "url": "https://github.com/kahun/awesome-sysadmin",
+    "desc": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP."
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Productive & portable programming language for high-performance, sparse & differentiable computing",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (August 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bee-travels/openapi-comment-parser",
+    "url": "https://github.com/bee-travels/openapi-comment-parser",
+    "desc": "⚓️ JSDoc Comments for the OpenAPI Specification",
+    "lang": "CSS"
+  },
+  {
+    "title": "aristocratos/bashtop",
+    "url": "https://github.com/aristocratos/bashtop",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "lang": "Shell"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  }
+]
