@@ -1,0 +1,145 @@
+[
+  {
+    "title": "facebook/pyre-check",
+    "url": "https://github.com/facebook/pyre-check",
+    "desc": "Performant type-checking for python.",
+    "lang": "OCaml"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "desc": "The adaptive interface system  for modern web experiences.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "desc": "Complete container management platform",
+    "lang": "Go"
+  },
+  {
+    "title": "github/archive-program",
+    "url": "https://github.com/github/archive-program",
+    "desc": "The GitHub Archive Program & Arctic Code Vault"
+  },
+  {
+    "title": "intelowlproject/IntelOwl",
+    "url": "https://github.com/intelowlproject/IntelOwl",
+    "desc": "Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & articles of companies sharing their work on applied data science & machine learning."
+  },
+  {
+    "title": "StreisandEffect/streisand",
+    "url": "https://github.com/StreisandEffect/streisand",
+    "desc": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",
+    "lang": "Shell"
+  },
+  {
+    "title": "romefrontend/rome",
+    "url": "https://github.com/romefrontend/rome",
+    "desc": "The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "toniblyx/my-arsenal-of-aws-security-tools",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "desc": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "lang": "Shell"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+  },
+  {
+    "title": "alexandreborges/malwoverview",
+    "url": "https://github.com/alexandreborges/malwoverview",
+    "desc": "Malwoverview is a first response tool to perform an initial and quick triage in a directory containing malware samples, specific malware sample, suspect URL and domains. Additionally, it allows to download and send samples to main online sandboxes.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "naiveHobo/InvoiceNet",
+    "url": "https://github.com/naiveHobo/InvoiceNet",
+    "desc": "Deep neural network to extract intelligent information from invoice documents.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "zo0r/react-native-push-notification",
+    "url": "https://github.com/zo0r/react-native-push-notification",
+    "desc": "React Native Local and Remote Notifications",
+    "lang": "Java"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "kubernetes-sigs/kubebuilder",
+    "url": "https://github.com/kubernetes-sigs/kubebuilder",
+    "desc": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "lang": "Go"
+  },
+  {
+    "title": "360EntSecGroup-Skylar/excelize",
+    "url": "https://github.com/360EntSecGroup-Skylar/excelize",
+    "desc": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "nats-io/nats-server",
+    "url": "https://github.com/nats-io/nats-server",
+    "desc": "High-Performance server for NATS, the cloud native messaging system.",
+    "lang": "Go"
+  }
+]
