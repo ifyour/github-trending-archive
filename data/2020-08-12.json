@@ -1,0 +1,149 @@
+[
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "nodejs/nodejs.dev",
+    "url": "https://github.com/nodejs/nodejs.dev",
+    "desc": "A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "desc": "The adaptive interface system  for modern web experiences.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "intelowlproject/IntelOwl",
+    "url": "https://github.com/intelowlproject/IntelOwl",
+    "desc": "Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "facebook/pyre-check",
+    "url": "https://github.com/facebook/pyre-check",
+    "desc": "Performant type-checking for python.",
+    "lang": "OCaml"
+  },
+  {
+    "title": "z-song/laravel-admin",
+    "url": "https://github.com/z-song/laravel-admin",
+    "desc": "Build a full-featured administrative interface in ten minutes",
+    "lang": "PHP"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "romefrontend/rome",
+    "url": "https://github.com/romefrontend/rome",
+    "desc": "The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "bernaferrari/FigmaToCode",
+    "url": "https://github.com/bernaferrari/FigmaToCode",
+    "desc": "Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "toniblyx/my-arsenal-of-aws-security-tools",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "desc": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "desc": "Microsoft Azure PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "Genivia/ugrep",
+    "url": "https://github.com/Genivia/ugrep",
+    "desc": "🔍NEW ultra fast grep with interactive query UI: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents, fuzzy search, and more. A faster, user-friendly replacement for GNU/BSD grep.",
+    "lang": "C++"
+  },
+  {
+    "title": "99designs/aws-vault",
+    "url": "https://github.com/99designs/aws-vault",
+    "desc": "A vault for securely storing and accessing AWS credentials in development environments",
+    "lang": "Go"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  }
+]
