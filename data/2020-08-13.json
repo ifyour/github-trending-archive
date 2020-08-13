@@ -1,0 +1,149 @@
+[
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/go-github",
+    "url": "https://github.com/google/go-github",
+    "desc": "Go library for accessing the GitHub API",
+    "lang": "Go"
+  },
+  {
+    "title": "nodejs/nodejs.dev",
+    "url": "https://github.com/nodejs/nodejs.dev",
+    "desc": "A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "desc": "The Servo Browser Engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "desc": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
+    "lang": "C#"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "stefan-jansen/machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "desc": "Notebooks, resources, and references accompanying the book Machine Learning for Algorithmic Trading",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "z-song/laravel-admin",
+    "url": "https://github.com/z-song/laravel-admin",
+    "desc": "Build a full-featured administrative interface in ten minutes",
+    "lang": "PHP"
+  },
+  {
+    "title": "executablebooks/jupyter-book",
+    "url": "https://github.com/executablebooks/jupyter-book",
+    "desc": "Build interactive, publication-quality documents from Jupyter Notebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ZuzooVn/machine-learning-for-software-engineers",
+    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "desc": "A complete daily plan for studying to become a machine learning engineer."
+  },
+  {
+    "title": "ansible/workshops",
+    "url": "https://github.com/ansible/workshops",
+    "desc": "Training Course for Ansible Automation Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "desc": "World's fastest and most advanced password recovery utility",
+    "lang": "C"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "camelot-dev/camelot",
+    "url": "https://github.com/camelot-dev/camelot",
+    "desc": "A Python library to extract tabular data from PDFs",
+    "lang": "Python"
+  },
+  {
+    "title": "kgrzybek/modular-monolith-with-ddd",
+    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "lang": "C#"
+  }
+]
