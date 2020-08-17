@@ -1,0 +1,150 @@
+[
+  {
+    "title": "twilco/kosmonaut",
+    "url": "https://github.com/twilco/kosmonaut",
+    "desc": "A web browser engine for the space age 🚀",
+    "lang": "Rust"
+  },
+  {
+    "title": "awwbees/BespokeSynth",
+    "url": "https://github.com/awwbees/BespokeSynth",
+    "desc": "Software modular synth",
+    "lang": "C++"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ageron/handson-ml",
+    "url": "https://github.com/ageron/handson-ml",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "desc": "Toturial coming with data science roadmap graphe.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/go-github",
+    "url": "https://github.com/google/go-github",
+    "desc": "Go library for accessing the GitHub API",
+    "lang": "Go"
+  },
+  {
+    "title": "techreagan/youtube-clone-nodejs-api",
+    "url": "https://github.com/techreagan/youtube-clone-nodejs-api",
+    "desc": "VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "techreagan/vue-nodejs-youtube-clone",
+    "url": "https://github.com/techreagan/vue-nodejs-youtube-clone",
+    "desc": "This is the frontend (VueJS) of the Youtube clone called VueTube.",
+    "lang": "Vue"
+  },
+  {
+    "title": "alexandreborges/malwoverview",
+    "url": "https://github.com/alexandreborges/malwoverview",
+    "desc": "Malwoverview is a first response tool to perform an initial and quick triage in a directory containing malware samples, specific malware sample, suspect URL and domains. Additionally, it allows to download and send samples to main online sandboxes.",
+    "lang": "Python"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "desc": "A cross platform, self-hosted server compatible with Bitpay API",
+    "lang": "C#"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tikv/tikv",
+    "url": "https://github.com/tikv/tikv",
+    "desc": "Distributed transactional key-value database, originally created to complement TiDB",
+    "lang": "Rust"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "ankitects/anki",
+    "url": "https://github.com/ankitects/anki",
+    "desc": "Anki for desktop computers",
+    "lang": "Python"
+  },
+  {
+    "title": "Sainan/Universal-Bypass",
+    "url": "https://github.com/Sainan/Universal-Bypass",
+    "desc": "Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "gothinkster/react-redux-realworld-example-app",
+    "url": "https://github.com/gothinkster/react-redux-realworld-example-app",
+    "desc": "Exemplary real world application built with React + Redux",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "grandyang/leetcode",
+    "url": "https://github.com/grandyang/leetcode",
+    "desc": "Provide all my solutions and explanations in Chinese for all the Leetcode coding problems."
+  }
+]
