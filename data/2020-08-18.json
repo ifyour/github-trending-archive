@@ -1,0 +1,149 @@
+[
+  {
+    "title": "fullcalendar/fullcalendar",
+    "url": "https://github.com/fullcalendar/fullcalendar",
+    "desc": "Full-sized drag & drop event calendar",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rocketseat-education/bootcamp-gostack-desafios",
+    "url": "https://github.com/rocketseat-education/bootcamp-gostack-desafios",
+    "desc": "Repositório contendo todos os desafios dos módulos do Bootcamp Gostack"
+  },
+  {
+    "title": "iawia002/annie",
+    "url": "https://github.com/iawia002/annie",
+    "desc": "👾 Fast, simple and clean video downloader",
+    "lang": "Go"
+  },
+  {
+    "title": "Palashio/libra",
+    "url": "https://github.com/Palashio/libra",
+    "desc": "Ergonomic machine learning for everyone.",
+    "lang": "Python"
+  },
+  {
+    "title": "techreagan/youtube-clone-nodejs-api",
+    "url": "https://github.com/techreagan/youtube-clone-nodejs-api",
+    "desc": "VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "lang": "C++"
+  },
+  {
+    "title": "shoelace-style/shoelace",
+    "url": "https://github.com/shoelace-style/shoelace",
+    "desc": "A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "mvdan/sh",
+    "url": "https://github.com/mvdan/sh",
+    "desc": "A shell parser, formatter, and interpreter with bash support; includes shfmt",
+    "lang": "Go"
+  },
+  {
+    "title": "react-spring/zustand",
+    "url": "https://github.com/react-spring/zustand",
+    "desc": "🐻 Bear necessities for state management in React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "llvm/llvm-project",
+    "url": "https://github.com/llvm/llvm-project",
+    "desc": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
+    "lang": "C++"
+  },
+  {
+    "title": "pentaho/pentaho-kettle",
+    "url": "https://github.com/pentaho/pentaho-kettle",
+    "desc": "Pentaho Data Integration ( ETL ) a.k.a Kettle",
+    "lang": "Java"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "C#"
+  },
+  {
+    "title": "GoogleContainerTools/skaffold",
+    "url": "https://github.com/GoogleContainerTools/skaffold",
+    "desc": "Easy and Repeatable Kubernetes Development",
+    "lang": "Go"
+  },
+  {
+    "title": "iovisor/bpftrace",
+    "url": "https://github.com/iovisor/bpftrace",
+    "desc": "High-level tracing language for Linux eBPF",
+    "lang": "C++"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "lang": "Python"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "MysteryVaibhav/leetcode_company_wise_questions",
+    "url": "https://github.com/MysteryVaibhav/leetcode_company_wise_questions",
+    "desc": "This is a repository containing the list of company wise questions available on leetcode premium"
+  }
+]
