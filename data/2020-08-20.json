@@ -1,0 +1,148 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "Palashio/libra",
+    "url": "https://github.com/Palashio/libra",
+    "desc": "Ergonomic machine learning for everyone.",
+    "lang": "Python"
+  },
+  {
+    "title": "tgorgdotcom/locast2plex",
+    "url": "https://github.com/tgorgdotcom/locast2plex",
+    "desc": "A very simple script to connect locast to Plex's live tv/dvr feature.",
+    "lang": "Python"
+  },
+  {
+    "title": "fullcalendar/fullcalendar",
+    "url": "https://github.com/fullcalendar/fullcalendar",
+    "desc": "Full-sized drag & drop event calendar",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shoelace-style/shoelace",
+    "url": "https://github.com/shoelace-style/shoelace",
+    "desc": "A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "lang": "C++"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "arkadiyt/bounty-targets-data",
+    "url": "https://github.com/arkadiyt/bounty-targets-data",
+    "desc": "This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports"
+  },
+  {
+    "title": "rocketseat-education/bootcamp-gostack-desafios",
+    "url": "https://github.com/rocketseat-education/bootcamp-gostack-desafios",
+    "desc": "Repositório contendo todos os desafios dos módulos do Bootcamp Gostack"
+  },
+  {
+    "title": "docker/docker-ce",
+    "url": "https://github.com/docker/docker-ce",
+    "desc": "Docker CE",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "matomo-org/matomo",
+    "url": "https://github.com/matomo-org/matomo",
+    "desc": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!",
+    "lang": "PHP"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Universal code search (self-hosted)",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "C#"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "desc": "Official repo for the #tidytuesday project",
+    "lang": "HTML"
+  },
+  {
+    "title": "tendermint/tendermint",
+    "url": "https://github.com/tendermint/tendermint",
+    "desc": "⟁ Tendermint Core (BFT Consensus) in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "desc": "n³ The missing terminal file manager for X.",
+    "lang": "C"
+  },
+  {
+    "title": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "desc": "🦔 PostHog is developer-friendly, open-source product analytics.",
+    "lang": "Python"
+  },
+  {
+    "title": "mvdan/sh",
+    "url": "https://github.com/mvdan/sh",
+    "desc": "A shell parser, formatter, and interpreter with bash support; includes shfmt",
+    "lang": "Go"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "desc": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+    "lang": "Go"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "lang": "TypeScript"
+  }
+]
