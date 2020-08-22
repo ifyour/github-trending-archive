@@ -1,0 +1,146 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "desc": "An entity framework for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "MetaMask/metamask-extension",
+    "url": "https://github.com/MetaMask/metamask-extension",
+    "desc": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "desc": "🍰 Everything is RSSible",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "desc": "Cut and paste your surroundings using AR",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "wsvincent/awesome-django",
+    "url": "https://github.com/wsvincent/awesome-django",
+    "desc": "A curated list of awesome things related to Django",
+    "lang": "Makefile"
+  },
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "desc": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+    "lang": "Java"
+  },
+  {
+    "title": "react-native-community/react-native-video",
+    "url": "https://github.com/react-native-community/react-native-video",
+    "desc": "A <Video /> component for react-native",
+    "lang": "Java"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+    "lang": "Go"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "desc": "中国程序员容易发音错误的单词"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "hyperledger/fabric",
+    "url": "https://github.com/hyperledger/fabric",
+    "desc": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+    "lang": "Go"
+  },
+  {
+    "title": "flairNLP/flair",
+    "url": "https://github.com/flairNLP/flair",
+    "desc": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "lang": "Python"
+  },
+  {
+    "title": "analysis-tools-dev/static-analysis",
+    "url": "https://github.com/analysis-tools-dev/static-analysis",
+    "desc": "Static analysis tools for all programming languages, build tools, config files and more.",
+    "lang": "Rust"
+  },
+  {
+    "title": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "desc": "🦔 PostHog is developer-friendly, open-source product analytics.",
+    "lang": "Python"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "guardicore/labs_campaigns",
+    "url": "https://github.com/guardicore/labs_campaigns",
+    "desc": "",
+    "lang": "Java"
+  }
+]
