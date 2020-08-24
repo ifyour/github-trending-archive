@@ -1,0 +1,148 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dtolnay/cxx",
+    "url": "https://github.com/dtolnay/cxx",
+    "desc": "Safe interop between Rust and C++",
+    "lang": "Rust"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "desc": "The fastai deep learning library, plus lessons and tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "desc": "Learning operating system development using Linux kernel and Raspberry Pi",
+    "lang": "C"
+  },
+  {
+    "title": "pingcap/talent-plan",
+    "url": "https://github.com/pingcap/talent-plan",
+    "desc": "open source training courses about distributed database and distributed systemes",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "desc": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "desc": "An entity framework for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wsvincent/awesome-django",
+    "url": "https://github.com/wsvincent/awesome-django",
+    "desc": "A curated list of awesome things related to Django",
+    "lang": "Makefile"
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "desc": "Vanced Installer",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "eternnoir/pyTelegramBotAPI",
+    "url": "https://github.com/eternnoir/pyTelegramBotAPI",
+    "desc": "Python Telegram bot api.",
+    "lang": "Python"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  }
+]
