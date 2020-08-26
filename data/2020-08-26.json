@@ -1,0 +1,147 @@
+[
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "Draft of the fastai book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "desc": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "nalexn/clean-architecture-swiftui",
+    "url": "https://github.com/nalexn/clean-architecture-swiftui",
+    "desc": "A demo project showcasing the production setup of the SwiftUI app with Clean Architecture",
+    "lang": "Swift"
+  },
+  {
+    "title": "alozano-77/AWS-SAA-C02-Course",
+    "url": "https://github.com/alozano-77/AWS-SAA-C02-Course",
+    "desc": "Personal notes for SAA-C02 test from: https://learn.cantrill.io"
+  },
+  {
+    "title": "yhirose/cpp-httplib",
+    "url": "https://github.com/yhirose/cpp-httplib",
+    "desc": "A C++ header-only HTTP/HTTPS server and client library",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KevinLage/YouTube-Livestream-Botter",
+    "url": "https://github.com/KevinLage/YouTube-Livestream-Botter",
+    "desc": "Simple tool to bot viewers to a YouTube Livestream!",
+    "lang": "Python"
+  },
+  {
+    "title": "wix/react-native-navigation",
+    "url": "https://github.com/wix/react-native-navigation",
+    "desc": "A complete native navigation solution for React Native",
+    "lang": "Java"
+  },
+  {
+    "title": "DevashishPrasad/CascadeTabNet",
+    "url": "https://github.com/DevashishPrasad/CascadeTabNet",
+    "desc": "This repository contains the code and implementation details of the CascadeTabNet paper CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/MixedRealityToolkit-Unity",
+    "url": "https://github.com/microsoft/MixedRealityToolkit-Unity",
+    "desc": "Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.",
+    "lang": "C#"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "desc": "Cut and paste your surroundings using AR",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "desc": "Ultimate Go study guide",
+    "lang": "Go"
+  },
+  {
+    "title": "typicode/json-server",
+    "url": "https://github.com/typicode/json-server",
+    "desc": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "lang": "TypeScript"
+  }
+]
