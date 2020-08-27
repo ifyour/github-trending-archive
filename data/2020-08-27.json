@@ -1,0 +1,150 @@
+[
+  {
+    "title": "wpine215/msfs-a320neo",
+    "url": "https://github.com/wpine215/msfs-a320neo",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "desc": "The Ultimate Go Study Guide",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "gitpod-io/gitpod",
+    "url": "https://github.com/gitpod-io/gitpod",
+    "desc": "Gitpod is an open-source Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "desc": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "lang": "Python"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thunil/TecoGAN",
+    "url": "https://github.com/thunil/TecoGAN",
+    "desc": "This repo will contain source code and materials for the TecoGAN project, i.e. code for a TEmporally COherent GAN",
+    "lang": "Python"
+  },
+  {
+    "title": "KevinLage/YouTube-Livestream-Botter",
+    "url": "https://github.com/KevinLage/YouTube-Livestream-Botter",
+    "desc": "Simple tool to bot viewers to a YouTube Livestream!",
+    "lang": "Python"
+  },
+  {
+    "title": "containous/traefik",
+    "url": "https://github.com/containous/traefik",
+    "desc": "The Cloud Native Edge Router",
+    "lang": "Go"
+  },
+  {
+    "title": "kkbjs/element3",
+    "url": "https://github.com/kkbjs/element3",
+    "desc": "(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web",
+    "lang": "Vue"
+  },
+  {
+    "title": "model-zoo/shift-ctrl-f",
+    "url": "https://github.com/model-zoo/shift-ctrl-f",
+    "desc": "🔎 Search the information available on a webpage using natural language instead of an exact string match.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "desc": "A collection of useful .gitignore templates"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "barryvdh/laravel-debugbar",
+    "url": "https://github.com/barryvdh/laravel-debugbar",
+    "desc": "Laravel Debugbar (Integrates PHP Debug Bar)",
+    "lang": "PHP"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "GoogleContainerTools/jib",
+    "url": "https://github.com/GoogleContainerTools/jib",
+    "desc": "🏗 Build container images for your Java applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+    "lang": "Go"
+  },
+  {
+    "title": "quarkusio/quarkus-quickstarts",
+    "url": "https://github.com/quarkusio/quarkus-quickstarts",
+    "desc": "Quarkus quickstart code",
+    "lang": "Java"
+  },
+  {
+    "title": "yhirose/cpp-httplib",
+    "url": "https://github.com/yhirose/cpp-httplib",
+    "desc": "A C++ header-only HTTP/HTTPS server and client library",
+    "lang": "C++"
+  }
+]
