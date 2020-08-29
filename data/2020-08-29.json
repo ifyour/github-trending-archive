@@ -1,0 +1,149 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iggredible/Learn-Vim",
+    "url": "https://github.com/iggredible/Learn-Vim",
+    "desc": "A book for learning the Vim editor the smart way."
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tightenco/takeout",
+    "url": "https://github.com/tightenco/takeout",
+    "desc": "Docker-based development-only dependency manager; pairs with Valet.",
+    "lang": "PHP"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "dimforge/rapier",
+    "url": "https://github.com/dimforge/rapier",
+    "desc": "2D and 3D physics engines focused on performances.",
+    "lang": "Rust"
+  },
+  {
+    "title": "intel-isl/OpenBot",
+    "url": "https://github.com/intel-isl/OpenBot",
+    "desc": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.",
+    "lang": "Java"
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "desc": "An extension for VS Code that visualizes data during debugging.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "desc": "The Ultimate Go Study Guide",
+    "lang": "Go"
+  },
+  {
+    "title": "jeanrauwers/mern-course-bootcamp",
+    "url": "https://github.com/jeanrauwers/mern-course-bootcamp",
+    "desc": "Complete Free Coding Bootcamp 2020 MERN Stack",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "arwes/arwes",
+    "url": "https://github.com/arwes/arwes",
+    "desc": "Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "desc": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (August 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "desc": "A set of best practices for JavaScript projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "ml-jku/hopfield-layers",
+    "url": "https://github.com/ml-jku/hopfield-layers",
+    "desc": "Hopfield Networks is All You Need",
+    "lang": "Python"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "lang": "PHP"
+  }
+]
