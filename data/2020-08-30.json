@@ -1,0 +1,147 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "desc": "An extension for VS Code that visualizes data during debugging.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "iggredible/Learn-Vim",
+    "url": "https://github.com/iggredible/Learn-Vim",
+    "desc": "A book for learning the Vim editor the smart way."
+  },
+  {
+    "title": "Aircoookie/WLED",
+    "url": "https://github.com/Aircoookie/WLED",
+    "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "lang": "C++"
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "desc": "🍣 SushiSwap smart contracts",
+    "lang": "Solidity"
+  },
+  {
+    "title": "intel-isl/OpenBot",
+    "url": "https://github.com/intel-isl/OpenBot",
+    "desc": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.",
+    "lang": "Java"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "tightenco/takeout",
+    "url": "https://github.com/tightenco/takeout",
+    "desc": "Docker-based development-only dependency manager; pairs with Valet.",
+    "lang": "PHP"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "desc": "A set of best practices for JavaScript projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/objax",
+    "url": "https://github.com/google/objax",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "Tarikul711/flutter-development-roadmap",
+    "url": "https://github.com/Tarikul711/flutter-development-roadmap",
+    "desc": "Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to the project. Happy Learning"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "arwes/arwes",
+    "url": "https://github.com/arwes/arwes",
+    "desc": "Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "desc": "Official open source SVG icon library for Bootstrap.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.",
+    "lang": "Python"
+  }
+]
