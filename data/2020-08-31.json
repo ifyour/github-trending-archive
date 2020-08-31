@@ -1,0 +1,146 @@
+[
+  {
+    "title": "vinayak-mehta/present",
+    "url": "https://github.com/vinayak-mehta/present",
+    "desc": "A terminal-based presentation tool with colors and effects.",
+    "lang": "Python"
+  },
+  {
+    "title": "alandefreitas/matplotplusplus",
+    "url": "https://github.com/alandefreitas/matplotplusplus",
+    "desc": "Matplot++: A C++ Graphics Library for Data Visualization 📊🗾",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "webrtc-for-the-curious/webrtc-for-the-curious",
+    "url": "https://github.com/webrtc-for-the-curious/webrtc-for-the-curious",
+    "desc": "WebRTC for the Curious: Go beyond the APIs"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "desc": "An extension for VS Code that visualizes data during debugging.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "desc": "Official open source SVG icon library for Bootstrap.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/Showkase",
+    "url": "https://github.com/airbnb/Showkase",
+    "desc": "🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "desc": "A set of best practices for JavaScript projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "desc": "🍣 SushiSwap smart contracts",
+    "lang": "Solidity"
+  },
+  {
+    "title": "connorferster/handcalcs",
+    "url": "https://github.com/connorferster/handcalcs",
+    "desc": "Python library for converting Python calculations into rendered latex.",
+    "lang": "Python"
+  },
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "desc": "Rust explained using easy English",
+    "lang": "Shell"
+  },
+  {
+    "title": "OfJAAH/KingOfBugBountyTips",
+    "url": "https://github.com/OfJAAH/KingOfBugBountyTips",
+    "desc": ""
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Sycnex/Windows10Debloater",
+    "url": "https://github.com/Sycnex/Windows10Debloater",
+    "desc": "Script to remove Windows 10 bloatware.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "ranger/ranger",
+    "url": "https://github.com/ranger/ranger",
+    "desc": "A VIM-inspired filemanager for the console",
+    "lang": "Python"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "Aircoookie/WLED",
+    "url": "https://github.com/Aircoookie/WLED",
+    "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "lang": "C++"
+  },
+  {
+    "title": "fastai/nbdev",
+    "url": "https://github.com/fastai/nbdev",
+    "desc": "Create delightful python projects using Jupyter Notebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "",
+    "lang": "Kotlin"
+  }
+]
