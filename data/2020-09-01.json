@@ -1,0 +1,144 @@
+[
+  {
+    "title": "webrtc-for-the-curious/webrtc-for-the-curious",
+    "url": "https://github.com/webrtc-for-the-curious/webrtc-for-the-curious",
+    "desc": "WebRTC for the Curious: Go beyond the APIs"
+  },
+  {
+    "title": "vinayak-mehta/present",
+    "url": "https://github.com/vinayak-mehta/present",
+    "desc": "A terminal-based presentation tool with colors and effects.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "desc": "Rust explained using easy English",
+    "lang": "Shell"
+  },
+  {
+    "title": "dexterleng/vimac",
+    "url": "https://github.com/dexterleng/vimac",
+    "desc": "Vimium for macOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "desc": "A set of best practices for JavaScript projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "Sycnex/Windows10Debloater",
+    "url": "https://github.com/Sycnex/Windows10Debloater",
+    "desc": "Script to remove Windows 10 bloatware.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "KennethJudd/CompEcon2020",
+    "url": "https://github.com/KennethJudd/CompEcon2020",
+    "desc": "Computational Economics Course 2020 by Kenneth Judd",
+    "lang": "Mathematica"
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "desc": "🍣 SushiSwap smart contracts",
+    "lang": "Solidity"
+  },
+  {
+    "title": "SensorsIot/SuperPower",
+    "url": "https://github.com/SensorsIot/SuperPower",
+    "desc": "Here you should find the best power supplies for your low-power projects"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "OfJAAH/KingOfBugBountyTips",
+    "url": "https://github.com/OfJAAH/KingOfBugBountyTips",
+    "desc": ""
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "go-gorm/gorm",
+    "url": "https://github.com/go-gorm/gorm",
+    "desc": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "lang": "Go"
+  },
+  {
+    "title": "portainer/portainer",
+    "url": "https://github.com/portainer/portainer",
+    "desc": "Making Docker management easy.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "redis/hiredis",
+    "url": "https://github.com/redis/hiredis",
+    "desc": "Minimalistic C client for Redis >= 1.2",
+    "lang": "C"
+  },
+  {
+    "title": "oct16/TimeCat",
+    "url": "https://github.com/oct16/TimeCat",
+    "desc": "A Magical Web Recorder 🖥 (WIP)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "s-cart/s-cart",
+    "url": "https://github.com/s-cart/s-cart",
+    "desc": "Free Laravel e-commerce for business: shopping cart, cms content, and more...",
+    "lang": "PHP"
+  },
+  {
+    "title": "quii/learn-go-with-tests",
+    "url": "https://github.com/quii/learn-go-with-tests",
+    "desc": "Learn Go with test-driven development",
+    "lang": "Go"
+  },
+  {
+    "title": "jamesmh/coravel",
+    "url": "https://github.com/jamesmh/coravel",
+    "desc": "Near-zero config .NET Core micro-framework that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!",
+    "lang": "C#"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  }
+]
