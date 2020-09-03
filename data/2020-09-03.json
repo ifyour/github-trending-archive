@@ -1,0 +1,146 @@
+[
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "desc": "An operating system designed for hosting containers",
+    "lang": "Rust"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "desc": "🍣 SushiSwap smart contracts",
+    "lang": "Solidity"
+  },
+  {
+    "title": "laravel/fortify",
+    "url": "https://github.com/laravel/fortify",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "desc": "A collection of public resources about how software companies test their software",
+    "lang": "HTML"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "desc": "Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:",
+    "lang": "HTML"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "modulz/stitches",
+    "url": "https://github.com/modulz/stitches",
+    "desc": "The modern styling library. Near-zero runtime, server-side rendering, multi-variant support, and best-in-class developer experience.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "desc": "Native-ESM powered web dev build tool. It's fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "portainer/portainer",
+    "url": "https://github.com/portainer/portainer",
+    "desc": "Making Docker management easy.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tradytics/surpriver",
+    "url": "https://github.com/tradytics/surpriver",
+    "desc": "Find big moving stocks before they move using machine learning and anomaly detection",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "connorferster/handcalcs",
+    "url": "https://github.com/connorferster/handcalcs",
+    "desc": "Python library for converting Python calculations into rendered latex.",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "justmarkham/scikit-learn-tips",
+    "url": "https://github.com/justmarkham/scikit-learn-tips",
+    "desc": "🤖⚡ Daily scikit-learn tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "OfJAAH/KingOfBugBountyTips",
+    "url": "https://github.com/OfJAAH/KingOfBugBountyTips",
+    "desc": ""
+  },
+  {
+    "title": "delta-io/delta",
+    "url": "https://github.com/delta-io/delta",
+    "desc": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+    "lang": "Scala"
+  },
+  {
+    "title": "shipofsea/IntelliJ-IDEA-2020.2.1-solve",
+    "url": "https://github.com/shipofsea/IntelliJ-IDEA-2020.2.1-solve",
+    "desc": ""
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "kishikawakatsumi/KeychainAccess",
+    "url": "https://github.com/kishikawakatsumi/KeychainAccess",
+    "desc": "Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.",
+    "lang": "Swift"
+  }
+]
