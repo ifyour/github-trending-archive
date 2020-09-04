@@ -1,0 +1,147 @@
+[
+  {
+    "title": "austinkregel/finance",
+    "url": "https://github.com/austinkregel/finance",
+    "desc": "A self hosted app to help you get a better understanding of your personal finances.",
+    "lang": "TSQL"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+  },
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "desc": "An operating system designed for hosting containers",
+    "lang": "Rust"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "desc": "Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:",
+    "lang": "HTML"
+  },
+  {
+    "title": "haimgel/display-switch",
+    "url": "https://github.com/haimgel/display-switch",
+    "desc": "Turn a $30 USB switch into a full-featured multi-monitor KVM switch",
+    "lang": "Rust"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "JohnSnowLabs/spark-nlp",
+    "url": "https://github.com/JohnSnowLabs/spark-nlp",
+    "desc": "State of the Art Natural Language Processing",
+    "lang": "Scala"
+  },
+  {
+    "title": "blade-ui-kit/blade-ui-kit",
+    "url": "https://github.com/blade-ui-kit/blade-ui-kit",
+    "desc": "A set of renderless components to utilise in your Laravel Blade views.",
+    "lang": "PHP"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "lang": "Go"
+  },
+  {
+    "title": "mhagiwara/100-nlp-papers",
+    "url": "https://github.com/mhagiwara/100-nlp-papers",
+    "desc": "100 Must-Read NLP Papers"
+  },
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "desc": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "KingOfBugbounty/KingOfBugBountyTips",
+    "url": "https://github.com/KingOfBugbounty/KingOfBugBountyTips",
+    "desc": ""
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "desc": "This repository contains the codes of A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, published at ACM Multimedia 2020.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/xls",
+    "url": "https://github.com/google/xls",
+    "desc": "XLS: Accelerated HW Synthesis",
+    "lang": "C++"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "C#"
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "desc": "🍣 SushiSwap smart contracts",
+    "lang": "Solidity"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of template files for the nuclei engine to find security vulnerability and fingerprinting the targets."
+  },
+  {
+    "title": "onqtam/doctest",
+    "url": "https://github.com/onqtam/doctest",
+    "desc": "The fastest feature-rich C++11/14/17/20 single-header testing framework",
+    "lang": "C++"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "golang/protobuf",
+    "url": "https://github.com/golang/protobuf",
+    "desc": "Go support for Google's protocol buffers",
+    "lang": "Go"
+  }
+]
