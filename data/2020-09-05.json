@@ -1,0 +1,147 @@
+[
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "desc": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "lang": "Go"
+  },
+  {
+    "title": "DataDog/scipio",
+    "url": "https://github.com/DataDog/scipio",
+    "desc": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans",
+    "lang": "Rust"
+  },
+  {
+    "title": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "desc": "A collection of public resources about how software companies test their software",
+    "lang": "HTML"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓"
+  },
+  {
+    "title": "learning-at-home/hivemind",
+    "url": "https://github.com/learning-at-home/hivemind",
+    "desc": "Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.",
+    "lang": "Python"
+  },
+  {
+    "title": "mhagiwara/100-nlp-papers",
+    "url": "https://github.com/mhagiwara/100-nlp-papers",
+    "desc": "100 Must-Read NLP Papers"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2020"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/xls",
+    "url": "https://github.com/google/xls",
+    "desc": "XLS: Accelerated HW Synthesis",
+    "lang": "C++"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "desc": "Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:",
+    "lang": "HTML"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "infosecn1nja/Red-Teaming-Toolkit",
+    "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+    "desc": "A collection of open source and commercial tools that aid in red team operations."
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "desc": "This repository contains the codes of A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, published at ACM Multimedia 2020.",
+    "lang": "Python"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/hydra",
+    "url": "https://github.com/facebookresearch/hydra",
+    "desc": "Hydra is a framework for elegantly configuring complex applications",
+    "lang": "Python"
+  },
+  {
+    "title": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "desc": "The Symfony PHP framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "TheSpeedX/TBomb",
+    "url": "https://github.com/TheSpeedX/TBomb",
+    "desc": "This is a SMS And Call Bomber For Linux And Termux",
+    "lang": "Python"
+  },
+  {
+    "title": "oldboyxx/jira_clone",
+    "url": "https://github.com/oldboyxx/jira_clone",
+    "desc": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jupytercalpoly/jupyterlab-interactive-dashboard-editor",
+    "url": "https://github.com/jupytercalpoly/jupyterlab-interactive-dashboard-editor",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "weaveworks/eksctl",
+    "url": "https://github.com/weaveworks/eksctl",
+    "desc": "The official CLI for Amazon EKS",
+    "lang": "Go"
+  }
+]
