@@ -1,0 +1,148 @@
+[
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "desc": "JDK main-line development",
+    "lang": "Java"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "desc": "Xamarin.Forms Official Home",
+    "lang": "C#"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "sushiswap/sushiswap-frontend",
+    "url": "https://github.com/sushiswap/sushiswap-frontend",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "lang": "Go"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "huangsam/ultimate-python",
+    "url": "https://github.com/huangsam/ultimate-python",
+    "desc": "Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍",
+    "lang": "Python"
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "desc": "A high performance blog template for the 11ty static site generator.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "desc": "Companion webpage to the book Mathematics For Machine Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mmozeiko/aes-finder",
+    "url": "https://github.com/mmozeiko/aes-finder",
+    "desc": "Utility to find AES keys in running processes",
+    "lang": "C++"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & articles of companies sharing their work on applied data science & machine learning."
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "desc": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+  },
+  {
+    "title": "NirantK/awesome-project-ideas",
+    "url": "https://github.com/NirantK/awesome-project-ideas",
+    "desc": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "r3nhat/GRAT2",
+    "url": "https://github.com/r3nhat/GRAT2",
+    "desc": "We developed GRAT2 Command & Control (C2) project for learning purpose.",
+    "lang": "C#"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "desc": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "lang": "Go"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "kbrsh/moon",
+    "url": "https://github.com/kbrsh/moon",
+    "desc": "🌙 The minimal & fast library for functional user interfaces",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/spark",
+    "url": "https://github.com/apache/spark",
+    "desc": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "lang": "Scala"
+  },
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "desc": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "BabylonJS/Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "desc": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  }
+]
