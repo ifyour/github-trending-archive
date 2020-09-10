@@ -1,0 +1,147 @@
+[
+  {
+    "title": "project-chip/connectedhomeip",
+    "url": "https://github.com/project-chip/connectedhomeip",
+    "desc": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "lang": "C++"
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "desc": "A high performance blog template for the 11ty static site generator.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers of companies sharing their work on applied data science & machine learning."
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "desc": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "huangsam/ultimate-python",
+    "url": "https://github.com/huangsam/ultimate-python",
+    "desc": "Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍",
+    "lang": "Python"
+  },
+  {
+    "title": "hahnlee/hwp.js",
+    "url": "https://github.com/hahnlee/hwp.js",
+    "desc": "Open source hwp viewer and parser library powered by web technology",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+  },
+  {
+    "title": "stefan-jansen/machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "desc": "Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "lang": "Go"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "desc": "CockroachDB - the open source, cloud-native distributed SQL database.",
+    "lang": "Go"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "desc": "A PHP framework for web artisans",
+    "lang": "PHP"
+  },
+  {
+    "title": "sushiswap/sushiswap-frontend",
+    "url": "https://github.com/sushiswap/sushiswap-frontend",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "kkbjs/element3",
+    "url": "https://github.com/kkbjs/element3",
+    "desc": "(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web",
+    "lang": "Vue"
+  },
+  {
+    "title": "kdeldycke/awesome-falsehood",
+    "url": "https://github.com/kdeldycke/awesome-falsehood",
+    "desc": "😱 Falsehoods Programmers Believe in"
+  },
+  {
+    "title": "oldboyxx/jira_clone",
+    "url": "https://github.com/oldboyxx/jira_clone",
+    "desc": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+    "lang": "JavaScript"
+  }
+]
