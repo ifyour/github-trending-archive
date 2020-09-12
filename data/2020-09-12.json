@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "lang": "C"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "desc": "The Intuitive Vue Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "lang": "C++"
+  },
+  {
+    "title": "satansdeer/minecraft-react",
+    "url": "https://github.com/satansdeer/minecraft-react",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning",
+    "desc": "Becoming 1% better at data science everyday"
+  },
+  {
+    "title": "sindresorhus/awesome-nodejs",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "desc": "⚡ Delightful Node.js packages and resources"
+  },
+  {
+    "title": "relativty/Relativty",
+    "url": "https://github.com/relativty/Relativty",
+    "desc": "An open source VR headset with SteamVR supports for $200",
+    "lang": "C++"
+  },
+  {
+    "title": "prometheus-community/helm-charts",
+    "url": "https://github.com/prometheus-community/helm-charts",
+    "desc": "Prometheus community Helm charts",
+    "lang": "HTML"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorboard",
+    "url": "https://github.com/tensorflow/tensorboard",
+    "desc": "TensorFlow's Visualization Toolkit",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "oracle/graal",
+    "url": "https://github.com/oracle/graal",
+    "desc": "GraalVM: Run Programs Faster Anywhere 🚀",
+    "lang": "Java"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+  },
+  {
+    "title": "vaastav/Fantasy-Premier-League",
+    "url": "https://github.com/vaastav/Fantasy-Premier-League",
+    "desc": "Creates a .csv file of all players in the English Player League with their respective team and total fantasy points",
+    "lang": "Python"
+  },
+  {
+    "title": "envoyproxy/envoy",
+    "url": "https://github.com/envoyproxy/envoy",
+    "desc": "Cloud-native high-performance edge/middle/service proxy",
+    "lang": "C++"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nvim-treesitter/nvim-treesitter",
+    "url": "https://github.com/nvim-treesitter/nvim-treesitter",
+    "desc": "Nvim Treesitter configurations and abstraction layer",
+    "lang": "Lua"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "desc": "The Swift Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  }
+]
