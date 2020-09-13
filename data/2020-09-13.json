@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "lang": "C"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "desc": "The Intuitive Vue Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/makani",
+    "url": "https://github.com/google/makani",
+    "desc": "Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionall…",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "MysteryVaibhav/leetcode_company_wise_questions",
+    "url": "https://github.com/MysteryVaibhav/leetcode_company_wise_questions",
+    "desc": "This is a repository containing the list of company wise questions available on leetcode premium"
+  },
+  {
+    "title": "SecuraBV/CVE-2020-1472",
+    "url": "https://github.com/SecuraBV/CVE-2020-1472",
+    "desc": "Test tool for CVE-2020-1472",
+    "lang": "Python"
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning",
+    "desc": "Becoming 1% better at data science everyday"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "lang": "C++"
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "vaastav/Fantasy-Premier-League",
+    "url": "https://github.com/vaastav/Fantasy-Premier-League",
+    "desc": "Creates a .csv file of all players in the English Player League with their respective team and total fantasy points",
+    "lang": "Python"
+  },
+  {
+    "title": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "desc": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sindresorhus/awesome-nodejs",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "desc": "⚡ Delightful Node.js packages and resources"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "desc": "The Swift Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/tensorboard",
+    "url": "https://github.com/tensorflow/tensorboard",
+    "desc": "TensorFlow's Visualization Toolkit",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sudheerj/angular-interview-questions",
+    "url": "https://github.com/sudheerj/angular-interview-questions",
+    "desc": "List of 300 Angular Interview Questions and answers"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "satansdeer/minecraft-react",
+    "url": "https://github.com/satansdeer/minecraft-react",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PipedreamHQ/pipedream",
+    "url": "https://github.com/PipedreamHQ/pipedream",
+    "desc": "Serverless integration and compute platform. Free for developers.",
+    "lang": "JavaScript"
+  }
+]
