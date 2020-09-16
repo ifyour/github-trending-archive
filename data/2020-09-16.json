@@ -1,0 +1,150 @@
+[
+  {
+    "title": "SecuraBV/CVE-2020-1472",
+    "url": "https://github.com/SecuraBV/CVE-2020-1472",
+    "desc": "Test tool for CVE-2020-1472",
+    "lang": "Python"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "desc": "Ruby on Rails",
+    "lang": "Ruby"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "DefinitelyTyped/DefinitelyTyped",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "desc": "The repository for high quality TypeScript type definitions.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "dirkjanm/CVE-2020-1472",
+    "url": "https://github.com/dirkjanm/CVE-2020-1472",
+    "desc": "PoC for Zerologon - all research credits go to Tom Tervoort of Secura",
+    "lang": "Python"
+  },
+  {
+    "title": "mastercomfig/team-comtress-2",
+    "url": "https://github.com/mastercomfig/team-comtress-2",
+    "desc": "Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!",
+    "lang": "C++"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "desc": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "desc": "Elegant transition library for iOS & tvOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "deepklarity/jupyter-text2code",
+    "url": "https://github.com/deepklarity/jupyter-text2code",
+    "desc": "A proof-of-concept jupyter extension which converts english queries into relevant python code",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "desc": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "moment/moment",
+    "url": "https://github.com/moment/moment",
+    "desc": "Parse, validate, manipulate, and display dates in javascript.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+    "lang": "Go"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "wesbos/JavaScript30",
+    "url": "https://github.com/wesbos/JavaScript30",
+    "desc": "30 Day Vanilla JS Challenge",
+    "lang": "HTML"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "lang": "Go"
+  },
+  {
+    "title": "eriklindernoren/PyTorch-GAN",
+    "url": "https://github.com/eriklindernoren/PyTorch-GAN",
+    "desc": "PyTorch implementations of Generative Adversarial Networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  }
+]
