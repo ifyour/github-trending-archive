@@ -1,0 +1,150 @@
+[
+  {
+    "title": "SecuraBV/CVE-2020-1472",
+    "url": "https://github.com/SecuraBV/CVE-2020-1472",
+    "desc": "Test tool for CVE-2020-1472",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/onefuzz",
+    "url": "https://github.com/microsoft/onefuzz",
+    "desc": "A self-hosted Fuzzing-As-A-Service platform"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "desc": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "lang": "Python"
+  },
+  {
+    "title": "Sangarshanan/jazzit",
+    "url": "https://github.com/Sangarshanan/jazzit",
+    "desc": "Laughs at your expense",
+    "lang": "Python"
+  },
+  {
+    "title": "mastercomfig/team-comtress-2",
+    "url": "https://github.com/mastercomfig/team-comtress-2",
+    "desc": "Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!",
+    "lang": "C++"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Model serving infrastructure for developers",
+    "lang": "Go"
+  },
+  {
+    "title": "cockroachdb/pebble",
+    "url": "https://github.com/cockroachdb/pebble",
+    "desc": "RocksDB/LevelDB inspired key-value database in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "dirkjanm/CVE-2020-1472",
+    "url": "https://github.com/dirkjanm/CVE-2020-1472",
+    "desc": "PoC for Zerologon - all research credits go to Tom Tervoort of Secura",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "iearn-finance/yearn-protocol",
+    "url": "https://github.com/iearn-finance/yearn-protocol",
+    "desc": "Yearn solidity smart contracts",
+    "lang": "Solidity"
+  },
+  {
+    "title": "JiahuiYu/generative_inpainting",
+    "url": "https://github.com/JiahuiYu/generative_inpainting",
+    "desc": "DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral",
+    "lang": "Python"
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "desc": "Elegant transition library for iOS & tvOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "desc": "Connect, secure, control, and observe services.",
+    "lang": "Go"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-aws",
+    "url": "https://github.com/terraform-providers/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "lang": "Go"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "desc": "Background Matting: The World is Your Green Screen",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "assimp/assimp",
+    "url": "https://github.com/assimp/assimp",
+    "desc": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+    "lang": "C++"
+  },
+  {
+    "title": "matterport/Mask_RCNN",
+    "url": "https://github.com/matterport/Mask_RCNN",
+    "desc": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "markshust/docker-magento",
+    "url": "https://github.com/markshust/docker-magento",
+    "desc": "Mark Shust's Docker Configuration for Magento",
+    "lang": "Shell"
+  }
+]
