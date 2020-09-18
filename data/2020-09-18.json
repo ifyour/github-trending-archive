@@ -1,0 +1,151 @@
+[
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "desc": "Model serving infrastructure for developers",
+    "lang": "Go"
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "desc": "Elegant transition library for iOS & tvOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "spawnfest/bakeware",
+    "url": "https://github.com/spawnfest/bakeware",
+    "desc": "SpawnFest 2020 - Your description here..!",
+    "lang": "C"
+  },
+  {
+    "title": "epfml/ML_course",
+    "url": "https://github.com/epfml/ML_course",
+    "desc": "EPFL Machine Learning Course, Fall 2019",
+    "lang": "TeX"
+  },
+  {
+    "title": "microsoft/onefuzz",
+    "url": "https://github.com/microsoft/onefuzz",
+    "desc": "A self-hosted Fuzzing-As-A-Service platform",
+    "lang": "Rust"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "desc": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "desc": "⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "material-shell/material-shell",
+    "url": "https://github.com/material-shell/material-shell",
+    "desc": "A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "gentilkiwi/mimikatz",
+    "url": "https://github.com/gentilkiwi/mimikatz",
+    "desc": "A little tool to play with Windows security",
+    "lang": "C"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3.0 UI Library",
+    "lang": "Vue"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "matterport/Mask_RCNN",
+    "url": "https://github.com/matterport/Mask_RCNN",
+    "desc": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "cockroachdb/pebble",
+    "url": "https://github.com/cockroachdb/pebble",
+    "desc": "RocksDB/LevelDB inspired key-value database in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "realm/realm-cocoa",
+    "url": "https://github.com/realm/realm-cocoa",
+    "desc": "Realm is a mobile database: a replacement for Core Data & SQLite",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "swagger-api/swagger-ui",
+    "url": "https://github.com/swagger-api/swagger-ui",
+    "desc": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "desc": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  }
+]
