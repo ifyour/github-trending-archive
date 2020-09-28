@@ -1,0 +1,150 @@
+[
+  {
+    "title": "deepnight/led",
+    "url": "https://github.com/deepnight/led",
+    "desc": "Modern, lightweight and efficient 2D level editor",
+    "lang": "Haxe"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "blushft/go-diagrams",
+    "url": "https://github.com/blushft/go-diagrams",
+    "desc": "Create beautiful system diagrams with Go",
+    "lang": "Go"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AakashKumarNain/annotated_research_papers",
+    "url": "https://github.com/AakashKumarNain/annotated_research_papers",
+    "desc": "This repo contains annotated research papers that I found really good and useful"
+  },
+  {
+    "title": "farag2/Windows-10-Sophia-Script",
+    "url": "https://github.com/farag2/Windows-10-Sophia-Script",
+    "desc": "Script to setup Windows 10 LTSC/1903/1909/2004/2009",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "apprenticeharper/DeDRM_tools",
+    "url": "https://github.com/apprenticeharper/DeDRM_tools",
+    "desc": "DeDRM tools for ebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "thunlp/GNNPapers",
+    "url": "https://github.com/thunlp/GNNPapers",
+    "desc": "Must-read papers on graph neural networks (GNN)"
+  },
+  {
+    "title": "mrjbq7/ta-lib",
+    "url": "https://github.com/mrjbq7/ta-lib",
+    "desc": "Python wrapper for TA-Lib (http://ta-lib.org/).",
+    "lang": "Python"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "desc": "A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/rocketmq",
+    "url": "https://github.com/apache/rocketmq",
+    "desc": "Mirror of Apache RocketMQ",
+    "lang": "Java"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Swordfish90/cool-retro-term",
+    "url": "https://github.com/Swordfish90/cool-retro-term",
+    "desc": "A good looking terminal emulator which mimics the old cathode display...",
+    "lang": "QML"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "zalandoresearch/fashion-mnist",
+    "url": "https://github.com/zalandoresearch/fashion-mnist",
+    "desc": "A MNIST-like fashion product database. Benchmark 👉",
+    "lang": "Python"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "desktop/desktop",
+    "url": "https://github.com/desktop/desktop",
+    "desc": "Simple collaboration from your desktop",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "desc": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "chaos-mesh/chaos-mesh",
+    "url": "https://github.com/chaos-mesh/chaos-mesh",
+    "desc": "A Chaos Engineering Platform for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "lang": "C++"
+  }
+]
