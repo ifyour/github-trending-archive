@@ -1,0 +1,151 @@
+[
+  {
+    "title": "muesli/duf",
+    "url": "https://github.com/muesli/duf",
+    "desc": "Disk Usage/Free Utility",
+    "lang": "Go"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "desc": "Terraform module which creates VPC resources on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elsaland/elsa",
+    "url": "https://github.com/elsaland/elsa",
+    "desc": "❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "DevUtilsApp/DevUtils-app",
+    "url": "https://github.com/DevUtilsApp/DevUtils-app",
+    "desc": "Developer Utilities for macOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "airbnb/visx",
+    "url": "https://github.com/airbnb/visx",
+    "desc": "🐯 visx | visualization components",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "desc": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "desc": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "desc": "For empowering community 🌱",
+    "lang": "Ruby"
+  },
+  {
+    "title": "kubernetes-sigs/kubebuilder",
+    "url": "https://github.com/kubernetes-sigs/kubebuilder",
+    "desc": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "lang": "Go"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2020"
+  },
+  {
+    "title": "apprenticeharper/DeDRM_tools",
+    "url": "https://github.com/apprenticeharper/DeDRM_tools",
+    "desc": "DeDRM tools for ebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "desc": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "lang": "C++"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "desc": "A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html",
+    "lang": "C++"
+  },
+  {
+    "title": "puma/puma",
+    "url": "https://github.com/puma/puma",
+    "desc": "A Ruby/Rack web server built for concurrency",
+    "lang": "Ruby"
+  },
+  {
+    "title": "pingcap/tidb",
+    "url": "https://github.com/pingcap/tidb",
+    "desc": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+    "lang": "Go"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/detr",
+    "url": "https://github.com/facebookresearch/detr",
+    "desc": "End-to-End Object Detection with Transformers",
+    "lang": "Python"
+  }
+]
