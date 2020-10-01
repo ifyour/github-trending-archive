@@ -1,0 +1,150 @@
+[
+  {
+    "title": "bradtraversy/proshop_mern",
+    "url": "https://github.com/bradtraversy/proshop_mern",
+    "desc": "Shopping cart built with MERN & Redux",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kentcdodds/advanced-react-patterns",
+    "url": "https://github.com/kentcdodds/advanced-react-patterns",
+    "desc": "This is the latest advanced react patterns workshop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "puma/puma",
+    "url": "https://github.com/puma/puma",
+    "desc": "A Ruby/Rack web server built for concurrency",
+    "lang": "Ruby"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas",
+    "lang": "Python"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "desc": "Terraform module which creates VPC resources on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/visx",
+    "url": "https://github.com/airbnb/visx",
+    "desc": "🐯 visx | visualization components",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "farag2/Windows-10-Sophia-Script",
+    "url": "https://github.com/farag2/Windows-10-Sophia-Script",
+    "desc": "Script to setup Windows 10 LTSC/1903/1909/2004/2009",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "desc": "Material for my React Fundamentals Workshop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "desc": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "NVlabs/imaginaire",
+    "url": "https://github.com/NVlabs/imaginaire",
+    "desc": "NVIDIA PyTorch GAN library with distributed and mixed precision support",
+    "lang": "Python"
+  },
+  {
+    "title": "jeremylong/DependencyCheck",
+    "url": "https://github.com/jeremylong/DependencyCheck",
+    "desc": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+    "lang": "Java"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2020"
+  },
+  {
+    "title": "OpenMined/PySyft",
+    "url": "https://github.com/OpenMined/PySyft",
+    "desc": "A library for answering questions using data you cannot see",
+    "lang": "Python"
+  },
+  {
+    "title": "kentcdodds/advanced-react-hooks",
+    "url": "https://github.com/kentcdodds/advanced-react-hooks",
+    "desc": "Learn Advanced React Hooks workshop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kentcdodds/react-performance",
+    "url": "https://github.com/kentcdodds/react-performance",
+    "desc": "Let's make our apps fast ⚡",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "akshitagit/CPP",
+    "url": "https://github.com/akshitagit/CPP",
+    "desc": "Repository for C++/C codes and algos.Star the repo too.",
+    "lang": "C++"
+  },
+  {
+    "title": "cypress-io/cypress-realworld-app",
+    "url": "https://github.com/cypress-io/cypress-realworld-app",
+    "desc": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kentcdodds/react-suspense",
+    "url": "https://github.com/kentcdodds/react-suspense",
+    "desc": "React Suspense workshop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "desc": "For empowering community 🌱",
+    "lang": "Ruby"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "desc": "A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html",
+    "lang": "C++"
+  }
+]
