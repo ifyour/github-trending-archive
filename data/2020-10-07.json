@@ -1,0 +1,149 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "desc": "Simple and privacy-friendly alternative to Google Analytics",
+    "lang": "Elixir"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "desc": "Cut and paste your surroundings using AR",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twowaits/SDE-Interview-Questions",
+    "url": "https://github.com/twowaits/SDE-Interview-Questions",
+    "desc": "Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.",
+    "lang": "Java"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "Neo23x0/Raccine",
+    "url": "https://github.com/Neo23x0/Raccine",
+    "desc": "A Simple Ransomware Vaccine",
+    "lang": "C++"
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "desc": "An Open Source YouTube app for privacy",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awslabs/diagram-maker",
+    "url": "https://github.com/awslabs/diagram-maker",
+    "desc": "A library to display an interactive editor for any graph-like data.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Gictorbit/photoshopCClinux",
+    "url": "https://github.com/Gictorbit/photoshopCClinux",
+    "desc": "an installer for Photoshop CC v19 on Gnu/Linux",
+    "lang": "Shell"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "marmelab/react-admin",
+    "url": "https://github.com/marmelab/react-admin",
+    "desc": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ngrx/platform",
+    "url": "https://github.com/ngrx/platform",
+    "desc": "Reactive libraries for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "keithnull/TeachYourselfCS-CN",
+    "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+    "desc": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "title": "OpenSouceCode/Hacktoberfest2020",
+    "url": "https://github.com/OpenSouceCode/Hacktoberfest2020",
+    "desc": "Make your first Pull Request and earn a free tee from GitHub!",
+    "lang": "HTML"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "✅ Curated list of resources for college students"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "desc": "Complete container management platform",
+    "lang": "Go"
+  },
+  {
+    "title": "wbkd/react-flow",
+    "url": "https://github.com/wbkd/react-flow",
+    "desc": "Highly customizable library for building interactive node-based editors, flow charts and diagrams",
+    "lang": "JavaScript"
+  }
+]
