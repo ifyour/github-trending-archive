@@ -1,0 +1,148 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "daviddao/awful-ai",
+    "url": "https://github.com/daviddao/awful-ai",
+    "desc": "😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "desc": "Cut and paste your surroundings using AR",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "desc": "Simple and privacy-friendly alternative to Google Analytics",
+    "lang": "Elixir"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "screego/server",
+    "url": "https://github.com/screego/server",
+    "desc": "screen sharing for developers https://screego.net/",
+    "lang": "Go"
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "desc": "An Open Source YouTube app for privacy",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "olexale/flutter_roadmap",
+    "url": "https://github.com/olexale/flutter_roadmap",
+    "desc": "Highly Subjective Roadmap to Flutter Development"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "desc": "Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "awslabs/diagram-maker",
+    "url": "https://github.com/awslabs/diagram-maker",
+    "desc": "A library to display an interactive editor for any graph-like data.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "eladrich/pixel2style2pixel",
+    "url": "https://github.com/eladrich/pixel2style2pixel",
+    "desc": "Official Implementation for Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  }
+]
