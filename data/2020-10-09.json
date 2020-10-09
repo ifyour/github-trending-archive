@@ -1,0 +1,150 @@
+[
+  {
+    "title": "xwmx/nb",
+    "url": "https://github.com/xwmx/nb",
+    "desc": "CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.",
+    "lang": "Shell"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "desc": "Cut and paste your surroundings using AR",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "screego/server",
+    "url": "https://github.com/screego/server",
+    "desc": "screen sharing for developers https://screego.net/",
+    "lang": "Go"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "olexale/flutter_roadmap",
+    "url": "https://github.com/olexale/flutter_roadmap",
+    "desc": "Highly Subjective Roadmap to Flutter Development"
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "capnmidnight/Calla",
+    "url": "https://github.com/capnmidnight/Calla",
+    "desc": "Virtual Meetups through Jitsi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hamuchiwa/AutoRCCar",
+    "url": "https://github.com/hamuchiwa/AutoRCCar",
+    "desc": "OpenCV Python Neural Network Autonomous RC Car",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/isort",
+    "url": "https://github.com/PyCQA/isort",
+    "desc": "A Python utility / library to sort imports.",
+    "lang": "Python"
+  },
+  {
+    "title": "eladrich/pixel2style2pixel",
+    "url": "https://github.com/eladrich/pixel2style2pixel",
+    "desc": "Official Implementation for Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "desc": "Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "espressif/esp-idf",
+    "url": "https://github.com/espressif/esp-idf",
+    "desc": "Espressif IoT Development Framework. Official development framework for ESP32.",
+    "lang": "C"
+  },
+  {
+    "title": "daviddao/awful-ai",
+    "url": "https://github.com/daviddao/awful-ai",
+    "desc": "😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "woocommerce/woocommerce",
+    "url": "https://github.com/woocommerce/woocommerce",
+    "desc": "An open source eCommerce plugin for WordPress.",
+    "lang": "PHP"
+  },
+  {
+    "title": "PetarV-/TikZ",
+    "url": "https://github.com/PetarV-/TikZ",
+    "desc": "Complete collection of my PGF/TikZ figures.",
+    "lang": "TeX"
+  }
+]
