@@ -1,0 +1,148 @@
+[
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "screego/server",
+    "url": "https://github.com/screego/server",
+    "desc": "screen sharing for developers https://screego.net/",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "xwmx/nb",
+    "url": "https://github.com/xwmx/nb",
+    "desc": "CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.",
+    "lang": "Shell"
+  },
+  {
+    "title": "robertdavidgraham/masscan",
+    "url": "https://github.com/robertdavidgraham/masscan",
+    "desc": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+    "lang": "C"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bytedance/IconPark",
+    "url": "https://github.com/bytedance/IconPark",
+    "desc": "Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kottans/frontend",
+    "url": "https://github.com/kottans/frontend",
+    "desc": "Kottans frontend course 🎓"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "apache/spark",
+    "url": "https://github.com/apache/spark",
+    "desc": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "lang": "Scala"
+  },
+  {
+    "title": "Externalizable/bongo.cat",
+    "url": "https://github.com/Externalizable/bongo.cat",
+    "desc": "Hit the bongos like Bongo Cat!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "desc": "The Swift Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "desc": "Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "RDambrosio016/RSLint",
+    "url": "https://github.com/RDambrosio016/RSLint",
+    "desc": "A (WIP) Extremely fast JavaScript linter and Rust crate",
+    "lang": "Rust"
+  },
+  {
+    "title": "john-smilga/react-advanced-2020",
+    "url": "https://github.com/john-smilga/react-advanced-2020",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hyperium/hyper",
+    "url": "https://github.com/hyperium/hyper",
+    "desc": "An HTTP library for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "desc": "Cut and paste your surroundings using AR",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "ziadoz/awesome-php",
+    "url": "https://github.com/ziadoz/awesome-php",
+    "desc": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+  },
+  {
+    "title": "ceph/ceph",
+    "url": "https://github.com/ceph/ceph",
+    "desc": "Ceph is a distributed object, block, and file storage platform",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  }
+]
