@@ -1,0 +1,150 @@
+[
+  {
+    "title": "alibaba/Sentinel",
+    "url": "https://github.com/alibaba/Sentinel",
+    "desc": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+    "lang": "Java"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "dennybritz/reinforcement-learning",
+    "url": "https://github.com/dennybritz/reinforcement-learning",
+    "desc": "Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alibaba/spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "desc": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "lang": "Java"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "desc": "Open Source Computer Vision Library",
+    "lang": "C++"
+  },
+  {
+    "title": "robertdavidgraham/masscan",
+    "url": "https://github.com/robertdavidgraham/masscan",
+    "desc": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+    "lang": "C"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ant-design/ant-design-pro",
+    "url": "https://github.com/ant-design/ant-design-pro",
+    "desc": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vueComponent/ant-design-vue-pro",
+    "url": "https://github.com/vueComponent/ant-design-vue-pro",
+    "desc": "👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!",
+    "lang": "Vue"
+  },
+  {
+    "title": "simoninithomas/Deep_reinforcement_learning_Course",
+    "url": "https://github.com/simoninithomas/Deep_reinforcement_learning_Course",
+    "desc": "Implementations from the free course Deep Reinforcement Learning with Tensorflow and PyTorch",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "desc": "Python sample codes for robotics algorithms.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bytedance/IconPark",
+    "url": "https://github.com/bytedance/IconPark",
+    "desc": "Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "desc": "Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/skywalking",
+    "url": "https://github.com/apache/skywalking",
+    "desc": "APM, Application Performance Monitoring System",
+    "lang": "Java"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  }
+]
