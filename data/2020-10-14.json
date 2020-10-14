@@ -1,0 +1,146 @@
+[
+  {
+    "title": "mengshukeji/Luckysheet",
+    "url": "https://github.com/mengshukeji/Luckysheet",
+    "desc": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "charmbracelet/bubbletea",
+    "url": "https://github.com/charmbracelet/bubbletea",
+    "desc": "A powerful little TUI framework 🏗",
+    "lang": "Go"
+  },
+  {
+    "title": "cyrildiagne/ar-cptext",
+    "url": "https://github.com/cyrildiagne/ar-cptext",
+    "desc": "AR Copy Paste - Text Proto",
+    "lang": "Java"
+  },
+  {
+    "title": "fonoster/fonos",
+    "url": "https://github.com/fonoster/fonos",
+    "desc": "🚀 An open-source alternative to Twilio.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "lang": "ShaderLab"
+  },
+  {
+    "title": "JoseDeFreitas/awesome-youtubers",
+    "url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+    "desc": "▶️ An awesome list containing awesome YouTubers that teach about technology."
+  },
+  {
+    "title": "zserge/awfice",
+    "url": "https://github.com/zserge/awfice",
+    "desc": "The world smallest office suite",
+    "lang": "HTML"
+  },
+  {
+    "title": "vt-vl-lab/FGVC",
+    "url": "https://github.com/vt-vl-lab/FGVC",
+    "desc": "[ECCV 2020] Flow-edge Guided Video Completion",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "Machine-Learning-Tokyo/AI_Curriculum",
+    "url": "https://github.com/Machine-Learning-Tokyo/AI_Curriculum",
+    "desc": "Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley."
+  },
+  {
+    "title": "ivan-bilan/The-NLP-Pandect",
+    "url": "https://github.com/ivan-bilan/The-NLP-Pandect",
+    "desc": "A comprehensive reference for all topics related to Natural Language Processing"
+  },
+  {
+    "title": "PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
+    "url": "https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
+    "desc": "This custom integration provides a way to present a live view of a map for a Xiaomi vacuum.",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet-architecture/eShopOnContainers",
+    "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+    "lang": "C#"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "lang": "HTML"
+  },
+  {
+    "title": "graykode/nlp-tutorial",
+    "url": "https://github.com/graykode/nlp-tutorial",
+    "desc": "Natural Language Processing Tutorial for Deep Learning Researchers",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "desc": "Official repo for the #tidytuesday project",
+    "lang": "HTML"
+  },
+  {
+    "title": "microsoft/MixedRealityToolkit-Unity",
+    "url": "https://github.com/microsoft/MixedRealityToolkit-Unity",
+    "desc": "Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.",
+    "lang": "C#"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "lerna/lerna",
+    "url": "https://github.com/lerna/lerna",
+    "desc": "🐉 A tool for managing JavaScript projects with multiple packages.",
+    "lang": "JavaScript"
+  }
+]
