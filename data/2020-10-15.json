@@ -1,0 +1,148 @@
+[
+  {
+    "title": "vt-vl-lab/FGVC",
+    "url": "https://github.com/vt-vl-lab/FGVC",
+    "desc": "[ECCV 2020] Flow-edge Guided Video Completion",
+    "lang": "Python"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "lang": "ShaderLab"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "zserge/awfice",
+    "url": "https://github.com/zserge/awfice",
+    "desc": "The world smallest office suite",
+    "lang": "HTML"
+  },
+  {
+    "title": "JoseDeFreitas/awesome-youtubers",
+    "url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+    "desc": "▶️ An awesome list containing awesome YouTubers that teach about technology."
+  },
+  {
+    "title": "fonoster/fonos",
+    "url": "https://github.com/fonoster/fonos",
+    "desc": "🚀 An open-source alternative to Twilio.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "desc": "Ansible for DevOps examples.",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "lang": "Python"
+  },
+  {
+    "title": "orkestral/venom",
+    "url": "https://github.com/orkestral/venom",
+    "desc": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mengshukeji/Luckysheet",
+    "url": "https://github.com/mengshukeji/Luckysheet",
+    "desc": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "lang": "Go"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "januschung/math-worksheet-generator",
+    "url": "https://github.com/januschung/math-worksheet-generator",
+    "desc": "Create basic addition, subtraction and multiplication practice questions with the answer sheet",
+    "lang": "Python"
+  },
+  {
+    "title": "strimzi/strimzi-kafka-operator",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "desc": "Apache Kafka running on Kubernetes",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "desc": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "lang": "C#"
+  },
+  {
+    "title": "vitessio/vitess",
+    "url": "https://github.com/vitessio/vitess",
+    "desc": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "lang": "Go"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "antonbabenko/pre-commit-terraform",
+    "url": "https://github.com/antonbabenko/pre-commit-terraform",
+    "desc": "pre-commit git hooks to take care of Terraform configurations",
+    "lang": "Shell"
+  },
+  {
+    "title": "PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
+    "url": "https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
+    "desc": "This custom integration provides a way to present a live view of a map for a Xiaomi vacuum.",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "devanshbatham/Awesome-Bugbounty-Writeups",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "desc": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "lang": "Python"
+  },
+  {
+    "title": "pulumi/pulumi",
+    "url": "https://github.com/pulumi/pulumi",
+    "desc": "Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀",
+    "lang": "Go"
+  }
+]
