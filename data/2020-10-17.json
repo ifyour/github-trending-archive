@@ -1,0 +1,150 @@
+[
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "checkly/headless-recorder",
+    "url": "https://github.com/checkly/headless-recorder",
+    "desc": "Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "desc": "A list of semi to fully remote-friendly companies in tech.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "obheda12/GitDorker",
+    "url": "https://github.com/obheda12/GitDorker",
+    "desc": "A Python program to scrape secrets from GitHub through usage of a large repository of dorks.",
+    "lang": "Python"
+  },
+  {
+    "title": "trailheadapps/apex-recipes",
+    "url": "https://github.com/trailheadapps/apex-recipes",
+    "desc": "A library of concise, meaningful examples of Apex code for common use cases following best practices.",
+    "lang": "Apex"
+  },
+  {
+    "title": "woltapp/blurhash",
+    "url": "https://github.com/woltapp/blurhash",
+    "desc": "A very compact representation of a placeholder for an image.",
+    "lang": "C"
+  },
+  {
+    "title": "stayawayinesctec/stayaway-app",
+    "url": "https://github.com/stayawayinesctec/stayaway-app",
+    "desc": "Official repository for the STAYAWAY COVID mobile application",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "desc": "Ansible for DevOps examples.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/playwright-python",
+    "url": "https://github.com/microsoft/playwright-python",
+    "desc": "Python version of the Playwright testing and automation library.",
+    "lang": "Python"
+  },
+  {
+    "title": "adamerose/pandasgui",
+    "url": "https://github.com/adamerose/pandasgui",
+    "desc": "A GUI for Pandas DataFrames",
+    "lang": "Python"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "mlech26l/keras-ncp",
+    "url": "https://github.com/mlech26l/keras-ncp",
+    "desc": "Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence",
+    "lang": "Python"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "lang": "Python"
+  },
+  {
+    "title": "strimzi/strimzi-kafka-operator",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "desc": "Apache Kafka running on Kubernetes",
+    "lang": "Java"
+  },
+  {
+    "title": "zserge/awfice",
+    "url": "https://github.com/zserge/awfice",
+    "desc": "The world smallest office suite",
+    "lang": "HTML"
+  },
+  {
+    "title": "orkestral/venom",
+    "url": "https://github.com/orkestral/venom",
+    "desc": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fonoster/fonos",
+    "url": "https://github.com/fonoster/fonos",
+    "desc": "🚀 An open-source alternative to Twilio.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython",
+    "lang": "Python"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal Photo Management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "temporalio/temporal",
+    "url": "https://github.com/temporalio/temporal",
+    "desc": "Temporal service and CLI",
+    "lang": "Go"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  }
+]
