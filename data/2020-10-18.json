@@ -1,0 +1,149 @@
+[
+  {
+    "title": "charmbracelet/glow",
+    "url": "https://github.com/charmbracelet/glow",
+    "desc": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "lang": "Go"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "romkatv/powerlevel10k",
+    "url": "https://github.com/romkatv/powerlevel10k",
+    "desc": "A Zsh theme",
+    "lang": "Shell"
+  },
+  {
+    "title": "obheda12/GitDorker",
+    "url": "https://github.com/obheda12/GitDorker",
+    "desc": "A Python program to scrape secrets from GitHub through usage of a large repository of dorks.",
+    "lang": "Python"
+  },
+  {
+    "title": "stayawayinesctec/stayaway-app",
+    "url": "https://github.com/stayawayinesctec/stayaway-app",
+    "desc": "Official repository for the STAYAWAY COVID mobile application",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "desc": "A list of semi to fully remote-friendly companies in tech.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "⚡️ Fiber is an Express inspired web framework written in Go with ☕️",
+    "lang": "Go"
+  },
+  {
+    "title": "adamerose/pandasgui",
+    "url": "https://github.com/adamerose/pandasgui",
+    "desc": "A GUI for Pandas DataFrames",
+    "lang": "Python"
+  },
+  {
+    "title": "checkly/headless-recorder",
+    "url": "https://github.com/checkly/headless-recorder",
+    "desc": "Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cloudflare-hiring/cloudflare-2020-general-engineering-assignment",
+    "url": "https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment",
+    "desc": ""
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "desc": "Ansible for DevOps examples.",
+    "lang": "Python"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "CSS"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "desc": "The Swift Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trojan-gfw/igniter",
+    "url": "https://github.com/trojan-gfw/igniter",
+    "desc": "A trojan client for Android (UNDER CONSTRUCTION).",
+    "lang": "Java"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "DevFest-India/Fiery-Pokemon-DevFestIndia",
+    "url": "https://github.com/DevFest-India/Fiery-Pokemon-DevFestIndia",
+    "desc": "This is a web application where you can create a Fiery Pokemon Application using Angular and later can deploy it on Firebase along with enhancing the performance, engagement with PWA and SEO.",
+    "lang": "SCSS"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  }
+]
