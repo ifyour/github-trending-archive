@@ -1,0 +1,151 @@
+[
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tomer8007/widevine-l3-decryptor",
+    "url": "https://github.com/tomer8007/widevine-l3-decryptor",
+    "desc": "A Chrome extension that demonstrates bypassing Widevine L3 DRM",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bunkerity/bunkerized-nginx",
+    "url": "https://github.com/bunkerity/bunkerized-nginx",
+    "desc": "nginx Docker image secure by default.",
+    "lang": "Shell"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "desc": "Microsoft Azure PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "adamerose/pandasgui",
+    "url": "https://github.com/adamerose/pandasgui",
+    "desc": "A GUI for Pandas DataFrames",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ibireme/yyjson",
+    "url": "https://github.com/ibireme/yyjson",
+    "desc": "The fastest JSON library in C",
+    "lang": "C"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "What the f*ck Python?",
+    "lang": "Python"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "The fastai book, published as Jupyter Notebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "desc": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "liamg/gitjacker",
+    "url": "https://github.com/liamg/gitjacker",
+    "desc": "🔪  Leak git repositories from misconfigured websites",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenFeign/feign",
+    "url": "https://github.com/OpenFeign/feign",
+    "desc": "Feign makes writing java http clients easier",
+    "lang": "Java"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "lang": "C++"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Web framework to build dashboards, workflows, forms, and any internal tool. Connect UI to DB queries or APIs to build admin panels.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "desc": "Ruby on Rails",
+    "lang": "Ruby"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  }
+]
