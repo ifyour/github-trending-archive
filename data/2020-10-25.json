@@ -1,0 +1,151 @@
+[
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skeeto/endlessh",
+    "url": "https://github.com/skeeto/endlessh",
+    "desc": "SSH tarpit that slowly sends an endless banner",
+    "lang": "C"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "gao-sun/eul",
+    "url": "https://github.com/gao-sun/eul",
+    "desc": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "lang": "Swift"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "The fastai book, published as Jupyter Notebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "willdoescode/nat",
+    "url": "https://github.com/willdoescode/nat",
+    "desc": "⚡️nat - the 'ls' replacement you never knew you needed⚡️",
+    "lang": "Rust"
+  },
+  {
+    "title": "EmbarkStudios/rust-gpu",
+    "url": "https://github.com/EmbarkStudios/rust-gpu",
+    "desc": "🐉 Making Rust a first-class language and ecosystem for GPU code 🚧",
+    "lang": "Rust"
+  },
+  {
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "desc": "A copyright-respecting fork of youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "MicrosoftDocs/ai-fundamentals",
+    "url": "https://github.com/MicrosoftDocs/ai-fundamentals",
+    "desc": "Code samples for AI fundamentals",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jiupinjia/SkyAR",
+    "url": "https://github.com/jiupinjia/SkyAR",
+    "desc": "Dynamic sky replacement and harmonization in videos",
+    "lang": "Python"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "desc": "⏬ Dumb downloader that scrapes the web",
+    "lang": "Python"
+  },
+  {
+    "title": "sberbank-ai/ru-gpts",
+    "url": "https://github.com/sberbank-ai/ru-gpts",
+    "desc": "Russian GPT3 models.",
+    "lang": "Python"
+  },
+  {
+    "title": "mitre/advmlthreatmatrix",
+    "url": "https://github.com/mitre/advmlthreatmatrix",
+    "desc": "Adversarial Threat Matrix"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "fent/node-ytdl-core",
+    "url": "https://github.com/fent/node-ytdl-core",
+    "desc": "YouTube video downloader in javascript.",
+    "lang": "HTML"
+  },
+  {
+    "title": "prabhuignoto/react-chrono",
+    "url": "https://github.com/prabhuignoto/react-chrono",
+    "desc": "Modern Timeline component for React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "desc": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
+    "lang": "C#"
+  },
+  {
+    "title": "TheresAFewConors/Sooty",
+    "url": "https://github.com/TheresAFewConors/Sooty",
+    "desc": "The SOC Analysts all-in-one CLI tool to automate and speed up workflow.",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/loruki-website",
+    "url": "https://github.com/bradtraversy/loruki-website",
+    "desc": "Cloud hosting website",
+    "lang": "HTML"
+  },
+  {
+    "title": "foambubble/foam",
+    "url": "https://github.com/foambubble/foam",
+    "desc": "A personal knowledge management and sharing system for VSCode",
+    "lang": "TypeScript"
+  }
+]
