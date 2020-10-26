@@ -1,0 +1,148 @@
+[
+  {
+    "title": "blackjack4494/yt-dlc",
+    "url": "https://github.com/blackjack4494/yt-dlc",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "desc": "A copyright-respecting fork of youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "willdoescode/nat",
+    "url": "https://github.com/willdoescode/nat",
+    "desc": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
+    "lang": "Rust"
+  },
+  {
+    "title": "bradtraversy/loruki-website",
+    "url": "https://github.com/bradtraversy/loruki-website",
+    "desc": "Cloud hosting website",
+    "lang": "HTML"
+  },
+  {
+    "title": "scastillo/not-youtube-dl",
+    "url": "https://github.com/scastillo/not-youtube-dl",
+    "desc": "This is not youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "KathanP19/HowToHunt",
+    "url": "https://github.com/KathanP19/HowToHunt",
+    "desc": "Tutorials and Things to Do while Hunting Vulnerability."
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "jiupinjia/SkyAR",
+    "url": "https://github.com/jiupinjia/SkyAR",
+    "desc": "Dynamic sky replacement and harmonization in videos",
+    "lang": "Python"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/vision_transformer",
+    "url": "https://github.com/google-research/vision_transformer",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "mitre/advmlthreatmatrix",
+    "url": "https://github.com/mitre/advmlthreatmatrix",
+    "desc": "Adversarial Threat Matrix"
+  },
+  {
+    "title": "skeeto/endlessh",
+    "url": "https://github.com/skeeto/endlessh",
+    "desc": "SSH tarpit that slowly sends an endless banner",
+    "lang": "C"
+  },
+  {
+    "title": "simon-pikalov/Ariel_OOP_2020",
+    "url": "https://github.com/simon-pikalov/Ariel_OOP_2020",
+    "desc": "This repository is dedicated for Object-Oriented Programming course.",
+    "lang": "Java"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "composer/composer",
+    "url": "https://github.com/composer/composer",
+    "desc": "Dependency Manager for PHP",
+    "lang": "PHP"
+  }
+]
