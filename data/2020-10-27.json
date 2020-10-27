@@ -1,21 +1,20 @@
 [
   {
-    "title": "blackjack4494/yt-dlc",
-    "url": "https://github.com/blackjack4494/yt-dlc",
-    "desc": "",
-    "lang": "Python"
-  },
-  {
-    "title": "l1ving/youtube-dl",
-    "url": "https://github.com/l1ving/youtube-dl",
-    "desc": "A copyright-respecting fork of youtube-dl",
-    "lang": "Python"
-  },
-  {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "desc": "🔎 Hunt down social media accounts by username across social networks",
     "lang": "Python"
+  },
+  {
+    "title": "blackjack4494/yt-dlc",
+    "url": "https://github.com/blackjack4494/yt-dlc",
+    "desc": "media downloader for various sites.",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
   },
   {
     "title": "foxlet/macOS-Simple-KVM",
@@ -24,16 +23,10 @@
     "lang": "Shell"
   },
   {
-    "title": "TeamNewPipe/NewPipe",
-    "url": "https://github.com/TeamNewPipe/NewPipe",
-    "desc": "A libre lightweight streaming front-end for Android.",
-    "lang": "Java"
-  },
-  {
-    "title": "willdoescode/nat",
-    "url": "https://github.com/willdoescode/nat",
-    "desc": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
-    "lang": "Rust"
+    "title": "kubernetes-sigs/aws-load-balancer-controller",
+    "url": "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
+    "desc": "A Kubernetes controller for Elastic Load Balancers",
+    "lang": "Go"
   },
   {
     "title": "bradtraversy/loruki-website",
@@ -42,10 +35,10 @@
     "lang": "HTML"
   },
   {
-    "title": "scastillo/not-youtube-dl",
-    "url": "https://github.com/scastillo/not-youtube-dl",
-    "desc": "This is not youtube-dl",
-    "lang": "Python"
+    "title": "go-echarts/go-echarts",
+    "url": "https://github.com/go-echarts/go-echarts",
+    "desc": "🎨 The adorable charts library for Golang",
+    "lang": "Go"
   },
   {
     "title": "github/dmca",
@@ -59,27 +52,16 @@
     "desc": "Tutorials and Things to Do while Hunting Vulnerability."
   },
   {
-    "title": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "desc": "A complete computer science study plan to become a software engineer."
-  },
-  {
-    "title": "jiupinjia/SkyAR",
-    "url": "https://github.com/jiupinjia/SkyAR",
-    "desc": "Dynamic sky replacement and harmonization in videos",
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "desc": "A copyright-respecting fork of youtube-dl",
     "lang": "Python"
   },
   {
-    "title": "GitSquared/edex-ui",
-    "url": "https://github.com/GitSquared/edex-ui",
-    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "google-research/vision_transformer",
-    "url": "https://github.com/google-research/vision_transformer",
-    "desc": "",
-    "lang": "JupyterNotebook"
+    "title": "scastillo/not-youtube-dl",
+    "url": "https://github.com/scastillo/not-youtube-dl",
+    "desc": "This is not youtube-dl",
+    "lang": "Python"
   },
   {
     "title": "commaai/openpilot",
@@ -88,38 +70,20 @@
     "lang": "C++"
   },
   {
-    "title": "3b1b/manim",
-    "url": "https://github.com/3b1b/manim",
-    "desc": "Animation engine for explanatory math videos",
-    "lang": "Python"
-  },
-  {
     "title": "mitre/advmlthreatmatrix",
     "url": "https://github.com/mitre/advmlthreatmatrix",
     "desc": "Adversarial Threat Matrix"
   },
   {
-    "title": "skeeto/endlessh",
-    "url": "https://github.com/skeeto/endlessh",
-    "desc": "SSH tarpit that slowly sends an endless banner",
-    "lang": "C"
-  },
-  {
-    "title": "simon-pikalov/Ariel_OOP_2020",
-    "url": "https://github.com/simon-pikalov/Ariel_OOP_2020",
-    "desc": "This repository is dedicated for Object-Oriented Programming course.",
-    "lang": "Java"
-  },
-  {
-    "title": "iperov/DeepFaceLab",
-    "url": "https://github.com/iperov/DeepFaceLab",
-    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "title": "alexandreborges/malwoverview",
+    "url": "https://github.com/alexandreborges/malwoverview",
+    "desc": "Malwoverview is a first response tool used for downloading and screening malware samples, suspicious URLs, IP address, domains. Malwoverview offers threat hunting information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla and it is able to scan Android devices against VT and HA.",
     "lang": "Python"
   },
   {
-    "title": "kamranahmedse/developer-roadmap",
-    "url": "https://github.com/kamranahmedse/developer-roadmap",
-    "desc": "Roadmap to becoming a web developer in 2020"
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
   },
   {
     "title": "vinta/awesome-python",
@@ -128,21 +92,57 @@
     "lang": "Python"
   },
   {
-    "title": "esphome/esphome",
-    "url": "https://github.com/esphome/esphome",
-    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-    "lang": "C++"
+    "title": "skeeto/endlessh",
+    "url": "https://github.com/skeeto/endlessh",
+    "desc": "SSH tarpit that slowly sends an endless banner",
+    "lang": "C"
   },
   {
-    "title": "microsoft/computervision-recipes",
-    "url": "https://github.com/microsoft/computervision-recipes",
-    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
-    "lang": "JupyterNotebook"
+    "title": "willdoescode/nat",
+    "url": "https://github.com/willdoescode/nat",
+    "desc": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
+    "lang": "Rust"
   },
   {
-    "title": "composer/composer",
-    "url": "https://github.com/composer/composer",
-    "desc": "Dependency Manager for PHP",
-    "lang": "PHP"
+    "title": "croningp/ChemputerAntiviralXDL",
+    "url": "https://github.com/croningp/ChemputerAntiviralXDL",
+    "desc": "XDL files for synthesising Antiviral drugs with the Chemputer",
+    "lang": "Python"
+  },
+  {
+    "title": "pwndoc/pwndoc",
+    "url": "https://github.com/pwndoc/pwndoc",
+    "desc": "Pentest Report Generator",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "drawrowfly/tiktok-scraper",
+    "url": "https://github.com/drawrowfly/tiktok-scraper",
+    "desc": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jiupinjia/SkyAR",
+    "url": "https://github.com/jiupinjia/SkyAR",
+    "desc": "Dynamic sky replacement and harmonization in videos",
+    "lang": "Python"
+  },
+  {
+    "title": "lrvick/youtube-dl",
+    "url": "https://github.com/lrvick/youtube-dl",
+    "desc": "RIAA: Please go die in a fire.",
+    "lang": "Python"
+  },
+  {
+    "title": "mvndaemon/mvnd",
+    "url": "https://github.com/mvndaemon/mvnd",
+    "desc": "Maven Daemon",
+    "lang": "Java"
   }
 ]
