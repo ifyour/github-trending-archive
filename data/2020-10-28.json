@@ -1,0 +1,148 @@
+[
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "blackjack4494/yt-dlc",
+    "url": "https://github.com/blackjack4494/yt-dlc",
+    "desc": "media downloader for various sites.",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "kubernetes-sigs/aws-load-balancer-controller",
+    "url": "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
+    "desc": "A Kubernetes controller for Elastic Load Balancers",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/loruki-website",
+    "url": "https://github.com/bradtraversy/loruki-website",
+    "desc": "Cloud hosting website",
+    "lang": "HTML"
+  },
+  {
+    "title": "go-echarts/go-echarts",
+    "url": "https://github.com/go-echarts/go-echarts",
+    "desc": "🎨 The adorable charts library for Golang",
+    "lang": "Go"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "KathanP19/HowToHunt",
+    "url": "https://github.com/KathanP19/HowToHunt",
+    "desc": "Tutorials and Things to Do while Hunting Vulnerability."
+  },
+  {
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "desc": "A copyright-respecting fork of youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "scastillo/not-youtube-dl",
+    "url": "https://github.com/scastillo/not-youtube-dl",
+    "desc": "This is not youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "mitre/advmlthreatmatrix",
+    "url": "https://github.com/mitre/advmlthreatmatrix",
+    "desc": "Adversarial Threat Matrix"
+  },
+  {
+    "title": "alexandreborges/malwoverview",
+    "url": "https://github.com/alexandreborges/malwoverview",
+    "desc": "Malwoverview is a first response tool used for downloading and screening malware samples, suspicious URLs, IP address, domains. Malwoverview offers threat hunting information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla and it is able to scan Android devices against VT and HA.",
+    "lang": "Python"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "skeeto/endlessh",
+    "url": "https://github.com/skeeto/endlessh",
+    "desc": "SSH tarpit that slowly sends an endless banner",
+    "lang": "C"
+  },
+  {
+    "title": "willdoescode/nat",
+    "url": "https://github.com/willdoescode/nat",
+    "desc": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
+    "lang": "Rust"
+  },
+  {
+    "title": "croningp/ChemputerAntiviralXDL",
+    "url": "https://github.com/croningp/ChemputerAntiviralXDL",
+    "desc": "XDL files for synthesising Antiviral drugs with the Chemputer",
+    "lang": "Python"
+  },
+  {
+    "title": "pwndoc/pwndoc",
+    "url": "https://github.com/pwndoc/pwndoc",
+    "desc": "Pentest Report Generator",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "drawrowfly/tiktok-scraper",
+    "url": "https://github.com/drawrowfly/tiktok-scraper",
+    "desc": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jiupinjia/SkyAR",
+    "url": "https://github.com/jiupinjia/SkyAR",
+    "desc": "Dynamic sky replacement and harmonization in videos",
+    "lang": "Python"
+  },
+  {
+    "title": "lrvick/youtube-dl",
+    "url": "https://github.com/lrvick/youtube-dl",
+    "desc": "RIAA: Please go die in a fire.",
+    "lang": "Python"
+  },
+  {
+    "title": "mvndaemon/mvnd",
+    "url": "https://github.com/mvndaemon/mvnd",
+    "desc": "Maven Daemon",
+    "lang": "Java"
+  }
+]
