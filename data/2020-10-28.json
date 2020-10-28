@@ -1,20 +1,27 @@
 [
   {
-    "title": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lrvick/youtube-dl",
+    "url": "https://github.com/lrvick/youtube-dl",
+    "desc": "RIAA: Please go die in a fire.",
     "lang": "Python"
   },
   {
-    "title": "blackjack4494/yt-dlc",
-    "url": "https://github.com/blackjack4494/yt-dlc",
-    "desc": "media downloader for various sites.",
-    "lang": "Python"
+    "title": "grafana/tempo",
+    "url": "https://github.com/grafana/tempo",
+    "desc": "Grafana Tempo is a high volume, minimal dependency trace storage.",
+    "lang": "Go"
   },
   {
-    "title": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "desc": "A complete computer science study plan to become a software engineer."
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "C++"
   },
   {
     "title": "foxlet/macOS-Simple-KVM",
@@ -23,39 +30,75 @@
     "lang": "Shell"
   },
   {
-    "title": "kubernetes-sigs/aws-load-balancer-controller",
-    "url": "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
-    "desc": "A Kubernetes controller for Elastic Load Balancers",
+    "title": "fzaninotto/Faker",
+    "url": "https://github.com/fzaninotto/Faker",
+    "desc": "Faker is a PHP library that generates fake data for you",
+    "lang": "PHP"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kkdai/youtube",
+    "url": "https://github.com/kkdai/youtube",
+    "desc": "Download Youtube Video in Golang",
     "lang": "Go"
   },
   {
-    "title": "bradtraversy/loruki-website",
-    "url": "https://github.com/bradtraversy/loruki-website",
-    "desc": "Cloud hosting website",
-    "lang": "HTML"
+    "title": "confluentinc/demo-scene",
+    "url": "https://github.com/confluentinc/demo-scene",
+    "desc": "Scripts and samples to support Confluent Platform talks. May be rough around the edges. For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/",
+    "lang": "Shell"
   },
   {
-    "title": "go-echarts/go-echarts",
-    "url": "https://github.com/go-echarts/go-echarts",
-    "desc": "🎨 The adorable charts library for Golang",
-    "lang": "Go"
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
   },
   {
-    "title": "github/dmca",
-    "url": "https://github.com/github/dmca",
-    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
-    "lang": "RichTextFormat"
+    "title": "dastergon/awesome-chaos-engineering",
+    "url": "https://github.com/dastergon/awesome-chaos-engineering",
+    "desc": "A curated list of Chaos Engineering resources."
   },
   {
-    "title": "KathanP19/HowToHunt",
-    "url": "https://github.com/KathanP19/HowToHunt",
-    "desc": "Tutorials and Things to Do while Hunting Vulnerability."
+    "title": "creativetimofficial/tailwind-starter-kit",
+    "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
+    "desc": "Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source",
+    "lang": "CSS"
+  },
+  {
+    "title": "blackjack4494/yt-dlc",
+    "url": "https://github.com/blackjack4494/yt-dlc",
+    "desc": "media downloader for various sites.",
+    "lang": "Python"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "lang": "C#"
   },
   {
     "title": "l1ving/youtube-dl",
     "url": "https://github.com/l1ving/youtube-dl",
     "desc": "A copyright-respecting fork of youtube-dl",
     "lang": "Python"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "distribyted/distribyted",
+    "url": "https://github.com/distribyted/distribyted",
+    "desc": "📂 ➡️ 📺 🎶 🎮 Torrent client with on-demand file downloading as a filesystem.",
+    "lang": "Go"
   },
   {
     "title": "scastillo/not-youtube-dl",
@@ -70,20 +113,22 @@
     "lang": "C++"
   },
   {
-    "title": "mitre/advmlthreatmatrix",
-    "url": "https://github.com/mitre/advmlthreatmatrix",
-    "desc": "Adversarial Threat Matrix"
+    "title": "kitabisa/teler",
+    "url": "https://github.com/kitabisa/teler",
+    "desc": "Real-time HTTP Intrusion Detection",
+    "lang": "Go"
   },
   {
-    "title": "alexandreborges/malwoverview",
-    "url": "https://github.com/alexandreborges/malwoverview",
-    "desc": "Malwoverview is a first response tool used for downloading and screening malware samples, suspicious URLs, IP address, domains. Malwoverview offers threat hunting information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla and it is able to scan Android devices against VT and HA.",
-    "lang": "Python"
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
   },
   {
-    "title": "tuvtran/project-based-learning",
-    "url": "https://github.com/tuvtran/project-based-learning",
-    "desc": "Curated list of project-based tutorials"
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
   },
   {
     "title": "vinta/awesome-python",
@@ -92,57 +137,15 @@
     "lang": "Python"
   },
   {
-    "title": "skeeto/endlessh",
-    "url": "https://github.com/skeeto/endlessh",
-    "desc": "SSH tarpit that slowly sends an endless banner",
-    "lang": "C"
-  },
-  {
-    "title": "willdoescode/nat",
-    "url": "https://github.com/willdoescode/nat",
-    "desc": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
-    "lang": "Rust"
-  },
-  {
-    "title": "croningp/ChemputerAntiviralXDL",
-    "url": "https://github.com/croningp/ChemputerAntiviralXDL",
-    "desc": "XDL files for synthesising Antiviral drugs with the Chemputer",
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "lang": "Python"
   },
   {
-    "title": "pwndoc/pwndoc",
-    "url": "https://github.com/pwndoc/pwndoc",
-    "desc": "Pentest Report Generator",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "GitSquared/edex-ui",
-    "url": "https://github.com/GitSquared/edex-ui",
-    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "drawrowfly/tiktok-scraper",
-    "url": "https://github.com/drawrowfly/tiktok-scraper",
-    "desc": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "jiupinjia/SkyAR",
-    "url": "https://github.com/jiupinjia/SkyAR",
-    "desc": "Dynamic sky replacement and harmonization in videos",
-    "lang": "Python"
-  },
-  {
-    "title": "lrvick/youtube-dl",
-    "url": "https://github.com/lrvick/youtube-dl",
-    "desc": "RIAA: Please go die in a fire.",
-    "lang": "Python"
-  },
-  {
-    "title": "mvndaemon/mvnd",
-    "url": "https://github.com/mvndaemon/mvnd",
-    "desc": "Maven Daemon",
-    "lang": "Java"
+    "title": "go-echarts/go-echarts",
+    "url": "https://github.com/go-echarts/go-echarts",
+    "desc": "🎨 The adorable charts library for Golang",
+    "lang": "Go"
   }
 ]
