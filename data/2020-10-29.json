@@ -1,9 +1,15 @@
 [
   {
-    "title": "google-research/google-research",
-    "url": "https://github.com/google-research/google-research",
-    "desc": "Google Research",
-    "lang": "JupyterNotebook"
+    "title": "vercel/commerce",
+    "url": "https://github.com/vercel/commerce",
+    "desc": "Next.js Commerce",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MrS0m30n3/youtube-dl-gui",
+    "url": "https://github.com/MrS0m30n3/youtube-dl-gui",
+    "desc": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
+    "lang": "Python"
   },
   {
     "title": "lrvick/youtube-dl",
@@ -12,129 +18,10 @@
     "lang": "Python"
   },
   {
-    "title": "grafana/tempo",
-    "url": "https://github.com/grafana/tempo",
-    "desc": "Grafana Tempo is a high volume, minimal dependency trace storage.",
-    "lang": "Go"
-  },
-  {
-    "title": "PaddlePaddle/PaddleOCR",
-    "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）",
-    "lang": "C++"
-  },
-  {
-    "title": "foxlet/macOS-Simple-KVM",
-    "url": "https://github.com/foxlet/macOS-Simple-KVM",
-    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
-    "lang": "Shell"
-  },
-  {
     "title": "fzaninotto/Faker",
     "url": "https://github.com/fzaninotto/Faker",
     "desc": "Faker is a PHP library that generates fake data for you",
     "lang": "PHP"
-  },
-  {
-    "title": "trekhleb/javascript-algorithms",
-    "url": "https://github.com/trekhleb/javascript-algorithms",
-    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "kkdai/youtube",
-    "url": "https://github.com/kkdai/youtube",
-    "desc": "Download Youtube Video in Golang",
-    "lang": "Go"
-  },
-  {
-    "title": "confluentinc/demo-scene",
-    "url": "https://github.com/confluentinc/demo-scene",
-    "desc": "Scripts and samples to support Confluent Platform talks. May be rough around the edges. For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/",
-    "lang": "Shell"
-  },
-  {
-    "title": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "desc": "🔎 Hunt down social media accounts by username across social networks",
-    "lang": "Python"
-  },
-  {
-    "title": "dastergon/awesome-chaos-engineering",
-    "url": "https://github.com/dastergon/awesome-chaos-engineering",
-    "desc": "A curated list of Chaos Engineering resources."
-  },
-  {
-    "title": "creativetimofficial/tailwind-starter-kit",
-    "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
-    "desc": "Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source",
-    "lang": "CSS"
-  },
-  {
-    "title": "blackjack4494/yt-dlc",
-    "url": "https://github.com/blackjack4494/yt-dlc",
-    "desc": "media downloader for various sites.",
-    "lang": "Python"
-  },
-  {
-    "title": "UnityTechnologies/open-project-1",
-    "url": "https://github.com/UnityTechnologies/open-project-1",
-    "desc": "Unity Open Project #1: Action-adventure",
-    "lang": "C#"
-  },
-  {
-    "title": "l1ving/youtube-dl",
-    "url": "https://github.com/l1ving/youtube-dl",
-    "desc": "A copyright-respecting fork of youtube-dl",
-    "lang": "Python"
-  },
-  {
-    "title": "protocolbuffers/protobuf",
-    "url": "https://github.com/protocolbuffers/protobuf",
-    "desc": "Protocol Buffers - Google's data interchange format",
-    "lang": "C++"
-  },
-  {
-    "title": "distribyted/distribyted",
-    "url": "https://github.com/distribyted/distribyted",
-    "desc": "📂 ➡️ 📺 🎶 🎮 Torrent client with on-demand file downloading as a filesystem.",
-    "lang": "Go"
-  },
-  {
-    "title": "scastillo/not-youtube-dl",
-    "url": "https://github.com/scastillo/not-youtube-dl",
-    "desc": "This is not youtube-dl",
-    "lang": "Python"
-  },
-  {
-    "title": "commaai/openpilot",
-    "url": "https://github.com/commaai/openpilot",
-    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
-    "lang": "C++"
-  },
-  {
-    "title": "kitabisa/teler",
-    "url": "https://github.com/kitabisa/teler",
-    "desc": "Real-time HTTP Intrusion Detection",
-    "lang": "Go"
-  },
-  {
-    "title": "nlohmann/json",
-    "url": "https://github.com/nlohmann/json",
-    "desc": "JSON for Modern C++",
-    "lang": "C++"
-  },
-  {
-    "title": "vercel/next.js",
-    "url": "https://github.com/vercel/next.js",
-    "desc": "The React Framework",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "vinta/awesome-python",
-    "url": "https://github.com/vinta/awesome-python",
-    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
-    "lang": "Python"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -143,9 +30,121 @@
     "lang": "Python"
   },
   {
-    "title": "go-echarts/go-echarts",
-    "url": "https://github.com/go-echarts/go-echarts",
-    "desc": "🎨 The adorable charts library for Golang",
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "grafana/tempo",
+    "url": "https://github.com/grafana/tempo",
+    "desc": "Grafana Tempo is a high volume, minimal dependency trace storage.",
     "lang": "Go"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "lang": "C#"
+  },
+  {
+    "title": "keep3r-network/keep3r.network",
+    "url": "https://github.com/keep3r-network/keep3r.network",
+    "desc": "An incentivized keeper network for anonymous keeper and job registration",
+    "lang": "Solidity"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "desc": "A copyright-respecting fork of youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "youtube-dl2/youtube-dl",
+    "url": "https://github.com/youtube-dl2/youtube-dl",
+    "desc": "Repository with the code of youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "john-smilga/react-projects",
+    "url": "https://github.com/john-smilga/react-projects",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "preslavmihaylov/booknotes",
+    "url": "https://github.com/preslavmihaylov/booknotes",
+    "desc": "A collection of my book notes on various computer science books",
+    "lang": "Java"
+  },
+  {
+    "title": "alexa/bort",
+    "url": "https://github.com/alexa/bort",
+    "desc": "Repository for the paper Optimal Subarchitecture Extraction for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "corkami/mitra",
+    "url": "https://github.com/corkami/mitra",
+    "desc": "A generator of binary polyglots",
+    "lang": "Python"
   }
 ]
