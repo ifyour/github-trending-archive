@@ -1,27 +1,32 @@
 [
   {
-    "title": "vercel/commerce",
-    "url": "https://github.com/vercel/commerce",
-    "desc": "Next.js Commerce",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "MrS0m30n3/youtube-dl-gui",
-    "url": "https://github.com/MrS0m30n3/youtube-dl-gui",
-    "desc": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
     "lang": "Python"
   },
   {
-    "title": "lrvick/youtube-dl",
-    "url": "https://github.com/lrvick/youtube-dl",
-    "desc": "RIAA: Please go die in a fire.",
-    "lang": "Python"
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
   },
   {
-    "title": "fzaninotto/Faker",
-    "url": "https://github.com/fzaninotto/Faker",
-    "desc": "Faker is a PHP library that generates fake data for you",
-    "lang": "PHP"
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -30,33 +35,63 @@
     "lang": "Python"
   },
   {
-    "title": "google-research/google-research",
-    "url": "https://github.com/google-research/google-research",
-    "desc": "Google Research",
-    "lang": "JupyterNotebook"
+    "title": "vercel/commerce",
+    "url": "https://github.com/vercel/commerce",
+    "desc": "Next.js Commerce",
+    "lang": "TypeScript"
   },
   {
-    "title": "grafana/tempo",
-    "url": "https://github.com/grafana/tempo",
-    "desc": "Grafana Tempo is a high volume, minimal dependency trace storage.",
+    "title": "keep3r-network/keep3r.network",
+    "url": "https://github.com/keep3r-network/keep3r.network",
+    "desc": "An incentivized keeper network for anonymous keeper and job registration",
+    "lang": "Solidity"
+  },
+  {
+    "title": "stackrox/kube-linter",
+    "url": "https://github.com/stackrox/kube-linter",
+    "desc": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.",
     "lang": "Go"
-  },
-  {
-    "title": "hoppscotch/hoppscotch",
-    "url": "https://github.com/hoppscotch/hoppscotch",
-    "desc": "👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io",
-    "lang": "Vue"
-  },
-  {
-    "title": "danielgindi/Charts",
-    "url": "https://github.com/danielgindi/Charts",
-    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
-    "lang": "Swift"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MrS0m30n3/youtube-dl-gui",
+    "url": "https://github.com/MrS0m30n3/youtube-dl-gui",
+    "desc": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
+    "lang": "Python"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "blackjack4494/yt-dlc",
+    "url": "https://github.com/blackjack4494/yt-dlc",
+    "desc": "media downloader for various sites.",
+    "lang": "Python"
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "Official Jetpack Compose samples.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
     "lang": "JavaScript"
   },
   {
@@ -66,16 +101,16 @@
     "lang": "C#"
   },
   {
-    "title": "keep3r-network/keep3r.network",
-    "url": "https://github.com/keep3r-network/keep3r.network",
-    "desc": "An incentivized keeper network for anonymous keeper and job registration",
-    "lang": "Solidity"
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
   },
   {
-    "title": "foxlet/macOS-Simple-KVM",
-    "url": "https://github.com/foxlet/macOS-Simple-KVM",
-    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
-    "lang": "Shell"
+    "title": "lrvick/youtube-dl",
+    "url": "https://github.com/lrvick/youtube-dl",
+    "desc": "RIAA: Please go die in a fire.",
+    "lang": "Python"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -83,68 +118,32 @@
     "desc": "🤓 Build your own (insert technology here)"
   },
   {
-    "title": "paritytech/polkadot",
-    "url": "https://github.com/paritytech/polkadot",
-    "desc": "Polkadot Node Implementation",
-    "lang": "Rust"
-  },
-  {
-    "title": "kamranahmedse/developer-roadmap",
-    "url": "https://github.com/kamranahmedse/developer-roadmap",
-    "desc": "Roadmap to becoming a web developer in 2020"
-  },
-  {
-    "title": "vercel/next.js",
-    "url": "https://github.com/vercel/next.js",
-    "desc": "The React Framework",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "puppeteer/puppeteer",
-    "url": "https://github.com/puppeteer/puppeteer",
-    "desc": "Headless Chrome Node.js API",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "l1ving/youtube-dl",
-    "url": "https://github.com/l1ving/youtube-dl",
-    "desc": "A copyright-respecting fork of youtube-dl",
+    "title": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "desc": "Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.",
     "lang": "Python"
   },
   {
-    "title": "microsoft/beginners-intro-javascript-node",
-    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
-    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
-    "lang": "JavaScript"
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
   },
   {
     "title": "youtube-dl2/youtube-dl",
     "url": "https://github.com/youtube-dl2/youtube-dl",
     "desc": "Repository with the code of youtube-dl",
-    "lang": "Python"
-  },
-  {
-    "title": "john-smilga/react-projects",
-    "url": "https://github.com/john-smilga/react-projects",
-    "desc": "",
-    "lang": "CSS"
-  },
-  {
-    "title": "preslavmihaylov/booknotes",
-    "url": "https://github.com/preslavmihaylov/booknotes",
-    "desc": "A collection of my book notes on various computer science books",
-    "lang": "Java"
-  },
-  {
-    "title": "alexa/bort",
-    "url": "https://github.com/alexa/bort",
-    "desc": "Repository for the paper Optimal Subarchitecture Extraction for BERT",
-    "lang": "Python"
-  },
-  {
-    "title": "corkami/mitra",
-    "url": "https://github.com/corkami/mitra",
-    "desc": "A generator of binary polyglots",
     "lang": "Python"
   }
 ]
