@@ -6,99 +6,16 @@
     "lang": "Python"
   },
   {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "lang": "JupyterNotebook"
+  },
+  {
     "title": "vercel/next.js",
     "url": "https://github.com/vercel/next.js",
     "desc": "The React Framework",
     "lang": "JavaScript"
-  },
-  {
-    "title": "paritytech/substrate",
-    "url": "https://github.com/paritytech/substrate",
-    "desc": "Substrate: The platform for blockchain innovators",
-    "lang": "Rust"
-  },
-  {
-    "title": "kamranahmedse/developer-roadmap",
-    "url": "https://github.com/kamranahmedse/developer-roadmap",
-    "desc": "Roadmap to becoming a web developer in 2020"
-  },
-  {
-    "title": "nlohmann/json",
-    "url": "https://github.com/nlohmann/json",
-    "desc": "JSON for Modern C++",
-    "lang": "C++"
-  },
-  {
-    "title": "donnemartin/system-design-primer",
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-    "lang": "Python"
-  },
-  {
-    "title": "vercel/commerce",
-    "url": "https://github.com/vercel/commerce",
-    "desc": "Next.js Commerce",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "keep3r-network/keep3r.network",
-    "url": "https://github.com/keep3r-network/keep3r.network",
-    "desc": "An incentivized keeper network for anonymous keeper and job registration",
-    "lang": "Solidity"
-  },
-  {
-    "title": "stackrox/kube-linter",
-    "url": "https://github.com/stackrox/kube-linter",
-    "desc": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.",
-    "lang": "Go"
-  },
-  {
-    "title": "trekhleb/javascript-algorithms",
-    "url": "https://github.com/trekhleb/javascript-algorithms",
-    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "MrS0m30n3/youtube-dl-gui",
-    "url": "https://github.com/MrS0m30n3/youtube-dl-gui",
-    "desc": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
-    "lang": "Python"
-  },
-  {
-    "title": "paritytech/polkadot",
-    "url": "https://github.com/paritytech/polkadot",
-    "desc": "Polkadot Node Implementation",
-    "lang": "Rust"
-  },
-  {
-    "title": "blackjack4494/yt-dlc",
-    "url": "https://github.com/blackjack4494/yt-dlc",
-    "desc": "media downloader for various sites.",
-    "lang": "Python"
-  },
-  {
-    "title": "android/compose-samples",
-    "url": "https://github.com/android/compose-samples",
-    "desc": "Official Jetpack Compose samples.",
-    "lang": "Kotlin"
-  },
-  {
-    "title": "microsoft/beginners-intro-javascript-node",
-    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
-    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "OAI/OpenAPI-Specification",
-    "url": "https://github.com/OAI/OpenAPI-Specification",
-    "desc": "The OpenAPI Specification Repository",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "UnityTechnologies/open-project-1",
-    "url": "https://github.com/UnityTechnologies/open-project-1",
-    "desc": "Unity Open Project #1: Action-adventure",
-    "lang": "C#"
   },
   {
     "title": "chubin/cheat.sh",
@@ -107,9 +24,77 @@
     "lang": "Python"
   },
   {
-    "title": "lrvick/youtube-dl",
-    "url": "https://github.com/lrvick/youtube-dl",
-    "desc": "RIAA: Please go die in a fire.",
+    "title": "mlech26l/keras-ncp",
+    "url": "https://github.com/mlech26l/keras-ncp",
+    "desc": "Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "keep3r-network/keep3r.network",
+    "url": "https://github.com/keep3r-network/keep3r.network",
+    "desc": "An incentivized keeper network for anonymous keeper and job registration",
+    "lang": "Solidity"
+  },
+  {
+    "title": "keithnull/TeachYourselfCS-CN",
+    "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+    "desc": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "vercel/commerce",
+    "url": "https://github.com/vercel/commerce",
+    "desc": "Next.js Commerce",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vector-ai/vectorhub",
+    "url": "https://github.com/vector-ai/vectorhub",
+    "desc": "Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)",
     "lang": "Python"
   },
   {
@@ -118,21 +103,28 @@
     "desc": "🤓 Build your own (insert technology here)"
   },
   {
-    "title": "plotly/dash",
-    "url": "https://github.com/plotly/dash",
-    "desc": "Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.",
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "lang": "Python"
   },
   {
-    "title": "danielgindi/Charts",
-    "url": "https://github.com/danielgindi/Charts",
-    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
-    "lang": "Swift"
+    "title": "OWASP/www-community",
+    "url": "https://github.com/OWASP/www-community",
+    "desc": "OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.",
+    "lang": "HTML"
   },
   {
-    "title": "florinpop17/app-ideas",
-    "url": "https://github.com/florinpop17/app-ideas",
-    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "Official Jetpack Compose samples.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
   },
   {
     "title": "huggingface/transformers",
@@ -141,9 +133,15 @@
     "lang": "Python"
   },
   {
-    "title": "youtube-dl2/youtube-dl",
-    "url": "https://github.com/youtube-dl2/youtube-dl",
-    "desc": "Repository with the code of youtube-dl",
-    "lang": "Python"
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "facebookexperimental/Recoil",
+    "url": "https://github.com/facebookexperimental/Recoil",
+    "desc": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "lang": "JavaScript"
   }
 ]
