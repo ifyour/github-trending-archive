@@ -1,27 +1,61 @@
 [
   {
-    "title": "quantopian/research_public",
-    "url": "https://github.com/quantopian/research_public",
-    "desc": "Quantitative research and educational materials",
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
     "lang": "JupyterNotebook"
   },
   {
-    "title": "geohot/tinygrad",
-    "url": "https://github.com/geohot/tinygrad",
-    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "title": "samyk/slipstream",
+    "url": "https://github.com/samyk/slipstream",
+    "desc": "NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website",
+    "lang": "Perl"
+  },
+  {
+    "title": "harisqazi1/Cybersecurity",
+    "url": "https://github.com/harisqazi1/Cybersecurity",
+    "desc": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume."
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "awslabs/djl",
+    "url": "https://github.com/awslabs/djl",
+    "desc": "An Engine-Agnostic Deep Learning Framework in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
     "lang": "Python"
   },
   {
-    "title": "Aircoookie/WLED",
-    "url": "https://github.com/Aircoookie/WLED",
-    "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "lang": "C++"
-  },
-  {
-    "title": "flutter/flutter",
-    "url": "https://github.com/flutter/flutter",
-    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
-    "lang": "Dart"
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
   },
   {
     "title": "mxrch/GHunt",
@@ -36,74 +70,21 @@
     "lang": "JupyterNotebook"
   },
   {
-    "title": "AMAI-GmbH/AI-Expert-Roadmap",
-    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
-    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
-    "desc": "Roadmap to becoming an ASP.NET Core developer in 2021"
-  },
-  {
-    "title": "florinpop17/app-ideas",
-    "url": "https://github.com/florinpop17/app-ideas",
-    "desc": "A Collection of application ideas which can be used to improve your coding skills."
-  },
-  {
-    "title": "ns1/pktvisor",
-    "url": "https://github.com/ns1/pktvisor",
-    "desc": "pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.",
-    "lang": "C++"
-  },
-  {
-    "title": "hardikkamboj/An-Introduction-to-Statistical-Learning",
-    "url": "https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning",
-    "desc": "This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "jakevdp/PythonDataScienceHandbook",
-    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
-    "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
-    "lang": "JupyterNotebook"
-  },
-  {
     "title": "chubin/cheat.sh",
     "url": "https://github.com/chubin/cheat.sh",
     "desc": "the only cheat sheet you need",
     "lang": "Python"
   },
   {
-    "title": "godotengine/godot",
-    "url": "https://github.com/godotengine/godot",
-    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "lang": "C++"
+    "title": "saeidshirazi/awesome-android-security",
+    "url": "https://github.com/saeidshirazi/awesome-android-security",
+    "desc": "A curated list of Android Security materials and resources For Pentesters and Bug Hunters"
   },
   {
-    "title": "microsoft/PowerToys",
-    "url": "https://github.com/microsoft/PowerToys",
-    "desc": "Windows system utilities to maximize productivity",
-    "lang": "C++"
-  },
-  {
-    "title": "ageron/handson-ml",
-    "url": "https://github.com/ageron/handson-ml",
-    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "GitSquared/edex-ui",
-    "url": "https://github.com/GitSquared/edex-ui",
-    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "deepmind/deepmind-research",
-    "url": "https://github.com/deepmind/deepmind-research",
-    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
-    "lang": "JupyterNotebook"
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
   },
   {
     "title": "TheAlgorithms/Java",
@@ -112,38 +93,55 @@
     "lang": "Java"
   },
   {
-    "title": "CSSEGISandData/COVID-19",
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2021"
   },
   {
-    "title": "DrKLO/Telegram",
-    "url": "https://github.com/DrKLO/Telegram",
-    "desc": "Telegram for Android source",
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Aircoookie/WLED",
+    "url": "https://github.com/Aircoookie/WLED",
+    "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
     "lang": "C++"
   },
   {
-    "title": "jhu-ep-coursera/fullstack-course4",
-    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
-    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-    "lang": "JavaScript"
+    "title": "SoftwareBrothers/admin-bro",
+    "url": "https://github.com/SoftwareBrothers/admin-bro",
+    "desc": "AdminBro is an admin panel for apps written in node.js",
+    "lang": "TypeScript"
   },
   {
-    "title": "discordjs/discord.js",
-    "url": "https://github.com/discordjs/discord.js",
-    "desc": "A powerful JavaScript library for interacting with the Discord API",
-    "lang": "JavaScript"
+    "title": "microsoft/vcpkg",
+    "url": "https://github.com/microsoft/vcpkg",
+    "desc": "C++ Library Manager for Windows, Linux, and MacOS",
+    "lang": "C++"
   },
   {
-    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
-    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
-    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "title": "quantopian/research_public",
+    "url": "https://github.com/quantopian/research_public",
+    "desc": "Quantitative research and educational materials",
     "lang": "JupyterNotebook"
   },
   {
-    "title": "electron/electron",
-    "url": "https://github.com/electron/electron",
-    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-    "lang": "C++"
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "desc": "Universal dependency update tool that fits into your workflows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "asim/nitro",
+    "url": "https://github.com/asim/nitro",
+    "desc": "Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.",
+    "lang": "Go"
   }
 ]
