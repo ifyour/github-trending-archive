@@ -1,20 +1,9 @@
 [
   {
-    "title": "jakevdp/PythonDataScienceHandbook",
-    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
-    "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "samyk/slipstream",
-    "url": "https://github.com/samyk/slipstream",
-    "desc": "NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website",
-    "lang": "Perl"
-  },
-  {
-    "title": "harisqazi1/Cybersecurity",
-    "url": "https://github.com/harisqazi1/Cybersecurity",
-    "desc": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume."
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "desc": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "lang": "Python"
   },
   {
     "title": "GitSquared/edex-ui",
@@ -23,27 +12,28 @@
     "lang": "JavaScript"
   },
   {
-    "title": "AMAI-GmbH/AI-Expert-Roadmap",
-    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
-    "lang": "JavaScript"
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "lang": "Python"
   },
   {
-    "title": "acidanthera/OpenCorePkg",
-    "url": "https://github.com/acidanthera/OpenCorePkg",
-    "desc": "OpenCore bootloader",
-    "lang": "C"
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "desc": "A fork of youtube-dl, for archival purposes.",
+    "lang": "Python"
   },
   {
-    "title": "florinpop17/app-ideas",
-    "url": "https://github.com/florinpop17/app-ideas",
-    "desc": "A Collection of application ideas which can be used to improve your coding skills."
-  },
-  {
-    "title": "awslabs/djl",
-    "url": "https://github.com/awslabs/djl",
-    "desc": "An Engine-Agnostic Deep Learning Framework in Java",
+    "title": "google/ExoPlayer",
+    "url": "https://github.com/google/ExoPlayer",
+    "desc": "An extensible media player for Android",
     "lang": "Java"
+  },
+  {
+    "title": "koutto/pi-pwnbox-rogueap",
+    "url": "https://github.com/koutto/pi-pwnbox-rogueap",
+    "desc": "Homemade Pwnbox 🚀 / Rogue AP 📡 based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap 💡",
+    "lang": "Shell"
   },
   {
     "title": "gto76/python-cheatsheet",
@@ -58,32 +48,84 @@
     "lang": "JavaScript"
   },
   {
-    "title": "mxrch/GHunt",
-    "url": "https://github.com/mxrch/GHunt",
-    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "title": "harisqazi1/Cybersecurity",
+    "url": "https://github.com/harisqazi1/Cybersecurity",
+    "desc": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume."
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Qovery/engine",
+    "url": "https://github.com/Qovery/engine",
+    "desc": "Deploy your apps on any Cloud providers in just a few seconds",
+    "lang": "Rust"
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "desc": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+    "lang": "Dart"
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
     "lang": "Python"
   },
   {
-    "title": "trekhleb/homemade-machine-learning",
-    "url": "https://github.com/trekhleb/homemade-machine-learning",
-    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "title": "hantmac/Mastering_Go_ZH_CN",
+    "url": "https://github.com/hantmac/Mastering_Go_ZH_CN",
+    "desc": "《Mastering GO》中文译本，《玩转 GO》。",
+    "lang": "Go"
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
     "lang": "JupyterNotebook"
   },
   {
-    "title": "chubin/cheat.sh",
-    "url": "https://github.com/chubin/cheat.sh",
-    "desc": "the only cheat sheet you need",
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "developer-resources/frontend-development",
+    "url": "https://github.com/developer-resources/frontend-development",
+    "desc": "A curated list of resources for Frontend development"
+  },
+  {
+    "title": "samyk/slipstream",
+    "url": "https://github.com/samyk/slipstream",
+    "desc": "NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website",
+    "lang": "Perl"
+  },
+  {
+    "title": "apache/incubator-superset",
+    "url": "https://github.com/apache/incubator-superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "lang": "Python"
   },
   {
-    "title": "saeidshirazi/awesome-android-security",
-    "url": "https://github.com/saeidshirazi/awesome-android-security",
-    "desc": "A curated list of Android Security materials and resources For Pentesters and Bug Hunters"
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
   },
   {
-    "title": "geohot/tinygrad",
-    "url": "https://github.com/geohot/tinygrad",
-    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "title": "MedMNIST/MedMNIST",
+    "url": "https://github.com/MedMNIST/MedMNIST",
+    "desc": "MedMNIST Classification Decathlon: A Lightweight AutoML Benchmark for Medical Image Analysis",
+    "lang": "Python"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
     "lang": "Python"
   },
   {
@@ -93,55 +135,15 @@
     "lang": "Java"
   },
   {
-    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
-    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
-    "desc": "Roadmap to becoming an ASP.NET Core developer in 2021"
-  },
-  {
-    "title": "sindresorhus/awesome",
-    "url": "https://github.com/sindresorhus/awesome",
-    "desc": "😎 Awesome lists about all kinds of interesting topics"
-  },
-  {
-    "title": "flutter/flutter",
-    "url": "https://github.com/flutter/flutter",
-    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
-    "lang": "Dart"
-  },
-  {
-    "title": "Aircoookie/WLED",
-    "url": "https://github.com/Aircoookie/WLED",
-    "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-    "lang": "C++"
-  },
-  {
-    "title": "SoftwareBrothers/admin-bro",
-    "url": "https://github.com/SoftwareBrothers/admin-bro",
-    "desc": "AdminBro is an admin panel for apps written in node.js",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "microsoft/vcpkg",
-    "url": "https://github.com/microsoft/vcpkg",
-    "desc": "C++ Library Manager for Windows, Linux, and MacOS",
-    "lang": "C++"
-  },
-  {
-    "title": "quantopian/research_public",
-    "url": "https://github.com/quantopian/research_public",
-    "desc": "Quantitative research and educational materials",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "renovatebot/renovate",
-    "url": "https://github.com/renovatebot/renovate",
-    "desc": "Universal dependency update tool that fits into your workflows.",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "asim/nitro",
-    "url": "https://github.com/asim/nitro",
-    "desc": "Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.",
+    "title": "openshift/origin",
+    "url": "https://github.com/openshift/origin",
+    "desc": "Conformance test suite for OpenShift",
     "lang": "Go"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
   }
 ]
