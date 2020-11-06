@@ -1,0 +1,150 @@
+[
+  {
+    "title": "alex/nyt-2020-election-scraper",
+    "url": "https://github.com/alex/nyt-2020-election-scraper",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "desc": "High-Resolution 3D Human Digitization from A Single Image.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/incubator-nuttx",
+    "url": "https://github.com/apache/incubator-nuttx",
+    "desc": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+    "lang": "C"
+  },
+  {
+    "title": "appbrewery/100-days-of-python",
+    "url": "https://github.com/appbrewery/100-days-of-python",
+    "desc": "100 Days of Code in Python"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "desc": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "lang": "Python"
+  },
+  {
+    "title": "themsaid/ibis",
+    "url": "https://github.com/themsaid/ibis",
+    "desc": "A PHP tool that helps you write eBooks in markdown and convert to PDF.",
+    "lang": "PHP"
+  },
+  {
+    "title": "guardicore/monkey",
+    "url": "https://github.com/guardicore/monkey",
+    "desc": "Infection Monkey - An automated pentest tool",
+    "lang": "Python"
+  },
+  {
+    "title": "tdlib/telegram-bot-api",
+    "url": "https://github.com/tdlib/telegram-bot-api",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "sandboxie-plus/Sandboxie",
+    "url": "https://github.com/sandboxie-plus/Sandboxie",
+    "desc": "Sandboxie - Open Source",
+    "lang": "C"
+  },
+  {
+    "title": "threat9/routersploit",
+    "url": "https://github.com/threat9/routersploit",
+    "desc": "Exploitation Framework for Embedded Devices",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "lang": "Python"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "lang": "C++"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "dbeaver/dbeaver",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "desc": "Free universal database tool and SQL client",
+    "lang": "Java"
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "desc": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "lang": "Go"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "desc": "Native-ESM powered web dev build tool. It's fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/faiss",
+    "url": "https://github.com/facebookresearch/faiss",
+    "desc": "A library for efficient similarity search and clustering of dense vectors.",
+    "lang": "C++"
+  }
+]
