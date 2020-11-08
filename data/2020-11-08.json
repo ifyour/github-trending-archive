@@ -1,0 +1,150 @@
+[
+  {
+    "title": "cjph8914/2020_benfords",
+    "url": "https://github.com/cjph8914/2020_benfords",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thenewboston-developers/Account-Manager",
+    "url": "https://github.com/thenewboston-developers/Account-Manager",
+    "desc": "Account manager desktop application for thenewboston digital currency.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "socketio/socket.io",
+    "url": "https://github.com/socketio/socket.io",
+    "desc": "Realtime application framework (Node.JS server)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "desc": "High-Resolution 3D Human Digitization from A Single Image.",
+    "lang": "Python"
+  },
+  {
+    "title": "guardicore/monkey",
+    "url": "https://github.com/guardicore/monkey",
+    "desc": "Infection Monkey - An automated pentest tool",
+    "lang": "Python"
+  },
+  {
+    "title": "cmu-snap/pigasus",
+    "url": "https://github.com/cmu-snap/pigasus",
+    "desc": "100Gbps Intrusion Detection and Prevention System",
+    "lang": "C++"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "jef/streetmerchant",
+    "url": "https://github.com/jef/streetmerchant",
+    "desc": "🤖 Autonomous robot for all your electronic needs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+    "lang": "Python"
+  },
+  {
+    "title": "thenewboston-developers/Website",
+    "url": "https://github.com/thenewboston-developers/Website",
+    "desc": "The website and documentation for thenewboston.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "desc": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
+    "lang": "C#"
+  },
+  {
+    "title": "appbrewery/100-days-of-python",
+    "url": "https://github.com/appbrewery/100-days-of-python",
+    "desc": "100 Days of Code in Python"
+  },
+  {
+    "title": "edent/SuperTinyIcons",
+    "url": "https://github.com/edent/SuperTinyIcons",
+    "desc": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "iv-org/invidious",
+    "url": "https://github.com/iv-org/invidious",
+    "desc": "Invidious is an alternative front-end to YouTube",
+    "lang": "Crystal"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "desc": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "denysdovhan/wtfjs",
+    "url": "https://github.com/denysdovhan/wtfjs",
+    "desc": "🤪 A list of funny and tricky JavaScript examples",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "desc": "Advanced information gathering & OSINT framework for phone numbers",
+    "lang": "Go"
+  },
+  {
+    "title": "Gictorbit/photoshopCClinux",
+    "url": "https://github.com/Gictorbit/photoshopCClinux",
+    "desc": "an installer for Photoshop CC v19 on Gnu/Linux",
+    "lang": "Shell"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "desc": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "lang": "Go"
+  }
+]
