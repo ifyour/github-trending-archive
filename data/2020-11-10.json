@@ -1,57 +1,15 @@
 [
   {
-    "title": "chatwoot/chatwoot",
-    "url": "https://github.com/chatwoot/chatwoot",
-    "desc": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
-    "lang": "Ruby"
-  },
-  {
-    "title": "facebookresearch/pifuhd",
-    "url": "https://github.com/facebookresearch/pifuhd",
-    "desc": "High-Resolution 3D Human Digitization from A Single Image.",
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "lang": "Python"
   },
   {
-    "title": "arendst/Tasmota",
-    "url": "https://github.com/arendst/Tasmota",
-    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
-    "lang": "C"
-  },
-  {
-    "title": "vlang/v",
-    "url": "https://github.com/vlang/v",
-    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
-    "lang": "V"
-  },
-  {
-    "title": "geohot/tinygrad",
-    "url": "https://github.com/geohot/tinygrad",
-    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-    "lang": "Python"
-  },
-  {
-    "title": "thenewboston-developers/Website",
-    "url": "https://github.com/thenewboston-developers/Website",
-    "desc": "The website and documentation for thenewboston.",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "iv-org/invidious",
-    "url": "https://github.com/iv-org/invidious",
-    "desc": "Invidious is an alternative front-end to YouTube",
-    "lang": "Crystal"
-  },
-  {
-    "title": "socketio/socket.io",
-    "url": "https://github.com/socketio/socket.io",
-    "desc": "Realtime application framework (Node.JS server)",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "Qovery/engine",
-    "url": "https://github.com/Qovery/engine",
-    "desc": "Deploy your apps on any Cloud providers in just a few seconds",
-    "lang": "Rust"
+    "title": "Fmstrat/winapps",
+    "url": "https://github.com/Fmstrat/winapps",
+    "desc": "Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+    "lang": "Shell"
   },
   {
     "title": "cjph8914/2020_benfords",
@@ -60,80 +18,16 @@
     "lang": "JupyterNotebook"
   },
   {
-    "title": "donnemartin/system-design-primer",
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-    "lang": "Python"
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "lang": "Ruby"
   },
   {
-    "title": "appbrewery/100-days-of-python",
-    "url": "https://github.com/appbrewery/100-days-of-python",
-    "desc": "100 Days of Code in Python"
-  },
-  {
-    "title": "thenewboston-developers/Account-Manager",
-    "url": "https://github.com/thenewboston-developers/Account-Manager",
-    "desc": "Account manager desktop application for thenewboston digital currency.",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "gao-sun/eul",
-    "url": "https://github.com/gao-sun/eul",
-    "desc": "🖥️ macOS status monitoring app written in SwiftUI.",
-    "lang": "Swift"
-  },
-  {
-    "title": "UnityTechnologies/open-project-1",
-    "url": "https://github.com/UnityTechnologies/open-project-1",
-    "desc": "Unity Open Project #1: Action-adventure",
-    "lang": "C#"
-  },
-  {
-    "title": "guardicore/monkey",
-    "url": "https://github.com/guardicore/monkey",
-    "desc": "Infection Monkey - An automated pentest tool",
-    "lang": "Python"
-  },
-  {
-    "title": "lightspin-tech/red-kube",
-    "url": "https://github.com/lightspin-tech/red-kube",
-    "desc": "Red Team KubeCTL Cheat Sheet"
-  },
-  {
-    "title": "cmu-snap/pigasus",
-    "url": "https://github.com/cmu-snap/pigasus",
-    "desc": "100Gbps Intrusion Detection and Prevention System",
-    "lang": "C++"
-  },
-  {
-    "title": "Atcold/pytorch-Deep-Learning",
-    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
-    "desc": "Deep Learning (with PyTorch)",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "MarlinFirmware/Marlin",
-    "url": "https://github.com/MarlinFirmware/Marlin",
-    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-    "lang": "C++"
-  },
-  {
-    "title": "Anuken/Mindustry",
-    "url": "https://github.com/Anuken/Mindustry",
-    "desc": "A sandbox tower defense game",
-    "lang": "Java"
-  },
-  {
-    "title": "hackerschoice/gsocket",
-    "url": "https://github.com/hackerschoice/gsocket",
-    "desc": "Global Socket. Moving data from here to there. Securely, Fast and trough NAT/Firewalls",
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
     "lang": "C"
-  },
-  {
-    "title": "TheAlgorithms/Python",
-    "url": "https://github.com/TheAlgorithms/Python",
-    "desc": "All Algorithms implemented in Python",
-    "lang": "Python"
   },
   {
     "title": "rileytestut/AltStore",
@@ -142,9 +36,113 @@
     "lang": "Swift"
   },
   {
-    "title": "kgrzybek/modular-monolith-with-ddd",
-    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
-    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
-    "lang": "C#"
+    "title": "gao-sun/eul",
+    "url": "https://github.com/gao-sun/eul",
+    "desc": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PavelDoGreat/WebGL-Fluid-Simulation",
+    "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "desc": "Play with fluids in your browser (works even on mobile)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "appbrewery/100-days-of-python",
+    "url": "https://github.com/appbrewery/100-days-of-python",
+    "desc": "100 Days of Code in Python"
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "desc": "Deep Learning (with PyTorch)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "desc": "High-Resolution 3D Human Digitization from A Single Image.",
+    "lang": "Python"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+  },
+  {
+    "title": "gordicaleksa/pytorch-original-transformer",
+    "url": "https://github.com/gordicaleksa/pytorch-original-transformer",
+    "desc": "My implementation of the original transformer model (Vaswani et al.). I've additionally included the playground.py file for visualizing otherwise seemingly hard concepts. Currently included IWSLT pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "lightspin-tech/red-kube",
+    "url": "https://github.com/lightspin-tech/red-kube",
+    "desc": "Red Team KubeCTL Cheat Sheet"
+  },
+  {
+    "title": "thenewboston-developers/Website",
+    "url": "https://github.com/thenewboston-developers/Website",
+    "desc": "The website and documentation for thenewboston.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "michalsnik/aos",
+    "url": "https://github.com/michalsnik/aos",
+    "desc": "Animate on scroll library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "allenai/allennlp",
+    "url": "https://github.com/allenai/allennlp",
+    "desc": "An open-source NLP research library, built on PyTorch.",
+    "lang": "Python"
+  },
+  {
+    "title": "iGhibli/iOS-DeviceSupport",
+    "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+    "desc": "This repository holds the device support files for the iOS, and I will update it regularly.",
+    "lang": "Python"
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "desc": "Vanced Installer",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "alan-turing-institute/the-turing-way",
+    "url": "https://github.com/alan-turing-institute/the-turing-way",
+    "desc": "Host repository for The Turing Way: a how to guide for reproducible data science",
+    "lang": "TeX"
+  },
+  {
+    "title": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "desc": "A curated list of awesome Go frameworks, libraries and software",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/fluentui",
+    "url": "https://github.com/microsoft/fluentui",
+    "desc": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+    "lang": "TypeScript"
   }
 ]
