@@ -1,0 +1,150 @@
+[
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "desc": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "lang": "C#"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thenewboston-developers/Website",
+    "url": "https://github.com/thenewboston-developers/Website",
+    "desc": "The website and documentation for thenewboston.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "laravel/breeze",
+    "url": "https://github.com/laravel/breeze",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Programming Language",
+    "lang": "Julia"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "PavelDoGreat/WebGL-Fluid-Simulation",
+    "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "desc": "Play with fluids in your browser (works even on mobile)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "desc": "Deep Learning (with PyTorch)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "lang": "C#"
+  },
+  {
+    "title": "Litteeen/AmongLock",
+    "url": "https://github.com/Litteeen/AmongLock",
+    "desc": "You were not the owner of this device",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "snyk/snyk",
+    "url": "https://github.com/snyk/snyk",
+    "desc": "CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "micro/micro",
+    "url": "https://github.com/micro/micro",
+    "desc": "Micro is a platform for cloud native application development",
+    "lang": "Go"
+  },
+  {
+    "title": "golang/oauth2",
+    "url": "https://github.com/golang/oauth2",
+    "desc": "Go OAuth2",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "desc": "Official repo for the #tidytuesday project",
+    "lang": "HTML"
+  },
+  {
+    "title": "cobanov/bogazici-datacamp",
+    "url": "https://github.com/cobanov/bogazici-datacamp",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "invertase/react-native-firebase",
+    "url": "https://github.com/invertase/react-native-firebase",
+    "desc": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+    "lang": "JavaScript"
+  }
+]
