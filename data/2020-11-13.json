@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Freakboy/CobaltStrike",
+    "url": "https://github.com/Freakboy/CobaltStrike",
+    "desc": "CobaltStrike's source code",
+    "lang": "Java"
+  },
+  {
+    "title": "c9fe/22120",
+    "url": "https://github.com/c9fe/22120",
+    "desc": "🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "corpnewt/gibMacOS",
+    "url": "https://github.com/corpnewt/gibMacOS",
+    "desc": "Py2/py3 script that can download macOS components direct from Apple",
+    "lang": "Python"
+  },
+  {
+    "title": "natewong1313/bird-bot",
+    "url": "https://github.com/natewong1313/bird-bot",
+    "desc": "A Nintendo Switch checkout bot. Currently supports Walmart and Best buy",
+    "lang": "Python"
+  },
+  {
+    "title": "ThatGuySam/doesitarm",
+    "url": "https://github.com/ThatGuySam/doesitarm",
+    "desc": "🦾 A list of reported app support for Apple Silicon",
+    "lang": "Vue"
+  },
+  {
+    "title": "Litteeen/AmongLock",
+    "url": "https://github.com/Litteeen/AmongLock",
+    "desc": "You were not the owner of this device",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "desc": "Educational blog posts for Rust beginners",
+    "lang": "Rust"
+  },
+  {
+    "title": "munki/macadmin-scripts",
+    "url": "https://github.com/munki/macadmin-scripts",
+    "desc": "Scripts of possible interest to macOS admins",
+    "lang": "Python"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3.0 UI Library",
+    "lang": "Vue"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research-datasets/Objectron",
+    "url": "https://github.com/google-research-datasets/Objectron",
+    "desc": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "lang": "Shell"
+  },
+  {
+    "title": "redisson/redisson",
+    "url": "https://github.com/redisson/redisson",
+    "desc": "Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...",
+    "lang": "Java"
+  },
+  {
+    "title": "ComodoSecurity/openedr",
+    "url": "https://github.com/ComodoSecurity/openedr",
+    "desc": "Open EDR public repository",
+    "lang": "C++"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "dotnet/interactive",
+    "url": "https://github.com/dotnet/interactive",
+    "desc": ".NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.",
+    "lang": "C#"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "desc": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "0x36/oob_events",
+    "url": "https://github.com/0x36/oob_events",
+    "desc": "kernel exploit for Apple iOS 13.X",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "desc": "This repository contains the codes of A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, published at ACM Multimedia 2020.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  }
+]
