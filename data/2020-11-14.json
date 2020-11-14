@@ -1,15 +1,27 @@
 [
   {
+    "title": "elrumo/macOS_Big_Sur_icons_replacements",
+    "url": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
+    "desc": "Replacement icons for popular apps in the style of macOS Big Sur",
+    "lang": "Vue"
+  },
+  {
+    "title": "ComodoSecurity/openedr",
+    "url": "https://github.com/ComodoSecurity/openedr",
+    "desc": "Open EDR public repository",
+    "lang": "C++"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "lang": "RichTextFormat"
+  },
+  {
     "title": "Freakboy/CobaltStrike",
     "url": "https://github.com/Freakboy/CobaltStrike",
     "desc": "CobaltStrike's source code",
     "lang": "Java"
-  },
-  {
-    "title": "c9fe/22120",
-    "url": "https://github.com/c9fe/22120",
-    "desc": "🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.",
-    "lang": "JavaScript"
   },
   {
     "title": "corpnewt/gibMacOS",
@@ -18,45 +30,43 @@
     "lang": "Python"
   },
   {
-    "title": "natewong1313/bird-bot",
-    "url": "https://github.com/natewong1313/bird-bot",
-    "desc": "A Nintendo Switch checkout bot. Currently supports Walmart and Best buy",
-    "lang": "Python"
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
   },
   {
-    "title": "ThatGuySam/doesitarm",
-    "url": "https://github.com/ThatGuySam/doesitarm",
-    "desc": "🦾 A list of reported app support for Apple Silicon",
-    "lang": "Vue"
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
   },
   {
-    "title": "Litteeen/AmongLock",
-    "url": "https://github.com/Litteeen/AmongLock",
-    "desc": "You were not the owner of this device",
-    "lang": "Objective-C"
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "lang": "Shell"
   },
   {
-    "title": "pretzelhammer/rust-blog",
-    "url": "https://github.com/pretzelhammer/rust-blog",
-    "desc": "Educational blog posts for Rust beginners",
-    "lang": "Rust"
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
   },
   {
-    "title": "munki/macadmin-scripts",
-    "url": "https://github.com/munki/macadmin-scripts",
-    "desc": "Scripts of possible interest to macOS admins",
-    "lang": "Python"
-  },
-  {
-    "title": "element-plus/element-plus",
-    "url": "https://github.com/element-plus/element-plus",
-    "desc": "🎉 A Vue.js 3.0 UI Library",
-    "lang": "Vue"
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
     "lang": "Python"
   },
   {
@@ -66,45 +76,40 @@
     "lang": "JupyterNotebook"
   },
   {
-    "title": "barrykn/big-sur-micropatcher",
-    "url": "https://github.com/barrykn/big-sur-micropatcher",
-    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
-    "lang": "Shell"
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "lang": "Blade"
   },
   {
-    "title": "redisson/redisson",
-    "url": "https://github.com/redisson/redisson",
-    "desc": "Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...",
-    "lang": "Java"
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "desc": "Vanced Installer",
+    "lang": "Kotlin"
   },
   {
-    "title": "ComodoSecurity/openedr",
-    "url": "https://github.com/ComodoSecurity/openedr",
-    "desc": "Open EDR public repository",
-    "lang": "C++"
+    "title": "ithewei/libhv",
+    "url": "https://github.com/ithewei/libhv",
+    "desc": "Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.",
+    "lang": "C"
   },
   {
-    "title": "abpframework/abp",
-    "url": "https://github.com/abpframework/abp",
-    "desc": "Open Source Web Application Framework for ASP.NET Core",
-    "lang": "C#"
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
   },
   {
-    "title": "puppeteer/puppeteer",
-    "url": "https://github.com/puppeteer/puppeteer",
-    "desc": "Headless Chrome Node.js API",
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "desc": "Educational blog posts for Rust beginners",
+    "lang": "Rust"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
     "lang": "TypeScript"
-  },
-  {
-    "title": "trimstray/the-book-of-secret-knowledge",
-    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
-  },
-  {
-    "title": "dotnet/interactive",
-    "url": "https://github.com/dotnet/interactive",
-    "desc": ".NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.",
-    "lang": "C#"
   },
   {
     "title": "angular/angular",
@@ -113,39 +118,32 @@
     "lang": "TypeScript"
   },
   {
-    "title": "n8n-io/n8n",
-    "url": "https://github.com/n8n-io/n8n",
-    "desc": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "desc": "A collective list of free APIs for use in software and web development.",
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
     "lang": "Python"
   },
   {
-    "title": "0x36/oob_events",
-    "url": "https://github.com/0x36/oob_events",
-    "desc": "kernel exploit for Apple iOS 13.X",
-    "lang": "C"
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "lang": "JavaScript"
   },
   {
-    "title": "donnemartin/system-design-primer",
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-    "lang": "Python"
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "desc": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "lang": "C#"
   },
   {
-    "title": "Rudrabha/Wav2Lip",
-    "url": "https://github.com/Rudrabha/Wav2Lip",
-    "desc": "This repository contains the codes of A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, published at ACM Multimedia 2020.",
-    "lang": "Python"
+    "title": "xzhih/one-key-hidpi",
+    "url": "https://github.com/xzhih/one-key-hidpi",
+    "desc": "Enable macOS HiDPI and have a native setting.",
+    "lang": "Shell"
   },
   {
-    "title": "apache/airflow",
-    "url": "https://github.com/apache/airflow",
-    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-    "lang": "Python"
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
   }
 ]
