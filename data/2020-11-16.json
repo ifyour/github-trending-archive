@@ -1,0 +1,147 @@
+[
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "lang": "Python"
+  },
+  {
+    "title": "orf/gping",
+    "url": "https://github.com/orf/gping",
+    "desc": "Ping, but with a graph",
+    "lang": "Rust"
+  },
+  {
+    "title": "CodinGame/FallChallenge2020",
+    "url": "https://github.com/CodinGame/FallChallenge2020",
+    "desc": "Source code for CodinGame's Fall Challenge 2020 event.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "desc": "k0s - Zero Friction Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "desc": "A cross-platform, GPU-accelerated terminal emulator",
+    "lang": "Rust"
+  },
+  {
+    "title": "elrumo/macOS_Big_Sur_icons_replacements",
+    "url": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
+    "desc": "Replacement icons for popular apps in the style of macOS Big Sur",
+    "lang": "Vue"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "Concordium/Testnet3-Challenges",
+    "url": "https://github.com/Concordium/Testnet3-Challenges",
+    "desc": "This repo is dedicated to Concordium Incentivized Testnet3."
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "solemnwarning/rehex",
+    "url": "https://github.com/solemnwarning/rehex",
+    "desc": "Reverse Engineers' Hex Editor",
+    "lang": "C++"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge sharing and management.",
+    "lang": "Clojure"
+  },
+  {
+    "title": "home-assistant/frontend",
+    "url": "https://github.com/home-assistant/frontend",
+    "desc": "🍭 Frontend for Home Assistant",
+    "lang": "TypeScript"
+  }
+]
