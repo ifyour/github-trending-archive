@@ -6,45 +6,22 @@
     "lang": "JavaScript"
   },
   {
-    "title": "starship/starship",
-    "url": "https://github.com/starship/starship",
-    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "lang": "Rust"
-  },
-  {
-    "title": "sindresorhus/awesome",
-    "url": "https://github.com/sindresorhus/awesome",
-    "desc": "😎 Awesome lists about all kinds of interesting topics"
-  },
-  {
     "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
     "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
     "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
     "lang": "Python"
   },
   {
-    "title": "orf/gping",
-    "url": "https://github.com/orf/gping",
-    "desc": "Ping, but with a graph",
-    "lang": "Rust"
+    "title": "ithewei/libhv",
+    "url": "https://github.com/ithewei/libhv",
+    "desc": "Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.",
+    "lang": "C"
   },
   {
-    "title": "CodinGame/FallChallenge2020",
-    "url": "https://github.com/CodinGame/FallChallenge2020",
-    "desc": "Source code for CodinGame's Fall Challenge 2020 event.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "chakra-ui/chakra-ui",
-    "url": "https://github.com/chakra-ui/chakra-ui",
-    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "iptv-org/iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "lang": "JavaScript"
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "lang": "RichTextFormat"
   },
   {
     "title": "k0sproject/k0s",
@@ -53,44 +30,27 @@
     "lang": "Go"
   },
   {
-    "title": "alacritty/alacritty",
-    "url": "https://github.com/alacritty/alacritty",
-    "desc": "A cross-platform, GPU-accelerated terminal emulator",
-    "lang": "Rust"
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
   },
   {
-    "title": "elrumo/macOS_Big_Sur_icons_replacements",
-    "url": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
-    "desc": "Replacement icons for popular apps in the style of macOS Big Sur",
-    "lang": "Vue"
+    "title": "vectorizedio/redpanda",
+    "url": "https://github.com/vectorizedio/redpanda",
+    "desc": "Redpanda is the real-time engine for modern apps.",
+    "lang": "C++"
   },
   {
-    "title": "rust-lang/rustlings",
-    "url": "https://github.com/rust-lang/rustlings",
-    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "lang": "Rust"
+    "title": "hzwer/arXiv2020-RIFE",
+    "url": "https://github.com/hzwer/arXiv2020-RIFE",
+    "desc": "RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation",
+    "lang": "Python"
   },
   {
-    "title": "ripienaar/free-for-dev",
-    "url": "https://github.com/ripienaar/free-for-dev",
-    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "lang": "HTML"
-  },
-  {
-    "title": "lydiahallie/javascript-questions",
-    "url": "https://github.com/lydiahallie/javascript-questions",
-    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
-  },
-  {
-    "title": "ryanmcdermott/clean-code-javascript",
-    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "desc": "🛁 Clean Code concepts adapted for JavaScript",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "yangshun/tech-interview-handbook",
-    "url": "https://github.com/yangshun/tech-interview-handbook",
-    "desc": "💯 Materials to help you rock your next coding interview",
+    "title": "lwitzani/homebridgeStatusWidget",
+    "url": "https://github.com/lwitzani/homebridgeStatusWidget",
+    "desc": "",
     "lang": "JavaScript"
   },
   {
@@ -100,9 +60,10 @@
     "lang": "JavaScript"
   },
   {
-    "title": "MunGell/awesome-for-beginners",
-    "url": "https://github.com/MunGell/awesome-for-beginners",
-    "desc": "A list of awesome beginners-friendly projects."
+    "title": "antonioru/beautiful-react-diagrams",
+    "url": "https://github.com/antonioru/beautiful-react-diagrams",
+    "desc": "A tiny collection of lightweight React components for building diagrams with ease 💎",
+    "lang": "JavaScript"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -110,38 +71,77 @@
     "desc": "📚 Freely available programming books"
   },
   {
-    "title": "bitcoin/bitcoin",
-    "url": "https://github.com/bitcoin/bitcoin",
-    "desc": "Bitcoin Core integration/staging tree",
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "makers-for-life/makair",
+    "url": "https://github.com/makers-for-life/makair",
+    "desc": "🫁 The first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€)."
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "desc": "Solidity, the Contract-Oriented Programming Language",
     "lang": "C++"
   },
   {
-    "title": "Concordium/Testnet3-Challenges",
-    "url": "https://github.com/Concordium/Testnet3-Challenges",
-    "desc": "This repo is dedicated to Concordium Incentivized Testnet3."
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
   },
   {
-    "title": "Asabeneh/30-Days-Of-Python",
-    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
     "lang": "Python"
   },
   {
-    "title": "solemnwarning/rehex",
-    "url": "https://github.com/solemnwarning/rehex",
-    "desc": "Reverse Engineers' Hex Editor",
-    "lang": "C++"
+    "title": "crowdsecurity/crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec",
+    "desc": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
+    "lang": "Go"
   },
   {
-    "title": "logseq/logseq",
-    "url": "https://github.com/logseq/logseq",
-    "desc": "A privacy-first, open-source platform for knowledge sharing and management.",
-    "lang": "Clojure"
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
   },
   {
-    "title": "home-assistant/frontend",
-    "url": "https://github.com/home-assistant/frontend",
-    "desc": "🍭 Frontend for Home Assistant",
-    "lang": "TypeScript"
+    "title": "seven332/EhViewer",
+    "url": "https://github.com/seven332/EhViewer",
+    "desc": "[DEPRECATED] An Unofficial E-Hentai Application for Android",
+    "lang": "Java"
+  },
+  {
+    "title": "hug-sun/element3",
+    "url": "https://github.com/hug-sun/element3",
+    "desc": "A Vue.js 3.0 UI Toolkit for Web.",
+    "lang": "Vue"
   }
 ]
