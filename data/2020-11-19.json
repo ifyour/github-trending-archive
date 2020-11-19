@@ -1,0 +1,148 @@
+[
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "JetBrains/skija",
+    "url": "https://github.com/JetBrains/skija",
+    "desc": "Skia bindings for Java",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "braisdom/ObjectiveSql",
+    "url": "https://github.com/braisdom/ObjectiveSql",
+    "desc": "ObjectiveSQL is an ORM framework in Java base on ActiveRecord pattern, which encourages rapid development and clean, codes with the least and convention over configuration.",
+    "lang": "Java"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "reHackable/awesome-reMarkable",
+    "url": "https://github.com/reHackable/awesome-reMarkable",
+    "desc": "A curated list of projects related to the reMarkable tablet"
+  },
+  {
+    "title": "antonioru/beautiful-react-diagrams",
+    "url": "https://github.com/antonioru/beautiful-react-diagrams",
+    "desc": "A tiny collection of lightweight React components for building diagrams with ease 💎",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "ThatGuySam/doesitarm",
+    "url": "https://github.com/ThatGuySam/doesitarm",
+    "desc": "🦾 A list of reported app support for Apple Silicon",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "lang": "Python"
+  },
+  {
+    "title": "hzwer/arXiv2020-RIFE",
+    "url": "https://github.com/hzwer/arXiv2020-RIFE",
+    "desc": "RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation",
+    "lang": "Python"
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "desc": "k0s - Zero Friction Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "vectorizedio/redpanda",
+    "url": "https://github.com/vectorizedio/redpanda",
+    "desc": "Redpanda is the real-time engine for modern apps.",
+    "lang": "C++"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "odensc/ttv-ublock",
+    "url": "https://github.com/odensc/ttv-ublock",
+    "desc": "Blocking ads on that certain streaming website",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nelsontky/gh-pages-url-shortener",
+    "url": "https://github.com/nelsontky/gh-pages-url-shortener",
+    "desc": "Minimal URL shortener that can be entirely hosted on GitHub pages.",
+    "lang": "HTML"
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "desc": "Classical equations and diagrams in machine learning",
+    "lang": "TeX"
+  },
+  {
+    "title": "kakoni/awesome-healthcare",
+    "url": "https://github.com/kakoni/awesome-healthcare",
+    "desc": "Curated list of awesome open source healthcare software, libraries, tools and resources."
+  },
+  {
+    "title": "bradleyboehmke/data-science-learning-resources",
+    "url": "https://github.com/bradleyboehmke/data-science-learning-resources",
+    "desc": "A collection of machine learning resources that I've found helpful (I only post what I've read!)"
+  },
+  {
+    "title": "pingcap/tidb",
+    "url": "https://github.com/pingcap/tidb",
+    "desc": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+    "lang": "Go"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "ithewei/libhv",
+    "url": "https://github.com/ithewei/libhv",
+    "desc": "Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.",
+    "lang": "C"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "googlecodelabs/tools",
+    "url": "https://github.com/googlecodelabs/tools",
+    "desc": "Codelabs management & hosting tools",
+    "lang": "HTML"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  }
+]
