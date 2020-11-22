@@ -1,0 +1,148 @@
+[
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "lang": "Vue"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "desc": "Distributed database middleware",
+    "lang": "Java"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "CSS"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "oam-dev/kubevela",
+    "url": "https://github.com/oam-dev/kubevela",
+    "desc": "An Easy-to-use yet Fully Extensible App Platform based on Kubernetes and Open Application Model.",
+    "lang": "Go"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alyssaxuu/screenity",
+    "url": "https://github.com/alyssaxuu/screenity",
+    "desc": "The most powerful screen recorder & annotation tool for Chrome 🎥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "upptime/upptime",
+    "url": "https://github.com/upptime/upptime",
+    "desc": "⬆️ Uptime monitor and status page powered by GitHub"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "desc": "Black Friday Deals for macOS / iOS Software & Books",
+    "lang": "Swift"
+  },
+  {
+    "title": "ZecOps/FreeTheSandbox_LPE_POC_13.7",
+    "url": "https://github.com/ZecOps/FreeTheSandbox_LPE_POC_13.7",
+    "desc": "Jailbreak for iOS 13.7 and earlier",
+    "lang": "C"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LukeSmithxyz/mutt-wizard",
+    "url": "https://github.com/LukeSmithxyz/mutt-wizard",
+    "desc": "A system for automatically configuring mutt and isync with a simple interface and safe passwords",
+    "lang": "Shell"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "desc": "The Intuitive Vue Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "desc": "High-Performance Java API Gateway",
+    "lang": "Java"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  }
+]
