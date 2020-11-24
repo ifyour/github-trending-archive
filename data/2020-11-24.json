@@ -1,0 +1,149 @@
+[
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "alyssaxuu/screenity",
+    "url": "https://github.com/alyssaxuu/screenity",
+    "desc": "The most powerful screen recorder & annotation tool for Chrome 🎥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "apprenticeharper/DeDRM_tools",
+    "url": "https://github.com/apprenticeharper/DeDRM_tools",
+    "desc": "DeDRM tools for ebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "LukeSmithxyz/mutt-wizard",
+    "url": "https://github.com/LukeSmithxyz/mutt-wizard",
+    "desc": "A system for automatically configuring mutt and isync with a simple interface and safe passwords",
+    "lang": "Shell"
+  },
+  {
+    "title": "PostgREST/postgrest",
+    "url": "https://github.com/PostgREST/postgrest",
+    "desc": "REST API for any Postgres database",
+    "lang": "Haskell"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "lang": "Vue"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "NathanUA/U-2-Net",
+    "url": "https://github.com/NathanUA/U-2-Net",
+    "desc": "The code for our newly accepted paper in Pattern Recognition 2020: U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "lucidrains/stylegan2-pytorch",
+    "url": "https://github.com/lucidrains/stylegan2-pytorch",
+    "desc": "Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement",
+    "lang": "Python"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "lang": "C++"
+  },
+  {
+    "title": "sadanandpai/javascript-code-challenges",
+    "url": "https://github.com/sadanandpai/javascript-code-challenges",
+    "desc": "Collection of JavaScript modern interview code challenges for beginners to experts"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "balena-io/etcher",
+    "url": "https://github.com/balena-io/etcher",
+    "desc": "Flash OS images to SD cards & USB drives, safely and easily.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "brave/brave-browser",
+    "url": "https://github.com/brave/brave-browser",
+    "desc": "Next generation Brave browser for macOS, Windows, Linux, Android.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prusa3d/PrusaSlicer",
+    "url": "https://github.com/prusa3d/PrusaSlicer",
+    "desc": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "lang": "C++"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  }
+]
