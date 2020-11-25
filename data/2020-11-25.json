@@ -1,0 +1,148 @@
+[
+  {
+    "title": "NathanUA/U-2-Net",
+    "url": "https://github.com/NathanUA/U-2-Net",
+    "desc": "The code for our newly accepted paper in Pattern Recognition 2020: U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "lang": "Vue"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "lang": "C++"
+  },
+  {
+    "title": "utkusen/urlhunter",
+    "url": "https://github.com/utkusen/urlhunter",
+    "desc": "a recon tool that allows searching on URLs that are exposed via shortener services",
+    "lang": "Go"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "byt3bl33d3r/OffensiveNim",
+    "url": "https://github.com/byt3bl33d3r/OffensiveNim",
+    "desc": "My experiments in weaponizing Nim (https://nim-lang.org/)",
+    "lang": "Nim"
+  },
+  {
+    "title": "sadanandpai/javascript-code-challenges",
+    "url": "https://github.com/sadanandpai/javascript-code-challenges",
+    "desc": "Collection of JavaScript modern interview code challenges for beginners to experts"
+  },
+  {
+    "title": "sting8k/BurpSuite_403Bypasser",
+    "url": "https://github.com/sting8k/BurpSuite_403Bypasser",
+    "desc": "Burpsuite Extension to bypass 403 restricted directory",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "dkkocab/WebSiteBot_PS5",
+    "url": "https://github.com/dkkocab/WebSiteBot_PS5",
+    "desc": "This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*",
+    "lang": "Python"
+  },
+  {
+    "title": "alyssaxuu/screenity",
+    "url": "https://github.com/alyssaxuu/screenity",
+    "desc": "The most powerful screen recorder & annotation tool for Chrome 🎥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "fchollet/deep-learning-with-python-notebooks",
+    "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+    "desc": "Jupyter notebooks for the code samples of the book Deep Learning with Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "foxcpp/maddy",
+    "url": "https://github.com/foxcpp/maddy",
+    "desc": "✉️ Composable all-in-one mail server.",
+    "lang": "Go"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "AI4Finance-LLC/FinRL-Library",
+    "url": "https://github.com/AI4Finance-LLC/FinRL-Library",
+    "desc": "A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "smartcontractkit/chainlink",
+    "url": "https://github.com/smartcontractkit/chainlink",
+    "desc": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "lang": "Go"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2020"
+  }
+]
