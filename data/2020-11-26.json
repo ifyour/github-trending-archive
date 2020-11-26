@@ -1,0 +1,149 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "NathanUA/U-2-Net",
+    "url": "https://github.com/NathanUA/U-2-Net",
+    "desc": "The code for our newly accepted paper in Pattern Recognition 2020: U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RangiLyu/nanodet",
+    "url": "https://github.com/RangiLyu/nanodet",
+    "desc": "⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8mb and run 97FPS on cellphone🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "sadanandpai/javascript-code-challenges",
+    "url": "https://github.com/sadanandpai/javascript-code-challenges",
+    "desc": "A collection of JavaScript modern interview code challenges for beginners to experts"
+  },
+  {
+    "title": "geerlingguy/pi-webcam",
+    "url": "https://github.com/geerlingguy/pi-webcam",
+    "desc": "Automation to configure a Raspberry Pi as a USB OTG webcam"
+  },
+  {
+    "title": "shreyashankar/create-ml-app",
+    "url": "https://github.com/shreyashankar/create-ml-app",
+    "desc": "Template Makefile for ML projects in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "harryheman/Modern-HTML-Starter-Template",
+    "url": "https://github.com/harryheman/Modern-HTML-Starter-Template",
+    "desc": "Modern HTML Starter Template",
+    "lang": "HTML"
+  },
+  {
+    "title": "utkusen/urlhunter",
+    "url": "https://github.com/utkusen/urlhunter",
+    "desc": "a recon tool that allows searching on URLs that are exposed via shortener services",
+    "lang": "Go"
+  },
+  {
+    "title": "loadimpact/k6",
+    "url": "https://github.com/loadimpact/k6",
+    "desc": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "lang": "Go"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "lang": "C++"
+  },
+  {
+    "title": "tokio-rs/tokio",
+    "url": "https://github.com/tokio-rs/tokio",
+    "desc": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "lang": "Rust"
+  },
+  {
+    "title": "byt3bl33d3r/OffensiveNim",
+    "url": "https://github.com/byt3bl33d3r/OffensiveNim",
+    "desc": "My experiments in weaponizing Nim (https://nim-lang.org/)",
+    "lang": "Nim"
+  },
+  {
+    "title": "sting8k/BurpSuite_403Bypasser",
+    "url": "https://github.com/sting8k/BurpSuite_403Bypasser",
+    "desc": "Burpsuite Extension to bypass 403 restricted directory",
+    "lang": "Python"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "NativeScript/NativeScript",
+    "url": "https://github.com/NativeScript/NativeScript",
+    "desc": "NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "desc": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "lang": "Groovy"
+  },
+  {
+    "title": "cloudera/hue",
+    "url": "https://github.com/cloudera/hue",
+    "desc": "Hue Editor: Open source SQL Query Assistant for Databases/Warehouses",
+    "lang": "Python"
+  }
+]
