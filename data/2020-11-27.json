@@ -1,0 +1,150 @@
+[
+  {
+    "title": "spectresystems/spectre.console",
+    "url": "https://github.com/spectresystems/spectre.console",
+    "desc": "A library that makes it easier to create beautiful console applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "loadimpact/k6",
+    "url": "https://github.com/loadimpact/k6",
+    "desc": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "lang": "Go"
+  },
+  {
+    "title": "bobbyiliev/introduction-to-bash-scripting",
+    "url": "https://github.com/bobbyiliev/introduction-to-bash-scripting",
+    "desc": "Free Introduction to Bash Scripting eBook",
+    "lang": "HTML"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "sadanandpai/javascript-code-challenges",
+    "url": "https://github.com/sadanandpai/javascript-code-challenges",
+    "desc": "A collection of JavaScript modern interview code challenges for beginners to experts"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "desc": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "lang": "Groovy"
+  },
+  {
+    "title": "harryheman/Modern-HTML-Starter-Template",
+    "url": "https://github.com/harryheman/Modern-HTML-Starter-Template",
+    "desc": "Modern HTML Starter Template",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NathanUA/U-2-Net",
+    "url": "https://github.com/NathanUA/U-2-Net",
+    "desc": "The code for our newly accepted paper in Pattern Recognition 2020: U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "utkusen/urlhunter",
+    "url": "https://github.com/utkusen/urlhunter",
+    "desc": "a recon tool that allows searching on URLs that are exposed via shortener services",
+    "lang": "Go"
+  },
+  {
+    "title": "shreyashankar/create-ml-app",
+    "url": "https://github.com/shreyashankar/create-ml-app",
+    "desc": "Template Makefile for ML projects in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "lang": "Python"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "desc": "Odoo. Open Source Apps To Grow Your Business.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "desc": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "dkkocab/WebSiteBot_PS5",
+    "url": "https://github.com/dkkocab/WebSiteBot_PS5",
+    "desc": "This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*",
+    "lang": "Python"
+  },
+  {
+    "title": "instadoodledavid/Infosec-Deals-2020",
+    "url": "https://github.com/instadoodledavid/Infosec-Deals-2020",
+    "desc": "Ongoing Infosec Deals 2020"
+  },
+  {
+    "title": "NativeScript/NativeScript",
+    "url": "https://github.com/NativeScript/NativeScript",
+    "desc": "NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "byt3bl33d3r/OffensiveNim",
+    "url": "https://github.com/byt3bl33d3r/OffensiveNim",
+    "desc": "My experiments in weaponizing Nim (https://nim-lang.org/)",
+    "lang": "Nim"
+  },
+  {
+    "title": "chris-lovejoy/YouTube-video-finder",
+    "url": "https://github.com/chris-lovejoy/YouTube-video-finder",
+    "desc": "A tool to intentionally discover valuable videos",
+    "lang": "Python"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "whickey-r7/grab_beacon_config",
+    "url": "https://github.com/whickey-r7/grab_beacon_config",
+    "desc": "",
+    "lang": "Lua"
+  },
+  {
+    "title": "FreeRTOS/FreeRTOS",
+    "url": "https://github.com/FreeRTOS/FreeRTOS",
+    "desc": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Fmstrat/winapps",
+    "url": "https://github.com/Fmstrat/winapps",
+    "desc": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+    "lang": "Shell"
+  }
+]
