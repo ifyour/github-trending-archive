@@ -1,0 +1,144 @@
+[
+  {
+    "title": "loadimpact/k6",
+    "url": "https://github.com/loadimpact/k6",
+    "desc": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "lang": "Go"
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "desc": "Free, open, Among Us Proximity Chat",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "desc": "The HTML Presentation Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DustinBrett/x",
+    "url": "https://github.com/DustinBrett/x",
+    "desc": "Desktop environment in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "an-tao/drogon",
+    "url": "https://github.com/an-tao/drogon",
+    "desc": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "redcode-labs/Neurax",
+    "url": "https://github.com/redcode-labs/Neurax",
+    "desc": "A library for constructing self-spreading binaries",
+    "lang": "Go"
+  },
+  {
+    "title": "EricJMarti/inventory-hunter",
+    "url": "https://github.com/EricJMarti/inventory-hunter",
+    "desc": "⚡️ Get notified as soon as your next CPU/GPU is in stock",
+    "lang": "Python"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "ben-rogerson/twin.macro",
+    "url": "https://github.com/ben-rogerson/twin.macro",
+    "desc": "🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NiuTrans/ABigSurvey",
+    "url": "https://github.com/NiuTrans/ABigSurvey",
+    "desc": "A collection of 400+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+    "url": "https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+    "desc": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory."
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "pi-hole/docker-pi-hole",
+    "url": "https://github.com/pi-hole/docker-pi-hole",
+    "desc": "Pi-hole in a docker container",
+    "lang": "Shell"
+  },
+  {
+    "title": "xianzhez/Coding-Interview-101",
+    "url": "https://github.com/xianzhez/Coding-Interview-101",
+    "desc": "Coding interview tips"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "desc": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "lang": "Go"
+  }
+]
