@@ -1,0 +1,150 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3.0 UI Library",
+    "lang": "Vue"
+  },
+  {
+    "title": "RayTracing/raytracing.github.io",
+    "url": "https://github.com/RayTracing/raytracing.github.io",
+    "desc": "Main Web Site (Online Books)",
+    "lang": "HTML"
+  },
+  {
+    "title": "openzfs/zfs",
+    "url": "https://github.com/openzfs/zfs",
+    "desc": "OpenZFS on Linux and FreeBSD",
+    "lang": "C"
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "desc": "📝 ‎ A web-based notes app for developers. (Demo only)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ourownstory/neural_prophet",
+    "url": "https://github.com/ourownstory/neural_prophet",
+    "desc": "NeuralProphet - a Neural Network based Time-Series model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "edent/SuperTinyIcons",
+    "url": "https://github.com/edent/SuperTinyIcons",
+    "desc": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "porn-vault/porn-vault",
+    "url": "https://github.com/porn-vault/porn-vault",
+    "desc": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas",
+    "lang": "Python"
+  },
+  {
+    "title": "lunatic-lang/lunatic",
+    "url": "https://github.com/lunatic-lang/lunatic",
+    "desc": "The Lunatic VM",
+    "lang": "Rust"
+  },
+  {
+    "title": "yandex-research/navigan",
+    "url": "https://github.com/yandex-research/navigan",
+    "desc": "Navigating the GAN Parameter Space for Semantic Image Editing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "desc": "High-Performance Java API Gateway",
+    "lang": "Java"
+  },
+  {
+    "title": "EricJMarti/inventory-hunter",
+    "url": "https://github.com/EricJMarti/inventory-hunter",
+    "desc": "⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock",
+    "lang": "Python"
+  },
+  {
+    "title": "ethereum/eth2.0-specs",
+    "url": "https://github.com/ethereum/eth2.0-specs",
+    "desc": "Ethereum 2.0 Specifications",
+    "lang": "Python"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prysmaticlabs/prysm",
+    "url": "https://github.com/prysmaticlabs/prysm",
+    "desc": "Go implementation of the Ethereum 2.0 blockchain",
+    "lang": "Go"
+  },
+  {
+    "title": "ihebski/A-Red-Teamer-diaries",
+    "url": "https://github.com/ihebski/A-Red-Teamer-diaries",
+    "desc": "RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements."
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "realm/SwiftLint",
+    "url": "https://github.com/realm/SwiftLint",
+    "desc": "A tool to enforce Swift style and conventions.",
+    "lang": "Swift"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "wesbos/beginner-javascript",
+    "url": "https://github.com/wesbos/beginner-javascript",
+    "desc": "Slam Dunk JavaScript",
+    "lang": "HTML"
+  }
+]
