@@ -1,0 +1,149 @@
+[
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "lang": "PHP"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "porn-vault/porn-vault",
+    "url": "https://github.com/porn-vault/porn-vault",
+    "desc": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "desc": "📝 ‎ A web-based notes app for developers. (Demo only)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "prysmaticlabs/prysm",
+    "url": "https://github.com/prysmaticlabs/prysm",
+    "desc": "Go implementation of the Ethereum 2.0 blockchain",
+    "lang": "Go"
+  },
+  {
+    "title": "edent/SuperTinyIcons",
+    "url": "https://github.com/edent/SuperTinyIcons",
+    "desc": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws-samples/aws-proton-sample-templates",
+    "url": "https://github.com/aws-samples/aws-proton-sample-templates",
+    "desc": "Sample templates for AWS Proton, available in preview"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "ourownstory/neural_prophet",
+    "url": "https://github.com/ourownstory/neural_prophet",
+    "desc": "NeuralProphet - a Neural Network based Time-Series model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "cube0x0/SharpMapExec",
+    "url": "https://github.com/cube0x0/SharpMapExec",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "desc": "Git with a cup of tea, painless self-hosted git service",
+    "lang": "Go"
+  },
+  {
+    "title": "RayTracing/raytracing.github.io",
+    "url": "https://github.com/RayTracing/raytracing.github.io",
+    "desc": "Main Web Site (Online Books)",
+    "lang": "HTML"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "desc": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+    "lang": "Go"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "desc": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "desc": "High-Performance Java API Gateway",
+    "lang": "Java"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  }
+]
