@@ -1,85 +1,21 @@
 [
   {
-    "title": "google/googletest",
-    "url": "https://github.com/google/googletest",
-    "desc": "Googletest - Google Testing and Mocking Framework",
-    "lang": "C++"
-  },
-  {
-    "title": "taniarascia/takenote",
-    "url": "https://github.com/taniarascia/takenote",
-    "desc": "📝 ‎ A web-based notes app for developers.",
-    "lang": "TypeScript"
-  },
-  {
     "title": "porn-vault/porn-vault",
     "url": "https://github.com/porn-vault/porn-vault",
     "desc": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
     "lang": "TypeScript"
   },
   {
-    "title": "elastic/kibana",
-    "url": "https://github.com/elastic/kibana",
-    "desc": "Your window into the Elastic Stack",
-    "lang": "TypeScript"
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
   },
   {
-    "title": "monicahq/monica",
-    "url": "https://github.com/monicahq/monica",
-    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
-    "lang": "PHP"
-  },
-  {
-    "title": "MicrosoftDocs/azure-docs",
-    "url": "https://github.com/MicrosoftDocs/azure-docs",
-    "desc": "Open source documentation of Microsoft Azure",
-    "lang": "PowerShell"
-  },
-  {
-    "title": "aws-samples/aws-proton-sample-templates",
-    "url": "https://github.com/aws-samples/aws-proton-sample-templates",
-    "desc": "Sample templates for AWS Proton, available in preview"
-  },
-  {
-    "title": "containers/podman",
-    "url": "https://github.com/containers/podman",
-    "desc": "Podman: A tool for managing OCI containers and pods",
-    "lang": "Go"
-  },
-  {
-    "title": "micronaut-projects/micronaut-core",
-    "url": "https://github.com/micronaut-projects/micronaut-core",
-    "desc": "Micronaut Application Framework",
-    "lang": "Java"
-  },
-  {
-    "title": "thedaviddias/Front-End-Checklist",
-    "url": "https://github.com/thedaviddias/Front-End-Checklist",
-    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "title": "bradtraversy/50projects50days",
-    "url": "https://github.com/bradtraversy/50projects50days",
-    "desc": "50+ mini web projects using HTML, CSS & JS",
-    "lang": "CSS"
-  },
-  {
-    "title": "actions/virtual-environments",
-    "url": "https://github.com/actions/virtual-environments",
-    "desc": "GitHub Actions virtual environments",
-    "lang": "PowerShell"
-  },
-  {
-    "title": "goldbergyoni/nodebestpractices",
-    "url": "https://github.com/goldbergyoni/nodebestpractices",
-    "desc": "✅ The Node.js best practices list (December 2020)",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "gothinkster/realworld",
-    "url": "https://github.com/gothinkster/realworld",
-    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
-    "lang": "JavaScript"
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "lang": "C++"
   },
   {
     "title": "preactjs/wmr",
@@ -88,51 +24,80 @@
     "lang": "JavaScript"
   },
   {
+    "title": "bazelbuild/bazel",
+    "url": "https://github.com/bazelbuild/bazel",
+    "desc": "a fast, scalable, multi-language and extensible build system",
+    "lang": "Java"
+  },
+  {
+    "title": "jef/streetmerchant",
+    "url": "https://github.com/jef/streetmerchant",
+    "desc": "🤖 Autonomous robot for all your electronic needs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "desc": "📝 ‎ A web-based notes app for developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "containerd/containerd",
+    "url": "https://github.com/containerd/containerd",
+    "desc": "An open and reliable container runtime",
+    "lang": "Go"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "dashbitco/bytepack_archive",
+    "url": "https://github.com/dashbitco/bytepack_archive",
+    "desc": "Archive of bytepack.io",
+    "lang": "Elixir"
+  },
+  {
     "title": "h5bp/html5-boilerplate",
     "url": "https://github.com/h5bp/html5-boilerplate",
     "desc": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
     "lang": "JavaScript"
   },
   {
-    "title": "Anuken/Mindustry",
-    "url": "https://github.com/Anuken/Mindustry",
-    "desc": "A sandbox tower defense game",
-    "lang": "Java"
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
   },
   {
-    "title": "techtanic/Udemy-Course-Grabber",
-    "url": "https://github.com/techtanic/Udemy-Course-Grabber",
-    "desc": "",
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "desc": "A cross-platform, GPU-accelerated terminal emulator",
+    "lang": "Rust"
+  },
+  {
+    "title": "KasperskyLab/TinyCheck",
+    "url": "https://github.com/KasperskyLab/TinyCheck",
+    "desc": "TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In orde…",
     "lang": "Python"
   },
   {
-    "title": "Free-IPTV/Countries",
-    "url": "https://github.com/Free-IPTV/Countries",
-    "desc": "Free legally receivable IPTV channels as .m3u for Kodi. :-)"
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
   },
   {
-    "title": "airbnb/javascript",
-    "url": "https://github.com/airbnb/javascript",
-    "desc": "JavaScript Style Guide",
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "lang": "JavaScript"
-  },
-  {
-    "title": "go-gitea/gitea",
-    "url": "https://github.com/go-gitea/gitea",
-    "desc": "Git with a cup of tea, painless self-hosted git service",
-    "lang": "Go"
-  },
-  {
-    "title": "supabase/supabase",
-    "url": "https://github.com/supabase/supabase",
-    "desc": "Website, docs, and examples. Follow to stay updated about our public Beta.",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "KhaosT/ACVM",
-    "url": "https://github.com/KhaosT/ACVM",
-    "desc": "",
-    "lang": "C"
   },
   {
     "title": "Bogdanp/awesome-advent-of-code",
@@ -141,9 +106,44 @@
     "lang": "JavaScript"
   },
   {
-    "title": "RayTracing/raytracing.github.io",
-    "url": "https://github.com/RayTracing/raytracing.github.io",
-    "desc": "Main Web Site (Online Books)",
-    "lang": "HTML"
+    "title": "bytefury/crater",
+    "url": "https://github.com/bytefury/crater",
+    "desc": "Free & Open Source Invoice App for Freelancers & Small Businesses",
+    "lang": "PHP"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Free-IPTV/Countries",
+    "url": "https://github.com/Free-IPTV/Countries",
+    "desc": "Free legally receivable IPTV channels as .m3u for Kodi. :-)"
+  },
+  {
+    "title": "micronaut-projects/micronaut-core",
+    "url": "https://github.com/micronaut-projects/micronaut-core",
+    "desc": "Micronaut Application Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "containers/podman",
+    "url": "https://github.com/containers/podman",
+    "desc": "Podman: A tool for managing OCI containers and pods",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/playwright-python",
+    "url": "https://github.com/microsoft/playwright-python",
+    "desc": "Python version of the Playwright testing and automation library.",
+    "lang": "Python"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
   }
 ]
