@@ -1,0 +1,152 @@
+[
+  {
+    "title": "fireeye/red_team_tool_countermeasures",
+    "url": "https://github.com/fireeye/red_team_tool_countermeasures",
+    "desc": "",
+    "lang": "YARA"
+  },
+  {
+    "title": "minhealthnz/nzcovidtracer-app",
+    "url": "https://github.com/minhealthnz/nzcovidtracer-app",
+    "desc": "This is the repository for the front-end of the NZ COVID Tracer app.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sonic-pi-net/sonic-pi",
+    "url": "https://github.com/sonic-pi-net/sonic-pi",
+    "desc": "Code. Music. Live.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "fireeye/commando-vm",
+    "url": "https://github.com/fireeye/commando-vm",
+    "desc": "Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "desc": "Companion webpage to the book Mathematics For Machine Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Tencent/rapidjson",
+    "url": "https://github.com/Tencent/rapidjson",
+    "desc": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+    "lang": "C++"
+  },
+  {
+    "title": "laravel/sail",
+    "url": "https://github.com/laravel/sail",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "lang": "Python"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "javascript-tutorial/en.javascript.info",
+    "url": "https://github.com/javascript-tutorial/en.javascript.info",
+    "desc": "Modern JavaScript Tutorial",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "lang": "Go"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "crowdsecurity/crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec",
+    "desc": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
+    "lang": "Go"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and simpler web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cloudera/hue",
+    "url": "https://github.com/cloudera/hue",
+    "desc": "Hue Editor: Open source SQL Query Assistant for Databases/Warehouses",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "lang": "Go"
+  }
+]
