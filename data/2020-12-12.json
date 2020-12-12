@@ -1,0 +1,149 @@
+[
+  {
+    "title": "camtheperson/get-my-ps5",
+    "url": "https://github.com/camtheperson/get-my-ps5",
+    "desc": "A CLI utility to help people secure a PlayStation 5 (PS5).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "desc": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
+    "lang": "Python"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "lang": "Go"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular.js",
+    "url": "https://github.com/angular/angular.js",
+    "desc": "AngularJS - HTML enhanced for web apps!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "desc": "Ruby on Rails",
+    "lang": "Ruby"
+  },
+  {
+    "title": "facontidavide/PlotJuggler",
+    "url": "https://github.com/facontidavide/PlotJuggler",
+    "desc": "The Time Series Visualization Tool that you deserve.",
+    "lang": "C++"
+  },
+  {
+    "title": "minhealthnz/nzcovidtracer-app",
+    "url": "https://github.com/minhealthnz/nzcovidtracer-app",
+    "desc": "This is the repository for the front-end of the NZ COVID Tracer app.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "benawad/vsinder",
+    "url": "https://github.com/benawad/vsinder",
+    "desc": "Dating App for VSCode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sonic-pi-net/sonic-pi",
+    "url": "https://github.com/sonic-pi-net/sonic-pi",
+    "desc": "Code. Music. Live.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "rocky-linux/rocky",
+    "url": "https://github.com/rocky-linux/rocky",
+    "desc": "Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS."
+  },
+  {
+    "title": "maplibre/maplibre-gl-js",
+    "url": "https://github.com/maplibre/maplibre-gl-js",
+    "desc": "MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "brndnmtthws/thetagang",
+    "url": "https://github.com/brndnmtthws/thetagang",
+    "desc": "ThetaGang is an IBKR bot for collecting money",
+    "lang": "Python"
+  },
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "desc": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Shell"
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "lang": "Python"
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "desc": "Everything you need to prepare for your technical interview"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "desc": "How to systematically secure anything: a repository about security engineering"
+  }
+]
