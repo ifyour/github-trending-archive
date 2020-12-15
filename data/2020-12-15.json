@@ -1,114 +1,9 @@
 [
   {
-    "title": "getmeli/meli",
-    "url": "https://github.com/getmeli/meli",
-    "desc": "",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "Netflix/consoleme",
-    "url": "https://github.com/Netflix/consoleme",
-    "desc": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
-    "lang": "Python"
-  },
-  {
-    "title": "rocky-linux/rockylinux.org",
-    "url": "https://github.com/rocky-linux/rockylinux.org",
-    "desc": "The official website of the Rocky Linux Project.",
-    "lang": "HTML"
-  },
-  {
-    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
-    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
-    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
-    "lang": "JupyterNotebook"
-  },
-  {
     "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
     "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
     "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
     "lang": "Python"
-  },
-  {
-    "title": "rocky-linux/infrastructure",
-    "url": "https://github.com/rocky-linux/infrastructure",
-    "desc": "The infrastructure monorepo for The Rocky Linux Foundation",
-    "lang": "HTML"
-  },
-  {
-    "title": "rougier/nano-emacs",
-    "url": "https://github.com/rougier/nano-emacs",
-    "desc": "GNU Emacs / N Λ N O - Emacs made simple",
-    "lang": "EmacsLisp"
-  },
-  {
-    "title": "RobinLinus/snapdrop",
-    "url": "https://github.com/RobinLinus/snapdrop",
-    "desc": "A Progressive Web App for local file sharing",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "Olshansk/interview",
-    "url": "https://github.com/Olshansk/interview",
-    "desc": "Everything you need to prepare for your technical interview"
-  },
-  {
-    "title": "rocky-linux/rocky",
-    "url": "https://github.com/rocky-linux/rocky",
-    "desc": "Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS."
-  },
-  {
-    "title": "iperov/DeepFaceLab",
-    "url": "https://github.com/iperov/DeepFaceLab",
-    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
-    "lang": "Python"
-  },
-  {
-    "title": "projectdiscovery/proxify",
-    "url": "https://github.com/projectdiscovery/proxify",
-    "desc": "Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.",
-    "lang": "Go"
-  },
-  {
-    "title": "EbookFoundation/free-programming-books",
-    "url": "https://github.com/EbookFoundation/free-programming-books",
-    "desc": "📚 Freely available programming books"
-  },
-  {
-    "title": "n7olkachev/imgdiff",
-    "url": "https://github.com/n7olkachev/imgdiff",
-    "desc": "Faster than the fastest in the world pixel-by-pixel image difference tool.",
-    "lang": "Go"
-  },
-  {
-    "title": "sting8k/BurpSuite_403Bypasser",
-    "url": "https://github.com/sting8k/BurpSuite_403Bypasser",
-    "desc": "Burpsuite Extension to bypass 403 restricted directory",
-    "lang": "Python"
-  },
-  {
-    "title": "knownsec/shellcodeloader",
-    "url": "https://github.com/knownsec/shellcodeloader",
-    "desc": "shellcodeloader",
-    "lang": "C++"
-  },
-  {
-    "title": "stenzek/duckstation",
-    "url": "https://github.com/stenzek/duckstation",
-    "desc": "Fast PlayStation 1 emulator for PC and Android",
-    "lang": "C++"
-  },
-  {
-    "title": "commaai/openpilot",
-    "url": "https://github.com/commaai/openpilot",
-    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
-    "lang": "C++"
-  },
-  {
-    "title": "sphawes/index",
-    "url": "https://github.com/sphawes/index",
-    "desc": "The Index is an open source pick and place machine.",
-    "lang": "C++"
   },
   {
     "title": "willmcgugan/rich",
@@ -117,32 +12,137 @@
     "lang": "Python"
   },
   {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "desc": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "desc": "Material Design for React Native (Android & iOS)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yamashi/PerformanceOverhaulCyberpunk",
+    "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
+    "desc": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
+    "lang": "C++"
+  },
+  {
+    "title": "RobinLinus/snapdrop",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "desc": "A Progressive Web App for local file sharing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cascadium/wsl-windows-toolbar-launcher",
+    "url": "https://github.com/cascadium/wsl-windows-toolbar-launcher",
+    "desc": "Adds linux GUI application menu to a windows toolbar",
+    "lang": "Python"
+  },
+  {
     "title": "danistefanovic/build-your-own-x",
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "desc": "🤓 Build your own (insert technology here)"
   },
   {
-    "title": "vinta/awesome-python",
-    "url": "https://github.com/vinta/awesome-python",
-    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "title": "getmeli/meli",
+    "url": "https://github.com/getmeli/meli",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "fastogt/fastocloud",
+    "url": "https://github.com/fastogt/fastocloud",
+    "desc": "Self-hosted IPTV/NVR/CCTV/Video service",
+    "lang": "C++"
+  },
+  {
+    "title": "rocky-linux/rockylinux.org",
+    "url": "https://github.com/rocky-linux/rockylinux.org",
+    "desc": "The official website of the Rocky Linux Project.",
+    "lang": "HTML"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
     "lang": "Python"
   },
   {
-    "title": "brndnmtthws/thetagang",
-    "url": "https://github.com/brndnmtthws/thetagang",
-    "desc": "ThetaGang is an IBKR bot for collecting money",
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "desc": "Everything you need to prepare for your technical interview"
+  },
+  {
+    "title": "knownsec/shellcodeloader",
+    "url": "https://github.com/knownsec/shellcodeloader",
+    "desc": "shellcodeloader",
+    "lang": "C++"
+  },
+  {
+    "title": "Jays-code-collection/HMMs_Stock_Market",
+    "url": "https://github.com/Jays-code-collection/HMMs_Stock_Market",
+    "desc": "Contains all code related to using HMMs to predict stock market prices.",
     "lang": "Python"
   },
   {
-    "title": "iptv-org/iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "title": "hexops/dockerfile",
+    "url": "https://github.com/hexops/dockerfile",
+    "desc": "Dockerfile best-practices for writing production-worthy Docker images.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "MichMich/MagicMirror",
+    "url": "https://github.com/MichMich/MagicMirror",
+    "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
     "lang": "JavaScript"
   },
   {
-    "title": "goldbergyoni/nodebestpractices",
-    "url": "https://github.com/goldbergyoni/nodebestpractices",
-    "desc": "✅ The Node.js best practices list (December 2020)",
-    "lang": "JavaScript"
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "lang": "Python"
+  },
+  {
+    "title": "spree/spree",
+    "url": "https://github.com/spree/spree",
+    "desc": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:",
+    "lang": "Ruby"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "desc": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
   }
 ]
