@@ -1,5 +1,29 @@
 [
   {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "HTML"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "RobinLinus/snapdrop",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "desc": "A Progressive Web App for local file sharing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "desc": "Material Design for React Native (Android & iOS)",
+    "lang": "TypeScript"
+  },
+  {
     "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
     "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
     "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
@@ -12,40 +36,22 @@
     "lang": "Python"
   },
   {
-    "title": "Netflix/consoleme",
-    "url": "https://github.com/Netflix/consoleme",
-    "desc": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
-    "lang": "Python"
-  },
-  {
-    "title": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "desc": "🔎 Hunt down social media accounts by username across social networks",
-    "lang": "Python"
-  },
-  {
-    "title": "callstack/react-native-paper",
-    "url": "https://github.com/callstack/react-native-paper",
-    "desc": "Material Design for React Native (Android & iOS)",
-    "lang": "TypeScript"
-  },
-  {
     "title": "yamashi/PerformanceOverhaulCyberpunk",
     "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
     "desc": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
     "lang": "C++"
   },
   {
-    "title": "RobinLinus/snapdrop",
-    "url": "https://github.com/RobinLinus/snapdrop",
-    "desc": "A Progressive Web App for local file sharing",
-    "lang": "JavaScript"
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
   },
   {
-    "title": "cascadium/wsl-windows-toolbar-launcher",
-    "url": "https://github.com/cascadium/wsl-windows-toolbar-launcher",
-    "desc": "Adds linux GUI application menu to a windows toolbar",
-    "lang": "Python"
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "desc": "Extensible Dev Tools for Monorepos",
+    "lang": "TypeScript"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -53,16 +59,46 @@
     "desc": "🤓 Build your own (insert technology here)"
   },
   {
-    "title": "getmeli/meli",
-    "url": "https://github.com/getmeli/meli",
-    "desc": "",
+    "title": "stenzek/duckstation",
+    "url": "https://github.com/stenzek/duckstation",
+    "desc": "Fast PlayStation 1 emulator for PC and Android",
+    "lang": "C++"
+  },
+  {
+    "title": "sct/overseerr",
+    "url": "https://github.com/sct/overseerr",
+    "desc": "Request management and media discovery tool for the Plex ecosystem",
     "lang": "TypeScript"
   },
   {
-    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
-    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
-    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
-    "lang": "JupyterNotebook"
+    "title": "AFLplusplus/AFLplusplus",
+    "url": "https://github.com/AFLplusplus/AFLplusplus",
+    "desc": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "lang": "C"
+  },
+  {
+    "title": "business-science/free_r_tips",
+    "url": "https://github.com/business-science/free_r_tips",
+    "desc": "Free R-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized code tutorials every Tuesday.",
+    "lang": "HTML"
+  },
+  {
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "lang": "Shell"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/ProjectReunion",
+    "url": "https://github.com/microsoft/ProjectReunion",
+    "desc": "Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.",
+    "lang": "C++"
   },
   {
     "title": "commaai/openpilot",
@@ -71,78 +107,44 @@
     "lang": "C++"
   },
   {
-    "title": "fastogt/fastocloud",
-    "url": "https://github.com/fastogt/fastocloud",
-    "desc": "Self-hosted IPTV/NVR/CCTV/Video service",
-    "lang": "C++"
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "lang": "Go"
   },
   {
-    "title": "rocky-linux/rockylinux.org",
-    "url": "https://github.com/rocky-linux/rockylinux.org",
-    "desc": "The official website of the Rocky Linux Project.",
-    "lang": "HTML"
-  },
-  {
-    "title": "iperov/DeepFaceLab",
-    "url": "https://github.com/iperov/DeepFaceLab",
-    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "title": "sophos-ai/SOREL-20M",
+    "url": "https://github.com/sophos-ai/SOREL-20M",
+    "desc": "Sophos-ReversingLabs 20 million sample dataset",
     "lang": "Python"
   },
   {
-    "title": "Olshansk/interview",
-    "url": "https://github.com/Olshansk/interview",
-    "desc": "Everything you need to prepare for your technical interview"
+    "title": "mattermost/xml-roundtrip-validator",
+    "url": "https://github.com/mattermost/xml-roundtrip-validator",
+    "desc": "",
+    "lang": "Go"
   },
   {
-    "title": "knownsec/shellcodeloader",
-    "url": "https://github.com/knownsec/shellcodeloader",
-    "desc": "shellcodeloader",
-    "lang": "C++"
-  },
-  {
-    "title": "Jays-code-collection/HMMs_Stock_Market",
-    "url": "https://github.com/Jays-code-collection/HMMs_Stock_Market",
-    "desc": "Contains all code related to using HMMs to predict stock market prices.",
-    "lang": "Python"
-  },
-  {
-    "title": "hexops/dockerfile",
-    "url": "https://github.com/hexops/dockerfile",
-    "desc": "Dockerfile best-practices for writing production-worthy Docker images.",
-    "lang": "Dockerfile"
-  },
-  {
-    "title": "MichMich/MagicMirror",
-    "url": "https://github.com/MichMich/MagicMirror",
-    "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
-    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
-    "lang": "Python"
-  },
-  {
-    "title": "spree/spree",
-    "url": "https://github.com/spree/spree",
-    "desc": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:",
-    "lang": "Ruby"
-  },
-  {
-    "title": "kamranahmedse/developer-roadmap",
-    "url": "https://github.com/kamranahmedse/developer-roadmap",
-    "desc": "Roadmap to becoming a web developer in 2020"
-  },
-  {
-    "title": "tannerlinsley/react-query",
-    "url": "https://github.com/tannerlinsley/react-query",
-    "desc": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "title": "VVNoodle/PS5bot",
+    "url": "https://github.com/VVNoodle/PS5bot",
+    "desc": "bot to monitor PS5 stock and auto-purchase when available",
     "lang": "TypeScript"
   },
   {
-    "title": "EbookFoundation/free-programming-books",
-    "url": "https://github.com/EbookFoundation/free-programming-books",
-    "desc": "📚 Freely available programming books"
+    "title": "wazuh/wazuh",
+    "url": "https://github.com/wazuh/wazuh",
+    "desc": "Wazuh - The Open Source Security Platform",
+    "lang": "C"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
   }
 ]
