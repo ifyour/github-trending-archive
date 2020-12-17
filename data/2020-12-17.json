@@ -1,9 +1,8 @@
 [
   {
-    "title": "mdn/content",
-    "url": "https://github.com/mdn/content",
-    "desc": "The content behind MDN Web Docs",
-    "lang": "HTML"
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
   },
   {
     "title": "sherlock-project/sherlock",
@@ -12,16 +11,40 @@
     "lang": "Python"
   },
   {
-    "title": "RobinLinus/snapdrop",
-    "url": "https://github.com/RobinLinus/snapdrop",
-    "desc": "A Progressive Web App for local file sharing",
-    "lang": "JavaScript"
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "desc": "Real-Time High-Resolution Background Matting",
+    "lang": "Python"
   },
   {
-    "title": "callstack/react-native-paper",
-    "url": "https://github.com/callstack/react-native-paper",
-    "desc": "Material Design for React Native (Android & iOS)",
-    "lang": "TypeScript"
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "desc": "Bicep is a declarative language for describing and deploying Azure resources",
+    "lang": "C#"
+  },
+  {
+    "title": "stenzek/duckstation",
+    "url": "https://github.com/stenzek/duckstation",
+    "desc": "Fast PlayStation 1 emulator for PC and Android",
+    "lang": "C++"
+  },
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "desc": "Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️",
+    "lang": "C++"
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "desc": "k0s - Zero Friction Kubernetes",
+    "lang": "Go"
   },
   {
     "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
@@ -30,15 +53,38 @@
     "lang": "Python"
   },
   {
-    "title": "willmcgugan/rich",
-    "url": "https://github.com/willmcgugan/rich",
-    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
-    "lang": "Python"
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "TypeScript"
   },
   {
-    "title": "yamashi/PerformanceOverhaulCyberpunk",
-    "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
-    "desc": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
+    "title": "google/mundane",
+    "url": "https://github.com/google/mundane",
+    "desc": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).",
+    "lang": "Rust"
+  },
+  {
+    "title": "cloudquery/cloudquery",
+    "url": "https://github.com/cloudquery/cloudquery",
+    "desc": "cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.",
+    "lang": "Go"
+  },
+  {
+    "title": "bambenek/research",
+    "url": "https://github.com/bambenek/research",
+    "desc": ""
+  },
+  {
+    "title": "ProlificLabs/shakesearch",
+    "url": "https://github.com/ProlificLabs/shakesearch",
+    "desc": "The Pulley ShakeSearch Take-home Challenge",
+    "lang": "CSS"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
     "lang": "C++"
   },
   {
@@ -48,45 +94,39 @@
     "lang": "Python"
   },
   {
-    "title": "nrwl/nx",
-    "url": "https://github.com/nrwl/nx",
-    "desc": "Extensible Dev Tools for Monorepos",
-    "lang": "TypeScript"
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
   },
   {
-    "title": "danistefanovic/build-your-own-x",
-    "url": "https://github.com/danistefanovic/build-your-own-x",
-    "desc": "🤓 Build your own (insert technology here)"
-  },
-  {
-    "title": "stenzek/duckstation",
-    "url": "https://github.com/stenzek/duckstation",
-    "desc": "Fast PlayStation 1 emulator for PC and Android",
+    "title": "yamashi/PerformanceOverhaulCyberpunk",
+    "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
+    "desc": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
     "lang": "C++"
   },
   {
-    "title": "sct/overseerr",
-    "url": "https://github.com/sct/overseerr",
-    "desc": "Request management and media discovery tool for the Plex ecosystem",
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "desc": "Material Design for React Native (Android & iOS)",
     "lang": "TypeScript"
   },
   {
-    "title": "AFLplusplus/AFLplusplus",
-    "url": "https://github.com/AFLplusplus/AFLplusplus",
-    "desc": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
-    "lang": "C"
+    "title": "chanakaudaya/solutions-architecture-patterns",
+    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns",
+    "desc": "This repository contains solutions architecture patterns which can be reused to build enterprise software systems"
   },
   {
-    "title": "business-science/free_r_tips",
-    "url": "https://github.com/business-science/free_r_tips",
-    "desc": "Free R-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized code tutorials every Tuesday.",
-    "lang": "HTML"
+    "title": "ZHKKKe/MODNet",
+    "url": "https://github.com/ZHKKKe/MODNet",
+    "desc": "A Trimap-Free Solution for Portrait Matting in Real Time under Changing Scenes",
+    "lang": "Python"
   },
   {
-    "title": "barrykn/big-sur-micropatcher",
-    "url": "https://github.com/barrykn/big-sur-micropatcher",
-    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
-    "lang": "Shell"
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
   },
   {
     "title": "jasontaylordev/CleanArchitecture",
@@ -95,56 +135,15 @@
     "lang": "C#"
   },
   {
-    "title": "microsoft/ProjectReunion",
-    "url": "https://github.com/microsoft/ProjectReunion",
-    "desc": "Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.",
-    "lang": "C++"
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
   },
   {
-    "title": "commaai/openpilot",
-    "url": "https://github.com/commaai/openpilot",
-    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
-    "lang": "C++"
-  },
-  {
-    "title": "hashicorp/packer",
-    "url": "https://github.com/hashicorp/packer",
-    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
-    "lang": "Go"
-  },
-  {
-    "title": "sophos-ai/SOREL-20M",
-    "url": "https://github.com/sophos-ai/SOREL-20M",
-    "desc": "Sophos-ReversingLabs 20 million sample dataset",
-    "lang": "Python"
-  },
-  {
-    "title": "mattermost/xml-roundtrip-validator",
-    "url": "https://github.com/mattermost/xml-roundtrip-validator",
-    "desc": "",
-    "lang": "Go"
-  },
-  {
-    "title": "VVNoodle/PS5bot",
-    "url": "https://github.com/VVNoodle/PS5bot",
-    "desc": "bot to monitor PS5 stock and auto-purchase when available",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "wazuh/wazuh",
-    "url": "https://github.com/wazuh/wazuh",
-    "desc": "Wazuh - The Open Source Security Platform",
-    "lang": "C"
-  },
-  {
-    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
-    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
-    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "jlevy/the-art-of-command-line",
-    "url": "https://github.com/jlevy/the-art-of-command-line",
-    "desc": "Master the command line, in one page"
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "HTML"
   }
 ]
