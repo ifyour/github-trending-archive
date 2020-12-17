@@ -1,0 +1,150 @@
+[
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "HTML"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "RobinLinus/snapdrop",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "desc": "A Progressive Web App for local file sharing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "desc": "Material Design for React Native (Android & iOS)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "lang": "Python"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "yamashi/PerformanceOverhaulCyberpunk",
+    "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
+    "desc": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
+    "lang": "C++"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "desc": "Extensible Dev Tools for Monorepos",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "stenzek/duckstation",
+    "url": "https://github.com/stenzek/duckstation",
+    "desc": "Fast PlayStation 1 emulator for PC and Android",
+    "lang": "C++"
+  },
+  {
+    "title": "sct/overseerr",
+    "url": "https://github.com/sct/overseerr",
+    "desc": "Request management and media discovery tool for the Plex ecosystem",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AFLplusplus/AFLplusplus",
+    "url": "https://github.com/AFLplusplus/AFLplusplus",
+    "desc": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "lang": "C"
+  },
+  {
+    "title": "business-science/free_r_tips",
+    "url": "https://github.com/business-science/free_r_tips",
+    "desc": "Free R-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized code tutorials every Tuesday.",
+    "lang": "HTML"
+  },
+  {
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "lang": "Shell"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/ProjectReunion",
+    "url": "https://github.com/microsoft/ProjectReunion",
+    "desc": "Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.",
+    "lang": "C++"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "sophos-ai/SOREL-20M",
+    "url": "https://github.com/sophos-ai/SOREL-20M",
+    "desc": "Sophos-ReversingLabs 20 million sample dataset",
+    "lang": "Python"
+  },
+  {
+    "title": "mattermost/xml-roundtrip-validator",
+    "url": "https://github.com/mattermost/xml-roundtrip-validator",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "VVNoodle/PS5bot",
+    "url": "https://github.com/VVNoodle/PS5bot",
+    "desc": "bot to monitor PS5 stock and auto-purchase when available",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wazuh/wazuh",
+    "url": "https://github.com/wazuh/wazuh",
+    "desc": "Wazuh - The Open Source Security Platform",
+    "lang": "C"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  }
+]
