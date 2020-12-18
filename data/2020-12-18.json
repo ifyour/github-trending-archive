@@ -1,5 +1,17 @@
 [
   {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "desc": "Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "desc": "A complete computer science study plan to become a software engineer."
@@ -11,10 +23,16 @@
     "lang": "Python"
   },
   {
-    "title": "PeterL1n/BackgroundMattingV2",
-    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
-    "desc": "Real-Time High-Resolution Background Matting",
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "lang": "Python"
+  },
+  {
+    "title": "mozilla-mobile/firefox-ios",
+    "url": "https://github.com/mozilla-mobile/firefox-ios",
+    "desc": "Firefox for iOS",
+    "lang": "Swift"
   },
   {
     "title": "hashicorp/packer",
@@ -23,69 +41,21 @@
     "lang": "Go"
   },
   {
-    "title": "Azure/bicep",
-    "url": "https://github.com/Azure/bicep",
-    "desc": "Bicep is a declarative language for describing and deploying Azure resources",
-    "lang": "C#"
-  },
-  {
-    "title": "stenzek/duckstation",
-    "url": "https://github.com/stenzek/duckstation",
-    "desc": "Fast PlayStation 1 emulator for PC and Android",
-    "lang": "C++"
-  },
-  {
-    "title": "ggerganov/kbd-audio",
-    "url": "https://github.com/ggerganov/kbd-audio",
-    "desc": "Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️",
-    "lang": "C++"
-  },
-  {
-    "title": "k0sproject/k0s",
-    "url": "https://github.com/k0sproject/k0s",
-    "desc": "k0s - Zero Friction Kubernetes",
-    "lang": "Go"
-  },
-  {
-    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
-    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
-    "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
-    "lang": "Python"
-  },
-  {
-    "title": "microsoft/playwright",
-    "url": "https://github.com/microsoft/playwright",
-    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "google/mundane",
-    "url": "https://github.com/google/mundane",
-    "desc": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).",
-    "lang": "Rust"
-  },
-  {
-    "title": "cloudquery/cloudquery",
-    "url": "https://github.com/cloudquery/cloudquery",
-    "desc": "cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.",
-    "lang": "Go"
-  },
-  {
-    "title": "bambenek/research",
-    "url": "https://github.com/bambenek/research",
-    "desc": ""
-  },
-  {
-    "title": "ProlificLabs/shakesearch",
-    "url": "https://github.com/ProlificLabs/shakesearch",
-    "desc": "The Pulley ShakeSearch Take-home Challenge",
-    "lang": "CSS"
-  },
-  {
     "title": "mytechnotalent/Reverse-Engineering-Tutorial",
     "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
     "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
     "lang": "C++"
+  },
+  {
+    "title": "chanakaudaya/solutions-architecture-patterns",
+    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns",
+    "desc": "This repository contains solutions architecture patterns which can be reused to build enterprise software systems"
+  },
+  {
+    "title": "facebook/zstd",
+    "url": "https://github.com/facebook/zstd",
+    "desc": "Zstandard - Fast real-time compression algorithm",
+    "lang": "C"
   },
   {
     "title": "tiangolo/fastapi",
@@ -94,56 +64,85 @@
     "lang": "Python"
   },
   {
-    "title": "PaddlePaddle/PaddleOCR",
-    "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
     "lang": "Python"
   },
   {
-    "title": "yamashi/PerformanceOverhaulCyberpunk",
-    "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
-    "desc": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
-    "lang": "C++"
-  },
-  {
-    "title": "callstack/react-native-paper",
-    "url": "https://github.com/callstack/react-native-paper",
-    "desc": "Material Design for React Native (Android & iOS)",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "chanakaudaya/solutions-architecture-patterns",
-    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns",
-    "desc": "This repository contains solutions architecture patterns which can be reused to build enterprise software systems"
-  },
-  {
-    "title": "ZHKKKe/MODNet",
-    "url": "https://github.com/ZHKKKe/MODNet",
-    "desc": "A Trimap-Free Solution for Portrait Matting in Real Time under Changing Scenes",
-    "lang": "Python"
-  },
-  {
-    "title": "MicrosoftDocs/azure-docs",
-    "url": "https://github.com/MicrosoftDocs/azure-docs",
-    "desc": "Open source documentation of Microsoft Azure",
-    "lang": "PowerShell"
-  },
-  {
-    "title": "jasontaylordev/CleanArchitecture",
-    "url": "https://github.com/jasontaylordev/CleanArchitecture",
-    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
-    "lang": "C#"
-  },
-  {
-    "title": "discordjs/discord.js",
-    "url": "https://github.com/discordjs/discord.js",
-    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
     "lang": "JavaScript"
   },
   {
-    "title": "mdn/content",
-    "url": "https://github.com/mdn/content",
-    "desc": "The content behind MDN Web Docs",
-    "lang": "HTML"
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "desc": "k0s - Zero Friction Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "desc": "Real-Time High-Resolution Background Matting",
+    "lang": "Python"
+  },
+  {
+    "title": "dokku/dokku",
+    "url": "https://github.com/dokku/dokku",
+    "desc": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+    "lang": "Shell"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "hneemann/Digital",
+    "url": "https://github.com/hneemann/Digital",
+    "desc": "A digital logic designer and circuit simulator.",
+    "lang": "Java"
+  },
+  {
+    "title": "locomotivemtl/locomotive-scroll",
+    "url": "https://github.com/locomotivemtl/locomotive-scroll",
+    "desc": "🛤 Detection of elements in viewport & smooth scrolling with parallax.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jrieke/traingenerator",
+    "url": "https://github.com/jrieke/traingenerator",
+    "desc": "🧙 A web app to generate template code for machine learning",
+    "lang": "Python"
+  },
+  {
+    "title": "grandnode/grandnode",
+    "url": "https://github.com/grandnode/grandnode",
+    "desc": "Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB",
+    "lang": "C#"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
   }
 ]
