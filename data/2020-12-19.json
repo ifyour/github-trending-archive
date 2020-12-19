@@ -1,0 +1,148 @@
+[
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "desc": "Real-Time High-Resolution Background Matting",
+    "lang": "Python"
+  },
+  {
+    "title": "supertokens/supertokens-core",
+    "url": "https://github.com/supertokens/supertokens-core",
+    "desc": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito",
+    "lang": "Java"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "lang": "Clojure"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "video-dev/hls.js",
+    "url": "https://github.com/video-dev/hls.js",
+    "desc": "JavaScript HLS client using Media Source Extension",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "missing-semester-cn/missing-semester-cn.github.io",
+    "url": "https://github.com/missing-semester-cn/missing-semester-cn.github.io",
+    "desc": "the CS missing semester Chinese version",
+    "lang": "CSS"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers by organizations sharing their work on applied data science & machine learning."
+  },
+  {
+    "title": "rancher/harvester",
+    "url": "https://github.com/rancher/harvester",
+    "desc": "Open source hyperconverged infrastructure (HCI) software",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "gnxbr/Fully-Undetectable-Techniques",
+    "url": "https://github.com/gnxbr/Fully-Undetectable-Techniques",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "desc": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "chanakaudaya/solutions-architecture-patterns",
+    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns",
+    "desc": "This repository contains solutions architecture patterns which can be reused to build enterprise software systems"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "lang": "C++"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (December 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "khangich/machine-learning-interview",
+    "url": "https://github.com/khangich/machine-learning-interview",
+    "desc": "Machine Learning Interviews from FAAG, Snapchat, LinkedIn."
+  }
+]
