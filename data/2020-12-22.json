@@ -1,0 +1,152 @@
+[
+  {
+    "title": "owncast/owncast",
+    "url": "https://github.com/owncast/owncast",
+    "desc": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+    "lang": "Go"
+  },
+  {
+    "title": "DevUtilsApp/DevUtils-app",
+    "url": "https://github.com/DevUtilsApp/DevUtils-app",
+    "desc": "Developer Utilities for macOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vijishmadhavan/ArtLine",
+    "url": "https://github.com/vijishmadhavan/ArtLine",
+    "desc": "A Deep Learning based project for creating line art portraits.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "apple/ml-hypersim",
+    "url": "https://github.com/apple/ml-hypersim",
+    "desc": "Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding",
+    "lang": "Python"
+  },
+  {
+    "title": "changkun/modern-cpp-tutorial",
+    "url": "https://github.com/changkun/modern-cpp-tutorial",
+    "desc": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
+    "lang": "C++"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "lang": "C#"
+  },
+  {
+    "title": "thangchung/clean-code-dotnet",
+    "url": "https://github.com/thangchung/clean-code-dotnet",
+    "desc": "🛁 Clean Code concepts and tools adapted for .NET",
+    "lang": "C#"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "desc": "",
+    "lang": "Dart"
+  },
+  {
+    "title": "nwtgck/piping-server",
+    "url": "https://github.com/nwtgck/piping-server",
+    "desc": "Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "projectdiscovery/nuclei",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "desc": "Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "desc": "Delightful JavaScript Testing.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "FreeCAD/FreeCAD",
+    "url": "https://github.com/FreeCAD/FreeCAD",
+    "desc": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
+    "lang": "C++"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "k3s-io/k3s",
+    "url": "https://github.com/k3s-io/k3s",
+    "desc": "Lightweight Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (December 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "docker/getting-started",
+    "url": "https://github.com/docker/getting-started",
+    "desc": "Getting started with Docker",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fdehau/tui-rs",
+    "url": "https://github.com/fdehau/tui-rs",
+    "desc": "Build terminal user interfaces and dashboards using Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "googleapis/google-api-php-client",
+    "url": "https://github.com/googleapis/google-api-php-client",
+    "desc": "A PHP client library for accessing Google APIs",
+    "lang": "PHP"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  }
+]
