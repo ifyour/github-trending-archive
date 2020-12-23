@@ -1,0 +1,150 @@
+[
+  {
+    "title": "mapsme/omim",
+    "url": "https://github.com/mapsme/omim",
+    "desc": "🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android",
+    "lang": "C++"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "vijishmadhavan/ArtLine",
+    "url": "https://github.com/vijishmadhavan/ArtLine",
+    "desc": "A Deep Learning based project for creating line art portraits.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenRCT2/OpenRCT2",
+    "url": "https://github.com/OpenRCT2/OpenRCT2",
+    "desc": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+    "lang": "C++"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "DevUtilsApp/DevUtils-app",
+    "url": "https://github.com/DevUtilsApp/DevUtils-app",
+    "desc": "Developer Utilities for macOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "owncast/owncast",
+    "url": "https://github.com/owncast/owncast",
+    "desc": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+    "lang": "Go"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "desc": "",
+    "lang": "Dart"
+  },
+  {
+    "title": "devanshbatham/Awesome-Bugbounty-Writeups",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "desc": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "lang": "Python"
+  },
+  {
+    "title": "backstage/backstage",
+    "url": "https://github.com/backstage/backstage",
+    "desc": "Backstage is an open platform for building developer portals",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "thingsboard/thingsboard",
+    "url": "https://github.com/thingsboard/thingsboard",
+    "desc": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+    "lang": "Java"
+  },
+  {
+    "title": "jaykali/maskphish",
+    "url": "https://github.com/jaykali/maskphish",
+    "desc": "Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.",
+    "lang": "Shell"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kubeflow/kubeflow",
+    "url": "https://github.com/kubeflow/kubeflow",
+    "desc": "Machine Learning Toolkit for Kubernetes",
+    "lang": "Jsonnet"
+  },
+  {
+    "title": "thangchung/clean-code-dotnet",
+    "url": "https://github.com/thangchung/clean-code-dotnet",
+    "desc": "🛁 Clean Code concepts and tools adapted for .NET",
+    "lang": "C#"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  }
+]
