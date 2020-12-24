@@ -1,0 +1,150 @@
+[
+  {
+    "title": "mapsme/omim",
+    "url": "https://github.com/mapsme/omim",
+    "desc": "🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android",
+    "lang": "C++"
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "desc": "基于JavaScript的京东薅羊毛工具"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "uncertainty-toolbox/uncertainty-toolbox",
+    "url": "https://github.com/uncertainty-toolbox/uncertainty-toolbox",
+    "desc": "A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization",
+    "lang": "Python"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "devanshbatham/Awesome-Bugbounty-Writeups",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "desc": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "lang": "Python"
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "Official Jetpack Compose samples.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "magiblot/tvision",
+    "url": "https://github.com/magiblot/tvision",
+    "desc": "A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.",
+    "lang": "C++"
+  },
+  {
+    "title": "hotwired/stimulus",
+    "url": "https://github.com/hotwired/stimulus",
+    "desc": "A modest JavaScript framework for the HTML you already have",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenRCT2/OpenRCT2",
+    "url": "https://github.com/OpenRCT2/OpenRCT2",
+    "desc": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+    "lang": "C++"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "React components for faster and simpler web development. Build your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "C++"
+  },
+  {
+    "title": "DevUtilsApp/DevUtils-app",
+    "url": "https://github.com/DevUtilsApp/DevUtils-app",
+    "desc": "Developer Utilities for macOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "99designs/gqlgen",
+    "url": "https://github.com/99designs/gqlgen",
+    "desc": "go generate based graphql server library",
+    "lang": "Go"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+    "url": "https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+    "desc": "A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP",
+    "lang": "HLSL"
+  },
+  {
+    "title": "yash0530/InterviewPrepResources",
+    "url": "https://github.com/yash0530/InterviewPrepResources",
+    "desc": "Resources for Coding Interviews for Undergrads for Internships and FTE"
+  },
+  {
+    "title": "basarat/typescript-book",
+    "url": "https://github.com/basarat/typescript-book",
+    "desc": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
+    "lang": "TypeScript"
+  }
+]
