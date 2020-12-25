@@ -1,0 +1,151 @@
+[
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "desc": "基于JavaScript的京东薅羊毛工具"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "youzan/vant",
+    "url": "https://github.com/youzan/vant",
+    "desc": "Lightweight Mobile UI Components built on Vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "werner-duvaud/muzero-general",
+    "url": "https://github.com/werner-duvaud/muzero-general",
+    "desc": "MuZero",
+    "lang": "Python"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mapsme/omim",
+    "url": "https://github.com/mapsme/omim",
+    "desc": "🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android",
+    "lang": "C++"
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "basarat/typescript-book",
+    "url": "https://github.com/basarat/typescript-book",
+    "desc": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RobinLinus/snapdrop",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "desc": "A Progressive Web App for local file sharing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hotwired/stimulus",
+    "url": "https://github.com/hotwired/stimulus",
+    "desc": "A modest JavaScript framework for the HTML you already have",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebookresearch/svoice",
+    "url": "https://github.com/facebookresearch/svoice",
+    "desc": "We provide a PyTorch implementation of the paper Voice Separation with an Unknown Number of Multiple Speakers In which, we present a new method for separating a mixed audio sequence, in which multiple voices speak simultaneously. The new method employs gated neural networks that are trained to separate the voices at multiple processing steps, wh…",
+    "lang": "Python"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/rapidjson",
+    "url": "https://github.com/Tencent/rapidjson",
+    "desc": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+    "lang": "C++"
+  },
+  {
+    "title": "Felix83000/Watcher",
+    "url": "https://github.com/Felix83000/Watcher",
+    "desc": "Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.",
+    "lang": "Python"
+  },
+  {
+    "title": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "lang": "Python"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "Working-Title-MSFS-Mods/fspackages",
+    "url": "https://github.com/Working-Title-MSFS-Mods/fspackages",
+    "desc": "Working Title FS Packages",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dibgerge/ml-coursera-python-assignments",
+    "url": "https://github.com/dibgerge/ml-coursera-python-assignments",
+    "desc": "Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hyperium/hyper",
+    "url": "https://github.com/hyperium/hyper",
+    "desc": "An HTTP library for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "devanshbatham/Awesome-Bugbounty-Writeups",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "desc": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "lang": "Python"
+  }
+]
