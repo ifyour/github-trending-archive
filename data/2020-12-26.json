@@ -1,0 +1,151 @@
+[
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "desc": "The Ruby Programming Language [mirror]",
+    "lang": "Ruby"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "werner-duvaud/muzero-general",
+    "url": "https://github.com/werner-duvaud/muzero-general",
+    "desc": "MuZero",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "lang": "C++"
+  },
+  {
+    "title": "RobinLinus/snapdrop",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "desc": "A Progressive Web App for local file sharing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "desc": "基于JavaScript的京东薅羊毛工具"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/svoice",
+    "url": "https://github.com/facebookresearch/svoice",
+    "desc": "We provide a PyTorch implementation of the paper Voice Separation with an Unknown Number of Multiple Speakers In which, we present a new method for separating a mixed audio sequence, in which multiple voices speak simultaneously. The new method employs gated neural networks that are trained to separate the voices at multiple processing steps, wh…",
+    "lang": "Python"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Sycnex/Windows10Debloater",
+    "url": "https://github.com/Sycnex/Windows10Debloater",
+    "desc": "Script to remove Windows 10 bloatware.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "darktable-org/darktable",
+    "url": "https://github.com/darktable-org/darktable",
+    "desc": "darktable is an open source photography workflow application and raw developer",
+    "lang": "C"
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "prusa3d/PrusaSlicer",
+    "url": "https://github.com/prusa3d/PrusaSlicer",
+    "desc": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "lang": "C++"
+  },
+  {
+    "title": "qilingframework/qiling",
+    "url": "https://github.com/qilingframework/qiling",
+    "desc": "Qiling Advanced Binary Emulation Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "youzan/vant",
+    "url": "https://github.com/youzan/vant",
+    "desc": "Lightweight Mobile UI Components built on Vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "lang": "C"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/dubbo-samples",
+    "url": "https://github.com/apache/dubbo-samples",
+    "desc": "samples for Apache Dubbo",
+    "lang": "Java"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "desc": "Telegram Desktop messaging app",
+    "lang": "C++"
+  }
+]
