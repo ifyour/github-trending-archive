@@ -1,0 +1,151 @@
+[
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "arduino/Arduino",
+    "url": "https://github.com/arduino/Arduino",
+    "desc": "open-source electronics platform",
+    "lang": "Java"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "lang": "C++"
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "desc": "基于JavaScript的京东薅羊毛工具"
+  },
+  {
+    "title": "Col-E/Recaf",
+    "url": "https://github.com/Col-E/Recaf",
+    "desc": "The modern Java bytecode editor",
+    "lang": "Java"
+  },
+  {
+    "title": "werner-duvaud/muzero-general",
+    "url": "https://github.com/werner-duvaud/muzero-general",
+    "desc": "MuZero",
+    "lang": "Python"
+  },
+  {
+    "title": "darktable-org/darktable",
+    "url": "https://github.com/darktable-org/darktable",
+    "desc": "darktable is an open source photography workflow application and raw developer",
+    "lang": "C"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "abraunegg/onedrive",
+    "url": "https://github.com/abraunegg/onedrive",
+    "desc": "OneDrive Client for Linux",
+    "lang": "D"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qilingframework/qiling",
+    "url": "https://github.com/qilingframework/qiling",
+    "desc": "Qiling Advanced Binary Emulation Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "lang": "C++"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "dcajasn/Riskfolio-Lib",
+    "url": "https://github.com/dcajasn/Riskfolio-Lib",
+    "desc": "Riskfolio-Lib is a library for making quantitative strategic asset allocation or portfolio optimization in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "MarlinFirmware/Configurations",
+    "url": "https://github.com/MarlinFirmware/Configurations",
+    "desc": "Configurations for Marlin Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "Embarcadero/Dev-Cpp",
+    "url": "https://github.com/Embarcadero/Dev-Cpp",
+    "desc": "A fast, portable, simple, and free C/C++ IDE",
+    "lang": "Pascal"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "desc": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
+    "lang": "C++"
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "desc": "Arduino core for the ESP32",
+    "lang": "C"
+  },
+  {
+    "title": "evilsocket/pwnagotchi",
+    "url": "https://github.com/evilsocket/pwnagotchi",
+    "desc": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.",
+    "lang": "JavaScript"
+  }
+]
