@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "upptime/upptime",
+    "url": "https://github.com/upptime/upptime",
+    "desc": "⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Col-E/Recaf",
+    "url": "https://github.com/Col-E/Recaf",
+    "desc": "The modern Java bytecode editor",
+    "lang": "Java"
+  },
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "desc": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "lang": "Rust"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trinodb/trino",
+    "url": "https://github.com/trinodb/trino",
+    "desc": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+    "lang": "Java"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "desc": "Solidity, the Contract-Oriented Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "desc": "Arduino core for the ESP32",
+    "lang": "C"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "ZHKKKe/MODNet",
+    "url": "https://github.com/ZHKKKe/MODNet",
+    "desc": "A Trimap-Free Solution for Portrait Matting in Real Time under Changing Scenes",
+    "lang": "Python"
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "desc": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+    "lang": "Python"
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "desc": "Deep Learning (with PyTorch)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "desc": "Git with a cup of tea, painless self-hosted git service",
+    "lang": "Go"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antvis/G6",
+    "url": "https://github.com/antvis/G6",
+    "desc": "♾ A Graph Visualization Framework in JavaScript",
+    "lang": "TypeScript"
+  }
+]
