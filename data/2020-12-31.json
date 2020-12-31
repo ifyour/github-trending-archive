@@ -1,0 +1,148 @@
+[
+  {
+    "title": "qeeqbox/social-analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "desc": "API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "thecodingmachine/workadventure",
+    "url": "https://github.com/thecodingmachine/workadventure",
+    "desc": "A collaborative web application (virtual office) presented as a 16-bit RPG video game",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Basis-Cash/basiscash-protocol",
+    "url": "https://github.com/Basis-Cash/basiscash-protocol",
+    "desc": "Solidity implementation of the Basis Cash Protocol",
+    "lang": "Solidity"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C++"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (December 2020)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "desc": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+    "lang": "Python"
+  },
+  {
+    "title": "KingOfBugbounty/KingOfBugBountyTips",
+    "url": "https://github.com/KingOfBugbounty/KingOfBugBountyTips",
+    "desc": ""
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "upptime/upptime",
+    "url": "https://github.com/upptime/upptime",
+    "desc": "⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages"
+  },
+  {
+    "title": "anvaka/city-roads",
+    "url": "https://github.com/anvaka/city-roads",
+    "desc": "Visualization of all roads within any city",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "datenlord/datenlord",
+    "url": "https://github.com/datenlord/datenlord",
+    "desc": "DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system",
+    "lang": "Rust"
+  },
+  {
+    "title": "trinodb/trino",
+    "url": "https://github.com/trinodb/trino",
+    "desc": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+    "lang": "Java"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
+    "lang": "C++"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "lang": "Go"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "lang": "JavaScript"
+  }
+]
