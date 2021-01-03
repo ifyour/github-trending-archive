@@ -1,0 +1,150 @@
+[
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "monero-project/monero",
+    "url": "https://github.com/monero-project/monero",
+    "desc": "Monero: the secure, private, untraceable cryptocurrency",
+    "lang": "C++"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nightscout/AndroidAPS",
+    "url": "https://github.com/nightscout/AndroidAPS",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "qeeqbox/social-analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "desc": "API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "probml/pyprobml",
+    "url": "https://github.com/probml/pyprobml",
+    "desc": "Python code for Machine learning: a probabilistic perspective (2nd edition)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "artichoke/artichoke",
+    "url": "https://github.com/artichoke/artichoke",
+    "desc": "💎 Artichoke is a Ruby made with Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal Photo Management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "checkra1n/pongoOS",
+    "url": "https://github.com/checkra1n/pongoOS",
+    "desc": "pongoOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "desc": "Free, open, Among Us Proximity Chat",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MichMich/MagicMirror",
+    "url": "https://github.com/MichMich/MagicMirror",
+    "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "desc": "Ready-to-use Tailwind CSS blocks.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "THUMNLab/AutoGL",
+    "url": "https://github.com/THUMNLab/AutoGL",
+    "desc": "An autoML framework & toolkit for machine learning on graphs.",
+    "lang": "Python"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  }
+]
