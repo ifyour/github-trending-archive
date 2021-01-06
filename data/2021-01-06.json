@@ -1,32 +1,15 @@
 [
   {
-    "title": "TheAlgorithms/Java",
-    "url": "https://github.com/TheAlgorithms/Java",
-    "desc": "All Algorithms implemented in Java",
-    "lang": "Java"
-  },
-  {
-    "title": "photoprism/photoprism",
-    "url": "https://github.com/photoprism/photoprism",
-    "desc": "Personal Photo Management powered by Go and Google TensorFlow",
-    "lang": "Go"
-  },
-  {
     "title": "WerWolv/ImHex",
     "url": "https://github.com/WerWolv/ImHex",
     "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
     "lang": "C++"
   },
   {
-    "title": "firstcontributions/first-contributions",
-    "url": "https://github.com/firstcontributions/first-contributions",
-    "desc": "🚀✨ Help beginners to contribute to open source projects"
-  },
-  {
-    "title": "vitejs/vite",
-    "url": "https://github.com/vitejs/vite",
-    "desc": "Next generation frontend tooling. It's fast.",
-    "lang": "TypeScript"
+    "title": "rubygems/rubygems",
+    "url": "https://github.com/rubygems/rubygems",
+    "desc": "Library packaging and distribution for Ruby.",
+    "lang": "Ruby"
   },
   {
     "title": "996icu/996.ICU",
@@ -35,32 +18,16 @@
     "lang": "Rust"
   },
   {
-    "title": "dair-ai/ml-visuals",
-    "url": "https://github.com/dair-ai/ml-visuals",
-    "desc": "🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing."
-  },
-  {
-    "title": "karan/Projects",
-    "url": "https://github.com/karan/Projects",
-    "desc": "📃 A list of practical projects that anyone can solve in any programming language."
-  },
-  {
-    "title": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "lang": "Python"
   },
   {
-    "title": "flutter/flutter",
-    "url": "https://github.com/flutter/flutter",
-    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
-    "lang": "Dart"
-  },
-  {
-    "title": "trekhleb/javascript-algorithms",
-    "url": "https://github.com/trekhleb/javascript-algorithms",
-    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "lang": "JavaScript"
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "lang": "TypeScript"
   },
   {
     "title": "Redocly/redoc",
@@ -69,80 +36,115 @@
     "lang": "TypeScript"
   },
   {
-    "title": "loseys/Oblivion",
-    "url": "https://github.com/loseys/Oblivion",
-    "desc": "Data leak checker & OSINT Tool",
+    "title": "globalaihub/introduction-to-machine-learning",
+    "url": "https://github.com/globalaihub/introduction-to-machine-learning",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "karan/Projects",
+    "url": "https://github.com/karan/Projects",
+    "desc": "📃 A list of practical projects that anyone can solve in any programming language."
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+  },
+  {
+    "title": "wasmerio/wasmer",
+    "url": "https://github.com/wasmerio/wasmer",
+    "desc": "🚀 The leading WebAssembly Runtime supporting WASI and Emscripten",
+    "lang": "Rust"
+  },
+  {
+    "title": "docker/distribution",
+    "url": "https://github.com/docker/distribution",
+    "desc": "The toolkit to pack, ship, store, and deliver container content",
+    "lang": "Go"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "desc": "Next generation frontend tooling. It's fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/faiss",
+    "url": "https://github.com/facebookresearch/faiss",
+    "desc": "A library for efficient similarity search and clustering of dense vectors.",
+    "lang": "C++"
+  },
+  {
+    "title": "rsalmei/alive-progress",
+    "url": "https://github.com/rsalmei/alive-progress",
+    "desc": "A new kind of Progress Bar, with real time throughput, eta and very cool animations!",
     "lang": "Python"
   },
   {
-    "title": "PHPOffice/PhpSpreadsheet",
-    "url": "https://github.com/PHPOffice/PhpSpreadsheet",
-    "desc": "A pure PHP library for reading and writing spreadsheet files",
-    "lang": "PHP"
+    "title": "OlafenwaMoses/ImageAI",
+    "url": "https://github.com/OlafenwaMoses/ImageAI",
+    "desc": "A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities",
+    "lang": "Python"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
   },
   {
     "title": "eugenp/tutorials",
     "url": "https://github.com/eugenp/tutorials",
     "desc": "Just Announced - Learn Spring Security OAuth:",
     "lang": "Java"
-  },
-  {
-    "title": "jpochyla/psst",
-    "url": "https://github.com/jpochyla/psst",
-    "desc": "Fast and multi-platform Spotify client with native GUI",
-    "lang": "Rust"
-  },
-  {
-    "title": "fffaraz/awesome-cpp",
-    "url": "https://github.com/fffaraz/awesome-cpp",
-    "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
-  },
-  {
-    "title": "rust-unofficial/patterns",
-    "url": "https://github.com/rust-unofficial/patterns",
-    "desc": "A catalogue of Rust design patterns, anti-patterns and idioms",
-    "lang": "Shell"
-  },
-  {
-    "title": "hexops/dockerfile",
-    "url": "https://github.com/hexops/dockerfile",
-    "desc": "Dockerfile best-practices for writing production-worthy Docker images.",
-    "lang": "Dockerfile"
-  },
-  {
-    "title": "excalidraw/excalidraw",
-    "url": "https://github.com/excalidraw/excalidraw",
-    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "pyenv/pyenv",
-    "url": "https://github.com/pyenv/pyenv",
-    "desc": "Simple Python version management",
-    "lang": "Shell"
-  },
-  {
-    "title": "ryanmcdermott/clean-code-javascript",
-    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "desc": "🛁 Clean Code concepts adapted for JavaScript",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "prometheus-community/helm-charts",
-    "url": "https://github.com/prometheus-community/helm-charts",
-    "desc": "Prometheus community Helm charts",
-    "lang": "HTML"
-  },
-  {
-    "title": "jhu-ep-coursera/fullstack-course4",
-    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
-    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "hashicorp/terraform",
-    "url": "https://github.com/hashicorp/terraform",
-    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-    "lang": "Go"
   }
 ]
