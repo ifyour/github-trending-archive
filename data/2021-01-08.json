@@ -1,0 +1,149 @@
+[
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "desc": "Official git mirror of the WebKit repository, https://svn.webkit.org/repository/webkit, future canonical repository."
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LasCC/Hack-Tools",
+    "url": "https://github.com/LasCC/Hack-Tools",
+    "desc": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Chocobozzz/PeerTube",
+    "url": "https://github.com/Chocobozzz/PeerTube",
+    "desc": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Shell"
+  },
+  {
+    "title": "lowlighter/metrics",
+    "url": "https://github.com/lowlighter/metrics",
+    "desc": "📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wasmerio/wasmer",
+    "url": "https://github.com/wasmerio/wasmer",
+    "desc": "🚀 The leading WebAssembly Runtime supporting WASI and Emscripten",
+    "lang": "Rust"
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "desc": "Everything you need to prepare for your technical interview"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jamstack-cms/jamstack-ecommerce",
+    "url": "https://github.com/jamstack-cms/jamstack-ecommerce",
+    "desc": "A starter project for building performant ECommerce applications with Next.js and React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "desc": "Latex code for making neural networks diagrams",
+    "lang": "TeX"
+  },
+  {
+    "title": "stnkl/EverythingToolbar",
+    "url": "https://github.com/stnkl/EverythingToolbar",
+    "desc": "Everything integration for the Windows taskbar.",
+    "lang": "C#"
+  },
+  {
+    "title": "alibaba/flutter_boost",
+    "url": "https://github.com/alibaba/flutter_boost",
+    "desc": "FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts",
+    "lang": "Java"
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "desc": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
+    "lang": "C#"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ElvinC/gyroflow",
+    "url": "https://github.com/ElvinC/gyroflow",
+    "desc": "WIP Video stabilization using gyro data from GoPro or external log",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "firebase/firebase-tools",
+    "url": "https://github.com/firebase/firebase-tools",
+    "desc": "The Firebase Command Line Tools",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "karan/Projects",
+    "url": "https://github.com/karan/Projects",
+    "desc": "📃 A list of practical projects that anyone can solve in any programming language."
+  }
+]
