@@ -1,0 +1,149 @@
+[
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "desc": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "lang": "Java"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "desc": "A private messenger for iOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "desc": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "desc": "Telegram Desktop messaging app",
+    "lang": "C++"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ottomated/CrewLink-server",
+    "url": "https://github.com/ottomated/CrewLink-server",
+    "desc": "Voice Relay server for CrewLink.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "leereilly/games",
+    "url": "https://github.com/leereilly/games",
+    "desc": "🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine."
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "desc": "Advanced information gathering & OSINT framework for phone numbers",
+    "lang": "Go"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "persepolisdm/persepolis",
+    "url": "https://github.com/persepolisdm/persepolis",
+    "desc": "Persepolis Download Manager is a GUI for aria2.",
+    "lang": "Python"
+  },
+  {
+    "title": "denverquane/automuteus",
+    "url": "https://github.com/denverquane/automuteus",
+    "desc": "Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture",
+    "lang": "Go"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MarlinFirmware/Configurations",
+    "url": "https://github.com/MarlinFirmware/Configurations",
+    "desc": "Configurations for Marlin Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  }
+]
