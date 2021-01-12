@@ -1,0 +1,147 @@
+[
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "desc": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "desc": "A private messenger for iOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "desc": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "lang": "Java"
+  },
+  {
+    "title": "Rust-GCC/gccrs",
+    "url": "https://github.com/Rust-GCC/gccrs",
+    "desc": "GCC Front-End for Rust"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "lang": "Python"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "signals-dev/Orion",
+    "url": "https://github.com/signals-dev/Orion",
+    "desc": "A machine learning library for detecting anomalies in signals.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "leereilly/games",
+    "url": "https://github.com/leereilly/games",
+    "desc": "🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine."
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "kataras/iris",
+    "url": "https://github.com/kataras/iris",
+    "desc": "The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |",
+    "lang": "Go"
+  },
+  {
+    "title": "geohot/corona",
+    "url": "https://github.com/geohot/corona",
+    "desc": "Reverse engineering SARS-CoV-2",
+    "lang": "Python"
+  },
+  {
+    "title": "cztomczak/cefpython",
+    "url": "https://github.com/cztomczak/cefpython",
+    "desc": "Python bindings for the Chromium Embedded Framework (CEF)",
+    "lang": "C++"
+  },
+  {
+    "title": "vercel/swr",
+    "url": "https://github.com/vercel/swr",
+    "desc": "React Hooks library for remote data fetching",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "desc": "Advanced information gathering & OSINT framework for phone numbers",
+    "lang": "Go"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "brave/brave-browser",
+    "url": "https://github.com/brave/brave-browser",
+    "desc": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+    "lang": "JavaScript"
+  }
+]
