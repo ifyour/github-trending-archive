@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "plantuml-stdlib/C4-PlantUML",
+    "url": "https://github.com/plantuml-stdlib/C4-PlantUML",
+    "desc": "C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "desc": "💥 Listing some playful open-source's challenges of jobs to test your knowledge"
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "desc": "Angular UI Kit and components library for awesome people",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "carlospolop/hacktricks",
+    "url": "https://github.com/carlospolop/hacktricks",
+    "desc": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "lang": "Python"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2021"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "desc": "High-Performance Java API Gateway",
+    "lang": "Java"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "A data orchestrator for machine learning, analytics, and ETL.",
+    "lang": "Python"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "amplication/amplication",
+    "url": "https://github.com/amplication/amplication",
+    "desc": "Create business applications, without coding. Build a fully functional Node.js server-side app with all your data models and a React client, in less than 5 minutes.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rabbitmq/rabbitmq-server",
+    "url": "https://github.com/rabbitmq/rabbitmq-server",
+    "desc": "Open source RabbitMQ: core server and tier 1 (built-in) plugins",
+    "lang": "Shell"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "desc": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+    "lang": "Go"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "terraform-google-modules/terraform-google-project-factory",
+    "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+    "desc": "Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.",
+    "lang": "HCL"
+  }
+]
