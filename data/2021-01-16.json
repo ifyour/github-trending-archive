@@ -1,0 +1,148 @@
+[
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "e-m-b-a/emba",
+    "url": "https://github.com/e-m-b-a/emba",
+    "desc": "emba - An analyzer for Linux-based firmware of embedded devices.",
+    "lang": "Shell"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "A data orchestrator for machine learning, analytics, and ETL.",
+    "lang": "Python"
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "desc": "Angular UI Kit and components library for awesome people",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "carlospolop/hacktricks",
+    "url": "https://github.com/carlospolop/hacktricks",
+    "desc": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "lang": "Python"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2021"
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "desc": "💥 Listing some playful open-source's challenges of jobs to test your knowledge"
+  },
+  {
+    "title": "ChilliCream/hotchocolate",
+    "url": "https://github.com/ChilliCream/hotchocolate",
+    "desc": "Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.",
+    "lang": "C#"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "desc": "Compatibility tool for Steam Play based on Wine and additional components",
+    "lang": "C++"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jupeter/clean-code-php",
+    "url": "https://github.com/jupeter/clean-code-php",
+    "desc": "🛁 Clean Code concepts adapted for PHP",
+    "lang": "PHP"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "outline/outline",
+    "url": "https://github.com/outline/outline",
+    "desc": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "lang": "Rust"
+  }
+]
