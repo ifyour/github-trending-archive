@@ -1,0 +1,148 @@
+[
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "jagregory/abrash-black-book",
+    "url": "https://github.com/jagregory/abrash-black-book",
+    "desc": "Markdown source for Michael Abrash's Graphics Programming Black Book",
+    "lang": "CSS"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "seanmonstar/warp",
+    "url": "https://github.com/seanmonstar/warp",
+    "desc": "A super-easy, composable, web server framework for warp speeds.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Shell"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DrkSephy/es6-cheatsheet",
+    "url": "https://github.com/DrkSephy/es6-cheatsheet",
+    "desc": "ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2021"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "TelegramMessenger/Telegram-iOS",
+    "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+    "desc": "Telegram-iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "tomlooman/ActionRoguelike",
+    "url": "https://github.com/tomlooman/ActionRoguelike",
+    "desc": "Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)",
+    "lang": "C++"
+  },
+  {
+    "title": "signalapp/libsignal-client",
+    "url": "https://github.com/signalapp/libsignal-client",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "snowpackjs/snowpack",
+    "url": "https://github.com/snowpackjs/snowpack",
+    "desc": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+  },
+  {
+    "title": "GoogleChrome/web.dev",
+    "url": "https://github.com/GoogleChrome/web.dev",
+    "desc": "The frontend, backend, and content source code for web.dev",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "carlospolop/hacktricks",
+    "url": "https://github.com/carlospolop/hacktricks",
+    "desc": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "lang": "Python"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "desc": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "lang": "HTML"
+  },
+  {
+    "title": "adrianhajdin/project_mern_memories",
+    "url": "https://github.com/adrianhajdin/project_mern_memories",
+    "desc": "This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "desc": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  }
+]
