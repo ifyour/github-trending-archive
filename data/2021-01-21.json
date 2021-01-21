@@ -1,0 +1,148 @@
+[
+  {
+    "title": "tomlooman/ActionRoguelike",
+    "url": "https://github.com/tomlooman/ActionRoguelike",
+    "desc": "Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)",
+    "lang": "C++"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "minio/minio",
+    "url": "https://github.com/minio/minio",
+    "desc": "High Performance, Kubernetes Native Object Storage",
+    "lang": "Go"
+  },
+  {
+    "title": "google/tf-quant-finance",
+    "url": "https://github.com/google/tf-quant-finance",
+    "desc": "High-performance TensorFlow library for quantitative finance.",
+    "lang": "Python"
+  },
+  {
+    "title": "popey/sosumi-snap",
+    "url": "https://github.com/popey/sosumi-snap",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "desc": "Web APIs for Django. 🎸",
+    "lang": "Python"
+  },
+  {
+    "title": "adonismendozaperez/33-js-conceptos",
+    "url": "https://github.com/adonismendozaperez/33-js-conceptos",
+    "desc": "📜 33 Conceptos que todo desarrollador de JavaScript debería saber.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "desc": "The Kotlin Programming Language"
+  },
+  {
+    "title": "vueuse/vueuse",
+    "url": "https://github.com/vueuse/vueuse",
+    "desc": "Collection of essential Vue Composition Utilities for Vue 2 and 3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wesbos/JavaScript30",
+    "url": "https://github.com/wesbos/JavaScript30",
+    "desc": "30 Day Vanilla JS Challenge",
+    "lang": "HTML"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming."
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "ardalis/CleanArchitecture",
+    "url": "https://github.com/ardalis/CleanArchitecture",
+    "desc": "A starting point for Clean Architecture with ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ballista-compute/ballista",
+    "url": "https://github.com/ballista-compute/ballista",
+    "desc": "Distributed compute platform implemented in Rust, using Apache Arrow memory model.",
+    "lang": "Rust"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "prometheus-operator/prometheus-operator",
+    "url": "https://github.com/prometheus-operator/prometheus-operator",
+    "desc": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal Photo Management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "gruntwork-io/terratest",
+    "url": "https://github.com/gruntwork-io/terratest",
+    "desc": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+    "lang": "Go"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dgraph-io/dgraph",
+    "url": "https://github.com/dgraph-io/dgraph",
+    "desc": "Native GraphQL Database with graph backend",
+    "lang": "Go"
+  }
+]
