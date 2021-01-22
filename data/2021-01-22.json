@@ -1,0 +1,150 @@
+[
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "desc": "Web APIs for Django. 🎸",
+    "lang": "Python"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/tf-quant-finance",
+    "url": "https://github.com/google/tf-quant-finance",
+    "desc": "High-performance TensorFlow library for quantitative finance.",
+    "lang": "Python"
+  },
+  {
+    "title": "EleutherAI/gpt-neo",
+    "url": "https://github.com/EleutherAI/gpt-neo",
+    "desc": "An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.",
+    "lang": "Python"
+  },
+  {
+    "title": "tomlooman/ActionRoguelike",
+    "url": "https://github.com/tomlooman/ActionRoguelike",
+    "desc": "Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wesbos/JavaScript30",
+    "url": "https://github.com/wesbos/JavaScript30",
+    "desc": "30 Day Vanilla JS Challenge",
+    "lang": "HTML"
+  },
+  {
+    "title": "gruntwork-io/terratest",
+    "url": "https://github.com/gruntwork-io/terratest",
+    "desc": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+    "lang": "Go"
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "desc": "Vanced Installer",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "desc": "The Kotlin Programming Language"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "desc": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+    "lang": "HTML"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/faiss",
+    "url": "https://github.com/facebookresearch/faiss",
+    "desc": "A library for efficient similarity search and clustering of dense vectors.",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/hive",
+    "url": "https://github.com/apache/hive",
+    "desc": "Apache Hive",
+    "lang": "Java"
+  },
+  {
+    "title": "AI4Finance-LLC/FinRL-Library",
+    "url": "https://github.com/AI4Finance-LLC/FinRL-Library",
+    "desc": "A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020. Please star.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties"
+  },
+  {
+    "title": "ardalis/CleanArchitecture",
+    "url": "https://github.com/ardalis/CleanArchitecture",
+    "desc": "A starting point for Clean Architecture with ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "TypeScript"
+  }
+]
