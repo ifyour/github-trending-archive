@@ -1,0 +1,152 @@
+[
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "desc": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "lang": "C"
+  },
+  {
+    "title": "pingcap/talent-plan",
+    "url": "https://github.com/pingcap/talent-plan",
+    "desc": "open source training courses about distributed database and distributed systemes",
+    "lang": "Rust"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "leon-thomm/Ryven",
+    "url": "https://github.com/leon-thomm/Ryven",
+    "desc": "Flow-based visual scripting for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "desc": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "lang": "HTML"
+  },
+  {
+    "title": "hathach/tinyusb",
+    "url": "https://github.com/hathach/tinyusb",
+    "desc": "An open source cross-platform USB stack for embedded system",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "rqlite/rqlite",
+    "url": "https://github.com/rqlite/rqlite",
+    "desc": "The lightweight, distributed relational database built on SQLite.",
+    "lang": "Go"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vectorizedio/redpanda",
+    "url": "https://github.com/vectorizedio/redpanda",
+    "desc": "Redpanda is the real-time engine for modern apps.",
+    "lang": "C++"
+  },
+  {
+    "title": "obheda12/GitDorker",
+    "url": "https://github.com/obheda12/GitDorker",
+    "desc": "A Python program to scrape secrets from GitHub through usage of a large repository of dorks.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "radzenhq/radzen-blazor",
+    "url": "https://github.com/radzenhq/radzen-blazor",
+    "desc": "The home of the Radzen Blazor components.",
+    "lang": "CSS"
+  },
+  {
+    "title": "reactos/reactos",
+    "url": "https://github.com/reactos/reactos",
+    "desc": "A free Windows-compatible Operating System",
+    "lang": "C"
+  },
+  {
+    "title": "bradtraversy/proshop_mern",
+    "url": "https://github.com/bradtraversy/proshop_mern",
+    "desc": "Shopping cart built with MERN & Redux",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "revolist/revogrid",
+    "url": "https://github.com/revolist/revogrid",
+    "desc": "Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible performance 🔋",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "svenstaro/miniserve",
+    "url": "https://github.com/svenstaro/miniserve",
+    "desc": "🌟 For when you really just want to serve some files over HTTP right now!",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/fluentui",
+    "url": "https://github.com/microsoft/fluentui",
+    "desc": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+    "lang": "TypeScript"
+  }
+]
