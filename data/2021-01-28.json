@@ -1,0 +1,146 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost",
+    "desc": "Approaching (Almost) Any Machine Learning Problem"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "lang": "Vue"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security."
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "desc": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "lang": "Go"
+  },
+  {
+    "title": "hathach/tinyusb",
+    "url": "https://github.com/hathach/tinyusb",
+    "desc": "An open source cross-platform USB stack for embedded system",
+    "lang": "C"
+  },
+  {
+    "title": "mjebrahimi/Awesome-Microservices-NetCore",
+    "url": "https://github.com/mjebrahimi/Awesome-Microservices-NetCore",
+    "desc": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "desc": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "lang": "C"
+  },
+  {
+    "title": "mikecao/umami",
+    "url": "https://github.com/mikecao/umami",
+    "desc": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "desc": "Angular UI Kit and components library for awesome people",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "MinaProtocol/mina",
+    "url": "https://github.com/MinaProtocol/mina",
+    "desc": "Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "wekan/wekan",
+    "url": "https://github.com/wekan/wekan",
+    "desc": "The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "lang": "C#"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "HTML"
+  },
+  {
+    "title": "odedshimon/BruteShark",
+    "url": "https://github.com/odedshimon/BruteShark",
+    "desc": "Network Analysis Tool",
+    "lang": "C#"
+  }
+]
