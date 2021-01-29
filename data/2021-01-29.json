@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost",
+    "desc": "Approaching (Almost) Any Machine Learning Problem"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security."
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/sql-server-samples",
+    "url": "https://github.com/microsoft/sql-server-samples",
+    "desc": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge"
+  },
+  {
+    "title": "leahneukirchen/nq",
+    "url": "https://github.com/leahneukirchen/nq",
+    "desc": "Unix command line queue utility",
+    "lang": "C"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ckz8780/market-toolkit",
+    "url": "https://github.com/ckz8780/market-toolkit",
+    "desc": "A collection of stock market resources and tools"
+  },
+  {
+    "title": "matt8707/hass-config",
+    "url": "https://github.com/matt8707/hass-config",
+    "desc": "A different take on designing a Lovelace UI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WICG/floc",
+    "url": "https://github.com/WICG/floc",
+    "desc": "FLoC"
+  },
+  {
+    "title": "mikecao/umami",
+    "url": "https://github.com/mikecao/umami",
+    "desc": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "craftcms/cms",
+    "url": "https://github.com/craftcms/cms",
+    "desc": "Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.",
+    "lang": "PHP"
+  },
+  {
+    "title": "airbytehq/airbyte",
+    "url": "https://github.com/airbytehq/airbyte",
+    "desc": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",
+    "lang": "Java"
+  },
+  {
+    "title": "discord/discord-api-docs",
+    "url": "https://github.com/discord/discord-api-docs",
+    "desc": "Official Discord API Documentation",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jbhuang0604/awesome-computer-vision",
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+    "desc": "A curated list of awesome computer vision resources"
+  },
+  {
+    "title": "serverless-stack/serverless-stack",
+    "url": "https://github.com/serverless-stack/serverless-stack",
+    "desc": "Serverless Stack Toolkit allows you to build serverless apps using CDK.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws-amplify/amplify-cli",
+    "url": "https://github.com/aws-amplify/amplify-cli",
+    "desc": "A CLI toolchain for simplifying serverless web and mobile development.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "edenhill/librdkafka",
+    "url": "https://github.com/edenhill/librdkafka",
+    "desc": "The Apache Kafka C/C++ library",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "thephpleague/flysystem",
+    "url": "https://github.com/thephpleague/flysystem",
+    "desc": "Abstraction for local and remote filesystems",
+    "lang": "PHP"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "lang": "Vue"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "An easier way to build neural search in the cloud",
+    "lang": "Python"
+  },
+  {
+    "title": "hathach/tinyusb",
+    "url": "https://github.com/hathach/tinyusb",
+    "desc": "An open source cross-platform USB stack for embedded system",
+    "lang": "C"
+  }
+]
