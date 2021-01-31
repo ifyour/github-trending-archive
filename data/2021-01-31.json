@@ -1,0 +1,148 @@
+[
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "berty/berty",
+    "url": "https://github.com/berty/berty",
+    "desc": "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
+    "lang": "Go"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensortrade-org/tensortrade",
+    "url": "https://github.com/tensortrade-org/tensortrade",
+    "desc": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+    "lang": "Python"
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost",
+    "desc": "Approaching (Almost) Any Machine Learning Problem"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "yeungon/In-JavaScript-we-trust",
+    "url": "https://github.com/yeungon/In-JavaScript-we-trust",
+    "desc": "Embrace JavaScript naturally and confidently with coding challenges crafted not for beginners, but JavaScript lovers no matter what.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "airbytehq/airbyte",
+    "url": "https://github.com/airbytehq/airbyte",
+    "desc": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",
+    "lang": "Java"
+  },
+  {
+    "title": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "desc": "jQuery JavaScript Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rubocop-hq/rubocop",
+    "url": "https://github.com/rubocop-hq/rubocop",
+    "desc": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "desc": "The Kotlin Programming Language"
+  },
+  {
+    "title": "hrsh7th/nvim-compe",
+    "url": "https://github.com/hrsh7th/nvim-compe",
+    "desc": "Auto completion plugin for nvim.",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ckz8780/market-toolkit",
+    "url": "https://github.com/ckz8780/market-toolkit",
+    "desc": "A collection of stock market resources and tools"
+  },
+  {
+    "title": "linebender/druid",
+    "url": "https://github.com/linebender/druid",
+    "desc": "A data-first Rust-native UI design toolkit.",
+    "lang": "Rust"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "rook/rook",
+    "url": "https://github.com/rook/rook",
+    "desc": "Storage Orchestration for Kubernetes",
+    "lang": "Go"
+  }
+]
