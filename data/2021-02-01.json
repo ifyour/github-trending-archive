@@ -1,0 +1,150 @@
+[
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "C++"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "berty/berty",
+    "url": "https://github.com/berty/berty",
+    "desc": "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
+    "lang": "Go"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "desc": "A collection of algorithms and data structures",
+    "lang": "Java"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "tensortrade-org/tensortrade",
+    "url": "https://github.com/tensortrade-org/tensortrade",
+    "desc": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  },
+  {
+    "title": "prusa3d/PrusaSlicer",
+    "url": "https://github.com/prusa3d/PrusaSlicer",
+    "desc": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "lang": "C++"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "twostraws/ControlRoom",
+    "url": "https://github.com/twostraws/ControlRoom",
+    "desc": "A macOS app to control the Xcode Simulator.",
+    "lang": "Swift"
+  },
+  {
+    "title": "lockedbyte/CVE-Exploits",
+    "url": "https://github.com/lockedbyte/CVE-Exploits",
+    "desc": "PoCs for public CVE's I have been working on.",
+    "lang": "C"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "Mr-Un1k0d3r/RedTeamCCode",
+    "url": "https://github.com/Mr-Un1k0d3r/RedTeamCCode",
+    "desc": "Red Team C code repo",
+    "lang": "C"
+  },
+  {
+    "title": "lab-ml/nn",
+    "url": "https://github.com/lab-ml/nn",
+    "desc": "🧠 Minimal implementations/tutorials of deep learning papers with side-by-side notes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hlissner/doom-emacs",
+    "url": "https://github.com/hlissner/doom-emacs",
+    "desc": "An Emacs framework for the stubborn martian hacker",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "http-rs/tide",
+    "url": "https://github.com/http-rs/tide",
+    "desc": "Fast and friendly HTTP server framework for async Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "ninjamuffin99/Funkin",
+    "url": "https://github.com/ninjamuffin99/Funkin",
+    "desc": "",
+    "lang": "Haxe"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "johannesjo/super-productivity",
+    "url": "https://github.com/johannesjo/super-productivity",
+    "desc": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "desc": "Free, open, Among Us Proximity Chat",
+    "lang": "TypeScript"
+  }
+]
