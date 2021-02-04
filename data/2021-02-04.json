@@ -1,0 +1,150 @@
+[
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "lang": "C#"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "Serial-Studio/Serial-Studio",
+    "url": "https://github.com/Serial-Studio/Serial-Studio",
+    "desc": "Multi-purpose serial data visualization & processing program",
+    "lang": "C++"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "desc": "Terraform module which creates VPC resources on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "microsoft/fluentui",
+    "url": "https://github.com/microsoft/fluentui",
+    "desc": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ianstormtaylor/slate",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "desc": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twostraws/ControlRoom",
+    "url": "https://github.com/twostraws/ControlRoom",
+    "desc": "A macOS app to control the Xcode Simulator.",
+    "lang": "Swift"
+  },
+  {
+    "title": "tiangolo/full-stack-fastapi-postgresql",
+    "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+    "desc": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "swagger-api/swagger-ui",
+    "url": "https://github.com/swagger-api/swagger-ui",
+    "desc": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "twostraws/HackingWithSwift",
+    "url": "https://github.com/twostraws/HackingWithSwift",
+    "desc": "The project source code for hackingwithswift.com",
+    "lang": "Swift"
+  },
+  {
+    "title": "lab-ml/nn",
+    "url": "https://github.com/lab-ml/nn",
+    "desc": "🧠 Minimal implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nostalgic-css/NES.css",
+    "url": "https://github.com/nostalgic-css/NES.css",
+    "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "lang": "SCSS"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  }
+]
