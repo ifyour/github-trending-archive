@@ -1,56 +1,15 @@
 [
   {
-    "title": "TheAlgorithms/C-Plus-Plus",
-    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
-    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-    "lang": "C++"
-  },
-  {
-    "title": "Serial-Studio/Serial-Studio",
-    "url": "https://github.com/Serial-Studio/Serial-Studio",
-    "desc": "Multi-purpose serial data visualization & processing program",
-    "lang": "C++"
-  },
-  {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "desc": "Googletest - Google Testing and Mocking Framework",
     "lang": "C++"
   },
   {
-    "title": "eugeneyan/applied-ml",
-    "url": "https://github.com/eugeneyan/applied-ml",
-    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
-  },
-  {
-    "title": "TheAlgorithms/Python",
-    "url": "https://github.com/TheAlgorithms/Python",
-    "desc": "All Algorithms implemented in Python",
-    "lang": "Python"
-  },
-  {
-    "title": "microsoft/PowerToys",
-    "url": "https://github.com/microsoft/PowerToys",
-    "desc": "Windows system utilities to maximize productivity",
-    "lang": "C#"
-  },
-  {
-    "title": "jasontaylordev/CleanArchitecture",
-    "url": "https://github.com/jasontaylordev/CleanArchitecture",
-    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
-    "lang": "C#"
-  },
-  {
-    "title": "terraform-aws-modules/terraform-aws-vpc",
-    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-    "desc": "Terraform module which creates VPC resources on AWS",
-    "lang": "HCL"
-  },
-  {
-    "title": "trekhleb/javascript-algorithms",
-    "url": "https://github.com/trekhleb/javascript-algorithms",
-    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "lang": "JavaScript"
+    "title": "oasis-engine/engine",
+    "url": "https://github.com/oasis-engine/engine",
+    "desc": "Oasis Engine is a web-first and mobile-first high-performance real-time development platform.",
+    "lang": "TypeScript"
   },
   {
     "title": "penpot/penpot",
@@ -59,16 +18,63 @@
     "lang": "Clojure"
   },
   {
-    "title": "moonD4rk/HackBrowserData",
-    "url": "https://github.com/moonD4rk/HackBrowserData",
-    "desc": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "title": "accurics/terrascan",
+    "url": "https://github.com/accurics/terrascan",
+    "desc": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
     "lang": "Go"
   },
   {
-    "title": "actions/virtual-environments",
-    "url": "https://github.com/actions/virtual-environments",
-    "desc": "GitHub Actions virtual environments",
-    "lang": "PowerShell"
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "greatsuspender/thegreatsuspender",
+    "url": "https://github.com/greatsuspender/thegreatsuspender",
+    "desc": "A chrome extension for suspending all tabs to free up memory",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "progrium/macdriver",
+    "url": "https://github.com/progrium/macdriver",
+    "desc": "Native Mac APIs for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mobvoi/wenet",
+    "url": "https://github.com/mobvoi/wenet",
+    "desc": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
+    "lang": "Python"
   },
   {
     "title": "TheAlgorithms/C",
@@ -77,10 +83,52 @@
     "lang": "C"
   },
   {
+    "title": "PaddlePaddle/VisualDL",
+    "url": "https://github.com/PaddlePaddle/VisualDL",
+    "desc": "Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cocoa-mhlw/cocoa",
+    "url": "https://github.com/cocoa-mhlw/cocoa",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
     "title": "MicrosoftDocs/azure-docs",
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "desc": "Open source documentation of Microsoft Azure",
     "lang": "PowerShell"
+  },
+  {
+    "title": "uo-ec607/lectures",
+    "url": "https://github.com/uo-ec607/lectures",
+    "desc": "Lecture notes for EC 607",
+    "lang": "HTML"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "desc": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+    "lang": "HTML"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "desc": "Terraform module which creates VPC resources on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "bridgecrewio/checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "desc": "Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.",
+    "lang": "Python"
+  },
+  {
+    "title": "magma/magma",
+    "url": "https://github.com/magma/magma",
+    "desc": "Platform for building access networks and modular network services",
+    "lang": "Go"
   },
   {
     "title": "flutter/flutter",
@@ -89,63 +137,15 @@
     "lang": "Dart"
   },
   {
-    "title": "skypjack/entt",
-    "url": "https://github.com/skypjack/entt",
-    "desc": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
-    "lang": "C++"
-  },
-  {
-    "title": "xamarin/XamarinCommunityToolkit",
-    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
-    "desc": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
-    "lang": "C#"
-  },
-  {
-    "title": "DefinitelyTyped/DefinitelyTyped",
-    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-    "desc": "The repository for high quality TypeScript type definitions.",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "tfsec/tfsec",
-    "url": "https://github.com/tfsec/tfsec",
-    "desc": "🔒🌍 Security scanner for your Terraform code",
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
     "lang": "Go"
   },
   {
-    "title": "PaddlePaddle/Paddle",
-    "url": "https://github.com/PaddlePaddle/Paddle",
-    "desc": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
-    "lang": "Python"
-  },
-  {
-    "title": "nolimits4web/swiper",
-    "url": "https://github.com/nolimits4web/swiper",
-    "desc": "Most modern mobile touch slider with hardware accelerated transitions",
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
     "lang": "JavaScript"
-  },
-  {
-    "title": "rails/rails",
-    "url": "https://github.com/rails/rails",
-    "desc": "Ruby on Rails",
-    "lang": "Ruby"
-  },
-  {
-    "title": "terraform-providers/terraform-provider-azurerm",
-    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
-    "desc": "Terraform provider for Azure Resource Manager",
-    "lang": "Go"
-  },
-  {
-    "title": "metabase/metabase",
-    "url": "https://github.com/metabase/metabase",
-    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
-    "lang": "Clojure"
-  },
-  {
-    "title": "protocolbuffers/protobuf",
-    "url": "https://github.com/protocolbuffers/protobuf",
-    "desc": "Protocol Buffers - Google's data interchange format",
-    "lang": "C++"
   }
 ]
