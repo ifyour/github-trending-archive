@@ -1,45 +1,15 @@
 [
   {
-    "title": "google/googletest",
-    "url": "https://github.com/google/googletest",
-    "desc": "Googletest - Google Testing and Mocking Framework",
-    "lang": "C++"
-  },
-  {
-    "title": "oasis-engine/engine",
-    "url": "https://github.com/oasis-engine/engine",
-    "desc": "Oasis Engine is a web-first and mobile-first high-performance real-time development platform.",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "penpot/penpot",
-    "url": "https://github.com/penpot/penpot",
-    "desc": "Penpot - The Open-Source prototyping tool",
-    "lang": "Clojure"
-  },
-  {
-    "title": "accurics/terrascan",
-    "url": "https://github.com/accurics/terrascan",
-    "desc": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
-    "lang": "Go"
-  },
-  {
-    "title": "microsoft/PowerToys",
-    "url": "https://github.com/microsoft/PowerToys",
-    "desc": "Windows system utilities to maximize productivity",
-    "lang": "C#"
-  },
-  {
     "title": "greatsuspender/thegreatsuspender",
     "url": "https://github.com/greatsuspender/thegreatsuspender",
     "desc": "A chrome extension for suspending all tabs to free up memory",
     "lang": "JavaScript"
   },
   {
-    "title": "wesbos/Advanced-React",
-    "url": "https://github.com/wesbos/Advanced-React",
-    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
-    "lang": "JavaScript"
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
   },
   {
     "title": "progrium/macdriver",
@@ -48,32 +18,39 @@
     "lang": "Go"
   },
   {
-    "title": "TheAlgorithms/C-Plus-Plus",
-    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
-    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-    "lang": "C++"
+    "title": "Netflix/dgs-framework",
+    "url": "https://github.com/Netflix/dgs-framework",
+    "desc": "",
+    "lang": "Kotlin"
   },
   {
-    "title": "eugeneyan/applied-ml",
-    "url": "https://github.com/eugeneyan/applied-ml",
-    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot - The Open-Source prototyping tool",
+    "lang": "Clojure"
   },
   {
-    "title": "jasontaylordev/CleanArchitecture",
-    "url": "https://github.com/jasontaylordev/CleanArchitecture",
-    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
-    "lang": "C#"
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
   },
   {
-    "title": "TheAlgorithms/Python",
-    "url": "https://github.com/TheAlgorithms/Python",
-    "desc": "All Algorithms implemented in Python",
-    "lang": "Python"
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
   },
   {
-    "title": "mobvoi/wenet",
-    "url": "https://github.com/mobvoi/wenet",
-    "desc": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "archivy/archivy",
+    "url": "https://github.com/archivy/archivy",
+    "desc": "Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.",
     "lang": "Python"
   },
   {
@@ -83,46 +60,69 @@
     "lang": "C"
   },
   {
-    "title": "PaddlePaddle/VisualDL",
-    "url": "https://github.com/PaddlePaddle/VisualDL",
-    "desc": "Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）",
+    "title": "pkhungurn/talking-head-anime-demo",
+    "url": "https://github.com/pkhungurn/talking-head-anime-demo",
+    "desc": "Demo for the Talking Head Anime from a Single Image.",
+    "lang": "Python"
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
     "lang": "TypeScript"
   },
   {
-    "title": "cocoa-mhlw/cocoa",
-    "url": "https://github.com/cocoa-mhlw/cocoa",
-    "desc": "",
-    "lang": "C#"
-  },
-  {
-    "title": "MicrosoftDocs/azure-docs",
-    "url": "https://github.com/MicrosoftDocs/azure-docs",
-    "desc": "Open source documentation of Microsoft Azure",
-    "lang": "PowerShell"
-  },
-  {
-    "title": "uo-ec607/lectures",
-    "url": "https://github.com/uo-ec607/lectures",
-    "desc": "Lecture notes for EC 607",
-    "lang": "HTML"
-  },
-  {
-    "title": "h5bp/Front-end-Developer-Interview-Questions",
-    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
-    "desc": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
-    "lang": "HTML"
-  },
-  {
-    "title": "terraform-aws-modules/terraform-aws-vpc",
-    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-    "desc": "Terraform module which creates VPC resources on AWS",
-    "lang": "HCL"
-  },
-  {
-    "title": "bridgecrewio/checkov",
-    "url": "https://github.com/bridgecrewio/checkov",
-    "desc": "Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.",
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
     "lang": "Python"
+  },
+  {
+    "title": "Homebrew/brew",
+    "url": "https://github.com/Homebrew/brew",
+    "desc": "🍺 The missing package manager for macOS (or Linux)",
+    "lang": "Ruby"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "desc": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "lang": "Go"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "lang": "TypeScript"
   },
   {
     "title": "magma/magma",
@@ -131,21 +131,21 @@
     "lang": "Go"
   },
   {
-    "title": "flutter/flutter",
-    "url": "https://github.com/flutter/flutter",
-    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
-    "lang": "Dart"
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
   },
   {
-    "title": "hashicorp/terraform-provider-aws",
-    "url": "https://github.com/hashicorp/terraform-provider-aws",
-    "desc": "Terraform AWS provider",
-    "lang": "Go"
+    "title": "material-components/material-components-android",
+    "url": "https://github.com/material-components/material-components-android",
+    "desc": "Modular and customizable Material Design UI components for Android",
+    "lang": "Java"
   },
   {
-    "title": "mui-org/material-ui",
-    "url": "https://github.com/mui-org/material-ui",
-    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
-    "lang": "JavaScript"
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
   }
 ]
