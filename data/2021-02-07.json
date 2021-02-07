@@ -1,0 +1,148 @@
+[
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "lang": "C"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dsmaynard/fungal_biogeography",
+    "url": "https://github.com/dsmaynard/fungal_biogeography",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "rust-analyzer/rust-analyzer",
+    "url": "https://github.com/rust-analyzer/rust-analyzer",
+    "desc": "An experimental Rust compiler front-end for IDEs",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/dgs-framework",
+    "url": "https://github.com/Netflix/dgs-framework",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "desc": "A Curated List of Awesome Facebook Libra Resources"
+  },
+  {
+    "title": "tastyigniter/TastyIgniter",
+    "url": "https://github.com/tastyigniter/TastyIgniter",
+    "desc": "🔥 Powerful, yet easy to use, open source restaurant online ordering, table reservation and restaurant management system",
+    "lang": "PHP"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "Homebrew/brew",
+    "url": "https://github.com/Homebrew/brew",
+    "desc": "🍺 The missing package manager for macOS (or Linux)",
+    "lang": "Ruby"
+  },
+  {
+    "title": "archivy/archivy",
+    "url": "https://github.com/archivy/archivy",
+    "desc": "Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.",
+    "lang": "Python"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "greatsuspender/thegreatsuspender",
+    "url": "https://github.com/greatsuspender/thegreatsuspender",
+    "desc": "A chrome extension for suspending all tabs to free up memory",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot - The Open-Source prototyping tool",
+    "lang": "Clojure"
+  },
+  {
+    "title": "cloudcommunity/Free-Certifications",
+    "url": "https://github.com/cloudcommunity/Free-Certifications",
+    "desc": "Curated list of free courses & certifications"
+  }
+]
