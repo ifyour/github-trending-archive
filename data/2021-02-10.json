@@ -1,0 +1,148 @@
+[
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tastyigniter/TastyIgniter",
+    "url": "https://github.com/tastyigniter/TastyIgniter",
+    "desc": "🔥 Powerful, yet easy to use, open source restaurant online ordering, table reservation and restaurant management system",
+    "lang": "PHP"
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+    "lang": "Go"
+  },
+  {
+    "title": "Soldat/soldat",
+    "url": "https://github.com/Soldat/soldat",
+    "desc": "Soldat is a unique 2D (side-view) multiplayer action game",
+    "lang": "Pascal"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "lang": "C"
+  },
+  {
+    "title": "cloudcommunity/Free-Certifications",
+    "url": "https://github.com/cloudcommunity/Free-Certifications",
+    "desc": "Curated list of free courses & certifications"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "jomjol/AI-on-the-edge-device",
+    "url": "https://github.com/jomjol/AI-on-the-edge-device",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (February 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "desc": "A Curated List of Awesome Facebook Libra Resources"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aws/amazon-sagemaker-examples",
+    "url": "https://github.com/aws/amazon-sagemaker-examples",
+    "desc": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "ElrondNetwork/elrond-go",
+    "url": "https://github.com/ElrondNetwork/elrond-go",
+    "desc": "⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "GoogleCloudPlatform/python-docs-samples",
+    "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "lang": "Python"
+  }
+]
