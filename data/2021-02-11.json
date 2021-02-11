@@ -1,0 +1,148 @@
+[
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "aws/amazon-sagemaker-examples",
+    "url": "https://github.com/aws/amazon-sagemaker-examples",
+    "desc": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jomjol/AI-on-the-edge-device",
+    "url": "https://github.com/jomjol/AI-on-the-edge-device",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (February 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mozilla-mobile/firefox-ios",
+    "url": "https://github.com/mozilla-mobile/firefox-ios",
+    "desc": "Firefox for iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "googlesamples/mlkit",
+    "url": "https://github.com/googlesamples/mlkit",
+    "desc": "A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS",
+    "lang": "Java"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "Python"
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "desc": "A Curated List of Awesome Facebook Libra Resources"
+  },
+  {
+    "title": "Lolliedieb/lolMiner-releases",
+    "url": "https://github.com/Lolliedieb/lolMiner-releases",
+    "desc": ""
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cube-js/cube.js",
+    "url": "https://github.com/cube-js/cube.js",
+    "desc": "📊 Cube.js — Open-Source Analytical API Platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kubevirt/kubevirt",
+    "url": "https://github.com/kubevirt/kubevirt",
+    "desc": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+    "lang": "Go"
+  },
+  {
+    "title": "cloudcommunity/Free-Certifications",
+    "url": "https://github.com/cloudcommunity/Free-Certifications",
+    "desc": "Curated list of free courses & certifications"
+  },
+  {
+    "title": "apollographql/apollo-client",
+    "url": "https://github.com/apollographql/apollo-client",
+    "desc": "🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "amzn/selling-partner-api-docs",
+    "url": "https://github.com/amzn/selling-partner-api-docs",
+    "desc": "This repository contains documentation for developers to use to call Selling Partner APIs."
+  },
+  {
+    "title": "emilybache/GildedRose-Refactoring-Kata",
+    "url": "https://github.com/emilybache/GildedRose-Refactoring-Kata",
+    "desc": "Starting code for the GildedRose Refactoring Kata in many programming languages.",
+    "lang": "C++"
+  },
+  {
+    "title": "ElrondNetwork/elrond-go",
+    "url": "https://github.com/ElrondNetwork/elrond-go",
+    "desc": "⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "jdah/minecraft-weekend",
+    "url": "https://github.com/jdah/minecraft-weekend",
+    "desc": "Minecraft, but I made it in 48 hours.",
+    "lang": "C"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Sentry is cross-platform application monitoring, with a focus on error reporting.",
+    "lang": "Python"
+  }
+]
