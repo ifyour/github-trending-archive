@@ -1,0 +1,148 @@
+[
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "What the f*ck Python?",
+    "lang": "Python"
+  },
+  {
+    "title": "rxi/lite",
+    "url": "https://github.com/rxi/lite",
+    "desc": "A lightweight text editor written in Lua",
+    "lang": "Lua"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jmdugan/blocklists",
+    "url": "https://github.com/jmdugan/blocklists",
+    "desc": "Shared lists of problem domains people may want to block with hosts files",
+    "lang": "DIGITALCommandLanguage"
+  },
+  {
+    "title": "luspr/awesome-ml-courses",
+    "url": "https://github.com/luspr/awesome-ml-courses",
+    "desc": "Awesome free machine learning and AI courses with video lectures."
+  },
+  {
+    "title": "awslabs/amazon-eks-ami",
+    "url": "https://github.com/awslabs/amazon-eks-ami",
+    "desc": "Packer configuration for building a custom EKS AMI",
+    "lang": "Shell"
+  },
+  {
+    "title": "skovaka/UNCALLED",
+    "url": "https://github.com/skovaka/UNCALLED",
+    "desc": "Raw nanopore signal mapper that enables real-time targeted sequencing",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ivan-bilan/The-NLP-Pandect",
+    "url": "https://github.com/ivan-bilan/The-NLP-Pandect",
+    "desc": "A comprehensive reference for all topics related to Natural Language Processing",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AllThingsSmitty/css-protips",
+    "url": "https://github.com/AllThingsSmitty/css-protips",
+    "desc": "A collection of tips to help take your CSS skills pro"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "googlesamples/mlkit",
+    "url": "https://github.com/googlesamples/mlkit",
+    "desc": "A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS",
+    "lang": "Java"
+  },
+  {
+    "title": "roboll/helmfile",
+    "url": "https://github.com/roboll/helmfile",
+    "desc": "Deploy Kubernetes Helm Charts",
+    "lang": "Go"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "RitikPatni/Front-End-Web-Development-Resources",
+    "url": "https://github.com/RitikPatni/Front-End-Web-Development-Resources",
+    "desc": "This repository contains content which will be helpful in your journey as a front-end Web Developer"
+  },
+  {
+    "title": "binance/binance-spot-api-docs",
+    "url": "https://github.com/binance/binance-spot-api-docs",
+    "desc": "Official Documentation for the Binance Spot APIs and Streams"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  }
+]
