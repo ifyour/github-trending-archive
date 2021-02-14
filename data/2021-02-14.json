@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "desc": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "lang": "C++"
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "desc": "A fast, clean, responsive Hugo theme",
+    "lang": "HTML"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "What the f*ck Python? 😱",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps",
+    "lang": "Swift"
+  },
+  {
+    "title": "yugedata/Options_Data_Science",
+    "url": "https://github.com/yugedata/Options_Data_Science",
+    "desc": "Collecting, analyzing, visualizing & paper trading options market data",
+    "lang": "Python"
+  },
+  {
+    "title": "florisboard/florisboard",
+    "url": "https://github.com/florisboard/florisboard",
+    "desc": "An open-source keyboard for Android. Currently in alpha/early-beta stage.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "yamashi/CyberEngineTweaks",
+    "url": "https://github.com/yamashi/CyberEngineTweaks",
+    "desc": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
+    "lang": "C"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+  },
+  {
+    "title": "arslanbilal/git-cheat-sheet",
+    "url": "https://github.com/arslanbilal/git-cheat-sheet",
+    "desc": "git and git flow cheat sheet"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "jdah/minecraft-weekend",
+    "url": "https://github.com/jdah/minecraft-weekend",
+    "desc": "Minecraft, but I made it in 48 hours.",
+    "lang": "C"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  },
+  {
+    "title": "karan/Projects",
+    "url": "https://github.com/karan/Projects",
+    "desc": "📃 A list of practical projects that anyone can solve in any programming language."
+  },
+  {
+    "title": "MetaMask/metamask-extension",
+    "url": "https://github.com/MetaMask/metamask-extension",
+    "desc": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ageron/handson-ml",
+    "url": "https://github.com/ageron/handson-ml",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  }
+]
