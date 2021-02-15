@@ -1,0 +1,147 @@
+[
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "desc": "GTA III, Vice City",
+    "lang": "C++"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "desc": "A fast, clean, responsive Hugo theme",
+    "lang": "HTML"
+  },
+  {
+    "title": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "desc": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+  },
+  {
+    "title": "arslanbilal/git-cheat-sheet",
+    "url": "https://github.com/arslanbilal/git-cheat-sheet",
+    "desc": "git and git flow cheat sheet"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost",
+    "desc": "Approaching (Almost) Any Machine Learning Problem"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openwrt/packages",
+    "url": "https://github.com/openwrt/packages",
+    "desc": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
+    "lang": "Makefile"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "jdah/minecraft-weekend",
+    "url": "https://github.com/jdah/minecraft-weekend",
+    "desc": "Minecraft, but I made it in 48 hours.",
+    "lang": "C"
+  },
+  {
+    "title": "zellij-org/zellij",
+    "url": "https://github.com/zellij-org/zellij",
+    "desc": "Terminal workspace (WIP)",
+    "lang": "Rust"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "k9mail/k-9",
+    "url": "https://github.com/k9mail/k-9",
+    "desc": "K-9 Mail – Open Source Email App for Android",
+    "lang": "Java"
+  }
+]
