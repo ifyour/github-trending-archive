@@ -1,44 +1,9 @@
 [
   {
-    "title": "edeng23/binance-trade-bot",
-    "url": "https://github.com/edeng23/binance-trade-bot",
-    "desc": "Automated cryptocurrency trading bot",
-    "lang": "Python"
-  },
-  {
-    "title": "activeloopai/Hub",
-    "url": "https://github.com/activeloopai/Hub",
-    "desc": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
-    "lang": "Python"
-  },
-  {
-    "title": "salesforce/cloudsplaining",
-    "url": "https://github.com/salesforce/cloudsplaining",
-    "desc": "Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "willmcgugan/rich",
-    "url": "https://github.com/willmcgugan/rich",
-    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
-    "lang": "Python"
-  },
-  {
-    "title": "poteto/hiring-without-whiteboards",
-    "url": "https://github.com/poteto/hiring-without-whiteboards",
-    "desc": "⭐️ Companies that don't have a broken hiring process",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "nodejs/undici",
-    "url": "https://github.com/nodejs/undici",
-    "desc": "An HTTP/1.1 client, written from scratch for Node.js",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "trimstray/the-book-of-secret-knowledge",
-    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "lang": "TypeScript"
   },
   {
     "title": "dapr/dapr",
@@ -47,51 +12,22 @@
     "lang": "Go"
   },
   {
-    "title": "ryanmcdermott/clean-code-javascript",
-    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "title": "elixir-nx/nx",
+    "url": "https://github.com/elixir-nx/nx",
+    "desc": "Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU",
+    "lang": "Elixir"
+  },
+  {
+    "title": "nodejs/undici",
+    "url": "https://github.com/nodejs/undici",
+    "desc": "An HTTP/1.1 client, written from scratch for Node.js",
     "lang": "JavaScript"
   },
   {
-    "title": "beurtschipper/Depix",
-    "url": "https://github.com/beurtschipper/Depix",
-    "desc": "Recovers passwords from pixelized screenshots",
-    "lang": "Python"
-  },
-  {
-    "title": "globalaihub/introduction-to-python",
-    "url": "https://github.com/globalaihub/introduction-to-python",
-    "desc": "",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "thedaviddias/Front-End-Checklist",
-    "url": "https://github.com/thedaviddias/Front-End-Checklist",
-    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "title": "mitmath/18S191",
-    "url": "https://github.com/mitmath/18S191",
-    "desc": "Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:",
-    "lang": "Julia"
-  },
-  {
-    "title": "MManoah/league-profile-tool",
-    "url": "https://github.com/MManoah/league-profile-tool",
-    "desc": "An application that lets you make specific requests to the LCU api to change how your profile looks",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "CoatiSoftware/Sourcetrail",
-    "url": "https://github.com/CoatiSoftware/Sourcetrail",
-    "desc": "Sourcetrail - free and open-source interactive source explorer",
-    "lang": "C++"
-  },
-  {
-    "title": "trekhleb/javascript-algorithms",
-    "url": "https://github.com/trekhleb/javascript-algorithms",
-    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "lang": "JavaScript"
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "desc": "Next generation frontend tooling. It's fast!",
+    "lang": "TypeScript"
   },
   {
     "title": "dani-garcia/bitwarden_rs",
@@ -100,50 +36,114 @@
     "lang": "JavaScript"
   },
   {
-    "title": "ant-design/ant-design",
-    "url": "https://github.com/ant-design/ant-design",
-    "desc": "🌈 A UI Design Language and React UI library",
+    "title": "activeloopai/Hub",
+    "url": "https://github.com/activeloopai/Hub",
+    "desc": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
+    "lang": "Python"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2021"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection",
+    "url": "https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection",
+    "desc": "The ultimate collection of scripts for YouTube-DL.",
+    "lang": "Shell"
+  },
+  {
+    "title": "raycast/script-commands",
+    "url": "https://github.com/raycast/script-commands",
+    "desc": "Script Commands lets you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.",
+    "lang": "Shell"
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "desc": "Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:",
+    "lang": "Julia"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "desc": "Bicep is a declarative language for describing and deploying Azure resources",
+    "lang": "C#"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "pavlobu/deskreen",
+    "url": "https://github.com/pavlobu/deskreen",
+    "desc": "Deskreen turns any device with a web browser into a secondary screen for your computer",
     "lang": "TypeScript"
   },
   {
-    "title": "evanw/esbuild",
-    "url": "https://github.com/evanw/esbuild",
-    "desc": "An extremely fast JavaScript bundler and minifier",
-    "lang": "Go"
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "lang": "C++"
   },
   {
-    "title": "lodash/lodash",
-    "url": "https://github.com/lodash/lodash",
-    "desc": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+    "title": "squizlabs/PHP_CodeSniffer",
+    "url": "https://github.com/squizlabs/PHP_CodeSniffer",
+    "desc": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
+    "lang": "PHP"
+  },
+  {
+    "title": "primefaces/primeng",
+    "url": "https://github.com/primefaces/primeng",
+    "desc": "The Most Complete Angular UI Component Library",
+    "lang": "CSS"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
     "lang": "JavaScript"
   },
   {
-    "title": "WebKit/WebKit",
-    "url": "https://github.com/WebKit/WebKit",
-    "desc": "Official git mirror of the WebKit repository, https://svn.webkit.org/repository/webkit, future canonical repository."
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern."
   },
   {
-    "title": "webdriverio/webdriverio",
-    "url": "https://github.com/webdriverio/webdriverio",
-    "desc": "Next-gen browser and mobile automation test framework for Node.js",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "openwrt/openwrt",
-    "url": "https://github.com/openwrt/openwrt",
-    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
-    "lang": "C"
-  },
-  {
-    "title": "ripienaar/free-for-dev",
-    "url": "https://github.com/ripienaar/free-for-dev",
-    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "lang": "HTML"
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "desc": "This repository contains .NET Documentation.",
+    "lang": "PowerShell"
   },
   {
     "title": "react-native-maps/react-native-maps",
     "url": "https://github.com/react-native-maps/react-native-maps",
     "desc": "React Native Mapview component for iOS + Android",
     "lang": "Objective-C"
+  },
+  {
+    "title": "dbeaver/dbeaver",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "desc": "Free universal database tool and SQL client",
+    "lang": "Java"
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "desc": "The official home of the Presto distributed SQL query engine for big data",
+    "lang": "Java"
   }
 ]
