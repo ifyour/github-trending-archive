@@ -1,0 +1,150 @@
+[
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "desc": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "lang": "C"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet-architecture/eShopOnDapr",
+    "url": "https://github.com/dotnet-architecture/eShopOnDapr",
+    "desc": "A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.",
+    "lang": "C#"
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "desc": "",
+    "lang": "Assembly"
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "desc": "A list of engineering manager resource links.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "MostlyAdequate/mostly-adequate-guide",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+    "desc": "Mostly adequate guide to FP (in javascript)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "exadel-inc/CompreFace",
+    "url": "https://github.com/exadel-inc/CompreFace",
+    "desc": "Free and open-source face recognition system from Exadel",
+    "lang": "Python"
+  },
+  {
+    "title": "Immediate-Mode-UI/Nuklear",
+    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+    "desc": "A single-header ANSI C immediate mode cross-platform GUI library",
+    "lang": "C"
+  },
+  {
+    "title": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "desc": "A curated list of awesome Go frameworks, libraries and software",
+    "lang": "Go"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "qeeqbox/social-analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "desc": "API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "go-chi/chi",
+    "url": "https://github.com/go-chi/chi",
+    "desc": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "lang": "Go"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "",
+    "lang": "PHP"
+  },
+  {
+    "title": "AzureAD/microsoft-authentication-library-for-js",
+    "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
+    "desc": "Microsoft Authentication Library (MSAL) for JS",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "appium/appium",
+    "url": "https://github.com/appium/appium",
+    "desc": "📱 Automation for iOS, Android, and Windows Apps.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "desc": "Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern."
+  },
+  {
+    "title": "google/flatbuffers",
+    "url": "https://github.com/google/flatbuffers",
+    "desc": "FlatBuffers: Memory Efficient Serialization Library",
+    "lang": "C++"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  }
+]
