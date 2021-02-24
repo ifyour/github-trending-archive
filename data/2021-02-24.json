@@ -1,0 +1,151 @@
+[
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "tree-sitter/tree-sitter",
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "desc": "An incremental parsing system for programming tools",
+    "lang": "Rust"
+  },
+  {
+    "title": "appium/appium",
+    "url": "https://github.com/appium/appium",
+    "desc": "📱 Automation for iOS, Android, and Windows Apps.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet-architecture/eShopOnDapr",
+    "url": "https://github.com/dotnet-architecture/eShopOnDapr",
+    "desc": "A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.",
+    "lang": "C#"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern."
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "lang": "PHP"
+  },
+  {
+    "title": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "desc": "A curated list of awesome Go frameworks, libraries and software",
+    "lang": "Go"
+  },
+  {
+    "title": "MostlyAdequate/mostly-adequate-guide",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+    "desc": "Mostly adequate guide to FP (in javascript)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "desc": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "desc": "",
+    "lang": "Assembly"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "desc": "Your window into the Elastic Stack",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "desc": "Xamarin.Forms Official Home",
+    "lang": "C#"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "lang": "C++"
+  },
+  {
+    "title": "actix/actix-web",
+    "url": "https://github.com/actix/actix-web",
+    "desc": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "exadel-inc/CompreFace",
+    "url": "https://github.com/exadel-inc/CompreFace",
+    "desc": "Free and open-source face recognition system from Exadel",
+    "lang": "Python"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kubernetes/test-infra",
+    "url": "https://github.com/kubernetes/test-infra",
+    "desc": "Test infrastructure for the Kubernetes project.",
+    "lang": "Go"
+  },
+  {
+    "title": "MrRio/jsPDF",
+    "url": "https://github.com/MrRio/jsPDF",
+    "desc": "Client-side JavaScript PDF generation for everyone.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "external-secrets/kubernetes-external-secrets",
+    "url": "https://github.com/external-secrets/kubernetes-external-secrets",
+    "desc": "Integrate external secret management systems with Kubernetes",
+    "lang": "JavaScript"
+  }
+]
