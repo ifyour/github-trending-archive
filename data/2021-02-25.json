@@ -1,0 +1,150 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "desc": "Official Jetpack Compose samples.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "desc": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "lang": "Go"
+  },
+  {
+    "title": "CocoaPods/CocoaPods",
+    "url": "https://github.com/CocoaPods/CocoaPods",
+    "desc": "The Cocoa Dependency Manager.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "appium/appium",
+    "url": "https://github.com/appium/appium",
+    "desc": "📱 Automation for iOS, Android, and Windows Apps.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "athensresearch/athens",
+    "url": "https://github.com/athensresearch/athens",
+    "desc": "Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens",
+    "lang": "Clojure"
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern."
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "desc": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "desc": "A list of engineering manager resource links.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "desc": "",
+    "lang": "Assembly"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "desc": "mold: A Modern Linker",
+    "lang": "C++"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws/amazon-sagemaker-examples",
+    "url": "https://github.com/aws/amazon-sagemaker-examples",
+    "desc": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tesseract-ocr/tesseract",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "desc": "Tesseract Open Source OCR Engine (main repository)",
+    "lang": "C++"
+  },
+  {
+    "title": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "desc": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+    "lang": "JupyterNotebook"
+  }
+]
