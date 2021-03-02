@@ -1,15 +1,80 @@
 [
   {
-    "title": "iperov/DeepFaceLab",
-    "url": "https://github.com/iperov/DeepFaceLab",
-    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "stellar/go",
+    "url": "https://github.com/stellar/go",
+    "desc": "Stellar's public monorepo of go code",
+    "lang": "Go"
+  },
+  {
+    "title": "vinceliuice/Vimix-cursors",
+    "url": "https://github.com/vinceliuice/Vimix-cursors",
+    "desc": "Vimix-cursors for linux desktop",
+    "lang": "Shell"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "adjust/ios_sdk",
+    "url": "https://github.com/adjust/ios_sdk",
+    "desc": "This is the iOS SDK of",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "argoproj/argo-workflows",
+    "url": "https://github.com/argoproj/argo-workflows",
+    "desc": "Workflow engine for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "desc": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
     "lang": "Python"
   },
   {
-    "title": "jart/cosmopolitan",
-    "url": "https://github.com/jart/cosmopolitan",
-    "desc": "fast portable static native textmode containers",
-    "lang": "C"
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "flow-typed/flow-typed",
+    "url": "https://github.com/flow-typed/flow-typed",
+    "desc": "A central repository for Flow library definitions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/ignite",
+    "url": "https://github.com/pytorch/ignite",
+    "desc": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinceliuice/Tela-circle-icon-theme",
+    "url": "https://github.com/vinceliuice/Tela-circle-icon-theme",
+    "desc": "Tela-circle-icon-theme",
+    "lang": "Shell"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
   },
   {
     "title": "alievk/avatarify",
@@ -18,130 +83,69 @@
     "lang": "Python"
   },
   {
-    "title": "input-output-hk/cardano-node",
-    "url": "https://github.com/input-output-hk/cardano-node",
-    "desc": "The core component that is used to participate in a Cardano decentralised blockchain.",
-    "lang": "Haskell"
-  },
-  {
-    "title": "AliaksandrSiarohin/first-order-model",
-    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
-    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "kuchin/awesome-cto",
-    "url": "https://github.com/kuchin/awesome-cto",
-    "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
-  },
-  {
-    "title": "jopohl/urh",
-    "url": "https://github.com/jopohl/urh",
-    "desc": "Universal Radio Hacker: Investigate Wireless Protocols Like A Boss",
-    "lang": "Python"
-  },
-  {
-    "title": "chriswalz/bit",
-    "url": "https://github.com/chriswalz/bit",
-    "desc": "Bit is a modern Git CLI",
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
     "lang": "Go"
   },
   {
-    "title": "orkestral/venom",
-    "url": "https://github.com/orkestral/venom",
-    "desc": "Venom the more complete javascript library for Whatsapp, 100% Open Source.",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "binhnguyennus/awesome-scalability",
-    "url": "https://github.com/binhnguyennus/awesome-scalability",
-    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
-  },
-  {
-    "title": "vosen/ZLUDA",
-    "url": "https://github.com/vosen/ZLUDA",
-    "desc": "CUDA on Intel GPUs",
-    "lang": "C++"
-  },
-  {
-    "title": "AI4Finance-LLC/FinRL-Library",
-    "url": "https://github.com/AI4Finance-LLC/FinRL-Library",
-    "desc": "A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020. Please star. 🔥",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "dwelcaslu/machine-learning-books",
-    "url": "https://github.com/dwelcaslu/machine-learning-books",
-    "desc": ""
-  },
-  {
-    "title": "bitcoinbook/bitcoinbook",
-    "url": "https://github.com/bitcoinbook/bitcoinbook",
-    "desc": "Mastering Bitcoin 2nd Edition - Programming the Open Blockchain",
-    "lang": "Python"
-  },
-  {
-    "title": "dypsilon/frontend-dev-bookmarks",
-    "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
-    "desc": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "title": "vitejs/awesome-vite",
-    "url": "https://github.com/vitejs/awesome-vite",
-    "desc": "⚡️ A curated list of awesome things related to Vite.js"
-  },
-  {
-    "title": "quantopian/pyfolio",
-    "url": "https://github.com/quantopian/pyfolio",
-    "desc": "Portfolio and risk analytics in Python",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "github/codeql",
-    "url": "https://github.com/github/codeql",
-    "desc": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise",
-    "lang": "CodeQL"
-  },
-  {
-    "title": "iptv-org/iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "ChrisAnd1998/TaskbarX",
-    "url": "https://github.com/ChrisAnd1998/TaskbarX",
-    "desc": "Center Windows taskbar icons with a variety of animations and options.",
-    "lang": "VisualBasic.NET"
-  },
-  {
-    "title": "kubernetes/kubernetes",
-    "url": "https://github.com/kubernetes/kubernetes",
-    "desc": "Production-Grade Container Scheduling and Management",
+    "title": "influxdata/influxdb",
+    "url": "https://github.com/influxdata/influxdb",
+    "desc": "Scalable datastore for metrics, events, and real-time analytics",
     "lang": "Go"
   },
   {
-    "title": "typescript-cheatsheets/react",
-    "url": "https://github.com/typescript-cheatsheets/react",
-    "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
-    "lang": "JavaScript"
+    "title": "DATA-DOG/go-sqlmock",
+    "url": "https://github.com/DATA-DOG/go-sqlmock",
+    "desc": "Sql mock driver for golang to test database interactions",
+    "lang": "Go"
   },
   {
-    "title": "termux/termux-app",
-    "url": "https://github.com/termux/termux-app",
-    "desc": "Android terminal and Linux environment - app repository.",
-    "lang": "Java"
+    "title": "mongodb/mongo-go-driver",
+    "url": "https://github.com/mongodb/mongo-go-driver",
+    "desc": "The Go driver for MongoDB",
+    "lang": "Go"
   },
   {
-    "title": "trekhleb/learn-python",
-    "url": "https://github.com/trekhleb/learn-python",
-    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
-    "lang": "Python"
+    "title": "WenchaoD/FSCalendar",
+    "url": "https://github.com/WenchaoD/FSCalendar",
+    "desc": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
+    "lang": "Objective-C"
   },
   {
-    "title": "google/googletest",
-    "url": "https://github.com/google/googletest",
-    "desc": "Googletest - Google Testing and Mocking Framework",
-    "lang": "C++"
+    "title": "flyerhzm/bullet",
+    "url": "https://github.com/flyerhzm/bullet",
+    "desc": "help to kill N+1 queries and unused eager loading",
+    "lang": "Ruby"
+  },
+  {
+    "title": "linkedin/datahub",
+    "url": "https://github.com/linkedin/datahub",
+    "desc": "A Generalized Metadata Search & Discovery Tool",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openshift/origin",
+    "url": "https://github.com/openshift/origin",
+    "desc": "Conformance test suite for OpenShift",
+    "lang": "Go"
+  },
+  {
+    "title": "dgrijalva/jwt-go",
+    "url": "https://github.com/dgrijalva/jwt-go",
+    "desc": "Golang implementation of JSON Web Tokens (JWT)",
+    "lang": "Go"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "sferik/rails_admin",
+    "url": "https://github.com/sferik/rails_admin",
+    "desc": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data",
+    "lang": "Ruby"
   }
 ]
