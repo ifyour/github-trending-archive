@@ -1,0 +1,151 @@
+[
+  {
+    "title": "laravel-filament/filament",
+    "url": "https://github.com/laravel-filament/filament",
+    "desc": "The elegant TALL stack admin for Laravel artisans.",
+    "lang": "PHP"
+  },
+  {
+    "title": "PaddlePaddle/PaddleGAN",
+    "url": "https://github.com/PaddlePaddle/PaddleGAN",
+    "desc": "PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.",
+    "lang": "Python"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "desc": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adobe/brackets",
+    "url": "https://github.com/adobe/brackets",
+    "desc": "An open source code editor for the web, written in JavaScript, HTML and CSS.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kilimchoi/engineering-blogs",
+    "url": "https://github.com/kilimchoi/engineering-blogs",
+    "desc": "A curated list of engineering blogs",
+    "lang": "Ruby"
+  },
+  {
+    "title": "influxdata/influxdb",
+    "url": "https://github.com/influxdata/influxdb",
+    "desc": "Scalable datastore for metrics, events, and real-time analytics",
+    "lang": "Go"
+  },
+  {
+    "title": "yangshun/front-end-interview-handbook",
+    "url": "https://github.com/yangshun/front-end-interview-handbook",
+    "desc": "🕸 No-bullshit answers to the famous h5bp Front-end Job Interview Questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "austintgriffith/scaffold-eth",
+    "url": "https://github.com/austintgriffith/scaffold-eth",
+    "desc": "🏗 forkable Ethereum dev stack focused on fast product iterations",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "POSTECH-CVLab/PyTorch-StudioGAN",
+    "url": "https://github.com/POSTECH-CVLab/PyTorch-StudioGAN",
+    "desc": "StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "jepsen-io/maelstrom",
+    "url": "https://github.com/jepsen-io/maelstrom",
+    "desc": "A workbench for writing toy implementations of distributed systems.",
+    "lang": "Clojure"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prometheus/client_golang",
+    "url": "https://github.com/prometheus/client_golang",
+    "desc": "Prometheus instrumentation library for Go applications",
+    "lang": "Go"
+  },
+  {
+    "title": "backstage/backstage",
+    "url": "https://github.com/backstage/backstage",
+    "desc": "Backstage is an open platform for building developer portals",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/material-design-icons",
+    "url": "https://github.com/google/material-design-icons",
+    "desc": "Material Design icons by Google"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "foambubble/foam",
+    "url": "https://github.com/foambubble/foam",
+    "desc": "A personal knowledge management and sharing system for VSCode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "desc": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "lang": "Java"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "desc": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "lang": "HTML"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  }
+]
