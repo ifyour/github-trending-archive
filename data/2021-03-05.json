@@ -1,0 +1,149 @@
+[
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "desc": "Dolt – It's Git for Data",
+    "lang": "Go"
+  },
+  {
+    "title": "influxdata/influxdb",
+    "url": "https://github.com/influxdata/influxdb",
+    "desc": "Scalable datastore for metrics, events, and real-time analytics",
+    "lang": "Go"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "adobe/brackets",
+    "url": "https://github.com/adobe/brackets",
+    "desc": "An open source code editor for the web, written in JavaScript, HTML and CSS.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kilimchoi/engineering-blogs",
+    "url": "https://github.com/kilimchoi/engineering-blogs",
+    "desc": "A curated list of engineering blogs",
+    "lang": "Ruby"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/samples",
+    "url": "https://github.com/flutter/samples",
+    "desc": "A collection of Flutter examples and demos.",
+    "lang": "Dart"
+  },
+  {
+    "title": "yangshun/front-end-interview-handbook",
+    "url": "https://github.com/yangshun/front-end-interview-handbook",
+    "desc": "🕸 No-bullshit answers to the famous h5bp Front-end Job Interview Questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "git/git",
+    "url": "https://github.com/git/git",
+    "desc": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "lang": "C"
+  },
+  {
+    "title": "google/material-design-icons",
+    "url": "https://github.com/google/material-design-icons",
+    "desc": "Material Design icons by Google"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dpaulson45/HealthChecker",
+    "url": "https://github.com/dpaulson45/HealthChecker",
+    "desc": "Exchange Server Performance Health Checker Script",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (March 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "gregsramblings/google-cloud-4-words",
+    "url": "https://github.com/gregsramblings/google-cloud-4-words",
+    "desc": "The Google Cloud Developer's Cheat Sheet"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "desc": "Quarkus: Supersonic Subatomic Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "flutter/gallery",
+    "url": "https://github.com/flutter/gallery",
+    "desc": "Flutter Gallery is a resource to help developers evaluate and use Flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "laravel-filament/filament",
+    "url": "https://github.com/laravel-filament/filament",
+    "desc": "The elegant TALL stack admin for Laravel artisans.",
+    "lang": "PHP"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  }
+]
