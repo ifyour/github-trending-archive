@@ -1,0 +1,147 @@
+[
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "mobilecoinfoundation/mobilecoin",
+    "url": "https://github.com/mobilecoinfoundation/mobilecoin",
+    "desc": "Private payments for mobile devices.",
+    "lang": "Rust"
+  },
+  {
+    "title": "spring-projects-experimental/spring-native",
+    "url": "https://github.com/spring-projects-experimental/spring-native",
+    "desc": "Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.",
+    "lang": "Java"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "lang": "C++"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "desc": "70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pmmp/PocketMine-MP",
+    "url": "https://github.com/pmmp/PocketMine-MP",
+    "desc": "A server software for Minecraft: Bedrock Edition in PHP",
+    "lang": "PHP"
+  },
+  {
+    "title": "athensresearch/athens",
+    "url": "https://github.com/athensresearch/athens",
+    "desc": "Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens",
+    "lang": "Clojure"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "lang": "Shell"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "desc": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "desc": "Advanced information gathering & OSINT framework for phone numbers",
+    "lang": "Go"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Programming Language",
+    "lang": "Julia"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ChristianChiarulli/nvim",
+    "url": "https://github.com/ChristianChiarulli/nvim",
+    "desc": "Truly the Ultimate Neovim Config NVCode",
+    "lang": "Lua"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "juliangarnier/anime",
+    "url": "https://github.com/juliangarnier/anime",
+    "desc": "JavaScript animation engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "dani-garcia/bitwarden_rs",
+    "url": "https://github.com/dani-garcia/bitwarden_rs",
+    "desc": "Unofficial Bitwarden compatible server written in Rust",
+    "lang": "JavaScript"
+  }
+]
