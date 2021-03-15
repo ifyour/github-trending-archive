@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bettercap/bettercap",
+    "url": "https://github.com/bettercap/bettercap",
+    "desc": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+    "lang": "Go"
+  },
+  {
+    "title": "dani-garcia/bitwarden_rs",
+    "url": "https://github.com/dani-garcia/bitwarden_rs",
+    "desc": "Unofficial Bitwarden compatible server written in Rust",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "desc": "70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "lang": "C"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "lang": "Shell"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "harskish/ganspace",
+    "url": "https://github.com/harskish/ganspace",
+    "desc": "Discovering Interpretable GAN Controls [NeurIPS 2020]",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "lang": "C++"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Programming Language",
+    "lang": "Julia"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "goabstract/Awesome-Design-Tools",
+    "url": "https://github.com/goabstract/Awesome-Design-Tools",
+    "desc": "The best design tools and plugins for everything 👉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "desc": "Advanced information gathering & OSINT framework for phone numbers",
+    "lang": "Go"
+  },
+  {
+    "title": "PojavLauncherTeam/PojavLauncher",
+    "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
+    "desc": "A Minecraft: Java Edition Launcher for Android based on Boardwalk. Note that v2 will not able to run Minecraft 1.12+.",
+    "lang": "Java"
+  },
+  {
+    "title": "internetwache/GitTools",
+    "url": "https://github.com/internetwache/GitTools",
+    "desc": "A repository with 3 tools for pwn'ing websites with .git repositories available",
+    "lang": "Shell"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "mobilecoinfoundation/mobilecoin",
+    "url": "https://github.com/mobilecoinfoundation/mobilecoin",
+    "desc": "Private payments for mobile devices.",
+    "lang": "Rust"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "athensresearch/athens",
+    "url": "https://github.com/athensresearch/athens",
+    "desc": "Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens",
+    "lang": "Clojure"
+  }
+]
