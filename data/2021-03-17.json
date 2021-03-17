@@ -1,0 +1,150 @@
+[
+  {
+    "title": "harskish/ganspace",
+    "url": "https://github.com/harskish/ganspace",
+    "desc": "Discovering Interpretable GAN Controls [NeurIPS 2020]",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "desc": "Advanced information gathering & OSINT framework for phone numbers",
+    "lang": "Go"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "lang": "C++"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "stefan-jansen/machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "bettercap/bettercap",
+    "url": "https://github.com/bettercap/bettercap",
+    "desc": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+    "lang": "Go"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "goabstract/Awesome-Design-Tools",
+    "url": "https://github.com/goabstract/Awesome-Design-Tools",
+    "desc": "The best design tools and plugins for everything 👉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "lang": "C"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "lang": "Shell"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "lang": "C++"
+  },
+  {
+    "title": "apple/swift-evolution",
+    "url": "https://github.com/apple/swift-evolution",
+    "desc": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "ritchie46/polars",
+    "url": "https://github.com/ritchie46/polars",
+    "desc": "Rust DataFrame library",
+    "lang": "Rust"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Use Appsmith to build and self-host your internal apps. Create UI that connects to any database or API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Web3Modal/web3modal",
+    "url": "https://github.com/Web3Modal/web3modal",
+    "desc": "A single Web3 / Ethereum provider solution for all Wallets",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "checkstyle/checkstyle",
+    "url": "https://github.com/checkstyle/checkstyle",
+    "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "lang": "Java"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "desc": "⚡️ Express inspired web framework written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  }
+]
