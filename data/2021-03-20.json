@@ -1,0 +1,151 @@
+[
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Overv/outrun",
+    "url": "https://github.com/Overv/outrun",
+    "desc": "Execute a local command using the processing power of another Linux machine.",
+    "lang": "Python"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "matryer/xbar",
+    "url": "https://github.com/matryer/xbar",
+    "desc": "Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)",
+    "lang": "Go"
+  },
+  {
+    "title": "adamschwartz/magic-of-css",
+    "url": "https://github.com/adamschwartz/magic-of-css",
+    "desc": "A CSS course to turn you into a magician.",
+    "lang": "CSS"
+  },
+  {
+    "title": "onnx/onnx-tensorrt",
+    "url": "https://github.com/onnx/onnx-tensorrt",
+    "desc": "ONNX-TensorRT: TensorRT backend for ONNX",
+    "lang": "C++"
+  },
+  {
+    "title": "mathiasbynens/dotfiles",
+    "url": "https://github.com/mathiasbynens/dotfiles",
+    "desc": "🔧 .files, including ~/.macos — sensible hacker defaults for macOS",
+    "lang": "Shell"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shomali11/go-interview",
+    "url": "https://github.com/shomali11/go-interview",
+    "desc": "Collection of Technical Interview Questions solved with Go",
+    "lang": "Go"
+  },
+  {
+    "title": "wg/wrk",
+    "url": "https://github.com/wg/wrk",
+    "desc": "Modern HTTP benchmarking tool",
+    "lang": "C"
+  },
+  {
+    "title": "backstage/backstage",
+    "url": "https://github.com/backstage/backstage",
+    "desc": "Backstage is an open platform for building developer portals",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "meetecho/janus-gateway",
+    "url": "https://github.com/meetecho/janus-gateway",
+    "desc": "Janus WebRTC Server",
+    "lang": "C"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "lang": "C"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "golang/protobuf",
+    "url": "https://github.com/golang/protobuf",
+    "desc": "Go support for Google's protocol buffers",
+    "lang": "Go"
+  },
+  {
+    "title": "TryGhost/Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "desc": "👻 The #1 headless Node.js CMS for professional publishing",
+    "lang": "JavaScript"
+  }
+]
