@@ -1,0 +1,150 @@
+[
+  {
+    "title": "EleutherAI/gpt-neo",
+    "url": "https://github.com/EleutherAI/gpt-neo",
+    "desc": "An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.",
+    "lang": "Python"
+  },
+  {
+    "title": "ARKInvest/ARK-Invest-Tesla-Valuation-Model",
+    "url": "https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model",
+    "desc": "An excerpt from our financial valuation model of Tesla"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "lux-org/lux",
+    "url": "https://github.com/lux-org/lux",
+    "desc": "Python API for Intelligent Visual Data Discovery",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "papercups-io/papercups",
+    "url": "https://github.com/papercups-io/papercups",
+    "desc": "Open-source live customer chat",
+    "lang": "Elixir"
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "desc": "A list of engineering manager resource links.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/awesome-vue",
+    "url": "https://github.com/vuejs/awesome-vue",
+    "desc": "🎉 A curated list of awesome things related to Vue.js"
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "desc": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+    "lang": "Python"
+  },
+  {
+    "title": "jesse-ai/jesse",
+    "url": "https://github.com/jesse-ai/jesse",
+    "desc": "An advanced crypto trading bot written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hari-Nagarajan/fairgame",
+    "url": "https://github.com/Hari-Nagarajan/fairgame",
+    "desc": "Tool to help us buy hard to find items.",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "desc": "Real-Time High-Resolution Background Matting",
+    "lang": "Python"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "elastic/beats",
+    "url": "https://github.com/elastic/beats",
+    "desc": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+    "lang": "Go"
+  },
+  {
+    "title": "G4lile0/tinyGS",
+    "url": "https://github.com/G4lile0/tinyGS",
+    "desc": "📡 Open Ground Station Network 🛰",
+    "lang": "C++"
+  },
+  {
+    "title": "envoyproxy/envoy",
+    "url": "https://github.com/envoyproxy/envoy",
+    "desc": "Cloud-native high-performance edge/middle/service proxy",
+    "lang": "C++"
+  },
+  {
+    "title": "PyGithub/PyGithub",
+    "url": "https://github.com/PyGithub/PyGithub",
+    "desc": "Typed interactions with the GitHub API v3",
+    "lang": "Python"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "desc": "A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "lang": "C"
+  },
+  {
+    "title": "containernetworking/cni",
+    "url": "https://github.com/containernetworking/cni",
+    "desc": "Container Network Interface - networking for Linux containers",
+    "lang": "Go"
+  },
+  {
+    "title": "pmndrs/react-three-fiber",
+    "url": "https://github.com/pmndrs/react-three-fiber",
+    "desc": "🇨🇭 A React renderer for Three.js (web and react-native)",
+    "lang": "TypeScript"
+  }
+]
