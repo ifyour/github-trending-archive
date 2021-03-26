@@ -1,0 +1,150 @@
+[
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "desc": "Ruby on Rails",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ClearURLs/Addon",
+    "url": "https://github.com/ClearURLs/Addon",
+    "desc": "ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexgurr/react-coding-challenges",
+    "url": "https://github.com/alexgurr/react-coding-challenges",
+    "desc": "A series of ReactJS coding challenges with a variety of difficulties.",
+    "lang": "SCSS"
+  },
+  {
+    "title": "ZENALC/algobot",
+    "url": "https://github.com/ZENALC/algobot",
+    "desc": "Cryptocurrency trading bot with a graphical user interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "rails/marcel",
+    "url": "https://github.com/rails/marcel",
+    "desc": "Find the mime type of files, examining file, filename and declared type",
+    "lang": "Ruby"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "iPERDance/iPERCore",
+    "url": "https://github.com/iPERDance/iPERCore",
+    "desc": "Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lux-org/lux",
+    "url": "https://github.com/lux-org/lux",
+    "desc": "Python API for Intelligent Visual Data Discovery",
+    "lang": "Python"
+  },
+  {
+    "title": "crystal-lang/crystal",
+    "url": "https://github.com/crystal-lang/crystal",
+    "desc": "The Crystal Programming Language",
+    "lang": "Crystal"
+  },
+  {
+    "title": "edenhill/librdkafka",
+    "url": "https://github.com/edenhill/librdkafka",
+    "desc": "The Apache Kafka C/C++ library",
+    "lang": "C"
+  },
+  {
+    "title": "openssl/openssl",
+    "url": "https://github.com/openssl/openssl",
+    "desc": "TLS/SSL and crypto library",
+    "lang": "C"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "microsoft/azure-pipelines-tasks",
+    "url": "https://github.com/microsoft/azure-pipelines-tasks",
+    "desc": "Tasks for Azure Pipelines",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and webapp - powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "lang": "C#"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  }
+]
