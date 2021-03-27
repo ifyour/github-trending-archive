@@ -1,0 +1,149 @@
+[
+  {
+    "title": "fogleman/physarum",
+    "url": "https://github.com/fogleman/physarum",
+    "desc": "Physarum polycephalum slime mold simulation",
+    "lang": "Go"
+  },
+  {
+    "title": "mimemagicrb/mimemagic",
+    "url": "https://github.com/mimemagicrb/mimemagic",
+    "desc": "Mime type detection in ruby via file extension or file content",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "alexgurr/react-coding-challenges",
+    "url": "https://github.com/alexgurr/react-coding-challenges",
+    "desc": "A series of ReactJS coding challenges with a variety of difficulties.",
+    "lang": "SCSS"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "john-smilga/javascript-basic-projects",
+    "url": "https://github.com/john-smilga/javascript-basic-projects",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xelatihy/yocto-gl",
+    "url": "https://github.com/xelatihy/yocto-gl",
+    "desc": "Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics",
+    "lang": "C++"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "carlospolop/privilege-escalation-awesome-scripts-suite",
+    "url": "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite",
+    "desc": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+    "lang": "C#"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "magnologan/awesome-k8s-security",
+    "url": "https://github.com/magnologan/awesome-k8s-security",
+    "desc": "A curated list for Awesome Kubernetes Security resources"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "morpheusthewhite/spicetify-themes",
+    "url": "https://github.com/morpheusthewhite/spicetify-themes",
+    "desc": "A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)",
+    "lang": "CSS"
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "desc": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "ZENALC/algobot",
+    "url": "https://github.com/ZENALC/algobot",
+    "desc": "Cryptocurrency trading bot with a graphical user interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "nats-io/nats-server",
+    "url": "https://github.com/nats-io/nats-server",
+    "desc": "High-Performance server for NATS, the cloud native messaging system.",
+    "lang": "Go"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "desc": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "desc": "Quarkus: Supersonic Subatomic Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "rails/marcel",
+    "url": "https://github.com/rails/marcel",
+    "desc": "Find the mime type of files, examining file, filename and declared type",
+    "lang": "Ruby"
+  },
+  {
+    "title": "tinacms/tinacms",
+    "url": "https://github.com/tinacms/tinacms",
+    "desc": "Tina is a open source editor to help building visual editing into React websites. Tina empowers developers to give their teams a contextual and intuitive editing experience without sacrificing code quality.",
+    "lang": "TypeScript"
+  }
+]
