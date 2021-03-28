@@ -1,0 +1,150 @@
+[
+  {
+    "title": "fogleman/physarum",
+    "url": "https://github.com/fogleman/physarum",
+    "desc": "Physarum polycephalum slime mold simulation",
+    "lang": "Go"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexgurr/react-coding-challenges",
+    "url": "https://github.com/alexgurr/react-coding-challenges",
+    "desc": "A series of ReactJS coding challenges with a variety of difficulties.",
+    "lang": "SCSS"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "lnishan/awesome-competitive-programming",
+    "url": "https://github.com/lnishan/awesome-competitive-programming",
+    "desc": "💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "carlospolop/privilege-escalation-awesome-scripts-suite",
+    "url": "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite",
+    "desc": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+    "lang": "C#"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "desc": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "morpheusthewhite/spicetify-themes",
+    "url": "https://github.com/morpheusthewhite/spicetify-themes",
+    "desc": "A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)",
+    "lang": "CSS"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "desc": "A private messenger for iOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "MarlinFirmware/Configurations",
+    "url": "https://github.com/MarlinFirmware/Configurations",
+    "desc": "Configurations for Marlin Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "desc": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "john-smilga/javascript-basic-projects",
+    "url": "https://github.com/john-smilga/javascript-basic-projects",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "HTML"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  }
+]
