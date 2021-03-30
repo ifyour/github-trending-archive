@@ -1,0 +1,150 @@
+[
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "desc": "The PHP Interpreter",
+    "lang": "C"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "desc": "The Intuitive Vue Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hneemann/Digital",
+    "url": "https://github.com/hneemann/Digital",
+    "desc": "A digital logic designer and circuit simulator.",
+    "lang": "Java"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "nccgroup/ScoutSuite",
+    "url": "https://github.com/nccgroup/ScoutSuite",
+    "desc": "Multi-Cloud Security Auditing Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "john-smilga/javascript-basic-projects",
+    "url": "https://github.com/john-smilga/javascript-basic-projects",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (March 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "desc": "A private messenger for iOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "drduh/YubiKey-Guide",
+    "url": "https://github.com/drduh/YubiKey-Guide",
+    "desc": "Guide to using YubiKey for GPG and SSH"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vimeo/psalm",
+    "url": "https://github.com/vimeo/psalm",
+    "desc": "A static analysis tool for finding errors in PHP applications",
+    "lang": "PHP"
+  },
+  {
+    "title": "lockfale/OSINT-Framework",
+    "url": "https://github.com/lockfale/OSINT-Framework",
+    "desc": "OSINT Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "carrierwaveuploader/carrierwave",
+    "url": "https://github.com/carrierwaveuploader/carrierwave",
+    "desc": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
+    "lang": "Ruby"
+  }
+]
