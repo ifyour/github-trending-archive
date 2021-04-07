@@ -1,0 +1,148 @@
+[
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hagopj13/node-express-boilerplate",
+    "url": "https://github.com/hagopj13/node-express-boilerplate",
+    "desc": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "desc": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "lang": "Java"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dypsilon/frontend-dev-bookmarks",
+    "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+    "desc": "Manually curated collection of resources for frontend web developers."
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ElemeFE/element",
+    "url": "https://github.com/ElemeFE/element",
+    "desc": "A Vue.js 2.0 UI Toolkit for Web",
+    "lang": "Vue"
+  },
+  {
+    "title": "Open-Smartwatch/open-smartwatch-os",
+    "url": "https://github.com/Open-Smartwatch/open-smartwatch-os",
+    "desc": "The Open-Smartwatch Operating System.",
+    "lang": "C"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "CSS"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "rusty1s/pytorch_geometric",
+    "url": "https://github.com/rusty1s/pytorch_geometric",
+    "desc": "Geometric Deep Learning Extension Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "desc": "Dolt – It's Git for Data",
+    "lang": "Go"
+  },
+  {
+    "title": "apollographql/apollo-client",
+    "url": "https://github.com/apollographql/apollo-client",
+    "desc": "🚀 A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dmlc/xgboost",
+    "url": "https://github.com/dmlc/xgboost",
+    "desc": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "lang": "C++"
+  },
+  {
+    "title": "swagger-api/swagger-codegen",
+    "url": "https://github.com/swagger-api/swagger-codegen",
+    "desc": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+    "lang": "Mustache"
+  },
+  {
+    "title": "microsoft/monaco-editor",
+    "url": "https://github.com/microsoft/monaco-editor",
+    "desc": "A browser based code editor",
+    "lang": "JavaScript"
+  }
+]
