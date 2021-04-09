@@ -1,0 +1,151 @@
+[
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "Dr-Noob/cpufetch",
+    "url": "https://github.com/Dr-Noob/cpufetch",
+    "desc": "Simple yet fancy CPU architecture fetching tool",
+    "lang": "C"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "desc": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "lang": "Java"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C++"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "sebastianbergmann/phpunit",
+    "url": "https://github.com/sebastianbergmann/phpunit",
+    "desc": "The PHP Unit Testing framework.",
+    "lang": "PHP"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "desc": "Complete container management platform",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/zstd",
+    "url": "https://github.com/facebook/zstd",
+    "desc": "Zstandard - Fast real-time compression algorithm",
+    "lang": "C"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "vercel/swr",
+    "url": "https://github.com/vercel/swr",
+    "desc": "React Hooks library for remote data fetching",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "emilybache/GildedRose-Refactoring-Kata",
+    "url": "https://github.com/emilybache/GildedRose-Refactoring-Kata",
+    "desc": "Starting code for the GildedRose Refactoring Kata in many programming languages.",
+    "lang": "C++"
+  },
+  {
+    "title": "facebookresearch/fastText",
+    "url": "https://github.com/facebookresearch/fastText",
+    "desc": "Library for fast text representation and classification.",
+    "lang": "HTML"
+  },
+  {
+    "title": "mobilecoinfoundation/mobilecoin",
+    "url": "https://github.com/mobilecoinfoundation/mobilecoin",
+    "desc": "Private payments for mobile devices.",
+    "lang": "Rust"
+  }
+]
