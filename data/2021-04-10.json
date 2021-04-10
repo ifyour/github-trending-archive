@@ -1,0 +1,151 @@
+[
+  {
+    "title": "ory/keto",
+    "url": "https://github.com/ory/keto",
+    "desc": "Open Source (Go) implementation of Zanzibar: Google's Consistent, Global Authorization System. Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/incubator-dolphinscheduler",
+    "url": "https://github.com/apache/incubator-dolphinscheduler",
+    "desc": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.",
+    "lang": "Java"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Layout-Parser/layout-parser",
+    "url": "https://github.com/Layout-Parser/layout-parser",
+    "desc": "A Python Library for Document Layout Understanding",
+    "lang": "Python"
+  },
+  {
+    "title": "sebastianbergmann/phpunit",
+    "url": "https://github.com/sebastianbergmann/phpunit",
+    "desc": "The PHP Unit Testing framework.",
+    "lang": "PHP"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "desc": "Educational blog posts for Rust beginners",
+    "lang": "Rust"
+  },
+  {
+    "title": "urbanadventurer/Android-PIN-Bruteforce",
+    "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
+    "desc": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
+    "lang": "Shell"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "martin-ger/esp_wifi_repeater",
+    "url": "https://github.com/martin-ger/esp_wifi_repeater",
+    "desc": "A full functional WiFi Repeater (correctly: a WiFi NAT Router)",
+    "lang": "C"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "bridgecrewio/checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "desc": "Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.",
+    "lang": "Python"
+  },
+  {
+    "title": "bilibili/ijkplayer",
+    "url": "https://github.com/bilibili/ijkplayer",
+    "desc": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+    "lang": "C"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "desc": "High-Performance Java API Gateway",
+    "lang": "Java"
+  },
+  {
+    "title": "eslint/eslint",
+    "url": "https://github.com/eslint/eslint",
+    "desc": "Find and fix problems in your JavaScript code.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Unity-Technologies/com.unity.multiplayer.mlapi",
+    "url": "https://github.com/Unity-Technologies/com.unity.multiplayer.mlapi",
+    "desc": "A game networking framework built for the Unity Engine to abstract game networking concepts.",
+    "lang": "C#"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "lang": "PHP"
+  },
+  {
+    "title": "Ganapati/RsaCtfTool",
+    "url": "https://github.com/Ganapati/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
+    "lang": "Python"
+  },
+  {
+    "title": "WordPress/wordpress-develop",
+    "url": "https://github.com/WordPress/wordpress-develop",
+    "desc": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "lang": "PHP"
+  },
+  {
+    "title": "timberio/vector",
+    "url": "https://github.com/timberio/vector",
+    "desc": "A high-performance, high-reliability observability data pipeline.",
+    "lang": "Rust"
+  }
+]
