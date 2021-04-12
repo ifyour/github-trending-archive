@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Kethku/neovide",
+    "url": "https://github.com/Kethku/neovide",
+    "desc": "No Nonsense Neovim Client in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pamoroso/free-python-books",
+    "url": "https://github.com/pamoroso/free-python-books",
+    "desc": "Python books free to read online or download"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "desc": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "lang": "C++"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "lang": "C"
+  },
+  {
+    "title": "urbanadventurer/Android-PIN-Bruteforce",
+    "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
+    "desc": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
+    "lang": "Shell"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 concepts every JavaScript developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "diasurgical/devilutionX",
+    "url": "https://github.com/diasurgical/devilutionX",
+    "desc": "Diablo build for modern operating systems",
+    "lang": "C++"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C++"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "Hari-Nagarajan/fairgame",
+    "url": "https://github.com/Hari-Nagarajan/fairgame",
+    "desc": "Tool to help us buy hard to find items.",
+    "lang": "Python"
+  },
+  {
+    "title": "ct-Open-Source/tuya-convert",
+    "url": "https://github.com/ct-Open-Source/tuya-convert",
+    "desc": "A collection of scripts to flash Tuya IoT devices to alternative firmwares",
+    "lang": "Python"
+  },
+  {
+    "title": "CTCaer/hekate",
+    "url": "https://github.com/CTCaer/hekate",
+    "desc": "hekate - A GUI based Nintendo Switch Bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "davidkpiano/xstate",
+    "url": "https://github.com/davidkpiano/xstate",
+    "desc": "State machines and statecharts for the modern web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "firefly-iii/firefly-iii",
+    "url": "https://github.com/firefly-iii/firefly-iii",
+    "desc": "Firefly III: a personal finances manager",
+    "lang": "PHP"
+  },
+  {
+    "title": "monero-project/monero",
+    "url": "https://github.com/monero-project/monero",
+    "desc": "Monero: the secure, private, untraceable cryptocurrency",
+    "lang": "C++"
+  }
+]
