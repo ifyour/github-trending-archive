@@ -1,0 +1,149 @@
+[
+  {
+    "title": "r4j0x00/exploits",
+    "url": "https://github.com/r4j0x00/exploits",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Swin-Transformer",
+    "url": "https://github.com/microsoft/Swin-Transformer",
+    "desc": "This is an official implementation for Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.",
+    "lang": "Python"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "desc": "Open source distributed and RESTful search engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "desc": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "DidierRLopes/GamestonkTerminal",
+    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
+    "desc": "The next best thing after Bloomberg Terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
+    "title": "pamoroso/free-python-books",
+    "url": "https://github.com/pamoroso/free-python-books",
+    "desc": "Python books free to read online or download"
+  },
+  {
+    "title": "thedevdojo/wave",
+    "url": "https://github.com/thedevdojo/wave",
+    "desc": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
+    "lang": "PHP"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "nordicgiant2/awesome-landing-page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page",
+    "desc": "A series of beautiful and practical landing page templates"
+  },
+  {
+    "title": "mikepound/enigma",
+    "url": "https://github.com/mikepound/enigma",
+    "desc": "A java implementation of Enigma, and a modern attack to decrypt it.",
+    "lang": "Java"
+  },
+  {
+    "title": "lindelof/awesome-web-effect",
+    "url": "https://github.com/lindelof/awesome-web-effect",
+    "desc": "A series of exquisite and compact web page cool effects"
+  },
+  {
+    "title": "semi-technologies/weaviate",
+    "url": "https://github.com/semi-technologies/weaviate",
+    "desc": "Weaviate is a cloud-native, modular, real-time vector search engine",
+    "lang": "Go"
+  },
+  {
+    "title": "Serial-Studio/Serial-Studio",
+    "url": "https://github.com/Serial-Studio/Serial-Studio",
+    "desc": "Multi-purpose serial data visualization & processing program",
+    "lang": "C++"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "zhuowei/nft_ptr",
+    "url": "https://github.com/zhuowei/nft_ptr",
+    "desc": "C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain",
+    "lang": "Rust"
+  },
+  {
+    "title": "Kethku/neovide",
+    "url": "https://github.com/Kethku/neovide",
+    "desc": "No Nonsense Neovim Client in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "replit/kaboom",
+    "url": "https://github.com/replit/kaboom",
+    "desc": "JavaScript game library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "desc": "Connect, secure, control, and observe services.",
+    "lang": "Go"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  }
+]
