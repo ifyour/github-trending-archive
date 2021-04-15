@@ -1,0 +1,149 @@
+[
+  {
+    "title": "elixir-nx/livebook",
+    "url": "https://github.com/elixir-nx/livebook",
+    "desc": "Interactive and collaborative code notebooks - made with Phoenix LiveView.",
+    "lang": "Elixir"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "Rust"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "desc": "Powerful, Extensible Dev Tools",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "r4j0x00/exploits",
+    "url": "https://github.com/r4j0x00/exploits",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "desc": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+  },
+  {
+    "title": "EvgSkv/logica",
+    "url": "https://github.com/EvgSkv/logica",
+    "desc": "Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "desc": "Open source distributed and RESTful search engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/Swin-Transformer",
+    "url": "https://github.com/microsoft/Swin-Transformer",
+    "desc": "This is an official implementation for Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.",
+    "lang": "Python"
+  },
+  {
+    "title": "mozilla/TTS",
+    "url": "https://github.com/mozilla/TTS",
+    "desc": "🤖 💬 Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "lang": "Dart"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "desc": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "lang": "C++"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ChartsCSS/charts.css",
+    "url": "https://github.com/ChartsCSS/charts.css",
+    "desc": "Open source CSS framework for data visualization.",
+    "lang": "HTML"
+  },
+  {
+    "title": "umputun/reproxy",
+    "url": "https://github.com/umputun/reproxy",
+    "desc": "Simple edge server / reverse proxy",
+    "lang": "Go"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "pixeltris/TwitchAdSolutions",
+    "url": "https://github.com/pixeltris/TwitchAdSolutions",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pamoroso/free-python-books",
+    "url": "https://github.com/pamoroso/free-python-books",
+    "desc": "Python books free to read online or download"
+  },
+  {
+    "title": "pikvm/pikvm",
+    "url": "https://github.com/pikvm/pikvm",
+    "desc": "Open and cheap DIY IP-KVM based on Raspberry Pi"
+  },
+  {
+    "title": "apache/tvm",
+    "url": "https://github.com/apache/tvm",
+    "desc": "Open deep learning compiler stack for cpu, gpu and specialized accelerators",
+    "lang": "Python"
+  },
+  {
+    "title": "opensearch-project/OpenSearch-Dashboards",
+    "url": "https://github.com/opensearch-project/OpenSearch-Dashboards",
+    "desc": "Open source visualization dashboards for OpenSearch.",
+    "lang": "TypeScript"
+  }
+]
