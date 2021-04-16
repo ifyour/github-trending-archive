@@ -1,0 +1,146 @@
+[
+  {
+    "title": "openethereum/openethereum",
+    "url": "https://github.com/openethereum/openethereum",
+    "desc": "The fast, light, and robust client for the Ethereum mainnet.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "Forescout/project-memoria-detector",
+    "url": "https://github.com/Forescout/project-memoria-detector",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ChristianChiarulli/LunarVim",
+    "url": "https://github.com/ChristianChiarulli/LunarVim",
+    "desc": "A Neovim config made with sane defaults",
+    "lang": "Lua"
+  },
+  {
+    "title": "ferib/D2R-Offline",
+    "url": "https://github.com/ferib/D2R-Offline",
+    "desc": "Diablo II: Resurrected, Offline-mode patcher",
+    "lang": "C#"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "avboy1337/1195777-chrome0day",
+    "url": "https://github.com/avboy1337/1195777-chrome0day",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "Python"
+  },
+  {
+    "title": "hhroot/2021_Hvv",
+    "url": "https://github.com/hhroot/2021_Hvv",
+    "desc": "2021 hw"
+  },
+  {
+    "title": "MohamedYoussouf/Design-Resources",
+    "url": "https://github.com/MohamedYoussouf/Design-Resources",
+    "desc": "A curated list of design resources from design templates, stock photos, icons, colors, and much more."
+  },
+  {
+    "title": "EvgSkv/logica",
+    "url": "https://github.com/EvgSkv/logica",
+    "desc": "Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rby90/project-based-tutorials-in-c",
+    "url": "https://github.com/rby90/project-based-tutorials-in-c",
+    "desc": "A curated list of project-based tutorials in C"
+  },
+  {
+    "title": "encoredev/encore",
+    "url": "https://github.com/encoredev/encore",
+    "desc": "The Go backend framework with superpowers",
+    "lang": "Go"
+  },
+  {
+    "title": "louisfb01/start-machine-learning-in-2020",
+    "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
+    "desc": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "desc": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "lang": "Python"
+  },
+  {
+    "title": "elixir-nx/livebook",
+    "url": "https://github.com/elixir-nx/livebook",
+    "desc": "Interactive and collaborative code notebooks - made with Phoenix LiveView.",
+    "lang": "Elixir"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "desc": "Open source distributed and RESTful search engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "Serial-Studio/Serial-Studio",
+    "url": "https://github.com/Serial-Studio/Serial-Studio",
+    "desc": "Multi-purpose serial data visualization & processing program",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  }
+]
