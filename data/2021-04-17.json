@@ -1,0 +1,149 @@
+[
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "calendso/calendso",
+    "url": "https://github.com/calendso/calendso",
+    "desc": "The open-source Calendly alternative.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/pytorchvideo",
+    "url": "https://github.com/facebookresearch/pytorchvideo",
+    "desc": "A deep learning library for video understanding research.",
+    "lang": "Python"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "desc": "A C++ standalone library for machine learning",
+    "lang": "C++"
+  },
+  {
+    "title": "ferib/D2R-Offline",
+    "url": "https://github.com/ferib/D2R-Offline",
+    "desc": "Diablo II: Resurrected, Offline-mode patcher",
+    "lang": "C#"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code"
+  },
+  {
+    "title": "kgrzybek/modular-monolith-with-ddd",
+    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "lang": "C#"
+  },
+  {
+    "title": "openethereum/openethereum",
+    "url": "https://github.com/openethereum/openethereum",
+    "desc": "The fast, light, and robust client for the Ethereum mainnet.",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/Swin-Transformer",
+    "url": "https://github.com/microsoft/Swin-Transformer",
+    "desc": "This is an official implementation for Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.",
+    "lang": "Python"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "everestpipkin/tools-list",
+    "url": "https://github.com/everestpipkin/tools-list",
+    "desc": "Open source, experimental, and tiny tools roundup",
+    "lang": "HTML"
+  },
+  {
+    "title": "Forescout/project-memoria-detector",
+    "url": "https://github.com/Forescout/project-memoria-detector",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ChristianChiarulli/LunarVim",
+    "url": "https://github.com/ChristianChiarulli/LunarVim",
+    "desc": "A Neovim config made with sane defaults",
+    "lang": "Lua"
+  },
+  {
+    "title": "shalzuth/D2RModding",
+    "url": "https://github.com/shalzuth/D2RModding",
+    "desc": "Modding for Diablo 2 Resurrected",
+    "lang": "C#"
+  },
+  {
+    "title": "avboy1337/1195777-chrome0day",
+    "url": "https://github.com/avboy1337/1195777-chrome0day",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "llvm/llvm-project",
+    "url": "https://github.com/llvm/llvm-project",
+    "desc": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org."
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "louisfb01/start-machine-learning-in-2020",
+    "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
+    "desc": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!"
+  },
+  {
+    "title": "trinodb/trino",
+    "url": "https://github.com/trinodb/trino",
+    "desc": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+    "lang": "Java"
+  },
+  {
+    "title": "palantir/blueprint",
+    "url": "https://github.com/palantir/blueprint",
+    "desc": "A React-based UI toolkit for the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  }
+]
