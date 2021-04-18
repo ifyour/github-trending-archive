@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "ferib/D2R-Offline",
+    "url": "https://github.com/ferib/D2R-Offline",
+    "desc": "Diablo II: Resurrected, Offline-mode patcher",
+    "lang": "C#"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "desc": "A C++ standalone library for machine learning",
+    "lang": "C++"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/pytorchvideo",
+    "url": "https://github.com/facebookresearch/pytorchvideo",
+    "desc": "A deep learning library for video understanding research.",
+    "lang": "Python"
+  },
+  {
+    "title": "microg/GmsCore",
+    "url": "https://github.com/microg/GmsCore",
+    "desc": "Free implementation of Play Services",
+    "lang": "Java"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "ChristianChiarulli/LunarVim",
+    "url": "https://github.com/ChristianChiarulli/LunarVim",
+    "desc": "A Neovim config made with sane defaults",
+    "lang": "Lua"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "desc": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+    "lang": "Rust"
+  },
+  {
+    "title": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "desc": "🎥 Command line video player",
+    "lang": "C"
+  },
+  {
+    "title": "louisfb01/start-machine-learning-in-2020",
+    "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
+    "desc": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "frontierdotxyz/frontier-chain-testnets",
+    "url": "https://github.com/frontierdotxyz/frontier-chain-testnets",
+    "desc": "Frontier Chain Testnets"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "kgrzybek/modular-monolith-with-ddd",
+    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "lang": "C#"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "rby90/project-based-tutorials-in-c",
+    "url": "https://github.com/rby90/project-based-tutorials-in-c",
+    "desc": "A curated list of project-based tutorials in C"
+  },
+  {
+    "title": "k3s-io/k3s",
+    "url": "https://github.com/k3s-io/k3s",
+    "desc": "Lightweight Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "CryptoSignal/Crypto-Signal",
+    "url": "https://github.com/CryptoSignal/Crypto-Signal",
+    "desc": "Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks",
+    "lang": "Python"
+  }
+]
