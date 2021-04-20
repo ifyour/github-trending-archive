@@ -1,0 +1,149 @@
+[
+  {
+    "title": "CyberPunkMetalHead/Binance-News-Sentiment-Bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot",
+    "desc": "This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds.",
+    "lang": "Python"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "scottbez1/splitflap",
+    "url": "https://github.com/scottbez1/splitflap",
+    "desc": "DIY split-flap display",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "Rog3rSm1th/Profil3r",
+    "url": "https://github.com/Rog3rSm1th/Profil3r",
+    "desc": "OSINT tool that allows you to find a person's accounts and emails + breached emails 🕵️",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain-gui",
+    "url": "https://github.com/Chia-Network/chia-blockchain-gui",
+    "desc": "Chia blockchain GUI in electron/react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "desc": "A Central Control Plane for AWS Permissions and Access",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "recastnavigation/recastnavigation",
+    "url": "https://github.com/recastnavigation/recastnavigation",
+    "desc": "Navigation-mesh Toolset for Games",
+    "lang": "C++"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "speechbrain/speechbrain",
+    "url": "https://github.com/speechbrain/speechbrain",
+    "desc": "A PyTorch-based Speech Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "desc": "🎥 Command line video player",
+    "lang": "C"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "louisfb01/start-machine-learning-in-2020",
+    "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
+    "desc": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!"
+  },
+  {
+    "title": "croccio/CarTube",
+    "url": "https://github.com/croccio/CarTube",
+    "desc": "YouTube for Android Auto without ROOT (rootless)"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "lang": "C#"
+  },
+  {
+    "title": "Minhluu2911/Machine_Learning_2_months",
+    "url": "https://github.com/Minhluu2911/Machine_Learning_2_months",
+    "desc": "I'm challenging to myself to learn Machine Learning Algorithms, as much as I can within 2 months",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "C++"
+  },
+  {
+    "title": "sudheerj/javascript-interview-questions",
+    "url": "https://github.com/sudheerj/javascript-interview-questions",
+    "desc": "List of 1000 JavaScript Interview Questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hail2u/html-best-practices",
+    "url": "https://github.com/hail2u/html-best-practices",
+    "desc": "For writing maintainable and scalable HTML documents",
+    "lang": "HTML"
+  },
+  {
+    "title": "microg/GmsCore",
+    "url": "https://github.com/microg/GmsCore",
+    "desc": "Free implementation of Play Services",
+    "lang": "Java"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  }
+]
