@@ -6,16 +6,10 @@
     "lang": "C"
   },
   {
-    "title": "taichi-dev/taichi",
-    "url": "https://github.com/taichi-dev/taichi",
-    "desc": "Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs",
-    "lang": "C++"
-  },
-  {
-    "title": "netdata/netdata",
-    "url": "https://github.com/netdata/netdata",
-    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
-    "lang": "C"
+    "title": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "desc": "A high-performance, web standards-compliant rendering engine based on Flutter.",
+    "lang": "TypeScript"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
@@ -24,69 +18,46 @@
     "lang": "JavaScript"
   },
   {
-    "title": "vitling/acid-banger",
-    "url": "https://github.com/vitling/acid-banger",
-    "desc": "The Endless Acid Banger",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "CyberPunkMetalHead/Binance-News-Sentiment-Bot",
-    "url": "https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot",
-    "desc": "This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds.",
-    "lang": "Python"
-  },
-  {
-    "title": "dotnet/maui",
-    "url": "https://github.com/dotnet/maui",
-    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
-    "lang": "C#"
-  },
-  {
     "title": "zellij-org/zellij",
     "url": "https://github.com/zellij-org/zellij",
     "desc": "A terminal workspace with batteries included",
     "lang": "Rust"
   },
   {
-    "title": "nasa/fprime",
-    "url": "https://github.com/nasa/fprime",
-    "desc": "F' - A flight software and embedded systems framework",
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "RH12503/triangula",
+    "url": "https://github.com/RH12503/triangula",
+    "desc": "Generate high-quality triangulated art from images.",
+    "lang": "Go"
+  },
+  {
+    "title": "openvinotoolkit/openvino_notebooks",
+    "url": "https://github.com/openvinotoolkit/openvino_notebooks",
+    "desc": "📚 A collection of Python notebooks for learning and experimenting with OpenVINO 👓",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs",
     "lang": "C++"
   },
   {
-    "title": "safemoonprotocol/Safemoon.sol",
-    "url": "https://github.com/safemoonprotocol/Safemoon.sol",
-    "desc": "safemoon contract",
-    "lang": "Solidity"
+    "title": "jeremylong/DependencyCheck",
+    "url": "https://github.com/jeremylong/DependencyCheck",
+    "desc": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+    "lang": "Java"
   },
   {
-    "title": "luong-komorebi/Awesome-Linux-Software",
-    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
-    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
-    "lang": "Python"
-  },
-  {
-    "title": "CleverProgrammers/cp-disney-plus-clone",
-    "url": "https://github.com/CleverProgrammers/cp-disney-plus-clone",
-    "desc": "Here's the DEMO Disney+ Clone App",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "corona-warn-app/cwa-app-android",
-    "url": "https://github.com/corona-warn-app/cwa-app-android",
-    "desc": "Native Android app using the Apple/Google exposure notification API.",
-    "lang": "Kotlin"
-  },
-  {
-    "title": "AvaloniaUI/Avalonia",
-    "url": "https://github.com/AvaloniaUI/Avalonia",
-    "desc": "A cross platform XAML framework for .NET",
-    "lang": "C#"
-  },
-  {
-    "title": "NeuromatchAcademy/course-content-dl",
-    "url": "https://github.com/NeuromatchAcademy/course-content-dl",
-    "desc": ""
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal Photo Management powered by Go and Google TensorFlow",
+    "lang": "Go"
   },
   {
     "title": "torvalds/linux",
@@ -95,10 +66,52 @@
     "lang": "C"
   },
   {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
     "title": "storj/storj",
     "url": "https://github.com/storj/storj",
     "desc": "Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.",
     "lang": "Go"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "reactchartjs/react-chartjs-2",
+    "url": "https://github.com/reactchartjs/react-chartjs-2",
+    "desc": "React wrapper for Chart.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wilson1yan/VideoGPT",
+    "url": "https://github.com/wilson1yan/VideoGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "vitling/acid-banger",
+    "url": "https://github.com/vitling/acid-banger",
+    "desc": "The Endless Acid Banger",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
   },
   {
     "title": "flutter/flutter",
@@ -107,43 +120,33 @@
     "lang": "Dart"
   },
   {
-    "title": "lvgl/lvgl",
-    "url": "https://github.com/lvgl/lvgl",
-    "desc": "Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",
-    "lang": "C"
-  },
-  {
-    "title": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "desc": "A complete computer science study plan to become a software engineer."
-  },
-  {
-    "title": "tevador/RandomX",
-    "url": "https://github.com/tevador/RandomX",
-    "desc": "Proof of work algorithm based on random code execution",
-    "lang": "C++"
-  },
-  {
-    "title": "apache/echarts",
-    "url": "https://github.com/apache/echarts",
-    "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "dypsilon/frontend-dev-bookmarks",
-    "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
-    "desc": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "title": "ethereum/web3.py",
-    "url": "https://github.com/ethereum/web3.py",
-    "desc": "A python interface for interacting with the Ethereum blockchain and ecosystem.",
+    "title": "huggingface/accelerate",
+    "url": "https://github.com/huggingface/accelerate",
+    "desc": "A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
     "lang": "Python"
   },
   {
-    "title": "pixijs/pixi.js",
-    "url": "https://github.com/pixijs/pixi.js",
-    "desc": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
-    "lang": "TypeScript"
+    "title": "makermoekoe/ESP32Picoremote",
+    "url": "https://github.com/makermoekoe/ESP32Picoremote",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "gogf/gf",
+    "url": "https://github.com/gogf/gf",
+    "desc": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "desc": "Simple HTML5 Charts using the <canvas> tag",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
   }
 ]
