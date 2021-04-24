@@ -1,0 +1,152 @@
+[
+  {
+    "title": "jdah/tetris-os",
+    "url": "https://github.com/jdah/tetris-os",
+    "desc": "An operating system, but it only plays Tetris.",
+    "lang": "C"
+  },
+  {
+    "title": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "desc": "A high-performance, web standards-compliant rendering engine based on Flutter.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zellij-org/zellij",
+    "url": "https://github.com/zellij-org/zellij",
+    "desc": "A terminal workspace with batteries included",
+    "lang": "Rust"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "RH12503/triangula",
+    "url": "https://github.com/RH12503/triangula",
+    "desc": "Generate high-quality triangulated art from images.",
+    "lang": "Go"
+  },
+  {
+    "title": "openvinotoolkit/openvino_notebooks",
+    "url": "https://github.com/openvinotoolkit/openvino_notebooks",
+    "desc": "📚 A collection of Python notebooks for learning and experimenting with OpenVINO 👓",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs",
+    "lang": "C++"
+  },
+  {
+    "title": "jeremylong/DependencyCheck",
+    "url": "https://github.com/jeremylong/DependencyCheck",
+    "desc": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+    "lang": "Java"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal Photo Management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "storj/storj",
+    "url": "https://github.com/storj/storj",
+    "desc": "Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.",
+    "lang": "Go"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "reactchartjs/react-chartjs-2",
+    "url": "https://github.com/reactchartjs/react-chartjs-2",
+    "desc": "React wrapper for Chart.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wilson1yan/VideoGPT",
+    "url": "https://github.com/wilson1yan/VideoGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "vitling/acid-banger",
+    "url": "https://github.com/vitling/acid-banger",
+    "desc": "The Endless Acid Banger",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "huggingface/accelerate",
+    "url": "https://github.com/huggingface/accelerate",
+    "desc": "A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
+    "lang": "Python"
+  },
+  {
+    "title": "makermoekoe/ESP32Picoremote",
+    "url": "https://github.com/makermoekoe/ESP32Picoremote",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "gogf/gf",
+    "url": "https://github.com/gogf/gf",
+    "desc": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "desc": "Simple HTML5 Charts using the <canvas> tag",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  }
+]
