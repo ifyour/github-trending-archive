@@ -1,0 +1,150 @@
+[
+  {
+    "title": "eva-engine/eva.js",
+    "url": "https://github.com/eva-engine/eva.js",
+    "desc": "Eva.js is a front-end game engine specifically for creating interactive game projects.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "ueberdosis/tiptap",
+    "url": "https://github.com/ueberdosis/tiptap",
+    "desc": "The headless editor framework for web artisans.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/wslg",
+    "url": "https://github.com/microsoft/wslg",
+    "desc": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Personal Photo Management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "TixiaoShan/LVI-SAM",
+    "url": "https://github.com/TixiaoShan/LVI-SAM",
+    "desc": "LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping",
+    "lang": "C++"
+  },
+  {
+    "title": "jdah/tetris-os",
+    "url": "https://github.com/jdah/tetris-os",
+    "desc": "An operating system, but it only plays Tetris.",
+    "lang": "C"
+  },
+  {
+    "title": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "desc": "A high-performance, web standards-compliant rendering engine based on Flutter.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs",
+    "lang": "C++"
+  },
+  {
+    "title": "openvinotoolkit/openvino_notebooks",
+    "url": "https://github.com/openvinotoolkit/openvino_notebooks",
+    "desc": "📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rrweb-io/rrweb",
+    "url": "https://github.com/rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "RH12503/triangula",
+    "url": "https://github.com/RH12503/triangula",
+    "desc": "Generate high-quality triangulated art from images.",
+    "lang": "Go"
+  },
+  {
+    "title": "PrestaShop/PrestaShop",
+    "url": "https://github.com/PrestaShop/PrestaShop",
+    "desc": "PrestaShop is a fully scalable open source e-commerce solution.",
+    "lang": "PHP"
+  },
+  {
+    "title": "josepholiveira/podcastr",
+    "url": "https://github.com/josepholiveira/podcastr",
+    "desc": "A platform built for podcast broadcasting. Developed during @Rocketseat NLW#05 free training.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "carlospolop/privilege-escalation-awesome-scripts-suite",
+    "url": "https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite",
+    "desc": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+    "lang": "C#"
+  },
+  {
+    "title": "DidierRLopes/GamestonkTerminal",
+    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
+    "desc": "The next best thing after Bloomberg Terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "gogf/gf",
+    "url": "https://github.com/gogf/gf",
+    "desc": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "reactchartjs/react-chartjs-2",
+    "url": "https://github.com/reactchartjs/react-chartjs-2",
+    "desc": "React wrapper for Chart.js",
+    "lang": "JavaScript"
+  }
+]
