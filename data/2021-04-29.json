@@ -1,0 +1,147 @@
+[
+  {
+    "title": "nekohasekai/SagerNet",
+    "url": "https://github.com/nekohasekai/SagerNet",
+    "desc": "The universal proxy toolchain for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "chrisleekr/binance-trading-bot",
+    "url": "https://github.com/chrisleekr/binance-trading-bot",
+    "desc": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "johnBuffer/NoCol",
+    "url": "https://github.com/johnBuffer/NoCol",
+    "desc": "Trajectories finder",
+    "lang": "C++"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Chop Chop",
+    "lang": "C#"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "rust-embedded/rust-raspberrypi-OS-tutorials",
+    "url": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+    "desc": "📚 Learn to write an embedded OS in Rust 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "airbus-seclab/qemu_blog",
+    "url": "https://github.com/airbus-seclab/qemu_blog",
+    "desc": "A series of posts about QEMU internals"
+  },
+  {
+    "title": "SebLague/Slime-Simulation",
+    "url": "https://github.com/SebLague/Slime-Simulation",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "plan9foundation/plan9",
+    "url": "https://github.com/plan9foundation/plan9",
+    "desc": "Plan 9 History, from 1992-09-21 to 2015-01-10.",
+    "lang": "C"
+  },
+  {
+    "title": "tensorflow/tensorboard",
+    "url": "https://github.com/tensorflow/tensorboard",
+    "desc": "TensorFlow's Visualization Toolkit",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nextapps-de/winbox",
+    "url": "https://github.com/nextapps-de/winbox",
+    "desc": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (April 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "singularseclab/Slides",
+    "url": "https://github.com/singularseclab/Slides",
+    "desc": "A collection of slides from Singular Security Lab."
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "desc": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "snowplow/snowplow",
+    "url": "https://github.com/snowplow/snowplow",
+    "desc": "The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",
+    "lang": "Scala"
+  },
+  {
+    "title": "pancakeswap/pancake-info-api",
+    "url": "https://github.com/pancakeswap/pancake-info-api",
+    "desc": "Serverless API implementation for PancakeSwap on-chain data query.",
+    "lang": "TypeScript"
+  }
+]
