@@ -1,0 +1,151 @@
+[
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "lang": "Blade"
+  },
+  {
+    "title": "johnBuffer/NoCol",
+    "url": "https://github.com/johnBuffer/NoCol",
+    "desc": "Trajectories finder",
+    "lang": "C++"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
+    "lang": "Python"
+  },
+  {
+    "title": "nextapps-de/winbox",
+    "url": "https://github.com/nextapps-de/winbox",
+    "desc": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "desc": "Unity Open Project #1: Chop Chop",
+    "lang": "C#"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "desc": "A C++ standalone library for machine learning",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorboard",
+    "url": "https://github.com/tensorflow/tensorboard",
+    "desc": "TensorFlow's Visualization Toolkit",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SagerNet/SagerNet",
+    "url": "https://github.com/SagerNet/SagerNet",
+    "desc": "The universal proxy toolchain for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "chrisleekr/binance-trading-bot",
+    "url": "https://github.com/chrisleekr/binance-trading-bot",
+    "desc": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "storj/drpc",
+    "url": "https://github.com/storj/drpc",
+    "desc": "drpc is a lightweight, drop-in replacement for gRPC",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "seek-oss/vanilla-extract",
+    "url": "https://github.com/seek-oss/vanilla-extract",
+    "desc": "Zero-runtime Stylesheets-in-TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "magma/magma",
+    "url": "https://github.com/magma/magma",
+    "desc": "Platform for building access networks and modular network services",
+    "lang": "Go"
+  },
+  {
+    "title": "vapor/vapor",
+    "url": "https://github.com/vapor/vapor",
+    "desc": "💧 A server-side Swift web framework.",
+    "lang": "Swift"
+  },
+  {
+    "title": "anncwb/vue-vben-admin",
+    "url": "https://github.com/anncwb/vue-vben-admin",
+    "desc": "✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0, ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...",
+    "lang": "Vue"
+  },
+  {
+    "title": "rust-embedded/rust-raspberrypi-OS-tutorials",
+    "url": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+    "desc": "📚 Learn to write an embedded OS in Rust 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  }
+]
