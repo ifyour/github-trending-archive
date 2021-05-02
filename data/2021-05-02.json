@@ -1,0 +1,151 @@
+[
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kotlin/kmm-production-sample",
+    "url": "https://github.com/Kotlin/kmm-production-sample",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "golang-standards/project-layout",
+    "url": "https://github.com/golang-standards/project-layout",
+    "desc": "Standard Go Project Layout",
+    "lang": "Makefile"
+  },
+  {
+    "title": "raydium-io/raydium-ui",
+    "url": "https://github.com/raydium-io/raydium-ui",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "androidmalware/android_hid",
+    "url": "https://github.com/androidmalware/android_hid",
+    "desc": "Use Android as Rubber Ducky against another Android device",
+    "lang": "Shell"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "desc": "A C++ standalone library for machine learning",
+    "lang": "C++"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "chrisleekr/binance-trading-bot",
+    "url": "https://github.com/chrisleekr/binance-trading-bot",
+    "desc": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "desc": "Powerful, Extensible Dev Tools",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nextapps-de/winbox",
+    "url": "https://github.com/nextapps-de/winbox",
+    "desc": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedevdojo/wave",
+    "url": "https://github.com/thedevdojo/wave",
+    "desc": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
+    "lang": "PHP"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
+    "lang": "Python"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "desc": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "artf/grapesjs",
+    "url": "https://github.com/artf/grapesjs",
+    "desc": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "oam-dev/kubevela",
+    "url": "https://github.com/oam-dev/kubevela",
+    "desc": "A Modern Application Deployment System Based on Kubernetes and OAM.",
+    "lang": "Go"
+  },
+  {
+    "title": "DoctorWkt/acwj",
+    "url": "https://github.com/DoctorWkt/acwj",
+    "desc": "A Compiler Writing Journey",
+    "lang": "C"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  }
+]
