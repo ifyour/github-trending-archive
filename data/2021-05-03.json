@@ -1,0 +1,151 @@
+[
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "raydium-io/raydium-ui",
+    "url": "https://github.com/raydium-io/raydium-ui",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "thedevdojo/wave",
+    "url": "https://github.com/thedevdojo/wave",
+    "desc": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
+    "lang": "PHP"
+  },
+  {
+    "title": "chrisleekr/binance-trading-bot",
+    "url": "https://github.com/chrisleekr/binance-trading-bot",
+    "desc": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "DIGITALCRIMINAL/OnlyFans",
+    "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+    "desc": "Scrape all the media from an OnlyFans account - Updated regularly",
+    "lang": "Python"
+  },
+  {
+    "title": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr",
+    "desc": "📚 Collaborative cheatsheets for console commands",
+    "lang": "Markdown"
+  },
+  {
+    "title": "AFLplusplus/LibAFL",
+    "url": "https://github.com/AFLplusplus/LibAFL",
+    "desc": "Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...",
+    "lang": "Rust"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/dino",
+    "url": "https://github.com/facebookresearch/dino",
+    "desc": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO",
+    "lang": "Python"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "input-output-hk/essential-cardano",
+    "url": "https://github.com/input-output-hk/essential-cardano",
+    "desc": "Repository for the Essential Cardano list"
+  },
+  {
+    "title": "supabase/realtime",
+    "url": "https://github.com/supabase/realtime",
+    "desc": "Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.",
+    "lang": "Elixir"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "spaceuptech/space-cloud",
+    "url": "https://github.com/spaceuptech/space-cloud",
+    "desc": "Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "mrdbourke/tensorflow-deep-learning",
+    "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+    "desc": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "git-tips/tips",
+    "url": "https://github.com/git-tips/tips",
+    "desc": "Most commonly used git tips and tricks.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ericaltendorf/plotman",
+    "url": "https://github.com/ericaltendorf/plotman",
+    "desc": "Chia plotting manager",
+    "lang": "Python"
+  },
+  {
+    "title": "popcorn-official/popcorn-desktop",
+    "url": "https://github.com/popcorn-official/popcorn-desktop",
+    "desc": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sudheerj/javascript-interview-questions",
+    "url": "https://github.com/sudheerj/javascript-interview-questions",
+    "desc": "List of 1000 JavaScript Interview Questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  }
+]
