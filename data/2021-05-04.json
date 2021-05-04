@@ -1,0 +1,150 @@
+[
+  {
+    "title": "facebookresearch/dino",
+    "url": "https://github.com/facebookresearch/dino",
+    "desc": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO",
+    "lang": "Python"
+  },
+  {
+    "title": "kelseyhightower/kubernetes-the-hard-way",
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "desc": "Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts."
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bitclout/frontend",
+    "url": "https://github.com/bitclout/frontend",
+    "desc": "bitclout.com frontend",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mrdbourke/tensorflow-deep-learning",
+    "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+    "desc": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "thedevdojo/wave",
+    "url": "https://github.com/thedevdojo/wave",
+    "desc": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
+    "lang": "PHP"
+  },
+  {
+    "title": "DIGITALCRIMINAL/OnlyFans",
+    "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+    "desc": "Scrape all the media from an OnlyFans account - Updated regularly",
+    "lang": "Python"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "lang": "Python"
+  },
+  {
+    "title": "projectdiscovery/interactsh",
+    "url": "https://github.com/projectdiscovery/interactsh",
+    "desc": "An OOB interaction gathering server and client library",
+    "lang": "Go"
+  },
+  {
+    "title": "androidmalware/android_hid",
+    "url": "https://github.com/androidmalware/android_hid",
+    "desc": "Use Android as Rubber Ducky against another Android device",
+    "lang": "Shell"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Uniswap/uniswap-interface",
+    "url": "https://github.com/Uniswap/uniswap-interface",
+    "desc": "🦄 An open source interface for the Uniswap protocol",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ninjamuffin99/Funkin",
+    "url": "https://github.com/ninjamuffin99/Funkin",
+    "desc": "",
+    "lang": "Haxe"
+  },
+  {
+    "title": "katherinepeterson/readme.so",
+    "url": "https://github.com/katherinepeterson/readme.so",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "desc": "A C++ standalone library for machine learning",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "vfat-tools/vfat-tools",
+    "url": "https://github.com/vfat-tools/vfat-tools",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bhattbhavesh91/cowin-vaccination-slot-availability",
+    "url": "https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability",
+    "desc": "Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "AFLplusplus/LibAFL",
+    "url": "https://github.com/AFLplusplus/LibAFL",
+    "desc": "Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...",
+    "lang": "Rust"
+  }
+]
