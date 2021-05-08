@@ -1,0 +1,149 @@
+[
+  {
+    "title": "pallupz/covid-vaccine-booking",
+    "url": "https://github.com/pallupz/covid-vaccine-booking",
+    "desc": "This very basic script can be used to automate some steps on Co-WIN Platform.",
+    "lang": "Python"
+  },
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "desc": "Presentation Slides for Developers (Public Beta 🎉)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Uniswap/uniswap-v3-core",
+    "url": "https://github.com/Uniswap/uniswap-v3-core",
+    "desc": "🦄 🦄 🦄 Core smart contracts of Uniswap v3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pixie-labs/pixie",
+    "url": "https://github.com/pixie-labs/pixie",
+    "desc": "Instant Kubernetes-Native Application Observability",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "andymatuschak/orbit",
+    "url": "https://github.com/andymatuschak/orbit",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
+    "url": "https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
+    "desc": "Responsive Admin Panel or Dashboard using Flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "kcp-dev/kcp",
+    "url": "https://github.com/kcp-dev/kcp",
+    "desc": "kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APis with controllers above or without clusters.",
+    "lang": "Go"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "desc": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "seemoo-lab/openhaystack",
+    "url": "https://github.com/seemoo-lab/openhaystack",
+    "desc": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+    "lang": "Swift"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/counterfit",
+    "url": "https://github.com/Azure/counterfit",
+    "desc": "a CLI that provides a generic automation layer for assessing the security of ML models",
+    "lang": "Python"
+  },
+  {
+    "title": "audacity/audacity",
+    "url": "https://github.com/audacity/audacity",
+    "desc": "Audio Editor",
+    "lang": "C"
+  },
+  {
+    "title": "Uniswap/uniswap-v3-periphery",
+    "url": "https://github.com/Uniswap/uniswap-v3-periphery",
+    "desc": "🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tokio-rs/console",
+    "url": "https://github.com/tokio-rs/console",
+    "desc": "tokio-console prototypes",
+    "lang": "Rust"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ClearURLs/Addon",
+    "url": "https://github.com/ClearURLs/Addon",
+    "desc": "ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JakeWharton/mosaic",
+    "url": "https://github.com/JakeWharton/mosaic",
+    "desc": "An experimental tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime",
+    "lang": "Kotlin"
+  }
+]
