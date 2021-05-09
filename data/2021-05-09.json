@@ -1,0 +1,147 @@
+[
+  {
+    "title": "abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
+    "url": "https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
+    "desc": "Responsive Admin Panel or Dashboard using Flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "pyston/pyston",
+    "url": "https://github.com/pyston/pyston",
+    "desc": "A faster and highly-compatible implementation of the Python programming language.",
+    "lang": "Python"
+  },
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "desc": "Presentation Slides for Developers (Public Beta 🎉)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pallupz/covid-vaccine-booking",
+    "url": "https://github.com/pallupz/covid-vaccine-booking",
+    "desc": "This very basic script can be used to automate some steps on Co-WIN Platform.",
+    "lang": "Python"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy",
+    "lang": "Go"
+  },
+  {
+    "title": "aurasphere/gomorra-sql",
+    "url": "https://github.com/aurasphere/gomorra-sql",
+    "desc": "SQL made uagliò.",
+    "lang": "Java"
+  },
+  {
+    "title": "audacity/audacity",
+    "url": "https://github.com/audacity/audacity",
+    "desc": "Audio Editor",
+    "lang": "C"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "pbatard/rufus",
+    "url": "https://github.com/pbatard/rufus",
+    "desc": "The Reliable USB Formatting Utility",
+    "lang": "C"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PharkMillups/beautiful-docs",
+    "url": "https://github.com/PharkMillups/beautiful-docs",
+    "desc": "Pointers to useful, well-written, and otherwise beautiful documentation."
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "desc": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "desc": "A cross-platform, OpenGL terminal emulator.",
+    "lang": "Rust"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "alibaba/Sentinel",
+    "url": "https://github.com/alibaba/Sentinel",
+    "desc": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+    "lang": "Java"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "dromara/shenyu",
+    "url": "https://github.com/dromara/shenyu",
+    "desc": "High-Performance Java API Gateway",
+    "lang": "Java"
+  },
+  {
+    "title": "nextapps-de/winbox",
+    "url": "https://github.com/nextapps-de/winbox",
+    "desc": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kelseyhightower/nocode",
+    "url": "https://github.com/kelseyhightower/nocode",
+    "desc": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "kcp-dev/kcp",
+    "url": "https://github.com/kcp-dev/kcp",
+    "desc": "kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APis with controllers above or without clusters.",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/iceberg",
+    "url": "https://github.com/apache/iceberg",
+    "desc": "Apache Iceberg",
+    "lang": "Java"
+  },
+  {
+    "title": "vueComponent/ant-design-vue",
+    "url": "https://github.com/vueComponent/ant-design-vue",
+    "desc": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+    "lang": "Vue"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/hooks",
+    "url": "https://github.com/alibaba/hooks",
+    "desc": "React Hooks Library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  }
+]
