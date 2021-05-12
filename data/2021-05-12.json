@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Renovamen/playground-macos",
+    "url": "https://github.com/Renovamen/playground-macos",
+    "desc": "My portfolio website simulating macOS's GUI, developed with React and tailwindcss.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "desc": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
+    "lang": "C++"
+  },
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "desc": "Presentation Slides for Developers (Public Beta 🎉)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "desc": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "desc": "A tool for writing better scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "desc": "Official Matplotlib cheat sheets",
+    "lang": "Python"
+  },
+  {
+    "title": "paulgp/applied-methods-phd",
+    "url": "https://github.com/paulgp/applied-methods-phd",
+    "desc": "Repo for Yale Applied Empirical Methods PHD Course",
+    "lang": "TeX"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "dromara/shenyu",
+    "url": "https://github.com/dromara/shenyu",
+    "desc": "High-Performance Java API Gateway",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "desc": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "lang": "Java"
+  },
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "desc": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "lang": "Rust"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "liximomo/vscode-sftp",
+    "url": "https://github.com/liximomo/vscode-sftp",
+    "desc": "Super fast sftp/ftp extension for VS Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "panjf2000/gnet",
+    "url": "https://github.com/panjf2000/gnet",
+    "desc": "🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",
+    "lang": "Go"
+  },
+  {
+    "title": "hyperledger/fabric",
+    "url": "https://github.com/hyperledger/fabric",
+    "desc": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+    "lang": "Go"
+  },
+  {
+    "title": "dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "desc": "changedetection.io - The best and simplest self-hosted website change detection monitoring service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "youzan/vant",
+    "url": "https://github.com/youzan/vant",
+    "desc": "Lightweight Mobile UI Components built on Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy",
+    "lang": "Go"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "FFmpeg/FFmpeg",
+    "url": "https://github.com/FFmpeg/FFmpeg",
+    "desc": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
+    "lang": "C"
+  }
+]
