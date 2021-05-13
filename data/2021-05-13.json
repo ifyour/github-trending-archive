@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Renovamen/playground-macos",
+    "url": "https://github.com/Renovamen/playground-macos",
+    "desc": "My portfolio website simulating macOS's GUI, developed with React and tailwindcss.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "desc": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "lang": "Python"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "desc": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
+    "lang": "C++"
+  },
+  {
+    "title": "tevador/RandomX",
+    "url": "https://github.com/tevador/RandomX",
+    "desc": "Proof of work algorithm based on random code execution",
+    "lang": "C++"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "desc": "A tool for writing better scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
+    "lang": "Python"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "desc": "Presentation Slides for Developers (Public Beta 🎉)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "The best open source remote desktop client software",
+    "lang": "Rust"
+  },
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "desc": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "lang": "Rust"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "One framework. Mobile & desktop.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "ChainSafe/web3.js",
+    "url": "https://github.com/ChainSafe/web3.js",
+    "desc": "Ethereum JavaScript API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "liximomo/vscode-sftp",
+    "url": "https://github.com/liximomo/vscode-sftp",
+    "desc": "Super fast sftp/ftp extension for VS Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Unity-Technologies/Graphics",
+    "url": "https://github.com/Unity-Technologies/Graphics",
+    "desc": "Unity Graphics - Including Scriptable Render Pipeline",
+    "lang": "C#"
+  },
+  {
+    "title": "greenplum-db/gpdb",
+    "url": "https://github.com/greenplum-db/gpdb",
+    "desc": "Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",
+    "lang": "C"
+  }
+]
