@@ -1,0 +1,148 @@
+[
+  {
+    "title": "fpv-wtf/voc-poc",
+    "url": "https://github.com/fpv-wtf/voc-poc",
+    "desc": "A PoC for USB video out from the DJI FPV Goggles, inspired by The Video Out Club",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "desc": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "lang": "Python"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "desc": "The Symfony PHP framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "IBM/Project_CodeNet",
+    "url": "https://github.com/IBM/Project_CodeNet",
+    "desc": "This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX",
+    "lang": "ANTLR"
+  },
+  {
+    "title": "zo0r/react-native-push-notification",
+    "url": "https://github.com/zo0r/react-native-push-notification",
+    "desc": "React Native Local and Remote Notifications",
+    "lang": "Java"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "desc": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "lang": "Rust"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "desc": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
+    "lang": "C++"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tevador/RandomX",
+    "url": "https://github.com/tevador/RandomX",
+    "desc": "Proof of work algorithm based on random code execution",
+    "lang": "C++"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (May 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "AllThingsSmitty/css-protips",
+    "url": "https://github.com/AllThingsSmitty/css-protips",
+    "desc": "A collection of tips to help take your CSS skills pro"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "IntelRealSense/realsense-ros",
+    "url": "https://github.com/IntelRealSense/realsense-ros",
+    "desc": "Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module",
+    "lang": "C++"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "karmada-io/karmada",
+    "url": "https://github.com/karmada-io/karmada",
+    "desc": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "desc": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "lang": "Java"
+  }
+]
