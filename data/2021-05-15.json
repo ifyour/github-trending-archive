@@ -1,0 +1,150 @@
+[
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "desc": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "lang": "Rust"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vanhoefm/fragattacks",
+    "url": "https://github.com/vanhoefm/fragattacks",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
+    "lang": "Python"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "desc": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
+    "lang": "C++"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jszczerbinsky/ptSh",
+    "url": "https://github.com/jszczerbinsky/ptSh",
+    "desc": "Let your shell commands look prettier",
+    "lang": "Shell"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "education/GitHubGraduation-2021",
+    "url": "https://github.com/education/GitHubGraduation-2021",
+    "desc": "Join the GitHub Graduation Yearbook and walk the stage on June 5.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sidkshatriya/rd",
+    "url": "https://github.com/sidkshatriya/rd",
+    "desc": "rd is a record/replay debugger written in rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "mbkore/lockup",
+    "url": "https://github.com/mbkore/lockup",
+    "desc": "A proof-of-concept Android application to detect and defeat some of the Cellebrite UFED forensic toolkit extraction techniques.",
+    "lang": "Java"
+  },
+  {
+    "title": "openai/guided-diffusion",
+    "url": "https://github.com/openai/guided-diffusion",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "IBM/Project_CodeNet",
+    "url": "https://github.com/IBM/Project_CodeNet",
+    "desc": "This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX",
+    "lang": "Python"
+  },
+  {
+    "title": "positive-security/send-my",
+    "url": "https://github.com/positive-security/send-my",
+    "desc": "Upload arbitrary data via Apple's Find My network.",
+    "lang": "C"
+  },
+  {
+    "title": "intel-isl/PhotorealismEnhancement",
+    "url": "https://github.com/intel-isl/PhotorealismEnhancement",
+    "desc": "Code & Data for Enhancing Photorealism Enhancement",
+    "lang": "HTML"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "desc": "Python with the scientific stack, compiled to WebAssembly.",
+    "lang": "Python"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (May 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "awslabs/aws-saas-boost",
+    "url": "https://github.com/awslabs/aws-saas-boost",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "seemoo-lab/openhaystack",
+    "url": "https://github.com/seemoo-lab/openhaystack",
+    "desc": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+    "lang": "Swift"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "GoogleChromeLabs/squoosh",
+    "url": "https://github.com/GoogleChromeLabs/squoosh",
+    "desc": "Make images smaller using best-in-class codecs, right in the browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  }
+]
