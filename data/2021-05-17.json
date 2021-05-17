@@ -1,0 +1,146 @@
+[
+  {
+    "title": "privacybot-berkeley/privacybot",
+    "url": "https://github.com/privacybot-berkeley/privacybot",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "swar/Swar-Chia-Plot-Manager",
+    "url": "https://github.com/swar/Swar-Chia-Plot-Manager",
+    "desc": "This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable.",
+    "lang": "Python"
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "desc": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "desc": "Open Source Continuous File Synchronization",
+    "lang": "Go"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AkihiroSuda/lima",
+    "url": "https://github.com/AkihiroSuda/lima",
+    "desc": "Lima: Linux-on-Mac (macOS subsystem for Linux, containerd for Mac)",
+    "lang": "Go"
+  },
+  {
+    "title": "ec-/Quake3e",
+    "url": "https://github.com/ec-/Quake3e",
+    "desc": "Improved Quake III Arena engine",
+    "lang": "C"
+  },
+  {
+    "title": "JanVanRyswyck/awesome-talks",
+    "url": "https://github.com/JanVanRyswyck/awesome-talks",
+    "desc": "Awesome online talks and screencasts"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "desc": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "lang": "Shell"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "desc": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "positive-security/send-my",
+    "url": "https://github.com/positive-security/send-my",
+    "desc": "Upload arbitrary data via Apple's Find My network.",
+    "lang": "C"
+  },
+  {
+    "title": "intel-isl/PhotorealismEnhancement",
+    "url": "https://github.com/intel-isl/PhotorealismEnhancement",
+    "desc": "Code & Data for Enhancing Photorealism Enhancement",
+    "lang": "HTML"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (May 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "9emin1/charlotte",
+    "url": "https://github.com/9emin1/charlotte",
+    "desc": "c++ fully undetected shellcode launcher ;)",
+    "lang": "Python"
+  },
+  {
+    "title": "https-deeplearning-ai/MLEP-public",
+    "url": "https://github.com/https-deeplearning-ai/MLEP-public",
+    "desc": "Public repo for DeepLearning.AI MLEP Specialization",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bepronetwork/bepro-js",
+    "url": "https://github.com/bepronetwork/bepro-js",
+    "desc": "The repository contains a comprehensive documentation of the bepro.network ecosystem as a javascript framework. If you are new to BEPRO, you might want to check out the Website Overview or our public Start Building Page.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "fpvout/DigiView-Android",
+    "url": "https://github.com/fpvout/DigiView-Android",
+    "desc": "",
+    "lang": "Java"
+  }
+]
