@@ -1,0 +1,150 @@
+[
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "rodrigo-brito/ninjabot",
+    "url": "https://github.com/rodrigo-brito/ninjabot",
+    "desc": "A fast cryptocurrency bot implemented in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "gwuhaolin/livego",
+    "url": "https://github.com/gwuhaolin/livego",
+    "desc": "live video streaming server in golang",
+    "lang": "Go"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "The best open source remote desktop client software",
+    "lang": "Rust"
+  },
+  {
+    "title": "mehdihadeli/awesome-software-architecture",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+    "desc": "A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles."
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "juce-framework/JUCE",
+    "url": "https://github.com/juce-framework/JUCE",
+    "desc": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",
+    "lang": "C++"
+  },
+  {
+    "title": "blazorhero/CleanArchitecture",
+    "url": "https://github.com/blazorhero/CleanArchitecture",
+    "desc": "Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.",
+    "lang": "C#"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code"
+  },
+  {
+    "title": "Aayush9029/Native-Youtube",
+    "url": "https://github.com/Aayush9029/Native-Youtube",
+    "desc": "Personal App that turned into alpha released app",
+    "lang": "Swift"
+  },
+  {
+    "title": "Azure/SimuLand",
+    "url": "https://github.com/Azure/SimuLand",
+    "desc": "Understand adversary tradecraft and improve detection strategies",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Ganapati/RsaCtfTool",
+    "url": "https://github.com/Ganapati/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
+    "lang": "Python"
+  },
+  {
+    "title": "sonnysangha/Amazon-starter-template-nextjs",
+    "url": "https://github.com/sonnysangha/Amazon-starter-template-nextjs",
+    "desc": "This is the Official Starter template for the AMAZON 5 Day challenge (The SECRET Challenge!) - Next.js | React.js | Tailwind CSS | Redux | Tailwind | Firebase",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sreenivasdoosa/sdoosa-algo-trade-python",
+    "url": "https://github.com/sreenivasdoosa/sdoosa-algo-trade-python",
+    "desc": "Algo trade project in python",
+    "lang": "Python"
+  },
+  {
+    "title": "ethereum/eth2.0-specs",
+    "url": "https://github.com/ethereum/eth2.0-specs",
+    "desc": "Ethereum 2.0 Specifications",
+    "lang": "Python"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "lang": "C++"
+  },
+  {
+    "title": "alfonsrv/impf-botpy",
+    "url": "https://github.com/alfonsrv/impf-botpy",
+    "desc": "Impf Bot.py 🐍⚡ – Automatisierung für den Corona ImpfterminService Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/erpnext",
+    "url": "https://github.com/frappe/erpnext",
+    "desc": "World's best free and open source ERP.",
+    "lang": "Python"
+  }
+]
