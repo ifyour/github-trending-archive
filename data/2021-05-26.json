@@ -1,0 +1,148 @@
+[
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "a327ex/SNKRX",
+    "url": "https://github.com/a327ex/SNKRX",
+    "desc": "A replayable arcade shooter where you control a snake of heroes.",
+    "lang": "Lua"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gwuhaolin/livego",
+    "url": "https://github.com/gwuhaolin/livego",
+    "desc": "live video streaming server in golang",
+    "lang": "Go"
+  },
+  {
+    "title": "RPwnage/pwn-my",
+    "url": "https://github.com/RPwnage/pwn-my",
+    "desc": "iOS 14.5 WebKit/Safari based Jailbreak",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vtuanjs/typescript-solid-architecture",
+    "url": "https://github.com/vtuanjs/typescript-solid-architecture",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "psenough/teach_yourself_demoscene_in_14_days",
+    "url": "https://github.com/psenough/teach_yourself_demoscene_in_14_days",
+    "desc": "guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1"
+  },
+  {
+    "title": "majd/ipatool",
+    "url": "https://github.com/majd/ipatool",
+    "desc": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
+    "lang": "Swift"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "The best open source remote desktop client software",
+    "lang": "Rust"
+  },
+  {
+    "title": "mehdihadeli/awesome-software-architecture",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+    "desc": "A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles."
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "blazorhero/CleanArchitecture",
+    "url": "https://github.com/blazorhero/CleanArchitecture",
+    "desc": "Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.",
+    "lang": "C#"
+  },
+  {
+    "title": "PharkMillups/beautiful-docs",
+    "url": "https://github.com/PharkMillups/beautiful-docs",
+    "desc": "Pointers to useful, well-written, and otherwise beautiful documentation."
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "utam0k/youki",
+    "url": "https://github.com/utam0k/youki",
+    "desc": "An experimental container runtime written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "lang": "C"
+  },
+  {
+    "title": "ClashDotNetFramework/ClashDotNetFramework",
+    "url": "https://github.com/ClashDotNetFramework/ClashDotNetFramework",
+    "desc": "A .NET 5 based Clash GUI Proxy For Windows"
+  },
+  {
+    "title": "ethereumbook/ethereumbook",
+    "url": "https://github.com/ethereumbook/ethereumbook",
+    "desc": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OptimalBits/bull",
+    "url": "https://github.com/OptimalBits/bull",
+    "desc": "Premium Queue package for handling distributed jobs and messages in NodeJS.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "ArduPilot/ardupilot",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "desc": "ArduPlane, ArduCopter, ArduRover source",
+    "lang": "C++"
+  }
+]
