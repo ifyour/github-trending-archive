@@ -1,0 +1,147 @@
+[
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "dvgodoy/dl-visuals",
+    "url": "https://github.com/dvgodoy/dl-visuals",
+    "desc": "Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers."
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "The best open source remote desktop client software",
+    "lang": "Rust"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "gwuhaolin/livego",
+    "url": "https://github.com/gwuhaolin/livego",
+    "desc": "live video streaming server in golang",
+    "lang": "Go"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dogecoin/dogecoin.com",
+    "url": "https://github.com/dogecoin/dogecoin.com",
+    "desc": "official repo for dogecoin.com",
+    "lang": "HTML"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2021",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bee-san/pyWhat",
+    "url": "https://github.com/bee-san/pyWhat",
+    "desc": "🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WeeJeWel/wg-easy",
+    "url": "https://github.com/WeeJeWel/wg-easy",
+    "desc": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+    "lang": "HTML"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "graphql/graphiql",
+    "url": "https://github.com/graphql/graphiql",
+    "desc": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "lang": "Vue"
+  },
+  {
+    "title": "seemoo-lab/openhaystack",
+    "url": "https://github.com/seemoo-lab/openhaystack",
+    "desc": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+    "lang": "Swift"
+  },
+  {
+    "title": "pluja/awesome-privacy",
+    "url": "https://github.com/pluja/awesome-privacy",
+    "desc": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS."
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "ethereumbook/ethereumbook",
+    "url": "https://github.com/ethereumbook/ethereumbook",
+    "desc": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "PyTorchLightning/lightning-flash",
+    "url": "https://github.com/PyTorchLightning/lightning-flash",
+    "desc": "Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "sarthaksavvy/100DaysOfAWS",
+    "url": "https://github.com/sarthaksavvy/100DaysOfAWS",
+    "desc": ""
+  },
+  {
+    "title": "blazorhero/CleanArchitecture",
+    "url": "https://github.com/blazorhero/CleanArchitecture",
+    "desc": "Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.",
+    "lang": "C#"
+  }
+]
