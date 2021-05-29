@@ -1,0 +1,146 @@
+[
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "desc": "The Microsoft community Windows Package Manager manifest repository",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "pluja/awesome-privacy",
+    "url": "https://github.com/pluja/awesome-privacy",
+    "desc": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS."
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bee-san/pyWhat",
+    "url": "https://github.com/bee-san/pyWhat",
+    "desc": "🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️",
+    "lang": "Python"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "lang": "Vue"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2021",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "davidortinau/WeatherTwentyOne",
+    "url": "https://github.com/davidortinau/WeatherTwentyOne",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "desc": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "lang": "Python"
+  },
+  {
+    "title": "giswqs/leafmap",
+    "url": "https://github.com/giswqs/leafmap",
+    "desc": "A Python package for geospatial analysis and interactive mapping with minimal coding in a Jupyter environment",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "amazon-research/siam-mot",
+    "url": "https://github.com/amazon-research/siam-mot",
+    "desc": "SiamMOT: Siamese Multi-Object Tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  },
+  {
+    "title": "sushrut111/cowin-automation-extn",
+    "url": "https://github.com/sushrut111/cowin-automation-extn",
+    "desc": "Source code for chrome extension Cowin Automation. Auto fills the fields on cowin vaccine slot booking portal to speed up the process and quickly book a slot.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tegal1337/CiLocks",
+    "url": "https://github.com/tegal1337/CiLocks",
+    "desc": "Android LockScreen Bypass",
+    "lang": "Shell"
+  },
+  {
+    "title": "freereadorg/awesome-libgen",
+    "url": "https://github.com/freereadorg/awesome-libgen",
+    "desc": "😎 Awesome list of Library Genesis, the world's largest free library."
+  },
+  {
+    "title": "airbytehq/airbyte",
+    "url": "https://github.com/airbytehq/airbyte",
+    "desc": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",
+    "lang": "Java"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "FriendsOfPHP/PHP-CS-Fixer",
+    "url": "https://github.com/FriendsOfPHP/PHP-CS-Fixer",
+    "desc": "A tool to automatically fix PHP Coding Standards issues",
+    "lang": "PHP"
+  },
+  {
+    "title": "neovim/nvim-lspconfig",
+    "url": "https://github.com/neovim/nvim-lspconfig",
+    "desc": "Quickstart configurations for the Nvim LSP client",
+    "lang": "Lua"
+  }
+]
