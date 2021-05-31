@@ -1,0 +1,147 @@
+[
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 The Open Source Airtable alternative",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "desc": "The Microsoft community Windows Package Manager manifest repository",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "binji/pokegb",
+    "url": "https://github.com/binji/pokegb",
+    "desc": "A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++.",
+    "lang": "C++"
+  },
+  {
+    "title": "dundee/gdu",
+    "url": "https://github.com/dundee/gdu",
+    "desc": "Disk usage analyzer with console interface written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "TaKO8Ki/awesome-alternatives-in-rust",
+    "url": "https://github.com/TaKO8Ki/awesome-alternatives-in-rust",
+    "desc": "A curated list of replacements for existing software written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "HaveIBeenPwned/PwnedPasswordsAzureFunction",
+    "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsAzureFunction",
+    "desc": "APIs for the k-anonymity Pwned Passwords implementation",
+    "lang": "C#"
+  },
+  {
+    "title": "AngeloCore/discord-buttons",
+    "url": "https://github.com/AngeloCore/discord-buttons",
+    "desc": "A discord.js api for the discord buttons",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SpacehuhnTech/esp8266_deauther",
+    "url": "https://github.com/SpacehuhnTech/esp8266_deauther",
+    "desc": "Affordable WiFi hacking platform for testing and learning",
+    "lang": "C"
+  },
+  {
+    "title": "team7katas/sysopsquad",
+    "url": "https://github.com/team7katas/sysopsquad",
+    "desc": "The Sysops Squad Architectural Kata"
+  },
+  {
+    "title": "bee-san/pyWhat",
+    "url": "https://github.com/bee-san/pyWhat",
+    "desc": "🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "apple/swift-evolution",
+    "url": "https://github.com/apple/swift-evolution",
+    "desc": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "AIPQDev/Alumni-Sessions",
+    "url": "https://github.com/AIPQDev/Alumni-Sessions",
+    "desc": "All ALumni Session Content",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Superalgos/Superalgos",
+    "url": "https://github.com/Superalgos/Superalgos",
+    "desc": "Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "boringdesigners/boring-avatars",
+    "url": "https://github.com/boringdesigners/boring-avatars",
+    "desc": "Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  }
+]
