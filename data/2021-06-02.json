@@ -1,0 +1,152 @@
+[
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "desc": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "lang": "Python"
+  },
+  {
+    "title": "binji/pokegb",
+    "url": "https://github.com/binji/pokegb",
+    "desc": "A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++.",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/PolarDB-for-PostgreSQL",
+    "url": "https://github.com/alibaba/PolarDB-for-PostgreSQL",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "desc": "The Microsoft community Windows Package Manager manifest repository",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "apache/dubbo",
+    "url": "https://github.com/apache/dubbo",
+    "desc": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+    "lang": "Java"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 The Open Source Airtable alternative",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "desc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "lang": "Lua"
+  },
+  {
+    "title": "roseduan/rosedb",
+    "url": "https://github.com/roseduan/rosedb",
+    "desc": "A simple k-v database in pure Golang, supports string, list, hash, set, sorted set. Go 语言实现的 k-v 数据库项目，简洁易懂，适合新手进阶，欢迎 Pr！",
+    "lang": "Go"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "Rikj000/MoniGoMani",
+    "url": "https://github.com/Rikj000/MoniGoMani",
+    "desc": "Isn't that what we all want? Our money to go many? Well that's what this strategy hopes to do for you! By giving you/HyperOpt a lot of signals to alter the weight from.",
+    "lang": "Python"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "orhun/gpg-tui",
+    "url": "https://github.com/orhun/gpg-tui",
+    "desc": "Manage your GnuPG keys with ease! 🔐",
+    "lang": "Rust"
+  },
+  {
+    "title": "neuralmagic/sparseml",
+    "url": "https://github.com/neuralmagic/sparseml",
+    "desc": "Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "kiki7000/discord.py-components",
+    "url": "https://github.com/kiki7000/discord.py-components",
+    "desc": "An unofficial library for discord components (under-development)",
+    "lang": "Python"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "desc": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "desc": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet-architecture/eShopOnContainers",
+    "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+    "lang": "C#"
+  },
+  {
+    "title": "open-mmlab/mmsegmentation",
+    "url": "https://github.com/open-mmlab/mmsegmentation",
+    "desc": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  }
+]
