@@ -1,0 +1,149 @@
+[
+  {
+    "title": "alibaba/PolarDB-for-PostgreSQL",
+    "url": "https://github.com/alibaba/PolarDB-for-PostgreSQL",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Open-Source Photo Management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "desc": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "lang": "Python"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "desc": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "binji/pokegb",
+    "url": "https://github.com/binji/pokegb",
+    "desc": "A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "sarthaksavvy/100DaysOfAWS",
+    "url": "https://github.com/sarthaksavvy/100DaysOfAWS",
+    "desc": ""
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "GuitarML/NeuralPi",
+    "url": "https://github.com/GuitarML/NeuralPi",
+    "desc": "Raspberry Pi guitar pedal using neural networks to emulate real amps and pedals.",
+    "lang": "C++"
+  },
+  {
+    "title": "pmndrs/racing-game",
+    "url": "https://github.com/pmndrs/racing-game",
+    "desc": "🏎 Open source racing game developed by everyone willing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "desc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "lang": "Lua"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "desc": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "lang": "C"
+  },
+  {
+    "title": "datasciencemasters/go",
+    "url": "https://github.com/datasciencemasters/go",
+    "desc": "The Open Source Data Science Masters"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Build custom CRUD apps that talk to any API or database. All without HTML or CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/benchmark",
+    "url": "https://github.com/google/benchmark",
+    "desc": "A microbenchmark support library",
+    "lang": "C++"
+  },
+  {
+    "title": "siraben/freenode-exodus",
+    "url": "https://github.com/siraben/freenode-exodus",
+    "desc": "Projects and channels that have decided to leave Freenode. (Leave count as of 2021-06-01: 444)"
+  },
+  {
+    "title": "duckdb/duckdb",
+    "url": "https://github.com/duckdb/duckdb",
+    "desc": "DuckDB is an in-process SQL OLAP Database Management System",
+    "lang": "C++"
+  },
+  {
+    "title": "travist/jsencrypt",
+    "url": "https://github.com/travist/jsencrypt",
+    "desc": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
+    "lang": "JavaScript"
+  }
+]
