@@ -1,0 +1,151 @@
+[
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "desc": "Bicep is a declarative language for describing and deploying Azure resources",
+    "lang": "Bicep"
+  },
+  {
+    "title": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "desc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "lang": "Lua"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "desc": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Rikj000/MoniGoMani",
+    "url": "https://github.com/Rikj000/MoniGoMani",
+    "desc": "Isn't that what we all want? Our money to go many? Well that's what this strategy hopes to do for you! By giving you/HyperOpt a lot of signals to alter the weight from.",
+    "lang": "Python"
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "lang": "C"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "desc": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "lang": "Python"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "megaease/easegress",
+    "url": "https://github.com/megaease/easegress",
+    "desc": "An all-rounder traffic orchestration system",
+    "lang": "Go"
+  },
+  {
+    "title": "pmndrs/racing-game",
+    "url": "https://github.com/pmndrs/racing-game",
+    "desc": "🏎 Open source racing game developed by everyone willing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ChristianChiarulli/LunarVim",
+    "url": "https://github.com/ChristianChiarulli/LunarVim",
+    "desc": "A Neovim config made with sane defaults",
+    "lang": "Lua"
+  },
+  {
+    "title": "fsnotify/fsnotify",
+    "url": "https://github.com/fsnotify/fsnotify",
+    "desc": "Cross-platform file system notifications for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "desc": "Public interface definitions of Google APIs.",
+    "lang": "Starlark"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "roseduan/rosedb",
+    "url": "https://github.com/roseduan/rosedb",
+    "desc": "A simple k-v database in pure Golang, supports string, list, hash, set, sorted set. Go 语言实现的 k-v 数据库项目，简洁易懂，适合新手进阶，欢迎 Pr！",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/dubbo",
+    "url": "https://github.com/apache/dubbo",
+    "desc": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+    "lang": "Java"
+  },
+  {
+    "title": "oceanbase/oceanbase",
+    "url": "https://github.com/oceanbase/oceanbase",
+    "desc": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
+    "lang": "C++"
+  },
+  {
+    "title": "datasciencemasters/go",
+    "url": "https://github.com/datasciencemasters/go",
+    "desc": "The Open Source Data Science Masters"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (June 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "desc": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "lang": "C"
+  }
+]
