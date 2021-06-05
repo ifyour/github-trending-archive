@@ -1,0 +1,151 @@
+[
+  {
+    "title": "GoogleChrome/lighthouse",
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "desc": "Automated auditing, performance metrics, and best practices for the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "An open source remote desktop client software",
+    "lang": "Rust"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "desc": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "lang": "C"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Open-Source Photo Management powered by Go and Google TensorFlow",
+    "lang": "Go"
+  },
+  {
+    "title": "kzl/decision-transformer",
+    "url": "https://github.com/kzl/decision-transformer",
+    "desc": "Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.",
+    "lang": "Python"
+  },
+  {
+    "title": "pmndrs/racing-game",
+    "url": "https://github.com/pmndrs/racing-game",
+    "desc": "🏎 Open source racing game developed by everyone willing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PrithivirajDamodaran/Gramformer",
+    "url": "https://github.com/PrithivirajDamodaran/Gramformer",
+    "desc": "A framework for detecting, highlighting and correcting grammatical errors on natural language text.",
+    "lang": "Python"
+  },
+  {
+    "title": "juliocesarfort/public-pentesting-reports",
+    "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+    "desc": "Curated list of public penetration test reports released by several consulting firms and academic security groups",
+    "lang": "CSS"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NielsRogge/Transformers-Tutorials",
+    "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+    "desc": "This repository contains demos I made with the Transformers library by HuggingFace.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rahuldkjain/github-profile-readme-generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "desc": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "datasciencemasters/go",
+    "url": "https://github.com/datasciencemasters/go",
+    "desc": "The Open Source Data Science Masters"
+  },
+  {
+    "title": "DefinitelyTyped/DefinitelyTyped",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "desc": "The repository for high quality TypeScript type definitions.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "punishell/bbtips",
+    "url": "https://github.com/punishell/bbtips",
+    "desc": "BugBountyTips",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wesbos/beginner-javascript",
+    "url": "https://github.com/wesbos/beginner-javascript",
+    "desc": "Slam Dunk JavaScript",
+    "lang": "HTML"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  }
+]
