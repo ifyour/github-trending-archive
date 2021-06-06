@@ -1,0 +1,151 @@
+[
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "lang": "C"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "norvig/pytudes",
+    "url": "https://github.com/norvig/pytudes",
+    "desc": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pmndrs/racing-game",
+    "url": "https://github.com/pmndrs/racing-game",
+    "desc": "🏎 Open source racing game developed by everyone willing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kzl/decision-transformer",
+    "url": "https://github.com/kzl/decision-transformer",
+    "desc": "Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.",
+    "lang": "Python"
+  },
+  {
+    "title": "fabionoth/awesome-cyber-security",
+    "url": "https://github.com/fabionoth/awesome-cyber-security",
+    "desc": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "lang": "Shell"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "desc": "Public interface definitions of Google APIs.",
+    "lang": "Starlark"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "desc": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "plotly/plotly.js",
+    "url": "https://github.com/plotly/plotly.js",
+    "desc": "Open-source JavaScript charting library behind Plotly and Dash",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rahuldkjain/github-profile-readme-generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "desc": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Garderoben/MudBlazor",
+    "url": "https://github.com/Garderoben/MudBlazor",
+    "desc": "Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.",
+    "lang": "C#"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "C++"
+  },
+  {
+    "title": "fsnotify/fsnotify",
+    "url": "https://github.com/fsnotify/fsnotify",
+    "desc": "Cross-platform file system notifications for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleChrome/lighthouse",
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "desc": "Automated auditing, performance metrics, and best practices for the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenAPITools/openapi-generator",
+    "url": "https://github.com/OpenAPITools/openapi-generator",
+    "desc": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+    "lang": "Java"
+  }
+]
