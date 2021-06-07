@@ -1,0 +1,150 @@
+[
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "desc": "Presentation Slides for Developers (Beta)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "animate-css/animate.css",
+    "url": "https://github.com/animate-css/animate.css",
+    "desc": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+    "lang": "CSS"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "kzl/decision-transformer",
+    "url": "https://github.com/kzl/decision-transformer",
+    "desc": "Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.",
+    "lang": "Python"
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "lang": "C"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "lang": "Shell"
+  },
+  {
+    "title": "thevinter/styli.sh",
+    "url": "https://github.com/thevinter/styli.sh",
+    "desc": "A CLI tool for easy wallpaper management and image fetching",
+    "lang": "Shell"
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "lang": "Python"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "geerlingguy/mac-dev-playbook",
+    "url": "https://github.com/geerlingguy/mac-dev-playbook",
+    "desc": "Mac setup and configuration via Ansible.",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "rahuldkjain/github-profile-readme-generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "desc": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "lang": "C++"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2021",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "juliocesarfort/public-pentesting-reports",
+    "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+    "desc": "Curated list of public penetration test reports released by several consulting firms and academic security groups",
+    "lang": "CSS"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "desc": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  }
+]
