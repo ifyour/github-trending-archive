@@ -1,0 +1,147 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "escape2020/school2021",
+    "url": "https://github.com/escape2020/school2021",
+    "desc": "ESCAPE Summer School 2021",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "desc": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "desc": "Presentation Slides for Developers (Beta)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TuSimple/naive-ui",
+    "url": "https://github.com/TuSimple/naive-ui",
+    "desc": "A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses Typescript. Not too Slow.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mattnotmax/cyberchef-recipes",
+    "url": "https://github.com/mattnotmax/cyberchef-recipes",
+    "desc": "A list of cyber-chef recipes and curated links"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "lang": "C"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "ekzhang/rustpad",
+    "url": "https://github.com/ekzhang/rustpad",
+    "desc": "Efficient and minimal collaborative code editor, self-hosted, no database required",
+    "lang": "Rust"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "lang": "C++"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "KibaeKim/SectorTradingAlgorithm",
+    "url": "https://github.com/KibaeKim/SectorTradingAlgorithm",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "desc": "✍ It has never been so easy to document your things!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hasherezade/transacted_hollowing",
+    "url": "https://github.com/hasherezade/transacted_hollowing",
+    "desc": "Transacted Hollowing - a PE injection technique, hybrid between ProcessHollowing and ProcessDoppelgänging",
+    "lang": "C"
+  },
+  {
+    "title": "ParthJadhav/Tkinter-Designer",
+    "url": "https://github.com/ParthJadhav/Tkinter-Designer",
+    "desc": "Create Beautiful Tkinter GUIs by Drag and Drop ☄️",
+    "lang": "Python"
+  },
+  {
+    "title": "maaslalani/slides",
+    "url": "https://github.com/maaslalani/slides",
+    "desc": "Terminal based presentation tool",
+    "lang": "Go"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "desc": "Universal dependency update tool that fits into your workflows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "microsoft/mimalloc",
+    "url": "https://github.com/microsoft/mimalloc",
+    "desc": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "lang": "C"
+  },
+  {
+    "title": "animate-css/animate.css",
+    "url": "https://github.com/animate-css/animate.css",
+    "desc": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+    "lang": "CSS"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  }
+]
