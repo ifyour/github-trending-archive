@@ -1,0 +1,150 @@
+[
+  {
+    "title": "madMAx43v3r/chia-plotter",
+    "url": "https://github.com/madMAx43v3r/chia-plotter",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "TuSimple/naive-ui",
+    "url": "https://github.com/TuSimple/naive-ui",
+    "desc": "A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "maaslalani/slides",
+    "url": "https://github.com/maaslalani/slides",
+    "desc": "Terminal based presentation tool",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "desc": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apple/swift-algorithms",
+    "url": "https://github.com/apple/swift-algorithms",
+    "desc": "Commonly used sequence and collection algorithms for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "escape2020/school2021",
+    "url": "https://github.com/escape2020/school2021",
+    "desc": "ESCAPE Summer School 2021",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "desc": "Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "fmeringdal/nettu-meet",
+    "url": "https://github.com/fmeringdal/nettu-meet",
+    "desc": "Open source video conferencing system for tutors.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "snowpackjs/astro",
+    "url": "https://github.com/snowpackjs/astro",
+    "desc": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Shell"
+  },
+  {
+    "title": "udacity/nd064_course_1",
+    "url": "https://github.com/udacity/nd064_course_1",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "CaffeineMC/sodium-fabric",
+    "url": "https://github.com/CaffeineMC/sodium-fabric",
+    "desc": "A Fabric mod designed to improve frame rates and reduce micro-stutter",
+    "lang": "Java"
+  },
+  {
+    "title": "OATML/non-parametric-transformers",
+    "url": "https://github.com/OATML/non-parametric-transformers",
+    "desc": "Code for Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "desc": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "WordPress/gutenberg",
+    "url": "https://github.com/WordPress/gutenberg",
+    "desc": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "mdbootstrap/mdb-ui-kit",
+    "url": "https://github.com/mdbootstrap/mdb-ui-kit",
+    "desc": "Bootstrap 5 & Material Design 2.0 UI KIT",
+    "lang": "SCSS"
+  }
+]
