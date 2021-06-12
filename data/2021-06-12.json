@@ -1,0 +1,148 @@
+[
+  {
+    "title": "madMAx43v3r/chia-plotter",
+    "url": "https://github.com/madMAx43v3r/chia-plotter",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "desc": "Model parallel transformers in JAX and Haiku",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zzanehip/The-OldOS-Project",
+    "url": "https://github.com/zzanehip/The-OldOS-Project",
+    "desc": "Recreating a fully functional version of iOS 4 in SwiftUI.",
+    "lang": "Swift"
+  },
+  {
+    "title": "TuSimple/naive-ui",
+    "url": "https://github.com/TuSimple/naive-ui",
+    "desc": "A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "drawrowfly/tiktok-scraper",
+    "url": "https://github.com/drawrowfly/tiktok-scraper",
+    "desc": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "reactwg/react-18",
+    "url": "https://github.com/reactwg/react-18",
+    "desc": "Workgroup for React 18 release."
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "desc": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "maaslalani/slides",
+    "url": "https://github.com/maaslalani/slides",
+    "desc": "Terminal based presentation tool",
+    "lang": "Go"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "mechaniac/Map-of-Javascript",
+    "url": "https://github.com/mechaniac/Map-of-Javascript",
+    "desc": "Javascript on one sheet. (and one for algorithms)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GuoxianSong/AgileGAN",
+    "url": "https://github.com/GuoxianSong/AgileGAN",
+    "desc": "Official repo for paper AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (June 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "actions/starter-workflows",
+    "url": "https://github.com/actions/starter-workflows",
+    "desc": "Accelerating new GitHub Actions workflows",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "datastaxdevs/workshop-graphql-netflix",
+    "url": "https://github.com/datastaxdevs/workshop-graphql-netflix",
+    "desc": "Workshop to illustrate how to use GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Shell"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "desc": "Official Matplotlib cheat sheets",
+    "lang": "Python"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "desc": "A web framework for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "niklasvh/html2canvas",
+    "url": "https://github.com/niklasvh/html2canvas",
+    "desc": "Screenshots with JavaScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "calendso/calendso",
+    "url": "https://github.com/calendso/calendso",
+    "desc": "The open-source Calendly alternative.",
+    "lang": "TypeScript"
+  }
+]
