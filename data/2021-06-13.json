@@ -1,0 +1,147 @@
+[
+  {
+    "title": "zzanehip/The-OldOS-Project",
+    "url": "https://github.com/zzanehip/The-OldOS-Project",
+    "desc": "Recreating a fully functional version of iOS 4 in SwiftUI.",
+    "lang": "Swift"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Shell"
+  },
+  {
+    "title": "madMAx43v3r/chia-plotter",
+    "url": "https://github.com/madMAx43v3r/chia-plotter",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "actions/starter-workflows",
+    "url": "https://github.com/actions/starter-workflows",
+    "desc": "Accelerating new GitHub Actions workflows",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chrxh/alien",
+    "url": "https://github.com/chrxh/alien",
+    "desc": "alien is a GPU-accelerated artificial life simulation program.",
+    "lang": "C++"
+  },
+  {
+    "title": "maziarraissi/Applied-Deep-Learning",
+    "url": "https://github.com/maziarraissi/Applied-Deep-Learning",
+    "desc": "Applied Deep Learning"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "whittlem/pycryptobot",
+    "url": "https://github.com/whittlem/pycryptobot",
+    "desc": "Python Crypto Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "kubeflow/pipelines",
+    "url": "https://github.com/kubeflow/pipelines",
+    "desc": "Machine Learning Pipelines for Kubeflow",
+    "lang": "Python"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "desc": "Terraform module which creates VPC resources on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "apple/swift-algorithms",
+    "url": "https://github.com/apple/swift-algorithms",
+    "desc": "Commonly used sequence and collection algorithms for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "maykbrito/mini-video-me",
+    "url": "https://github.com/maykbrito/mini-video-me",
+    "desc": "📹 A small webcam player focused on providing an easy way to add and control your webcam during recordings.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "vercel/swr",
+    "url": "https://github.com/vercel/swr",
+    "desc": "React Hooks library for remote data fetching",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "An easier way to build neural search on the cloud",
+    "lang": "Python"
+  }
+]
