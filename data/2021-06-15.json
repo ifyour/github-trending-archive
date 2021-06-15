@@ -1,0 +1,147 @@
+[
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Shell"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "An easier way to build neural search on the cloud",
+    "lang": "Python"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "maziarraissi/Applied-Deep-Learning",
+    "url": "https://github.com/maziarraissi/Applied-Deep-Learning",
+    "desc": "Applied Deep Learning"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code"
+  },
+  {
+    "title": "whittlem/pycryptobot",
+    "url": "https://github.com/whittlem/pycryptobot",
+    "desc": "Python Crypto Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "GaloyMoney/galoy",
+    "url": "https://github.com/GaloyMoney/galoy",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "adrianhajdin/portfolio_website",
+    "url": "https://github.com/adrianhajdin/portfolio_website",
+    "desc": "Tutorial created by Enyel Sequeira, taught by JavaScript Mastery",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "HTML"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "desc": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MichMich/MagicMirror",
+    "url": "https://github.com/MichMich/MagicMirror",
+    "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mit-pdos/xv6-riscv",
+    "url": "https://github.com/mit-pdos/xv6-riscv",
+    "desc": "Xv6 for RISC-V",
+    "lang": "C"
+  },
+  {
+    "title": "dwisiswant0/awesome-oneliner-bugbounty",
+    "url": "https://github.com/dwisiswant0/awesome-oneliner-bugbounty",
+    "desc": "A collection of awesome one-liner scripts especially for bug bounty tips."
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "FabricMC/fabric",
+    "url": "https://github.com/FabricMC/fabric",
+    "desc": "Essential hooks for modding with Fabric.",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "go-task/task",
+    "url": "https://github.com/go-task/task",
+    "desc": "A task runner / simpler Make alternative written in Go",
+    "lang": "Go"
+  }
+]
