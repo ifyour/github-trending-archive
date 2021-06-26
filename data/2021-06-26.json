@@ -1,0 +1,148 @@
+[
+  {
+    "title": "OpenXiangShan/XiangShan",
+    "url": "https://github.com/OpenXiangShan/XiangShan",
+    "desc": "Open-source high-performance RISC-V processor",
+    "lang": "Scala"
+  },
+  {
+    "title": "fent/node-ytdl-core",
+    "url": "https://github.com/fent/node-ytdl-core",
+    "desc": "YouTube video downloader in javascript.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thangchung/clean-architecture-dotnet",
+    "url": "https://github.com/thangchung/clean-architecture-dotnet",
+    "desc": "🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻",
+    "lang": "C#"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NVlabs/alias-free-gan",
+    "url": "https://github.com/NVlabs/alias-free-gan",
+    "desc": "Alias-Free GAN project website and code"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "geerlingguy/internet-pi",
+    "url": "https://github.com/geerlingguy/internet-pi",
+    "desc": "Raspberry Pi config for all things Internet.",
+    "lang": "Jinja"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "dfeneyrou/palanteer",
+    "url": "https://github.com/dfeneyrou/palanteer",
+    "desc": "High performance visual profiler, debugger, tests enabler for C++ and Python",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "WongKinYiu/yolor",
+    "url": "https://github.com/WongKinYiu/yolor",
+    "desc": "implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206)",
+    "lang": "Python"
+  },
+  {
+    "title": "AllThingsSmitty/css-protips",
+    "url": "https://github.com/AllThingsSmitty/css-protips",
+    "desc": "A collection of tips to help take your CSS skills pro"
+  },
+  {
+    "title": "scriptingosx/DownloadFullInstaller",
+    "url": "https://github.com/scriptingosx/DownloadFullInstaller",
+    "desc": "macOS application written in SwiftUI that downloads installer pkgs for the Install macOS Big Sur application.",
+    "lang": "Swift"
+  },
+  {
+    "title": "PaddlePaddle/PaddleClas",
+    "url": "https://github.com/PaddlePaddle/PaddleClas",
+    "desc": "A treasure chest for visual recognition powered by PaddlePaddle",
+    "lang": "Python"
+  },
+  {
+    "title": "kris-nova/naml",
+    "url": "https://github.com/kris-nova/naml",
+    "desc": "Not another markup language. Framework for replacing Kubernetes YAML with Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "desc": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "calendso/calendso",
+    "url": "https://github.com/calendso/calendso",
+    "desc": "The open-source Calendly alternative.",
+    "lang": "TypeScript"
+  }
+]
