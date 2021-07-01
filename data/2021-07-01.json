@@ -1,0 +1,147 @@
+[
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "desc": "GTA III, Vice City",
+    "lang": "C++"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "desc": "The Kotlin Programming Language."
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rcmaehl/WhyNotWin11",
+    "url": "https://github.com/rcmaehl/WhyNotWin11",
+    "desc": "Detection Script to help identify why your PC isn't Windows 11 Release Ready",
+    "lang": "AutoIt"
+  },
+  {
+    "title": "bytedance/lightseq",
+    "url": "https://github.com/bytedance/lightseq",
+    "desc": "LightSeq: A High Performance Library for Sequence Processing and Generation",
+    "lang": "Cuda"
+  },
+  {
+    "title": "covidpass-org/covidpass",
+    "url": "https://github.com/covidpass-org/covidpass",
+    "desc": "Web app for adding EU COVID-19 Vaccination Certificates to your wallets",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pi-apps/pi-platform-docs",
+    "url": "https://github.com/pi-apps/pi-platform-docs",
+    "desc": ""
+  },
+  {
+    "title": "yangshun/front-end-interview-handbook",
+    "url": "https://github.com/yangshun/front-end-interview-handbook",
+    "desc": "🕸 No-bullshit answers to the famous h5bp Front-end Job Interview Questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "amit-davidson/awesome-golang-workshops",
+    "url": "https://github.com/amit-davidson/awesome-golang-workshops",
+    "desc": "A curated list of awesome golang workshops."
+  },
+  {
+    "title": "mhadidg/software-architecture-books",
+    "url": "https://github.com/mhadidg/software-architecture-books",
+    "desc": "A comprehensive list of books on Software Architecture."
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GokuMohandas/MadeWithML",
+    "url": "https://github.com/GokuMohandas/MadeWithML",
+    "desc": "Learn how to responsibly deliver value with ML.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SigNoz/signoz",
+    "url": "https://github.com/SigNoz/signoz",
+    "desc": "SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dastergon/awesome-sre",
+    "url": "https://github.com/dastergon/awesome-sre",
+    "desc": "A curated list of Site Reliability and Production Engineering resources."
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "desc": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "apache/dubbo",
+    "url": "https://github.com/apache/dubbo",
+    "desc": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+    "lang": "Java"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "diasurgical/devilutionX",
+    "url": "https://github.com/diasurgical/devilutionX",
+    "desc": "Diablo build for modern operating systems",
+    "lang": "C++"
+  },
+  {
+    "title": "timescale/timescaledb",
+    "url": "https://github.com/timescale/timescaledb",
+    "desc": "An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.",
+    "lang": "C"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  }
+]
