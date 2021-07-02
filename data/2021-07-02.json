@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Shopify/dawn",
+    "url": "https://github.com/Shopify/dawn",
+    "desc": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
+    "lang": "Liquid"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "mhadidg/software-architecture-books",
+    "url": "https://github.com/mhadidg/software-architecture-books",
+    "desc": "A comprehensive list of books on Software Architecture."
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "pi-apps/pi-platform-docs",
+    "url": "https://github.com/pi-apps/pi-platform-docs",
+    "desc": ""
+  },
+  {
+    "title": "stong/CVE-2020-15368",
+    "url": "https://github.com/stong/CVE-2020-15368",
+    "desc": "How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys",
+    "lang": "C++"
+  },
+  {
+    "title": "mgechev/google-interview-preparation-problems",
+    "url": "https://github.com/mgechev/google-interview-preparation-problems",
+    "desc": "leetcode problems I solved during my Google interview preparation.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TrevorAttema/OTGMessenger",
+    "url": "https://github.com/TrevorAttema/OTGMessenger",
+    "desc": "Off The Grid Messenger",
+    "lang": "C"
+  },
+  {
+    "title": "irsl/gcp-dhcp-takeover-code-exec",
+    "url": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
+    "desc": "Google Compute Engine (GCE) VM takeover via DHCP flood - gain root access by getting SSH keys added by google_guest_agent",
+    "lang": "Go"
+  },
+  {
+    "title": "dexidp/dex",
+    "url": "https://github.com/dexidp/dex",
+    "desc": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+    "lang": "Go"
+  },
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "desc": "GTA III, Vice City",
+    "lang": "C++"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "desc": "JavaScript 3D Library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "ORCA666/Cobalt-Wipe",
+    "url": "https://github.com/ORCA666/Cobalt-Wipe",
+    "desc": "Cobalt wipe is the non-commercial version of Cobalt-Strike 4.3 (May 2021 Release)",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "PX4/PX4-Autopilot",
+    "url": "https://github.com/PX4/PX4-Autopilot",
+    "desc": "PX4 Autopilot Software",
+    "lang": "C++"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "desc": "Quarkus: Supersonic Subatomic Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "argoproj/argo-rollouts",
+    "url": "https://github.com/argoproj/argo-rollouts",
+    "desc": "Progressive Delivery for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "desc": "The Symfony PHP framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "OpenFeign/feign",
+    "url": "https://github.com/OpenFeign/feign",
+    "desc": "Feign makes writing java http clients easier",
+    "lang": "Java"
+  },
+  {
+    "title": "covidpass-org/covidpass",
+    "url": "https://github.com/covidpass-org/covidpass",
+    "desc": "Web app for adding EU COVID-19 Vaccination Certificates to your wallets",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yangshun/front-end-interview-handbook",
+    "url": "https://github.com/yangshun/front-end-interview-handbook",
+    "desc": "🕸 No-bullshit answers to the famous h5bp Front-end Job Interview Questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "VoronDesign/VoronUsers",
+    "url": "https://github.com/VoronDesign/VoronUsers",
+    "desc": "Voron Community mods, slicer profiles and firmware configurations.",
+    "lang": "GAP"
+  }
+]
