@@ -1,0 +1,149 @@
+[
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "cube0x0/CVE-2021-1675",
+    "url": "https://github.com/cube0x0/CVE-2021-1675",
+    "desc": "C# and Impacket implementation of CVE-2021-1675/PrintNightmare",
+    "lang": "C#"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "desc": "",
+    "lang": "Haskell"
+  },
+  {
+    "title": "openppl-public/ppl.nn",
+    "url": "https://github.com/openppl-public/ppl.nn",
+    "desc": "A primitive library for neural network",
+    "lang": "C++"
+  },
+  {
+    "title": "CITF-Malaysia/citf-public",
+    "url": "https://github.com/CITF-Malaysia/citf-public",
+    "desc": "Official data on the National Covid-​19 Immunisation Programme (PICK) in Malaysia. Powered by MySejahtera."
+  },
+  {
+    "title": "Shopify/dawn",
+    "url": "https://github.com/Shopify/dawn",
+    "desc": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
+    "lang": "Liquid"
+  },
+  {
+    "title": "datastaxdevs/workshop-graphql-netflix",
+    "url": "https://github.com/datastaxdevs/workshop-graphql-netflix",
+    "desc": "Workshop to illustrate how to use GraphQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sqshq/piggymetrics",
+    "url": "https://github.com/sqshq/piggymetrics",
+    "desc": "Microservice Architecture with Spring Boot, Spring Cloud and Docker",
+    "lang": "Java"
+  },
+  {
+    "title": "mirumee/saleor",
+    "url": "https://github.com/mirumee/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "mhadidg/software-architecture-books",
+    "url": "https://github.com/mhadidg/software-architecture-books",
+    "desc": "A comprehensive list of books on Software Architecture."
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "wtsxDev/reverse-engineering",
+    "url": "https://github.com/wtsxDev/reverse-engineering",
+    "desc": "List of awesome reverse engineering resources"
+  },
+  {
+    "title": "microsoft/MixedRealityToolkit-Unity",
+    "url": "https://github.com/microsoft/MixedRealityToolkit-Unity",
+    "desc": "Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet-architecture/eShopOnContainers",
+    "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+    "lang": "C#"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "netty/netty",
+    "url": "https://github.com/netty/netty",
+    "desc": "Netty project - an event-driven asynchronous network application framework",
+    "lang": "Java"
+  },
+  {
+    "title": "qishibo/AnotherRedisDesktopManager",
+    "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+    "desc": "🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "desc": "JavaScript 3D Library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ARMmbed/mbedtls",
+    "url": "https://github.com/ARMmbed/mbedtls",
+    "desc": "An open source, portable, easy to use, readable and flexible SSL library",
+    "lang": "C"
+  }
+]
