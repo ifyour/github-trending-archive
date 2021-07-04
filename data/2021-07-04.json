@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 24 lessons, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "desc": "Not the usual clone that you can find on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "desc": "",
+    "lang": "Haskell"
+  },
+  {
+    "title": "ossf/scorecard",
+    "url": "https://github.com/ossf/scorecard",
+    "desc": "Security Scorecards - Security health metrics for Open Source",
+    "lang": "Go"
+  },
+  {
+    "title": "hlldz/CVE-2021-1675-LPE",
+    "url": "https://github.com/hlldz/CVE-2021-1675-LPE",
+    "desc": "Local Privilege Escalation Edition for CVE-2021-1675",
+    "lang": "C"
+  },
+  {
+    "title": "LaresLLC/CVE-2021-1675",
+    "url": "https://github.com/LaresLLC/CVE-2021-1675",
+    "desc": "CVE-2021-1675 Detection Info"
+  },
+  {
+    "title": "ashemery/exploitation-course",
+    "url": "https://github.com/ashemery/exploitation-course",
+    "desc": "Offensive Software Exploitation Course",
+    "lang": "Python"
+  },
+  {
+    "title": "cube0x0/CVE-2021-1675",
+    "url": "https://github.com/cube0x0/CVE-2021-1675",
+    "desc": "C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+    "lang": "C#"
+  },
+  {
+    "title": "RosettaCommons/RoseTTAFold",
+    "url": "https://github.com/RosettaCommons/RoseTTAFold",
+    "desc": "This package contains deep learning models and related scripts for RoseTTAFold",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "wtsxDev/reverse-engineering",
+    "url": "https://github.com/wtsxDev/reverse-engineering",
+    "desc": "List of awesome reverse engineering resources"
+  },
+  {
+    "title": "dexidp/dex",
+    "url": "https://github.com/dexidp/dex",
+    "desc": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+    "lang": "Go"
+  },
+  {
+    "title": "cisagov/cset",
+    "url": "https://github.com/cisagov/cset",
+    "desc": "Cybersecurity Evaluation Tool",
+    "lang": "TSQL"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "neovim/nvim-lspconfig",
+    "url": "https://github.com/neovim/nvim-lspconfig",
+    "desc": "Quickstart configurations for the Nvim LSP client",
+    "lang": "Lua"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "python-pillow/Pillow",
+    "url": "https://github.com/python-pillow/Pillow",
+    "desc": "The friendly PIL fork (Python Imaging Library)",
+    "lang": "Python"
+  },
+  {
+    "title": "AndreyGuzhov/AudioCLIP",
+    "url": "https://github.com/AndreyGuzhov/AudioCLIP",
+    "desc": "Source code for models described in the paper AudioCLIP: Extending CLIP to Image, Text and Audio (https://arxiv.org/abs/2106.13043)",
+    "lang": "Python"
+  },
+  {
+    "title": "the-control-group/voyager",
+    "url": "https://github.com/the-control-group/voyager",
+    "desc": "Voyager - The Missing Laravel Admin",
+    "lang": "PHP"
+  },
+  {
+    "title": "jackc/pgx",
+    "url": "https://github.com/jackc/pgx",
+    "desc": "PostgreSQL driver and toolkit for Go",
+    "lang": "Go"
+  }
+]
