@@ -1,0 +1,151 @@
+[
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "desc": "Model parallel transformers in JAX and Haiku",
+    "lang": "Python"
+  },
+  {
+    "title": "PlummersSoftwareLLC/Primes",
+    "url": "https://github.com/PlummersSoftwareLLC/Primes",
+    "desc": "Prime Number Projects in C#/C++/Python",
+    "lang": "C"
+  },
+  {
+    "title": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "desc": "Not the usual clone that you can find on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 24 lessons, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "desc": "",
+    "lang": "Haskell"
+  },
+  {
+    "title": "ChristianChiarulli/LunarVim",
+    "url": "https://github.com/ChristianChiarulli/LunarVim",
+    "desc": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
+    "lang": "Lua"
+  },
+  {
+    "title": "ossf/scorecard",
+    "url": "https://github.com/ossf/scorecard",
+    "desc": "Security Scorecards - Security health metrics for Open Source",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/petite-vue",
+    "url": "https://github.com/vuejs/petite-vue",
+    "desc": "5kb subset of Vue optimized for progressive enhancement",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenXiangShan/XiangShan",
+    "url": "https://github.com/OpenXiangShan/XiangShan",
+    "desc": "Open-source high-performance RISC-V processor",
+    "lang": "Scala"
+  },
+  {
+    "title": "cmuratori/refterm",
+    "url": "https://github.com/cmuratori/refterm",
+    "desc": "Reference monospace terminal renderer",
+    "lang": "C"
+  },
+  {
+    "title": "ProgrammingHero1/developer-portfolio",
+    "url": "https://github.com/ProgrammingHero1/developer-portfolio",
+    "desc": "Live site",
+    "lang": "HTML"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "ashemery/exploitation-course",
+    "url": "https://github.com/ashemery/exploitation-course",
+    "desc": "Offensive Software Exploitation Course",
+    "lang": "Python"
+  },
+  {
+    "title": "PojavLauncherTeam/PojavLauncher",
+    "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
+    "desc": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.",
+    "lang": "Java"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "desc": "Solidity, the Smart Contract Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "desc": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "neovim/nvim-lspconfig",
+    "url": "https://github.com/neovim/nvim-lspconfig",
+    "desc": "Quickstart configurations for the Nvim LSP client",
+    "lang": "Lua"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  }
+]
