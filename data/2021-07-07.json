@@ -1,0 +1,151 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "audacity/audacity",
+    "url": "https://github.com/audacity/audacity",
+    "desc": "Audio Editor",
+    "lang": "C"
+  },
+  {
+    "title": "ChristianChiarulli/LunarVim",
+    "url": "https://github.com/ChristianChiarulli/LunarVim",
+    "desc": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
+    "lang": "Lua"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 24 lessons, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "desc": "Not the usual clone that you can find on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mirumee/saleor",
+    "url": "https://github.com/mirumee/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "cado-security/DFIR_Resources_REvil_Kaseya",
+    "url": "https://github.com/cado-security/DFIR_Resources_REvil_Kaseya",
+    "desc": "Resources for DFIR Professionals Responding to the REvil Ransomware Kaseya Supply Chain Attack",
+    "lang": "C"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/petite-vue",
+    "url": "https://github.com/vuejs/petite-vue",
+    "desc": "5kb subset of Vue optimized for progressive enhancement",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chrisbanes/tivi",
+    "url": "https://github.com/chrisbanes/tivi",
+    "desc": "Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "PlummersSoftwareLLC/Primes",
+    "url": "https://github.com/PlummersSoftwareLLC/Primes",
+    "desc": "Prime Number Projects in C#/C++/Python",
+    "lang": "C"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "shopizer-ecommerce/shopizer",
+    "url": "https://github.com/shopizer-ecommerce/shopizer",
+    "desc": "Shopizer java e-commerce software",
+    "lang": "Java"
+  },
+  {
+    "title": "wang-xinyu/tensorrtx",
+    "url": "https://github.com/wang-xinyu/tensorrtx",
+    "desc": "Implementation of popular deep learning networks with TensorRT network definition API",
+    "lang": "C++"
+  },
+  {
+    "title": "gentilkiwi/mimikatz",
+    "url": "https://github.com/gentilkiwi/mimikatz",
+    "desc": "A little tool to play with Windows security",
+    "lang": "C"
+  },
+  {
+    "title": "rust-analyzer/rust-analyzer",
+    "url": "https://github.com/rust-analyzer/rust-analyzer",
+    "desc": "A Rust compiler front-end for IDEs",
+    "lang": "Rust"
+  },
+  {
+    "title": "typescript-eslint/typescript-eslint",
+    "url": "https://github.com/typescript-eslint/typescript-eslint",
+    "desc": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hrsh7th/nvim-compe",
+    "url": "https://github.com/hrsh7th/nvim-compe",
+    "desc": "Auto completion plugin for nvim that written in Lua.",
+    "lang": "Lua"
+  },
+  {
+    "title": "CyberPunkMetalHead/reddit-cryptocurrency-trading",
+    "url": "https://github.com/CyberPunkMetalHead/reddit-cryptocurrency-trading",
+    "desc": "This is a cryptocurrency trading bot that analyses Reddit sentiment and places trades on Binance based on reddit post and comment sentiment. If you like this project please consider donating via brave. Thanks.",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  }
+]
