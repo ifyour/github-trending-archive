@@ -1,0 +1,150 @@
+[
+  {
+    "title": "o3de/o3de",
+    "url": "https://github.com/o3de/o3de",
+    "desc": "Source for fully featured AAA Open 3D Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "kean/Pulse",
+    "url": "https://github.com/kean/Pulse",
+    "desc": "Logger and Network Inspector for Apple Platforms",
+    "lang": "Swift"
+  },
+  {
+    "title": "tenacityteam/tenacity",
+    "url": "https://github.com/tenacityteam/tenacity",
+    "desc": "FLOSS Audacity Fork · No telemetry, crash reports and other shenanigans like that!",
+    "lang": "C"
+  },
+  {
+    "title": "Sneeds-Feed-and-Seed/sneedacity",
+    "url": "https://github.com/Sneeds-Feed-and-Seed/sneedacity",
+    "desc": "Audio Editor",
+    "lang": "C"
+  },
+  {
+    "title": "byt3bl33d3r/ItWasAllADream",
+    "url": "https://github.com/byt3bl33d3r/ItWasAllADream",
+    "desc": "A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE",
+    "lang": "Python"
+  },
+  {
+    "title": "returntocorp/semgrep",
+    "url": "https://github.com/returntocorp/semgrep",
+    "desc": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "lang": "Java"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "desc": "Solidity, the Smart Contract Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "edk2-porting/edk2-sdm845",
+    "url": "https://github.com/edk2-porting/edk2-sdm845",
+    "desc": "Broken edk2 port for sdm845 xD",
+    "lang": "ASL"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "ankurchavda/SparkLearning",
+    "url": "https://github.com/ankurchavda/SparkLearning",
+    "desc": "A comprehensive Spark guide collated from multiple sources that can be referred to learn more about Spark or as an interview refresher."
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "mirumee/saleor",
+    "url": "https://github.com/mirumee/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "gentilkiwi/mimikatz",
+    "url": "https://github.com/gentilkiwi/mimikatz",
+    "desc": "A little tool to play with Windows security",
+    "lang": "C"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "adamschwartz/magic-of-css",
+    "url": "https://github.com/adamschwartz/magic-of-css",
+    "desc": "A CSS course to turn you into a magician.",
+    "lang": "CSS"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "spring-projects/spring-graphql",
+    "url": "https://github.com/spring-projects/spring-graphql",
+    "desc": "Spring integration for GraphQL",
+    "lang": "Java"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native apps with React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "mrbbot/miniflare",
+    "url": "https://github.com/mrbbot/miniflare",
+    "desc": "🔥 Fully-local Cloudflare Workers Simulator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Java"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "kubernetes-sigs/controller-runtime",
+    "url": "https://github.com/kubernetes-sigs/controller-runtime",
+    "desc": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  }
+]
