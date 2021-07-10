@@ -1,0 +1,149 @@
+[
+  {
+    "title": "spring-projects/spring-graphql",
+    "url": "https://github.com/spring-projects/spring-graphql",
+    "desc": "Spring integration for GraphQL",
+    "lang": "Java"
+  },
+  {
+    "title": "madMAx43v3r/chia-plotter",
+    "url": "https://github.com/madMAx43v3r/chia-plotter",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Sneeds-Feed-and-Seed/sneedacity",
+    "url": "https://github.com/Sneeds-Feed-and-Seed/sneedacity",
+    "desc": "Audio Editor",
+    "lang": "C"
+  },
+  {
+    "title": "o3de/o3de",
+    "url": "https://github.com/o3de/o3de",
+    "desc": "Source for fully featured AAA Open 3D Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "adamschwartz/magic-of-css",
+    "url": "https://github.com/adamschwartz/magic-of-css",
+    "desc": "A CSS course to turn you into a magician.",
+    "lang": "CSS"
+  },
+  {
+    "title": "kean/Pulse",
+    "url": "https://github.com/kean/Pulse",
+    "desc": "Logger and network inspector for Apple platforms",
+    "lang": "Swift"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "dutchcoders/transfer.sh",
+    "url": "https://github.com/dutchcoders/transfer.sh",
+    "desc": "Easy and fast file sharing from the command-line.",
+    "lang": "Go"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "ankurchavda/SparkLearning",
+    "url": "https://github.com/ankurchavda/SparkLearning",
+    "desc": "A comprehensive Spark guide collated from multiple sources that can be referred to learn more about Spark or as an interview refresher."
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RevenueCat/purchases-ios",
+    "url": "https://github.com/RevenueCat/purchases-ios",
+    "desc": "Simple in-app purchases and subscriptions for iOS.",
+    "lang": "Swift"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/pool-reference",
+    "url": "https://github.com/Chia-Network/pool-reference",
+    "desc": "Reference python implementation of Chia pool operations for pool operators",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "helm/helm",
+    "url": "https://github.com/helm/helm",
+    "desc": "The Kubernetes Package Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "desc": "The Prometheus monitoring system and time series database.",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "desc": "Your window into the Elastic Stack",
+    "lang": "TypeScript"
+  }
+]
