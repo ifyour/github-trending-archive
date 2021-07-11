@@ -1,0 +1,146 @@
+[
+  {
+    "title": "returntocorp/semgrep",
+    "url": "https://github.com/returntocorp/semgrep",
+    "desc": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "lang": "Java"
+  },
+  {
+    "title": "laynH/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/laynH/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "ankurchavda/SparkLearning",
+    "url": "https://github.com/ankurchavda/SparkLearning",
+    "desc": "A comprehensive Spark guide collated from multiple sources that can be referred to learn more about Spark or as an interview refresher."
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (June 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Gaboros/VenturePlan",
+    "url": "https://github.com/Gaboros/VenturePlan",
+    "desc": "",
+    "lang": "Lua"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+  },
+  {
+    "title": "kean/Pulse",
+    "url": "https://github.com/kean/Pulse",
+    "desc": "Logger and network inspector for Apple platforms",
+    "lang": "Swift"
+  },
+  {
+    "title": "o3de/o3de",
+    "url": "https://github.com/o3de/o3de",
+    "desc": "Source for fully featured AAA Open 3D Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "desc": "不知名大佬备份",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spring-projects/spring-graphql",
+    "url": "https://github.com/spring-projects/spring-graphql",
+    "desc": "Spring integration for GraphQL",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "madMAx43v3r/chia-plotter",
+    "url": "https://github.com/madMAx43v3r/chia-plotter",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "emqx/emqx",
+    "url": "https://github.com/emqx/emqx",
+    "desc": "An Open-Source, Cloud-Native, distributed MQTT Message Broker for Large-scale IoT Applications.",
+    "lang": "Erlang"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "KaTeX/KaTeX",
+    "url": "https://github.com/KaTeX/KaTeX",
+    "desc": "Fast math typesetting for the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "kubernetes-sigs/external-dns",
+    "url": "https://github.com/kubernetes-sigs/external-dns",
+    "desc": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "lang": "Go"
+  }
+]
