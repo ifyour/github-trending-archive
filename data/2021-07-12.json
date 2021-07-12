@@ -1,0 +1,146 @@
+[
+  {
+    "title": "ailabstw/social-distancing-android",
+    "url": "https://github.com/ailabstw/social-distancing-android",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "laynH/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/laynH/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "go-kratos/kratos",
+    "url": "https://github.com/go-kratos/kratos",
+    "desc": "A Go framework for microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spring-projects/spring-graphql",
+    "url": "https://github.com/spring-projects/spring-graphql",
+    "desc": "Spring integration for GraphQL",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/IoT-For-Beginners",
+    "url": "https://github.com/microsoft/IoT-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, IoT for All!",
+    "lang": "C++"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (June 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "philc/vimium",
+    "url": "https://github.com/philc/vimium",
+    "desc": "The hacker's browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "earthly/earthly",
+    "url": "https://github.com/earthly/earthly",
+    "desc": "Build automation for the container era",
+    "lang": "Go"
+  },
+  {
+    "title": "jomjol/AI-on-the-edge-device",
+    "url": "https://github.com/jomjol/AI-on-the-edge-device",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "nikolaydubina/go-recipes",
+    "url": "https://github.com/nikolaydubina/go-recipes",
+    "desc": "Handy commands to run in Go projects"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "lang": "Clojure"
+  },
+  {
+    "title": "mossr/BeautifulAlgorithms.jl",
+    "url": "https://github.com/mossr/BeautifulAlgorithms.jl",
+    "desc": "Concise and beautiful algorithms written in Julia",
+    "lang": "Julia"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "returntocorp/semgrep",
+    "url": "https://github.com/returntocorp/semgrep",
+    "desc": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "lang": "Java"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "Gaboros/VenturePlan",
+    "url": "https://github.com/Gaboros/VenturePlan",
+    "desc": "",
+    "lang": "Lua"
+  }
+]
