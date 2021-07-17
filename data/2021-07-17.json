@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "aws-amplify/amplify-js",
+    "url": "https://github.com/aws-amplify/amplify-js",
+    "desc": "A declarative JavaScript library for application development using cloud services.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/IoT-For-Beginners",
+    "url": "https://github.com/microsoft/IoT-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, IoT for All!",
+    "lang": "C++"
+  },
+  {
+    "title": "AstraZeneca/awesome-explainable-graph-reasoning",
+    "url": "https://github.com/AstraZeneca/awesome-explainable-graph-reasoning",
+    "desc": "A collection of research papers and software related to explainability in graph machine learning."
+  },
+  {
+    "title": "typesense/typesense",
+    "url": "https://github.com/typesense/typesense",
+    "desc": "Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.",
+    "lang": "C++"
+  },
+  {
+    "title": "cloudwego/netpoll",
+    "url": "https://github.com/cloudwego/netpoll",
+    "desc": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
+    "lang": "Go"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "desc": "Open source distributed and RESTful search engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "bndw/wifi-card",
+    "url": "https://github.com/bndw/wifi-card",
+    "desc": "📶 Print a QR code for connecting to your WiFi (wificard.io)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Sangwan5688/BlackHole",
+    "url": "https://github.com/Sangwan5688/BlackHole",
+    "desc": "A Music Player App made with Flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/TNN",
+    "url": "https://github.com/Tencent/TNN",
+    "desc": "TNN: developed by Tencent Youtu Lab and Guangying Lab, a lightweight and high-performance deep learning framework for mobile inference. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the suppor…",
+    "lang": "C++"
+  },
+  {
+    "title": "diekmann/wasm-fizzbuzz",
+    "url": "https://github.com/diekmann/wasm-fizzbuzz",
+    "desc": "WebAssembly from Scratch: From FizzBuzz to DooM.",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "0vercl0k/wtf",
+    "url": "https://github.com/0vercl0k/wtf",
+    "desc": "wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.",
+    "lang": "C++"
+  },
+  {
+    "title": "envoyproxy/protoc-gen-validate",
+    "url": "https://github.com/envoyproxy/protoc-gen-validate",
+    "desc": "protoc plugin to generate polyglot message validators",
+    "lang": "Go"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix",
+    "desc": "A collection of modern/faster/saner alternatives to common unix commands."
+  },
+  {
+    "title": "ElemeFE/element",
+    "url": "https://github.com/ElemeFE/element",
+    "desc": "A Vue.js 2.0 UI Toolkit for Web",
+    "lang": "Vue"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The Kubernetes IDE",
+    "lang": "TypeScript"
+  }
+]
