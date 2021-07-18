@@ -1,0 +1,151 @@
+[
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "GPUOpen-Effects/FidelityFX-FSR",
+    "url": "https://github.com/GPUOpen-Effects/FidelityFX-FSR",
+    "desc": "FidelityFX Super Resolution",
+    "lang": "C"
+  },
+  {
+    "title": "google/security-research",
+    "url": "https://github.com/google/security-research",
+    "desc": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "lang": "C"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "bradtraversy/hulu-webpage-clone",
+    "url": "https://github.com/bradtraversy/hulu-webpage-clone",
+    "desc": "Hulu webpage clone",
+    "lang": "CSS"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "An open source vector database powered by Faiss, NMSLIB and Annoy",
+    "lang": "Go"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "snowpackjs/astro",
+    "url": "https://github.com/snowpackjs/astro",
+    "desc": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "workos-inc/awesome-developer-experience",
+    "url": "https://github.com/workos-inc/awesome-developer-experience",
+    "desc": "🤘 A curated list of DX (Developer Experience) resources"
+  },
+  {
+    "title": "bndw/wifi-card",
+    "url": "https://github.com/bndw/wifi-card",
+    "desc": "📶 Print a QR code for connecting to your WiFi (wificard.io)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "desc": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "lang": "Python"
+  },
+  {
+    "title": "ArchiveBox/ArchiveBox",
+    "url": "https://github.com/ArchiveBox/ArchiveBox",
+    "desc": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+    "lang": "Python"
+  },
+  {
+    "title": "GokuMohandas/MadeWithML",
+    "url": "https://github.com/GokuMohandas/MadeWithML",
+    "desc": "Learn how to responsibly deliver value with ML.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Lets-Code-Br/Santander-Ciencia-de-Dados",
+    "url": "https://github.com/Lets-Code-Br/Santander-Ciencia-de-Dados",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/IoT-For-Beginners",
+    "url": "https://github.com/microsoft/IoT-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, IoT for All!",
+    "lang": "C++"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "desc": "Open source distributed and RESTful search engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "Thmen/EGVSR",
+    "url": "https://github.com/Thmen/EGVSR",
+    "desc": "Efficient & Generic Video Super-Resolution",
+    "lang": "Python"
+  },
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "desc": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "samuelcolvin/pydantic",
+    "url": "https://github.com/samuelcolvin/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  },
+  {
+    "title": "keycloak/keycloak",
+    "url": "https://github.com/keycloak/keycloak",
+    "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+    "lang": "Java"
+  }
+]
