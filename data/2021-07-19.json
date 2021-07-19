@@ -1,0 +1,151 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "livekit/livekit-server",
+    "url": "https://github.com/livekit/livekit-server",
+    "desc": "Distributed audio/video rooms over WebRTC",
+    "lang": "Go"
+  },
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "lang": "Python"
+  },
+  {
+    "title": "snowpackjs/astro",
+    "url": "https://github.com/snowpackjs/astro",
+    "desc": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "GPUOpen-Effects/FidelityFX-FSR",
+    "url": "https://github.com/GPUOpen-Effects/FidelityFX-FSR",
+    "desc": "FidelityFX Super Resolution",
+    "lang": "C"
+  },
+  {
+    "title": "GokuMohandas/MadeWithML",
+    "url": "https://github.com/GokuMohandas/MadeWithML",
+    "desc": "Learn how to responsibly deliver value with ML.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "RosettaCommons/RoseTTAFold",
+    "url": "https://github.com/RosettaCommons/RoseTTAFold",
+    "desc": "This package contains deep learning models and related scripts for RoseTTAFold",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/hulu-webpage-clone",
+    "url": "https://github.com/bradtraversy/hulu-webpage-clone",
+    "desc": "Hulu webpage clone",
+    "lang": "CSS"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CaffeineMC/sodium-fabric",
+    "url": "https://github.com/CaffeineMC/sodium-fabric",
+    "desc": "A Fabric mod designed to improve frame rates and reduce micro-stutter",
+    "lang": "Java"
+  },
+  {
+    "title": "megaease/easegress",
+    "url": "https://github.com/megaease/easegress",
+    "desc": "A Cloud Native traffic orchestration system",
+    "lang": "Go"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "desc": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "desc": "SpiderFoot automates OSINT so you can focus on analysis.",
+    "lang": "Python"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "desc": "A collection of useful .gitignore templates"
+  },
+  {
+    "title": "TrinityCore/TrinityCore",
+    "url": "https://github.com/TrinityCore/TrinityCore",
+    "desc": "TrinityCore Open Source MMO Framework (master = 9.0.5.38556, 3.3.5 = 3.3.5a.12340)",
+    "lang": "C++"
+  }
+]
