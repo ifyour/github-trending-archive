@@ -1,0 +1,150 @@
+[
+  {
+    "title": "iotexproject/iotex-core",
+    "url": "https://github.com/iotexproject/iotex-core",
+    "desc": "Official implementation of IoTeX blockchain protocol in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "golang-jwt/jwt",
+    "url": "https://github.com/golang-jwt/jwt",
+    "desc": "Community maintained clone of https://github.com/dgrijalva/jwt-go",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "CryptoBlades/cryptoblades",
+    "url": "https://github.com/CryptoBlades/cryptoblades",
+    "desc": "",
+    "lang": "Vue"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "erda-project/erda",
+    "url": "https://github.com/erda-project/erda",
+    "desc": "An enterprise-grade Cloud-Native application platform for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.",
+    "lang": "C++"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "barryvdh/laravel-debugbar",
+    "url": "https://github.com/barryvdh/laravel-debugbar",
+    "desc": "Laravel Debugbar (Integrates PHP Debug Bar)",
+    "lang": "PHP"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "seata/seata",
+    "url": "https://github.com/seata/seata",
+    "desc": "🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+    "lang": "Java"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "desc": "Delightful JavaScript Testing.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "FaridSafi/react-native-gifted-chat",
+    "url": "https://github.com/FaridSafi/react-native-gifted-chat",
+    "desc": "💬 The most complete chat UI for React Native",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",
+    "lang": "Go"
+  },
+  {
+    "title": "aws-samples/aws-incident-response-playbooks",
+    "url": "https://github.com/aws-samples/aws-incident-response-playbooks",
+    "desc": ""
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ant-design/ant-design-mobile",
+    "url": "https://github.com/ant-design/ant-design-mobile",
+    "desc": "A configurable Mobile UI",
+    "lang": "TypeScript"
+  }
+]
