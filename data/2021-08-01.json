@@ -1,0 +1,148 @@
+[
+  {
+    "title": "apple/swift-algorithms",
+    "url": "https://github.com/apple/swift-algorithms",
+    "desc": "Commonly used sequence and collection algorithms for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "myspaghetti/macos-virtualbox",
+    "url": "https://github.com/myspaghetti/macos-virtualbox",
+    "desc": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
+    "lang": "Shell"
+  },
+  {
+    "title": "tailscale/tailscale",
+    "url": "https://github.com/tailscale/tailscale",
+    "desc": "The easiest, most secure way to use WireGuard and 2FA.",
+    "lang": "Go"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "lang": "C++"
+  },
+  {
+    "title": "Satsuoni/widevine-l3-guesser",
+    "url": "https://github.com/Satsuoni/widevine-l3-guesser",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "jonathandata1/pegasus_spyware",
+    "url": "https://github.com/jonathandata1/pegasus_spyware",
+    "desc": "decompiled pegasus_spyware",
+    "lang": "Smali"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "openai/triton",
+    "url": "https://github.com/openai/triton",
+    "desc": "Development repository for the Triton language and compiler",
+    "lang": "C++"
+  },
+  {
+    "title": "covidpass-org/covidpass",
+    "url": "https://github.com/covidpass-org/covidpass",
+    "desc": "Web app for adding EU Digital COVID Certificates to your wallet apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mschweiger/orbiter",
+    "url": "https://github.com/mschweiger/orbiter",
+    "desc": "Open-source repository of Orbiter Space Flight Simulator",
+    "lang": "C++"
+  },
+  {
+    "title": "ed3ath/cbtracker",
+    "url": "https://github.com/ed3ath/cbtracker",
+    "desc": "Please do not use this tracker to scam anyone! This is free and will be forever free. This tracking will never ask for seed phrases nor private keys. Keep safe!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xamarin/xamarin-forms-samples",
+    "url": "https://github.com/xamarin/xamarin-forms-samples",
+    "desc": "Sample apps built using the Xamarin.Forms framework",
+    "lang": "C#"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/accompanist",
+    "url": "https://github.com/google/accompanist",
+    "desc": "A collection of extension libraries for Jetpack Compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Anbox-halium/anbox-halium",
+    "url": "https://github.com/Anbox-halium/anbox-halium",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "timb-machine/linux-malware",
+    "url": "https://github.com/timb-machine/linux-malware",
+    "desc": "Tracking interesting Linux (and UNIX) malware. Send PRs"
+  },
+  {
+    "title": "pittcsc/Summer2022-Internships",
+    "url": "https://github.com/pittcsc/Summer2022-Internships",
+    "desc": "Collection of Summer 2022 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "davecheney/httpstat",
+    "url": "https://github.com/davecheney/httpstat",
+    "desc": "It's like curl -v, with colours.",
+    "lang": "Go"
+  },
+  {
+    "title": "cfalta/MicrosoftWontFixList",
+    "url": "https://github.com/cfalta/MicrosoftWontFixList",
+    "desc": "A list of vulnerabilities or design flaws Microsoft does not intend to fix. Since the number is growing, I decided to make a list."
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  }
+]
