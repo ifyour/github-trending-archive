@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ed3ath/cbtracker",
+    "url": "https://github.com/ed3ath/cbtracker",
+    "desc": "Please do not use this tracker to scam anyone! This is free and will be forever free. This tracking will never ask for seed phrases nor private keys. Keep safe!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Satsuoni/widevine-l3-guesser",
+    "url": "https://github.com/Satsuoni/widevine-l3-guesser",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "myspaghetti/macos-virtualbox",
+    "url": "https://github.com/myspaghetti/macos-virtualbox",
+    "desc": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
+    "lang": "Shell"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "Java"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "lang": "C++"
+  },
+  {
+    "title": "bats3c/ADCSPwn",
+    "url": "https://github.com/bats3c/ADCSPwn",
+    "desc": "A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service.",
+    "lang": "C#"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp."
+  },
+  {
+    "title": "facebookresearch/droidlet",
+    "url": "https://github.com/facebookresearch/droidlet",
+    "desc": "A modular embodied agent architecture and platform for building embodied agents",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jbhuang0604/awesome-tips",
+    "url": "https://github.com/jbhuang0604/awesome-tips",
+    "desc": ""
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "jonathandata1/pegasus_spyware",
+    "url": "https://github.com/jonathandata1/pegasus_spyware",
+    "desc": "decompiled pegasus_spyware",
+    "lang": "Smali"
+  },
+  {
+    "title": "sorbet/sorbet",
+    "url": "https://github.com/sorbet/sorbet",
+    "desc": "A fast, powerful type checker designed for Ruby",
+    "lang": "Ruby"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "lang": "Vue"
+  },
+  {
+    "title": "bytebase/bytebase",
+    "url": "https://github.com/bytebase/bytebase",
+    "desc": "Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com",
+    "lang": "Vue"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "desc": "Telegram Desktop messaging app",
+    "lang": "C++"
+  },
+  {
+    "title": "tidwall/btree",
+    "url": "https://github.com/tidwall/btree",
+    "desc": "B-tree implementation for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "devicons/devicon",
+    "url": "https://github.com/devicons/devicon",
+    "desc": "Set of icons representing programming languages, designing & development tools",
+    "lang": "Python"
+  },
+  {
+    "title": "covidpass-org/covidpass",
+    "url": "https://github.com/covidpass-org/covidpass",
+    "desc": "Web app for adding EU Digital COVID Certificates to your wallet apps",
+    "lang": "TypeScript"
+  }
+]
