@@ -1,0 +1,148 @@
+[
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "bytedance/Fastbot_iOS",
+    "url": "https://github.com/bytedance/Fastbot_iOS",
+    "desc": "About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2021"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "apache/pinot",
+    "url": "https://github.com/apache/pinot",
+    "desc": "Apache Pinot (Incubating) - A realtime distributed OLAP datastore",
+    "lang": "Java"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix",
+    "desc": "A collection of modern/faster/saner alternatives to common unix commands."
+  },
+  {
+    "title": "klezVirus/inceptor",
+    "url": "https://github.com/klezVirus/inceptor",
+    "desc": "Template-Driven AV/EDR Evasion Framework",
+    "lang": "Assembly"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "desc": "A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "lang": "C"
+  },
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "desc": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+    "lang": "TeX"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "desc": "Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "typeorm/typeorm",
+    "url": "https://github.com/typeorm/typeorm",
+    "desc": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "handsontable/handsontable",
+    "url": "https://github.com/handsontable/handsontable",
+    "desc": "JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  }
+]
