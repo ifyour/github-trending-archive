@@ -1,0 +1,148 @@
+[
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "netless-io/flat",
+    "url": "https://github.com/netless-io/flat",
+    "desc": "Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Aircoin-official/AirCash",
+    "url": "https://github.com/Aircoin-official/AirCash",
+    "desc": "Cash system for AIR."
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
+    "title": "input-output-hk/essential-cardano",
+    "url": "https://github.com/input-output-hk/essential-cardano",
+    "desc": "Repository for the Essential Cardano list"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "desc": "A repository to index and organize the latest machine learning courses found on YouTube."
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "desc": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "lang": "Python"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/gctoolkit",
+    "url": "https://github.com/microsoft/gctoolkit",
+    "desc": "Tool for parsing GC logs",
+    "lang": "Java"
+  },
+  {
+    "title": "Huage001/PaintTransformer",
+    "url": "https://github.com/Huage001/PaintTransformer",
+    "desc": "Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021."
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "juju2013/MPFA",
+    "url": "https://github.com/juju2013/MPFA",
+    "desc": "Make your Pass (sanitaire) Fun Again",
+    "lang": "Python"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "tmrts/go-patterns",
+    "url": "https://github.com/tmrts/go-patterns",
+    "desc": "Curated list of Go design patterns, recipes and idioms",
+    "lang": "Go"
+  },
+  {
+    "title": "sniptt-official/ots",
+    "url": "https://github.com/sniptt-official/ots",
+    "desc": "🔐 Share end-to-end encrypted secrets with others via a one-time URL",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/IoT-For-Beginners",
+    "url": "https://github.com/microsoft/IoT-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, IoT for All!",
+    "lang": "C++"
+  },
+  {
+    "title": "Letscoder/PlayCover",
+    "url": "https://github.com/Letscoder/PlayCover",
+    "desc": "PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "hora-search/hora",
+    "url": "https://github.com/hora-search/hora",
+    "desc": "🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .",
+    "lang": "Rust"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "desc": "Simple Directmedia Layer",
+    "lang": "C"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "desc": "Model parallel transformers in JAX and Haiku",
+    "lang": "Python"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A secure JavaScript and TypeScript runtime",
+    "lang": "Rust"
+  }
+]
