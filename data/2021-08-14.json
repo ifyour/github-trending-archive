@@ -1,0 +1,151 @@
+[
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
+    "title": "DamianEdwards/MinimalApiPlayground",
+    "url": "https://github.com/DamianEdwards/MinimalApiPlayground",
+    "desc": "A place I'm trying out the new ASP.NET Core minimal APIs features.",
+    "lang": "C#"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "opencomputeproject/Time-Appliance-Project",
+    "url": "https://github.com/opencomputeproject/Time-Appliance-Project",
+    "desc": "Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more...",
+    "lang": "ANTLR"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ForbiddenProgrammer/conti-pentester-guide-leak",
+    "url": "https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak",
+    "desc": "Leaked pentesting manuals given to Conti ransomware crooks",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Git-Credential-Manager-Core",
+    "url": "https://github.com/microsoft/Git-Credential-Manager-Core",
+    "desc": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+    "lang": "C#"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "GossiTheDog/SystemNightmare",
+    "url": "https://github.com/GossiTheDog/SystemNightmare",
+    "desc": "Gives you instant SYSTEM command prompt on all supported and legacy versions of Windows",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chaitjo/awesome-efficient-gnn",
+    "url": "https://github.com/chaitjo/awesome-efficient-gnn",
+    "desc": "Efficient Graph Neural Networks - a curated list of papers and projects"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tharsis/ethermint",
+    "url": "https://github.com/tharsis/ethermint",
+    "desc": "Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "lang": "Go"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "elastic/detection-rules",
+    "url": "https://github.com/elastic/detection-rules",
+    "desc": "Rules for Elastic Security's detection engine",
+    "lang": "Python"
+  },
+  {
+    "title": "2percentsilk/haikus-for-codespaces",
+    "url": "https://github.com/2percentsilk/haikus-for-codespaces",
+    "desc": "",
+    "lang": "EJS"
+  }
+]
