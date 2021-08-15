@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Letscoder/PlayCover",
+    "url": "https://github.com/Letscoder/PlayCover",
+    "desc": "PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "LingDong-/fishdraw",
+    "url": "https://github.com/LingDong-/fishdraw",
+    "desc": "procedurally generated fish drawings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bytedance/bhook",
+    "url": "https://github.com/bytedance/bhook",
+    "desc": "🔥 bhook is a PLT hook framework for Android app.",
+    "lang": "C"
+  },
+  {
+    "title": "unit8co/darts",
+    "url": "https://github.com/unit8co/darts",
+    "desc": "A python library for easy manipulation and forecasting of time series.",
+    "lang": "Python"
+  },
+  {
+    "title": "jlongster/absurd-sql",
+    "url": "https://github.com/jlongster/absurd-sql",
+    "desc": "sqlite3 in ur indexeddb (hopefully a better backend soon)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "tharsis/ethermint",
+    "url": "https://github.com/tharsis/ethermint",
+    "desc": "Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "emilk/egui",
+    "url": "https://github.com/emilk/egui",
+    "desc": "egui: an easy-to-use immediate mode GUI in pure Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "tmrts/go-patterns",
+    "url": "https://github.com/tmrts/go-patterns",
+    "desc": "Curated list of Go design patterns, recipes and idioms",
+    "lang": "Go"
+  },
+  {
+    "title": "ossf/allstar",
+    "url": "https://github.com/ossf/allstar",
+    "desc": "GitHub App to set and enforce security policies",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "securego/gosec",
+    "url": "https://github.com/securego/gosec",
+    "desc": "Golang security checker",
+    "lang": "Go"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rg3dengine/rg3d",
+    "url": "https://github.com/rg3dengine/rg3d",
+    "desc": "3D and 2D game engine written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nodejs/undici",
+    "url": "https://github.com/nodejs/undici",
+    "desc": "An HTTP/1.1 client, written from scratch for Node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DeepGraphLearning/torchdrug",
+    "url": "https://github.com/DeepGraphLearning/torchdrug",
+    "desc": "A powerful and flexible machine learning platform for drug discovery",
+    "lang": "Python"
+  },
+  {
+    "title": "opencomputeproject/Time-Appliance-Project",
+    "url": "https://github.com/opencomputeproject/Time-Appliance-Project",
+    "desc": "Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more...",
+    "lang": "ANTLR"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  }
+]
