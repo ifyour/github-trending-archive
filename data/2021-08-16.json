@@ -1,0 +1,147 @@
+[
+  {
+    "title": "megaease/easegress",
+    "url": "https://github.com/megaease/easegress",
+    "desc": "A Cloud Native traffic orchestration system",
+    "lang": "Go"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "ThePrimeagen/refactoring.nvim",
+    "url": "https://github.com/ThePrimeagen/refactoring.nvim",
+    "desc": "The Refactoring library based off the Refactoring book by Martin Fowler",
+    "lang": "Lua"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "tharsis/ethermint",
+    "url": "https://github.com/tharsis/ethermint",
+    "desc": "Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "builtbybel/ThisIsWin11",
+    "url": "https://github.com/builtbybel/ThisIsWin11",
+    "desc": "The real PowerToys for Windows 11",
+    "lang": "C#"
+  },
+  {
+    "title": "mooseIre/update_miui_ota",
+    "url": "https://github.com/mooseIre/update_miui_ota",
+    "desc": ""
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleGAN",
+    "url": "https://github.com/PaddlePaddle/PaddleGAN",
+    "desc": "PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer, wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.",
+    "lang": "Python"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tiimgreen/github-cheat-sheet",
+    "url": "https://github.com/tiimgreen/github-cheat-sheet",
+    "desc": "A list of cool features of Git and GitHub."
+  },
+  {
+    "title": "Kristories/awesome-guidelines",
+    "url": "https://github.com/Kristories/awesome-guidelines",
+    "desc": "A curated list of high quality coding style conventions and standards.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rg3dengine/rg3d",
+    "url": "https://github.com/rg3dengine/rg3d",
+    "desc": "3D and 2D game engine written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "LingDong-/fishdraw",
+    "url": "https://github.com/LingDong-/fishdraw",
+    "desc": "procedurally generated fish drawings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hlissner/doom-emacs",
+    "url": "https://github.com/hlissner/doom-emacs",
+    "desc": "An Emacs framework for the stubborn martian hacker",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "microsoft/Git-Credential-Manager-Core",
+    "url": "https://github.com/microsoft/Git-Credential-Manager-Core",
+    "desc": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+    "lang": "C#"
+  }
+]
