@@ -1,0 +1,152 @@
+[
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.",
+    "lang": "Lua"
+  },
+  {
+    "title": "GuidoBartoli/sherloq",
+    "url": "https://github.com/GuidoBartoli/sherloq",
+    "desc": "An open-source digital image forensic toolset",
+    "lang": "Perl"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "home-assistant/frontend",
+    "url": "https://github.com/home-assistant/frontend",
+    "desc": "🍭 Frontend for Home Assistant",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "OpenRCT2/OpenRCT2",
+    "url": "https://github.com/OpenRCT2/OpenRCT2",
+    "desc": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+    "lang": "C++"
+  },
+  {
+    "title": "FabricMC/fabric-example-mod",
+    "url": "https://github.com/FabricMC/fabric-example-mod",
+    "desc": "Example Fabric mod",
+    "lang": "Java"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "lang": "Python"
+  },
+  {
+    "title": "e-maxx-eng/e-maxx-eng",
+    "url": "https://github.com/e-maxx-eng/e-maxx-eng",
+    "desc": "Translation of http://e-maxx.ru into English",
+    "lang": "C++"
+  },
+  {
+    "title": "tharsis/ethermint",
+    "url": "https://github.com/tharsis/ethermint",
+    "desc": "Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MhankBarBar/whatsapp-bot",
+    "url": "https://github.com/MhankBarBar/whatsapp-bot",
+    "desc": "WhatsApp Bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "Morganamilo/paru",
+    "url": "https://github.com/Morganamilo/paru",
+    "desc": "Feature packed AUR helper",
+    "lang": "Rust"
+  },
+  {
+    "title": "jfmaes/LazySign",
+    "url": "https://github.com/jfmaes/LazySign",
+    "desc": "Create fake certs for binaries using windows binaries and the power of bat files",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "pancakeswap/pancake-frontend",
+    "url": "https://github.com/pancakeswap/pancake-frontend",
+    "desc": "🥞 Pancake main features (farms, pools, IFO, lottery, profiles)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "webtorrent/webtorrent",
+    "url": "https://github.com/webtorrent/webtorrent",
+    "desc": "⚡️ Streaming torrent client for the web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Chatterino/chatterino2",
+    "url": "https://github.com/Chatterino/chatterino2",
+    "desc": "Chat client for https://twitch.tv",
+    "lang": "C++"
+  }
+]
