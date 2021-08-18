@@ -1,0 +1,148 @@
+[
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "GuidoBartoli/sherloq",
+    "url": "https://github.com/GuidoBartoli/sherloq",
+    "desc": "An open-source digital image forensic toolset",
+    "lang": "Perl"
+  },
+  {
+    "title": "ms-jpq/coq_nvim",
+    "url": "https://github.com/ms-jpq/coq_nvim",
+    "desc": "Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.",
+    "lang": "Python"
+  },
+  {
+    "title": "Mauler125/detours_r5",
+    "url": "https://github.com/Mauler125/detours_r5",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "mooseIre/update_miui_ota",
+    "url": "https://github.com/mooseIre/update_miui_ota",
+    "desc": ""
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "desc": "AI拟声: 克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.",
+    "lang": "Lua"
+  },
+  {
+    "title": "megaease/easegress",
+    "url": "https://github.com/megaease/easegress",
+    "desc": "A Cloud Native traffic orchestration system",
+    "lang": "Go"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "ThePrimeagen/refactoring.nvim",
+    "url": "https://github.com/ThePrimeagen/refactoring.nvim",
+    "desc": "The Refactoring library based off the Refactoring book by Martin Fowler",
+    "lang": "Lua"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "desc": "A tool for writing better scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "desc": "Public interface definitions of Google APIs.",
+    "lang": "Starlark"
+  }
+]
