@@ -1,0 +1,149 @@
+[
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
+    "lang": "Lua"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "ms-jpq/coq_nvim",
+    "url": "https://github.com/ms-jpq/coq_nvim",
+    "desc": "Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "desc": "Awesome tips for Laravel"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "frkngksl/Huan",
+    "url": "https://github.com/frkngksl/Huan",
+    "desc": "Encrypted PE Loader Generator",
+    "lang": "C"
+  },
+  {
+    "title": "NebuTech/NBMiner",
+    "url": "https://github.com/NebuTech/NBMiner",
+    "desc": "NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, ZIL, AE, SERO, ERGO"
+  },
+  {
+    "title": "endless-sky/endless-sky",
+    "url": "https://github.com/endless-sky/endless-sky",
+    "desc": "Space exploration, trading, and combat game.",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "a13xp0p0v/linux-kernel-defence-map",
+    "url": "https://github.com/a13xp0p0v/linux-kernel-defence-map",
+    "desc": "Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "desc": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
+    "lang": "C++"
+  },
+  {
+    "title": "GuidoBartoli/sherloq",
+    "url": "https://github.com/GuidoBartoli/sherloq",
+    "desc": "An open-source digital image forensic toolset",
+    "lang": "Perl"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "GoogleContainerTools/jib",
+    "url": "https://github.com/GoogleContainerTools/jib",
+    "desc": "🏗 Build container images for your Java applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "home-assistant/frontend",
+    "url": "https://github.com/home-assistant/frontend",
+    "desc": "🍭 Frontend for Home Assistant",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "anncwb/vue-vben-admin",
+    "url": "https://github.com/anncwb/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "desc": "🍃 JavaScript library for mobile-friendly interactive maps",
+    "lang": "JavaScript"
+  }
+]
