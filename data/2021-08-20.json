@@ -1,0 +1,148 @@
+[
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
+    "lang": "Lua"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "samuelmarina/is-even",
+    "url": "https://github.com/samuelmarina/is-even",
+    "desc": "Is a number even?"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "desc": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
+    "lang": "C++"
+  },
+  {
+    "title": "ms-jpq/coq_nvim",
+    "url": "https://github.com/ms-jpq/coq_nvim",
+    "desc": "Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.",
+    "lang": "Python"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "desc": "Awesome tips for Laravel"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "joswha/Secure-Coding-Handbook",
+    "url": "https://github.com/joswha/Secure-Coding-Handbook",
+    "desc": "Web Application Secure Coding Handbook resource."
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "open-metadata/OpenMetadata",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "desc": "Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.",
+    "lang": "Java"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "go-sql-driver/mysql",
+    "url": "https://github.com/go-sql-driver/mysql",
+    "desc": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "lang": "Go"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "grafana/k6",
+    "url": "https://github.com/grafana/k6",
+    "desc": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "lang": "Go"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NebuTech/NBMiner",
+    "url": "https://github.com/NebuTech/NBMiner",
+    "desc": "NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, ZIL, AE, SERO, ERGO"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  }
+]
