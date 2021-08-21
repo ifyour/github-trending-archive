@@ -1,0 +1,150 @@
+[
+  {
+    "title": "praetorian-inc/gokart",
+    "url": "https://github.com/praetorian-inc/gokart",
+    "desc": "A static analysis tool for securing Go code",
+    "lang": "Go"
+  },
+  {
+    "title": "AsuharietYgvar/AppleNeuralHash2ONNX",
+    "url": "https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX",
+    "desc": "Convert Apple NeuralHash model for CSAM Detection to ONNX.",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
+    "lang": "Lua"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "C++"
+  },
+  {
+    "title": "public-api-lists/public-api-lists",
+    "url": "https://github.com/public-api-lists/public-api-lists",
+    "desc": "A collective list of free APIs for use in software and web development 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "jonaslejon/malicious-pdf",
+    "url": "https://github.com/jonaslejon/malicious-pdf",
+    "desc": "Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator",
+    "lang": "Python"
+  },
+  {
+    "title": "YehLi/xmodaler",
+    "url": "https://github.com/YehLi/xmodaler",
+    "desc": "X-modaler is a versatile and high-performance codebase for cross-modal analytics.",
+    "lang": "Python"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "desc": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
+    "lang": "C++"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "cncf/mentoring",
+    "url": "https://github.com/cncf/mentoring",
+    "desc": "👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "lutzroeder/netron",
+    "url": "https://github.com/lutzroeder/netron",
+    "desc": "Visualizer for neural network, deep learning, and machine learning models",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sachaos/viddy",
+    "url": "https://github.com/sachaos/viddy",
+    "desc": "👀 Modern watch command. Time machine and pager etc.",
+    "lang": "Go"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "tenacityteam/tenacity",
+    "url": "https://github.com/tenacityteam/tenacity",
+    "desc": "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!",
+    "lang": "C++"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "desc": "Awesome tips for Laravel"
+  },
+  {
+    "title": "go-sql-driver/mysql",
+    "url": "https://github.com/go-sql-driver/mysql",
+    "desc": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "lang": "Go"
+  },
+  {
+    "title": "RaRe-Technologies/gensim",
+    "url": "https://github.com/RaRe-Technologies/gensim",
+    "desc": "Topic Modelling for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "gitsrc/IceFireDB",
+    "url": "https://github.com/gitsrc/IceFireDB",
+    "desc": "Distributed disk storage database based on Raft and Redis protocol.",
+    "lang": "Go"
+  },
+  {
+    "title": "redcanaryco/atomic-red-team",
+    "url": "https://github.com/redcanaryco/atomic-red-team",
+    "desc": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  }
+]
