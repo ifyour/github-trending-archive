@@ -1,0 +1,150 @@
+[
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "tenacityteam/tenacity",
+    "url": "https://github.com/tenacityteam/tenacity",
+    "desc": "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "praetorian-inc/gokart",
+    "url": "https://github.com/praetorian-inc/gokart",
+    "desc": "A static analysis tool for securing Go code",
+    "lang": "Go"
+  },
+  {
+    "title": "Lux-AI-Challenge/Lux-Design-2021",
+    "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
+    "desc": "Home to the design and engine of the Lux AI Challenge Season 1",
+    "lang": "C++"
+  },
+  {
+    "title": "go-sql-driver/mysql",
+    "url": "https://github.com/go-sql-driver/mysql",
+    "desc": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "lang": "Go"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
+    "lang": "Lua"
+  },
+  {
+    "title": "LiveOverflow/ctf-screenshotter",
+    "url": "https://github.com/LiveOverflow/ctf-screenshotter",
+    "desc": "a CTF web challenge about making screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "DIGITALCRIMINAL/OnlyFans",
+    "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+    "desc": "Scrape all the media from an OnlyFans account - Updated regularly",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "desc": "A Collection of Flutter and Dart Tips and Tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "open-metadata/OpenMetadata",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "desc": "Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.",
+    "lang": "Java"
+  },
+  {
+    "title": "ANYbotics/grid_map",
+    "url": "https://github.com/ANYbotics/grid_map",
+    "desc": "Universal grid map library for mobile robotic mapping",
+    "lang": "C++"
+  },
+  {
+    "title": "rcmaehl/WhyNotWin11",
+    "url": "https://github.com/rcmaehl/WhyNotWin11",
+    "desc": "Detection Script to help identify why your PC is not Windows 11 Release Ready",
+    "lang": "AutoIt"
+  },
+  {
+    "title": "honzaap/Systemizer",
+    "url": "https://github.com/honzaap/Systemizer",
+    "desc": "A system design tool that allows you to simulate data flow of distributed systems.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "samuelmarina/is-even",
+    "url": "https://github.com/samuelmarina/is-even",
+    "desc": "Is a number even?"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "armosec/kubescape",
+    "url": "https://github.com/armosec/kubescape",
+    "desc": "kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)",
+    "lang": "Go"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "golang/glog",
+    "url": "https://github.com/golang/glog",
+    "desc": "Leveled execution logs for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "pittcsc/Summer2022-Internships",
+    "url": "https://github.com/pittcsc/Summer2022-Internships",
+    "desc": "Collection of Summer 2022 tech internships!",
+    "lang": "Python"
+  }
+]
