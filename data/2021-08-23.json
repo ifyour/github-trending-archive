@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "lang": "Python"
+  },
+  {
+    "title": "langjam/jam0001",
+    "url": "https://github.com/langjam/jam0001",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "minhealthnz/nz-covid-data",
+    "url": "https://github.com/minhealthnz/nz-covid-data",
+    "desc": "COVID-19 locations of interest"
+  },
+  {
+    "title": "Lux-AI-Challenge/Lux-Design-2021",
+    "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
+    "desc": "Home to the design and engine of the Lux AI Challenge Season 1",
+    "lang": "C++"
+  },
+  {
+    "title": "orico/www.mlcompendium.com",
+    "url": "https://github.com/orico/www.mlcompendium.com",
+    "desc": "The Machine Learning & Deep Learning Compendium is an open-source knowledge-sharing project compiled using Gitbook."
+  },
+  {
+    "title": "DIGITALCRIMINAL/OnlyFans",
+    "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+    "desc": "Scrape all the media from an OnlyFans account - Updated regularly",
+    "lang": "Python"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "aria2/aria2",
+    "url": "https://github.com/aria2/aria2",
+    "desc": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+    "lang": "C++"
+  },
+  {
+    "title": "cabaletta/baritone",
+    "url": "https://github.com/cabaletta/baritone",
+    "desc": "google maps for block game",
+    "lang": "Java"
+  },
+  {
+    "title": "ffmpegwasm/ffmpeg.wasm",
+    "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+    "desc": "FFmpeg for browser and node, powered by WebAssembly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "lang": "C++"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "Java"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/arrow-datafusion",
+    "url": "https://github.com/apache/arrow-datafusion",
+    "desc": "Apache Arrow DataFusion and Ballista query engines",
+    "lang": "Rust"
+  },
+  {
+    "title": "xmrig/xmrig",
+    "url": "https://github.com/xmrig/xmrig",
+    "desc": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
+    "lang": "C++"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "input-output-hk/cardano-node",
+    "url": "https://github.com/input-output-hk/cardano-node",
+    "desc": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "lang": "Haskell"
+  }
+]
