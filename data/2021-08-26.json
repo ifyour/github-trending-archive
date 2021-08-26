@@ -1,0 +1,150 @@
+[
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "desc": "A tool for writing better scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "desc": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+    "lang": "TeX"
+  },
+  {
+    "title": "filebrowser/filebrowser",
+    "url": "https://github.com/filebrowser/filebrowser",
+    "desc": "📂 Web File Browser",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "basarat/typescript-book",
+    "url": "https://github.com/basarat/typescript-book",
+    "desc": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
+    "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
+    "desc": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "cs-books/influential-cs-books",
+    "url": "https://github.com/cs-books/influential-cs-books",
+    "desc": "Most influential books on Computer Science/programming"
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "desc": "不知名大佬备份",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "armosec/kubescape",
+    "url": "https://github.com/armosec/kubescape",
+    "desc": "kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)",
+    "lang": "Go"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "desc": "Powerful, fast, and an easy to use search engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "careercup/CtCI-6th-Edition-JavaScript",
+    "url": "https://github.com/careercup/CtCI-6th-Edition-JavaScript",
+    "desc": "Cracking the Coding Interview 6th Ed. JavaScript Solutions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DIGITALCRIMINAL/OnlyFans",
+    "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+    "desc": "Scrape all the media from an OnlyFans account - Updated regularly",
+    "lang": "Python"
+  },
+  {
+    "title": "progschj/ThreadPool",
+    "url": "https://github.com/progschj/ThreadPool",
+    "desc": "A simple C++11 Thread Pool implementation",
+    "lang": "C++"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "desc": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  }
+]
