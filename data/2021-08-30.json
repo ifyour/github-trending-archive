@@ -1,0 +1,151 @@
+[
+  {
+    "title": "benyaminahmed/nft-image-generator",
+    "url": "https://github.com/benyaminahmed/nft-image-generator",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "lang": "PHP"
+  },
+  {
+    "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
+    "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
+    "desc": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "benbusby/whoogle-search",
+    "url": "https://github.com/benbusby/whoogle-search",
+    "desc": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "lite-xl/lite-xl",
+    "url": "https://github.com/lite-xl/lite-xl",
+    "desc": "A lightweight text editor written in Lua",
+    "lang": "Lua"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "myspaghetti/macos-virtualbox",
+    "url": "https://github.com/myspaghetti/macos-virtualbox",
+    "desc": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
+    "lang": "Shell"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "desc": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
+    "lang": "Python"
+  },
+  {
+    "title": "AhmadRafiee/Docker_training_with_DockerMe",
+    "url": "https://github.com/AhmadRafiee/Docker_training_with_DockerMe",
+    "desc": "The tools and sample needed to learn the Docker",
+    "lang": "HTML"
+  },
+  {
+    "title": "HashLips/generative-art-node",
+    "url": "https://github.com/HashLips/generative-art-node",
+    "desc": "Create generative art by using the canvas api and node js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "desc": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "lang": "Python"
+  },
+  {
+    "title": "hecrj/iced",
+    "url": "https://github.com/hecrj/iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "lang": "Rust"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "binance-chain/bsc",
+    "url": "https://github.com/binance-chain/bsc",
+    "desc": "A Binance Smart Chain client based on the go-ethereum fork",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "desc": "Powerful, fast, and an easy to use search engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "kilimchoi/engineering-blogs",
+    "url": "https://github.com/kilimchoi/engineering-blogs",
+    "desc": "A curated list of engineering blogs",
+    "lang": "Ruby"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "blueedgetechno/windows11",
+    "url": "https://github.com/blueedgetechno/windows11",
+    "desc": "windows 11 in react 💻🌈⚡",
+    "lang": "CSS"
+  },
+  {
+    "title": "tdlib/td",
+    "url": "https://github.com/tdlib/td",
+    "desc": "Cross-platform library for building Telegram clients",
+    "lang": "C++"
+  },
+  {
+    "title": "minetest/minetest",
+    "url": "https://github.com/minetest/minetest",
+    "desc": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "lang": "C++"
+  },
+  {
+    "title": "PatilShreyas/NotyKT",
+    "url": "https://github.com/PatilShreyas/NotyKT",
+    "desc": "📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.",
+    "lang": "Kotlin"
+  }
+]
