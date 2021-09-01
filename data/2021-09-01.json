@@ -1,0 +1,147 @@
+[
+  {
+    "title": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "lang": "PHP"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "benbusby/whoogle-search",
+    "url": "https://github.com/benbusby/whoogle-search",
+    "desc": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "lite-xl/lite-xl",
+    "url": "https://github.com/lite-xl/lite-xl",
+    "desc": "A lightweight text editor written in Lua",
+    "lang": "Lua"
+  },
+  {
+    "title": "HashLips/generative-art-node",
+    "url": "https://github.com/HashLips/generative-art-node",
+    "desc": "Create generative art by using the canvas api and node js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "benyaminahmed/nft-image-generator",
+    "url": "https://github.com/benyaminahmed/nft-image-generator",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tdlib/td",
+    "url": "https://github.com/tdlib/td",
+    "desc": "Cross-platform library for building Telegram clients",
+    "lang": "C++"
+  },
+  {
+    "title": "rathbuna/DFIRMindMaps",
+    "url": "https://github.com/rathbuna/DFIRMindMaps",
+    "desc": "A repository of DFIR-related Mind Maps geared towards the visual learners!"
+  },
+  {
+    "title": "akshaymarch7/project-ideas",
+    "url": "https://github.com/akshaymarch7/project-ideas",
+    "desc": ""
+  },
+  {
+    "title": "kilimchoi/engineering-blogs",
+    "url": "https://github.com/kilimchoi/engineering-blogs",
+    "desc": "A curated list of engineering blogs",
+    "lang": "Ruby"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "desc": "The Metaplex protocol",
+    "lang": "Rust"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "pwnesia/dnstake",
+    "url": "https://github.com/pwnesia/dnstake",
+    "desc": "DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover",
+    "lang": "Go"
+  },
+  {
+    "title": "fabricjs/fabric.js",
+    "url": "https://github.com/fabricjs/fabric.js",
+    "desc": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "neovide/neovide",
+    "url": "https://github.com/neovide/neovide",
+    "desc": "No Nonsense Neovim Client in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "plotly/dash-sample-apps",
+    "url": "https://github.com/plotly/dash-sample-apps",
+    "desc": "Open-source demos hosted on Dash Gallery",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thu-ml/tianshou",
+    "url": "https://github.com/thu-ml/tianshou",
+    "desc": "An elegant PyTorch deep reinforcement learning library.",
+    "lang": "Python"
+  }
+]
