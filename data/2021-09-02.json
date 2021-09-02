@@ -1,0 +1,151 @@
+[
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  },
+  {
+    "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "desc": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
+    "lang": "Python"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "madebygps/self-taught-guide-to-cloud-computing",
+    "url": "https://github.com/madebygps/self-taught-guide-to-cloud-computing",
+    "desc": "Self-taught guide to cloud computing."
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "myspaghetti/macos-virtualbox",
+    "url": "https://github.com/myspaghetti/macos-virtualbox",
+    "desc": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
+    "lang": "Shell"
+  },
+  {
+    "title": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "lang": "PHP"
+  },
+  {
+    "title": "HashLips/generative-art-opensource",
+    "url": "https://github.com/HashLips/generative-art-opensource",
+    "desc": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "primefaces/primeng",
+    "url": "https://github.com/primefaces/primeng",
+    "desc": "The Most Complete Angular UI Component Library",
+    "lang": "CSS"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "desc": "The Metaplex protocol",
+    "lang": "Rust"
+  },
+  {
+    "title": "lucent-sea/Remotely",
+    "url": "https://github.com/lucent-sea/Remotely",
+    "desc": "A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.",
+    "lang": "C#"
+  },
+  {
+    "title": "HashLips/generative-art-node",
+    "url": "https://github.com/HashLips/generative-art-node",
+    "desc": "Create generative art by using the canvas api and node js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookexperimental/Recoil",
+    "url": "https://github.com/facebookexperimental/Recoil",
+    "desc": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "rcmaehl/WhyNotWin11",
+    "url": "https://github.com/rcmaehl/WhyNotWin11",
+    "desc": "Detection Script to help identify why your PC is not Windows 11 Release Ready",
+    "lang": "AutoIt"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "MBoxPlus/mbox",
+    "url": "https://github.com/MBoxPlus/mbox",
+    "desc": "Toolchain for Mobile App Development 移动研发工具链",
+    "lang": "Ruby"
+  }
+]
