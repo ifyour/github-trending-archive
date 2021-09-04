@@ -1,0 +1,152 @@
+[
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "GokuMohandas/MadeWithML",
+    "url": "https://github.com/GokuMohandas/MadeWithML",
+    "desc": "Learn how to responsibly deliver value with ML.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "terrarier2111/Leafish",
+    "url": "https://github.com/terrarier2111/Leafish",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "dblalock/bolt",
+    "url": "https://github.com/dblalock/bolt",
+    "desc": "10x faster matrix and vector operations.",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lucent-sea/Remotely",
+    "url": "https://github.com/lucent-sea/Remotely",
+    "desc": "A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.",
+    "lang": "C#"
+  },
+  {
+    "title": "ThoughtfulDev/EagleEye",
+    "url": "https://github.com/ThoughtfulDev/EagleEye",
+    "desc": "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.",
+    "lang": "Python"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "desc": "OpenVINO™ Toolkit repository",
+    "lang": "C++"
+  },
+  {
+    "title": "aaronwangy/Data-Science-Cheatsheet",
+    "url": "https://github.com/aaronwangy/Data-Science-Cheatsheet",
+    "desc": "A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.",
+    "lang": "TeX"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "desc": "Protocol and application framework for decentralized NFT minting, storefronts, and sales.",
+    "lang": "Rust"
+  },
+  {
+    "title": "HashLips/generative-art-opensource",
+    "url": "https://github.com/HashLips/generative-art-opensource",
+    "desc": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "containers/podman",
+    "url": "https://github.com/containers/podman",
+    "desc": "Podman: A tool for managing OCI containers and pods.",
+    "lang": "Go"
+  },
+  {
+    "title": "erikalu/omnimatte",
+    "url": "https://github.com/erikalu/omnimatte",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "desc": "Learning operating system development using Linux kernel and Raspberry Pi",
+    "lang": "C"
+  },
+  {
+    "title": "life4/textdistance",
+    "url": "https://github.com/life4/textdistance",
+    "desc": "Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.",
+    "lang": "Python"
+  },
+  {
+    "title": "realm/SwiftLint",
+    "url": "https://github.com/realm/SwiftLint",
+    "desc": "A tool to enforce Swift style and conventions.",
+    "lang": "Swift"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "NielsRogge/Transformers-Tutorials",
+    "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+    "desc": "This repository contains demos I made with the Transformers library by HuggingFace.",
+    "lang": "JupyterNotebook"
+  }
+]
