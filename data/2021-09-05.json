@@ -1,0 +1,151 @@
+[
+  {
+    "title": "SeanDaBlack/AbBOT",
+    "url": "https://github.com/SeanDaBlack/AbBOT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "desc": "GTA III, Vice City",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "lootproject/website",
+    "url": "https://github.com/lootproject/website",
+    "desc": "Loot Project website",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Anish-Agnihotri/dhof-loot",
+    "url": "https://github.com/Anish-Agnihotri/dhof-loot",
+    "desc": "Scripts to collect statistics about LOOT + derivative projects.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dblalock/bolt",
+    "url": "https://github.com/dblalock/bolt",
+    "desc": "10x faster matrix and vector operations.",
+    "lang": "C++"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "GrrrDog/weird_proxies",
+    "url": "https://github.com/GrrrDog/weird_proxies",
+    "desc": "Reverse proxies cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "containers/podman",
+    "url": "https://github.com/containers/podman",
+    "desc": "Podman: A tool for managing OCI containers and pods.",
+    "lang": "Go"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "desc": "Protocol and application framework for decentralized NFT minting, storefronts, and sales.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ThoughtfulDev/EagleEye",
+    "url": "https://github.com/ThoughtfulDev/EagleEye",
+    "desc": "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.",
+    "lang": "Python"
+  },
+  {
+    "title": "opencomputeproject/Time-Appliance-Project",
+    "url": "https://github.com/opencomputeproject/Time-Appliance-Project",
+    "desc": "Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more...",
+    "lang": "ANTLR"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "desc": "Complete container management platform",
+    "lang": "Go"
+  },
+  {
+    "title": "HashLips/generative-art-opensource",
+    "url": "https://github.com/HashLips/generative-art-opensource",
+    "desc": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "lang": "Go"
+  },
+  {
+    "title": "handsontable/hyperformula",
+    "url": "https://github.com/handsontable/hyperformula",
+    "desc": "A complete, open-source Excel-like calculation engine written in TypeScript. Includes 380+ built-in functions. Maintained by the Handsontable team⚡",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "louisfb01/start-machine-learning",
+    "url": "https://github.com/louisfb01/start-machine-learning",
+    "desc": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!"
+  },
+  {
+    "title": "linkedin/datahub",
+    "url": "https://github.com/linkedin/datahub",
+    "desc": "A Metadata Platform for the Modern Data Stack",
+    "lang": "Java"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  }
+]
