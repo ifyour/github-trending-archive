@@ -1,0 +1,150 @@
+[
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "desc": "GTA III, Vice City",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "khanhas/spicetify-cli",
+    "url": "https://github.com/khanhas/spicetify-cli",
+    "desc": "Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "desc": "Protocol and application framework for decentralized NFT minting, storefronts, and sales.",
+    "lang": "Rust"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "HashLips/generative-art-opensource",
+    "url": "https://github.com/HashLips/generative-art-opensource",
+    "desc": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "AakashKumarNain/annotated_research_papers",
+    "url": "https://github.com/AakashKumarNain/annotated_research_papers",
+    "desc": "This repo contains annotated research papers that I found really good and useful"
+  },
+  {
+    "title": "mathaou/termdbms",
+    "url": "https://github.com/mathaou/termdbms",
+    "desc": "A TUI for viewing and (eventually) editing database files. Only support for SQLite currently. MySQL support will be added soon.",
+    "lang": "Go"
+  },
+  {
+    "title": "bpierre/loot-rarity",
+    "url": "https://github.com/bpierre/loot-rarity",
+    "desc": "🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "solana-labs/dapp-scaffold",
+    "url": "https://github.com/solana-labs/dapp-scaffold",
+    "desc": "Scaffolding for a dapp built on Solana",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Anish-Agnihotri/dhof-loot",
+    "url": "https://github.com/Anish-Agnihotri/dhof-loot",
+    "desc": "Scripts to collect statistics about LOOT + derivative projects.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SeanDaBlack/AbBOT",
+    "url": "https://github.com/SeanDaBlack/AbBOT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "dblalock/bolt",
+    "url": "https://github.com/dblalock/bolt",
+    "desc": "10x faster matrix and vector operations.",
+    "lang": "C++"
+  },
+  {
+    "title": "LunarVim/LunarVim",
+    "url": "https://github.com/LunarVim/LunarVim",
+    "desc": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
+    "lang": "Lua"
+  },
+  {
+    "title": "dievus/PowerShellForPentesters",
+    "url": "https://github.com/dievus/PowerShellForPentesters",
+    "desc": "Course repository for PowerShell for Pentesters Course",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "containers/podman",
+    "url": "https://github.com/containers/podman",
+    "desc": "Podman: A tool for managing OCI containers and pods.",
+    "lang": "Go"
+  },
+  {
+    "title": "louisfb01/start-machine-learning",
+    "url": "https://github.com/louisfb01/start-machine-learning",
+    "desc": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!"
+  },
+  {
+    "title": "GrrrDog/weird_proxies",
+    "url": "https://github.com/GrrrDog/weird_proxies",
+    "desc": "Reverse proxies cheatsheet",
+    "lang": "Python"
+  }
+]
