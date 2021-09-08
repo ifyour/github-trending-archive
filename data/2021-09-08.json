@@ -1,0 +1,150 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "bpierre/loot-rarity",
+    "url": "https://github.com/bpierre/loot-rarity",
+    "desc": "🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HashLips/generative-art-opensource",
+    "url": "https://github.com/HashLips/generative-art-opensource",
+    "desc": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "orhun/git-cliff",
+    "url": "https://github.com/orhun/git-cliff",
+    "desc": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
+    "lang": "Rust"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "desc": "The code from the Machine Learning Bookcamp book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ABZ-Aaron/CheatSheets",
+    "url": "https://github.com/ABZ-Aaron/CheatSheets",
+    "desc": "Just a place to store cheatsheets"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "HXSecurity/DongTai",
+    "url": "https://github.com/HXSecurity/DongTai",
+    "desc": "DongTai is an interactive application security testing(IAST) product that supports the detection of OWASP WEB TOP 10 vulnerabilities, multi-request related vulnerabilities (including logic vulnerabilities, unauthorized access vulnerabilities, etc.), third-party component vulnerabilities, etc.",
+    "lang": "Shell"
+  },
+  {
+    "title": "g-make-it/IG_Trading_Algo_Scripts_Python",
+    "url": "https://github.com/g-make-it/IG_Trading_Algo_Scripts_Python",
+    "desc": "IG Trading Algos and Scripts in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "girlscript/winter-of-contributing",
+    "url": "https://github.com/girlscript/winter-of-contributing",
+    "desc": "GirlScript Winter of Contributing, a three-month enthusiastic program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone."
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "khanhas/spicetify-cli",
+    "url": "https://github.com/khanhas/spicetify-cli",
+    "desc": "Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "lang": "C++"
+  },
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "desc": "GTA III, Vice City",
+    "lang": "C++"
+  },
+  {
+    "title": "IrisShaders/Iris",
+    "url": "https://github.com/IrisShaders/Iris",
+    "desc": "(WIP) A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders",
+    "lang": "Java"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "openzfs/zfs",
+    "url": "https://github.com/openzfs/zfs",
+    "desc": "OpenZFS on Linux and FreeBSD",
+    "lang": "C"
+  }
+]
