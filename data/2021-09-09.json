@@ -1,0 +1,148 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "FiloSottile/age",
+    "url": "https://github.com/FiloSottile/age",
+    "desc": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "lang": "Go"
+  },
+  {
+    "title": "xfangfang/Macast",
+    "url": "https://github.com/xfangfang/Macast",
+    "desc": "Macast is a cross-platform application which using mpv as DLNA Media Renderer.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
+    "title": "kurogai/100-redteam-projects",
+    "url": "https://github.com/kurogai/100-redteam-projects",
+    "desc": "Projects for security students"
+  },
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "desc": "CockroachDB - the open source, cloud-native distributed SQL database.",
+    "lang": "Go"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "desc": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "orico/www.mlcompendium.com",
+    "url": "https://github.com/orico/www.mlcompendium.com",
+    "desc": "The Machine Learning & Deep Learning Compendium is an open knowledge-sharing project compiled using Gitbook."
+  },
+  {
+    "title": "WorldQL/mammoth",
+    "url": "https://github.com/WorldQL/mammoth",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "dankamongmen/notcurses",
+    "url": "https://github.com/dankamongmen/notcurses",
+    "desc": "blingful character graphics/TUI library. definitely not curses.",
+    "lang": "C"
+  },
+  {
+    "title": "HashLips/generative-art-opensource",
+    "url": "https://github.com/HashLips/generative-art-opensource",
+    "desc": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "desc": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "revoltchat/delta",
+    "url": "https://github.com/revoltchat/delta",
+    "desc": "Revolt backend API server, built with Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "desc": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "lang": "C++"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "go-task/task",
+    "url": "https://github.com/go-task/task",
+    "desc": "A task runner / simpler Make alternative written in Go",
+    "lang": "Go"
+  }
+]
