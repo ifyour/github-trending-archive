@@ -1,0 +1,152 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudwego/kitex",
+    "url": "https://github.com/cloudwego/kitex",
+    "desc": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "desc": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "desc": "CockroachDB - the open source, cloud-native distributed SQL database.",
+    "lang": "Go"
+  },
+  {
+    "title": "mgdm/htmlq",
+    "url": "https://github.com/mgdm/htmlq",
+    "desc": "Like jq, but for HTML.",
+    "lang": "Rust"
+  },
+  {
+    "title": "geemion/Khepri",
+    "url": "https://github.com/geemion/Khepri",
+    "desc": "🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.",
+    "lang": "C++"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "rammcodes/Dopefolio",
+    "url": "https://github.com/rammcodes/Dopefolio",
+    "desc": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
+    "lang": "HTML"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "desc": "Abseil Common Libraries (C++)",
+    "lang": "C++"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "FiloSottile/age",
+    "url": "https://github.com/FiloSottile/age",
+    "desc": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "desc": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "desc": "React Hooks — 👍",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "codeigniter4/CodeIgniter4",
+    "url": "https://github.com/codeigniter4/CodeIgniter4",
+    "desc": "Open Source PHP Framework (originally from EllisLab)",
+    "lang": "PHP"
+  },
+  {
+    "title": "trinodb/trino",
+    "url": "https://github.com/trinodb/trino",
+    "desc": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/recommenders",
+    "url": "https://github.com/microsoft/recommenders",
+    "desc": "Best Practices on Recommendation Systems",
+    "lang": "Python"
+  }
+]
