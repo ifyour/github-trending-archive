@@ -1,0 +1,150 @@
+[
+  {
+    "title": "cloudwego/netpoll",
+    "url": "https://github.com/cloudwego/netpoll",
+    "desc": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
+    "lang": "Go"
+  },
+  {
+    "title": "cloudwego/kitex",
+    "url": "https://github.com/cloudwego/kitex",
+    "desc": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "spotify/pedalboard",
+    "url": "https://github.com/spotify/pedalboard",
+    "desc": "🎛 🔊 A Python library for adding effects to audio.",
+    "lang": "C++"
+  },
+  {
+    "title": "polarismesh/polaris",
+    "url": "https://github.com/polarismesh/polaris",
+    "desc": "Service Discovery and Governance Center for Distributed and Microservice Architecture",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "OWASP/Top10",
+    "url": "https://github.com/OWASP/Top10",
+    "desc": "Official OWASP Top 10 Document Repository",
+    "lang": "HTML"
+  },
+  {
+    "title": "alex000kim/nsfw_data_scraper",
+    "url": "https://github.com/alex000kim/nsfw_data_scraper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "geemion/Khepri",
+    "url": "https://github.com/geemion/Khepri",
+    "desc": "🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/incubator-doris",
+    "url": "https://github.com/apache/incubator-doris",
+    "desc": "Apache Doris (Incubating)",
+    "lang": "Java"
+  },
+  {
+    "title": "rammcodes/Dopefolio",
+    "url": "https://github.com/rammcodes/Dopefolio",
+    "desc": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
+    "lang": "HTML"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "lang": "Python"
+  },
+  {
+    "title": "ABZ-Aaron/CheatSheets",
+    "url": "https://github.com/ABZ-Aaron/CheatSheets",
+    "desc": "Just a place to store cheatsheets"
+  },
+  {
+    "title": "MoH-Malaysia/covid19-public",
+    "url": "https://github.com/MoH-Malaysia/covid19-public",
+    "desc": "Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera."
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "spikecodes/libreddit",
+    "url": "https://github.com/spikecodes/libreddit",
+    "desc": "Private front-end for Reddit written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "desc": "Flipper Zero Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "desc": "Abseil Common Libraries (C++)",
+    "lang": "C++"
+  }
+]
