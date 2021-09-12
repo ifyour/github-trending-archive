@@ -1,0 +1,150 @@
+[
+  {
+    "title": "cloudwego/netpoll",
+    "url": "https://github.com/cloudwego/netpoll",
+    "desc": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ChoiceCoin/ChoiceCoin.github.io",
+    "url": "https://github.com/ChoiceCoin/ChoiceCoin.github.io",
+    "desc": "Choice Coin Public Website",
+    "lang": "HTML"
+  },
+  {
+    "title": "MoH-Malaysia/covid19-public",
+    "url": "https://github.com/MoH-Malaysia/covid19-public",
+    "desc": "Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera."
+  },
+  {
+    "title": "cloudwego/kitex",
+    "url": "https://github.com/cloudwego/kitex",
+    "desc": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "DataDog/go-profiler-notes",
+    "url": "https://github.com/DataDog/go-profiler-notes",
+    "desc": "felixge's notes on the various go profiling methods that are available.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "rammcodes/Dopefolio",
+    "url": "https://github.com/rammcodes/Dopefolio",
+    "desc": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
+    "lang": "HTML"
+  },
+  {
+    "title": "apache/incubator-doris",
+    "url": "https://github.com/apache/incubator-doris",
+    "desc": "Apache Doris (Incubating)",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "spotify/pedalboard",
+    "url": "https://github.com/spotify/pedalboard",
+    "desc": "🎛 🔊 A Python library for adding effects to audio.",
+    "lang": "C++"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OWASP/Top10",
+    "url": "https://github.com/OWASP/Top10",
+    "desc": "Official OWASP Top 10 Document Repository",
+    "lang": "HTML"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "ReactiveX/RxJava",
+    "url": "https://github.com/ReactiveX/RxJava",
+    "desc": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+    "lang": "Java"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "HashLips/generative-art-node",
+    "url": "https://github.com/HashLips/generative-art-node",
+    "desc": "Create generative art by using the canvas api and node js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "lang": "Python"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "desc": "Abseil Common Libraries (C++)",
+    "lang": "C++"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cloudflare/workers-rs",
+    "url": "https://github.com/cloudflare/workers-rs",
+    "desc": "Write Cloudflare Workers in 100% Rust via WebAssembly",
+    "lang": "Rust"
+  }
+]
