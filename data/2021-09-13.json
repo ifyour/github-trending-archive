@@ -1,0 +1,150 @@
+[
+  {
+    "title": "microsoft/wslg",
+    "url": "https://github.com/microsoft/wslg",
+    "desc": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
+    "lang": "C++"
+  },
+  {
+    "title": "rammcodes/Dopefolio",
+    "url": "https://github.com/rammcodes/Dopefolio",
+    "desc": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
+    "lang": "HTML"
+  },
+  {
+    "title": "TaKO8Ki/gobang",
+    "url": "https://github.com/TaKO8Ki/gobang",
+    "desc": "A cross-platform TUI database management tool written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "MoH-Malaysia/covid19-public",
+    "url": "https://github.com/MoH-Malaysia/covid19-public",
+    "desc": "Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera."
+  },
+  {
+    "title": "exiled-apes/candy-machine-mint",
+    "url": "https://github.com/exiled-apes/candy-machine-mint",
+    "desc": "Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  },
+  {
+    "title": "graviraja/MLOps-Basics",
+    "url": "https://github.com/graviraja/MLOps-Basics",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cloudwego/netpoll",
+    "url": "https://github.com/cloudwego/netpoll",
+    "desc": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
+    "lang": "Go"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "ChoiceCoin/Voting",
+    "url": "https://github.com/ChoiceCoin/Voting",
+    "desc": "A repository for voting systems using Choice Coin.",
+    "lang": "Python"
+  },
+  {
+    "title": "Saul-Mirone/milkdown",
+    "url": "https://github.com/Saul-Mirone/milkdown",
+    "desc": "🍼 Plugin driven WYSIWYG markdown editor framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "desc": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
+    "lang": "Python"
+  },
+  {
+    "title": "AshishJangra27/Skill-India-AI-ML-Scholarship",
+    "url": "https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship",
+    "desc": "This repository is having all the codes used in AI/ML Skill India Scholarship by Elite Techno Groups.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DataDog/go-profiler-notes",
+    "url": "https://github.com/DataDog/go-profiler-notes",
+    "desc": "felixge's notes on the various go profiling methods that are available.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "spulec/moto",
+    "url": "https://github.com/spulec/moto",
+    "desc": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "theme-next/hexo-theme-next",
+    "url": "https://github.com/theme-next/hexo-theme-next",
+    "desc": "Elegant and powerful theme for Hexo.",
+    "lang": "Stylus"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "diego3g/umbriel",
+    "url": "https://github.com/diego3g/umbriel",
+    "desc": "✉️ Umbriel is a simple mailing platform built with Node.js, TypeScript & Prisma.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bnjbvr/rouille",
+    "url": "https://github.com/bnjbvr/rouille",
+    "desc": "Rust programming, in French.",
+    "lang": "Rust"
+  },
+  {
+    "title": "HashLips/generative-art-node",
+    "url": "https://github.com/HashLips/generative-art-node",
+    "desc": "Create generative art by using the canvas api and node js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LunarVim/LunarVim",
+    "url": "https://github.com/LunarVim/LunarVim",
+    "desc": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
+    "lang": "Lua"
+  }
+]
