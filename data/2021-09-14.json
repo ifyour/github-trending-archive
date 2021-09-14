@@ -1,0 +1,150 @@
+[
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lockedbyte/CVE-2021-40444",
+    "url": "https://github.com/lockedbyte/CVE-2021-40444",
+    "desc": "CVE-2021-40444 PoC",
+    "lang": "HTML"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "lang": "Python"
+  },
+  {
+    "title": "Aircoookie/WLED",
+    "url": "https://github.com/Aircoookie/WLED",
+    "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "lang": "C++"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HashLips/generative-art-node",
+    "url": "https://github.com/HashLips/generative-art-node",
+    "desc": "Create generative art by using the canvas api and node js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "lang": "Python"
+  },
+  {
+    "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "desc": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
+    "lang": "Python"
+  },
+  {
+    "title": "brunosimon/my-room-in-3d",
+    "url": "https://github.com/brunosimon/my-room-in-3d",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
+    "lang": "Swift"
+  },
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code",
+    "desc": "a cheat-sheet for mathematical notation in code form"
+  },
+  {
+    "title": "ChoiceCoin/Voting",
+    "url": "https://github.com/ChoiceCoin/Voting",
+    "desc": "A repository for voting systems using Choice Coin.",
+    "lang": "Python"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "desc": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "desc": "Based on a true story",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "TaKO8Ki/gobang",
+    "url": "https://github.com/TaKO8Ki/gobang",
+    "desc": "A cross-platform TUI database management tool written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "f9webltd/laravel-api-response-helpers",
+    "url": "https://github.com/f9webltd/laravel-api-response-helpers",
+    "desc": "🚀 A super simple package allowing for consistent API responses throughout your Laravel application",
+    "lang": "PHP"
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "lang": "C++"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "graviraja/MLOps-Basics",
+    "url": "https://github.com/graviraja/MLOps-Basics",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jupyter-naas/awesome-notebooks",
+    "url": "https://github.com/jupyter-naas/awesome-notebooks",
+    "desc": "+100 awesome Jupyter Notebooks templates, organized by tools, published by the Naas community, to kickstart your data projects in minutes. 😎",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "Saul-Mirone/milkdown",
+    "url": "https://github.com/Saul-Mirone/milkdown",
+    "desc": "🍼 Plugin driven WYSIWYG markdown editor framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  }
+]
