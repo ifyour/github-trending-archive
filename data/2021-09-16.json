@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SudhanPlayz/Discord-MusicBot",
+    "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
+    "desc": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "graviraja/MLOps-Basics",
+    "url": "https://github.com/graviraja/MLOps-Basics",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "phoboslab/q1k3",
+    "url": "https://github.com/phoboslab/q1k3",
+    "desc": "A tiny FPS for js13k",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "desc": "Graph Neural Network Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "lang": "Python"
+  },
+  {
+    "title": "1makarov/binance-nft-buy",
+    "url": "https://github.com/1makarov/binance-nft-buy",
+    "desc": "bot for automatic purchase of boxes",
+    "lang": "Go"
+  },
+  {
+    "title": "outflanknl/PrintNightmare",
+    "url": "https://github.com/outflanknl/PrintNightmare",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "Just-Some-Bots/MusicBot",
+    "url": "https://github.com/Just-Some-Bots/MusicBot",
+    "desc": "🎵 The original MusicBot for Discord (formerly SexualRhinoceros/MusicBot)",
+    "lang": "Python"
+  },
+  {
+    "title": "snowpackjs/astro",
+    "url": "https://github.com/snowpackjs/astro",
+    "desc": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "aslitsecurity/CVE-2021-40444_builders",
+    "url": "https://github.com/aslitsecurity/CVE-2021-40444_builders",
+    "desc": "This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit",
+    "lang": "Python"
+  },
+  {
+    "title": "brunosimon/my-room-in-3d",
+    "url": "https://github.com/brunosimon/my-room-in-3d",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eritislami/evobot",
+    "url": "https://github.com/eritislami/evobot",
+    "desc": "🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "revoltchat/revolt",
+    "url": "https://github.com/revoltchat/revolt",
+    "desc": "Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions",
+    "lang": "Shell"
+  },
+  {
+    "title": "jagrosh/MusicBot",
+    "url": "https://github.com/jagrosh/MusicBot",
+    "desc": "🎶 A Discord music bot that's easy to set up and run yourself!",
+    "lang": "Java"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "desc": "Latex code for making neural networks diagrams",
+    "lang": "TeX"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "progschj/ThreadPool",
+    "url": "https://github.com/progschj/ThreadPool",
+    "desc": "A simple C++11 Thread Pool implementation",
+    "lang": "C++"
+  }
+]
