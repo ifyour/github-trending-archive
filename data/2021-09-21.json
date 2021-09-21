@@ -1,0 +1,147 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "desc": "A high-performance, web standards-compliant rendering engine based on Flutter.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "krayin/laravel-crm",
+    "url": "https://github.com/krayin/laravel-crm",
+    "desc": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+    "lang": "PHP"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "desc": "The Single Sign-On Multi-Factor portal for web apps",
+    "lang": "Go"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IrisShaders/Iris",
+    "url": "https://github.com/IrisShaders/Iris",
+    "desc": "(WIP) A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders",
+    "lang": "Java"
+  },
+  {
+    "title": "GoTurkiye/training",
+    "url": "https://github.com/GoTurkiye/training",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "girlscript/winter-of-contributing",
+    "url": "https://github.com/girlscript/winter-of-contributing",
+    "desc": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "joehillen/sysz",
+    "url": "https://github.com/joehillen/sysz",
+    "desc": "An fzf terminal UI for systemctl",
+    "lang": "Shell"
+  },
+  {
+    "title": "jorisschellekens/borb",
+    "url": "https://github.com/jorisschellekens/borb",
+    "desc": "borb is a library for reading, creating and manipulating PDF files in python.",
+    "lang": "Python"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C"
+  },
+  {
+    "title": "DataWithDanny/sql-masterclass",
+    "url": "https://github.com/DataWithDanny/sql-masterclass",
+    "desc": ""
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "microsoft/PythonProgrammingPuzzles",
+    "url": "https://github.com/microsoft/PythonProgrammingPuzzles",
+    "desc": "A Dataset of Python Challenges for AI Research",
+    "lang": "Python"
+  },
+  {
+    "title": "geerlingguy/internet-pi",
+    "url": "https://github.com/geerlingguy/internet-pi",
+    "desc": "Raspberry Pi config for all things Internet.",
+    "lang": "Jinja"
+  },
+  {
+    "title": "input-output-hk/essential-cardano",
+    "url": "https://github.com/input-output-hk/essential-cardano",
+    "desc": "Repository for the Essential Cardano list"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "desc": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "title": "fullstackhero/dotnet-webapi-boilerplate",
+    "url": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
+    "desc": ".NET WebAPI Boilerplate Template built with .NET 6.0. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.",
+    "lang": "C#"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  }
+]
