@@ -1,0 +1,149 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "desc": "The Single Sign-On Multi-Factor portal for web apps",
+    "lang": "Go"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "desc": "A monitor of resources",
+    "lang": "C++"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EddieHubCommunity/LinkFree",
+    "url": "https://github.com/EddieHubCommunity/LinkFree",
+    "desc": "Open source alternative to LinkTree",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kornia/kornia",
+    "url": "https://github.com/kornia/kornia",
+    "desc": "Open Source Differentiable Computer Vision Library",
+    "lang": "Python"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "pittcsc/Summer2022-Internships",
+    "url": "https://github.com/pittcsc/Summer2022-Internships",
+    "desc": "Collection of Summer 2022 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "desc": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "desc": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cipher387/Dorks-collections-list",
+    "url": "https://github.com/cipher387/Dorks-collections-list",
+    "desc": "List of Github repositories and articles with list of dorks for different search engines"
+  },
+  {
+    "title": "frappe/frappe",
+    "url": "https://github.com/frappe/frappe",
+    "desc": "Low code web framework for real world applications, in Python and Javascript",
+    "lang": "Python"
+  },
+  {
+    "title": "denysdovhan/wtfjs",
+    "url": "https://github.com/denysdovhan/wtfjs",
+    "desc": "🤪 A list of funny and tricky JavaScript examples",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "juice-shop/juice-shop",
+    "url": "https://github.com/juice-shop/juice-shop",
+    "desc": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "samuelcolvin/pydantic",
+    "url": "https://github.com/samuelcolvin/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  },
+  {
+    "title": "heartcombo/devise",
+    "url": "https://github.com/heartcombo/devise",
+    "desc": "Flexible authentication solution for Rails with Warden.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "desc": "A high-performance, web standards-compliant rendering engine based on Flutter.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "akaunting/akaunting",
+    "url": "https://github.com/akaunting/akaunting",
+    "desc": "Free and Online Accounting Software",
+    "lang": "PHP"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  }
+]
