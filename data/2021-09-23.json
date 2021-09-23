@@ -1,0 +1,147 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AriaMinaei/theatre",
+    "url": "https://github.com/AriaMinaei/theatre",
+    "desc": "Motion design editor for the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "desc": "The Single Sign-On Multi-Factor portal for web apps",
+    "lang": "Go"
+  },
+  {
+    "title": "reacttips-dev/codebases",
+    "url": "https://github.com/reacttips-dev/codebases",
+    "desc": "Collection of some big project codebases - for studying only",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PySimpleGUI/PySimpleGUI",
+    "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+    "desc": "Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI,…",
+    "lang": "Python"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "cipher387/Dorks-collections-list",
+    "url": "https://github.com/cipher387/Dorks-collections-list",
+    "desc": "List of Github repositories and articles with list of dorks for different search engines"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "groue/GRDB.swift",
+    "url": "https://github.com/groue/GRDB.swift",
+    "desc": "A toolkit for SQLite databases, with a focus on application development",
+    "lang": "Swift"
+  },
+  {
+    "title": "juntossomosmais/frontend-guideline",
+    "url": "https://github.com/juntossomosmais/frontend-guideline",
+    "desc": "📝 Front-end Guideline by Juntos Somos Mais"
+  },
+  {
+    "title": "aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "desc": "A monitor of resources",
+    "lang": "C++"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rails/propshaft",
+    "url": "https://github.com/rails/propshaft",
+    "desc": "Deliver assets for Rails",
+    "lang": "Ruby"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "desc": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "title": "containers/buildah",
+    "url": "https://github.com/containers/buildah",
+    "desc": "A tool that facilitates building OCI images.",
+    "lang": "Go"
+  },
+  {
+    "title": "lnbook/lnbook",
+    "url": "https://github.com/lnbook/lnbook",
+    "desc": "Mastering the Lightning Network (LN)",
+    "lang": "Shell"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "rust-lang/mdBook",
+    "url": "https://github.com/rust-lang/mdBook",
+    "desc": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "software-mansion/react-native-reanimated",
+    "url": "https://github.com/software-mansion/react-native-reanimated",
+    "desc": "React Native's Animated library reimplemented",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python 3 and 2 (PEP 484)",
+    "lang": "Python"
+  },
+  {
+    "title": "lima-vm/lima",
+    "url": "https://github.com/lima-vm/lima",
+    "desc": "Linux virtual machines, on macOS (aka Linux-on-Mac, macOS subsystem for Linux, containerd for Mac, unofficially)",
+    "lang": "Go"
+  }
+]
