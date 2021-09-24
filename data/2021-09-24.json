@@ -1,0 +1,149 @@
+[
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "desc": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "facebookresearch/ic_gan",
+    "url": "https://github.com/facebookresearch/ic_gan",
+    "desc": "Official repository for the paper Instance-Conditioned GAN by Arantxa Casanova, Marlene Careil, Jakob Verbeek, Michał Drożdżal, Adriana Romero-Soriano.",
+    "lang": "Python"
+  },
+  {
+    "title": "aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "desc": "A monitor of resources",
+    "lang": "C++"
+  },
+  {
+    "title": "AriaMinaei/theatre",
+    "url": "https://github.com/AriaMinaei/theatre",
+    "desc": "Motion design editor for the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "groue/GRDB.swift",
+    "url": "https://github.com/groue/GRDB.swift",
+    "desc": "A toolkit for SQLite databases, with a focus on application development",
+    "lang": "Swift"
+  },
+  {
+    "title": "kornia/kornia",
+    "url": "https://github.com/kornia/kornia",
+    "desc": "Open Source Differentiable Computer Vision Library",
+    "lang": "Python"
+  },
+  {
+    "title": "bytedance/music_source_separation",
+    "url": "https://github.com/bytedance/music_source_separation",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Edubr2020/CVE-2021-40444--CABless",
+    "url": "https://github.com/Edubr2020/CVE-2021-40444--CABless",
+    "desc": "Modified code so that we don´t need to rely on CAB archives"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "juice-shop/juice-shop",
+    "url": "https://github.com/juice-shop/juice-shop",
+    "desc": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cipher387/Dorks-collections-list",
+    "url": "https://github.com/cipher387/Dorks-collections-list",
+    "desc": "List of Github repositories and articles with list of dorks for different search engines"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-go",
+    "url": "https://github.com/open-telemetry/opentelemetry-go",
+    "desc": "OpenTelemetry Go API and SDK",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "reacttips-dev/codebases",
+    "url": "https://github.com/reacttips-dev/codebases",
+    "desc": "This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "pytorch/captum",
+    "url": "https://github.com/pytorch/captum",
+    "desc": "Model interpretability and understanding for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "rollup/rollup",
+    "url": "https://github.com/rollup/rollup",
+    "desc": "Next-generation ES module bundler",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  }
+]
