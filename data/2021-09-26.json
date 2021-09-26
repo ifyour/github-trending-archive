@@ -1,0 +1,149 @@
+[
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "desc": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "juice-shop/juice-shop",
+    "url": "https://github.com/juice-shop/juice-shop",
+    "desc": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀",
+    "lang": "Vue"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "lang": "Dart"
+  },
+  {
+    "title": "TryGhost/Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "desc": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/echarts",
+    "url": "https://github.com/apache/echarts",
+    "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "alex000kim/nsfw_data_scraper",
+    "url": "https://github.com/alex000kim/nsfw_data_scraper",
+    "desc": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "lang": "Shell"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "waydroid/waydroid",
+    "url": "https://github.com/waydroid/waydroid",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "Requarks/wiki",
+    "url": "https://github.com/Requarks/wiki",
+    "desc": "Wiki.js | A modern and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "guzzle/guzzle",
+    "url": "https://github.com/guzzle/guzzle",
+    "desc": "Guzzle, an extensible PHP HTTP client",
+    "lang": "PHP"
+  },
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "desc": "JDK main-line development",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "lang": "C"
+  },
+  {
+    "title": "Kotlin/kotlinx.serialization",
+    "url": "https://github.com/Kotlin/kotlinx.serialization",
+    "desc": "Kotlin multiplatform / multi-format serialization",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "open-mmlab/mmaction2",
+    "url": "https://github.com/open-mmlab/mmaction2",
+    "desc": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+    "lang": "Python"
+  }
+]
