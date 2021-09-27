@@ -1,0 +1,143 @@
+[
+  {
+    "title": "juice-shop/juice-shop",
+    "url": "https://github.com/juice-shop/juice-shop",
+    "desc": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HashLips/hashlips_art_engine",
+    "url": "https://github.com/HashLips/hashlips_art_engine",
+    "desc": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "waydroid/waydroid",
+    "url": "https://github.com/waydroid/waydroid",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "cesanta/elk",
+    "url": "https://github.com/cesanta/elk",
+    "desc": "A low footprint JavaScript engine for embedded systems",
+    "lang": "C"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "desc": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "lang": "Python"
+  },
+  {
+    "title": "python-engineer/ml-study-plan",
+    "url": "https://github.com/python-engineer/ml-study-plan",
+    "desc": "The Ultimate FREE Machine Learning Study Plan"
+  },
+  {
+    "title": "Kristories/awesome-guidelines",
+    "url": "https://github.com/Kristories/awesome-guidelines",
+    "desc": "A curated list of high quality coding style conventions and standards.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davidfowl/AspNetCoreDiagnosticScenarios",
+    "url": "https://github.com/davidfowl/AspNetCoreDiagnosticScenarios",
+    "desc": "This repository has examples of broken patterns in ASP.NET Core applications",
+    "lang": "C#"
+  },
+  {
+    "title": "landley/toybox",
+    "url": "https://github.com/landley/toybox",
+    "desc": "toybox",
+    "lang": "C"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "shadowsocks/shadowsocks-windows",
+    "url": "https://github.com/shadowsocks/shadowsocks-windows",
+    "desc": "A C# port of shadowsocks",
+    "lang": "C#"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tiimgreen/github-cheat-sheet",
+    "url": "https://github.com/tiimgreen/github-cheat-sheet",
+    "desc": "A list of cool features of Git and GitHub."
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "BuilderIO/partytown",
+    "url": "https://github.com/BuilderIO/partytown",
+    "desc": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "byorgey/swarm",
+    "url": "https://github.com/byorgey/swarm",
+    "desc": "Resource gathering + programming game",
+    "lang": "Haskell"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "VictoriaMetrics/VictoriaMetrics",
+    "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "desc": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "lang": "Go"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "GoekeLab/bioinformatics-workflows",
+    "url": "https://github.com/GoekeLab/bioinformatics-workflows",
+    "desc": "minimal example implementations for bioinformatics workflow managers",
+    "lang": "Python"
+  }
+]
