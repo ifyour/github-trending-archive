@@ -1,0 +1,148 @@
+[
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "waydroid/waydroid",
+    "url": "https://github.com/waydroid/waydroid",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "desc": "A monitor of resources",
+    "lang": "C++"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀",
+    "lang": "Vue"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "desc": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "lang": "Python"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "Lux-AI-Challenge/Lux-Design-2021",
+    "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
+    "desc": "Home to the design and engine of the @Lux-AI-Challenge Season 1, hosted on @Kaggle",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "apache/incubator-shenyu",
+    "url": "https://github.com/apache/incubator-shenyu",
+    "desc": "ShenYu is High-Performance Java API Gateway.",
+    "lang": "Java"
+  },
+  {
+    "title": "python-engineer/ml-study-plan",
+    "url": "https://github.com/python-engineer/ml-study-plan",
+    "desc": "The Ultimate FREE Machine Learning Study Plan"
+  },
+  {
+    "title": "chithakumar13/FUT-Auto-Buyer",
+    "url": "https://github.com/chithakumar13/FUT-Auto-Buyer",
+    "desc": "Fifa 21 AutoBuyer / Snipping Bot for fifa 21 ultimate team web app with captcha solver",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apolloconfig/apollo",
+    "url": "https://github.com/apolloconfig/apollo",
+    "desc": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+    "lang": "Java"
+  },
+  {
+    "title": "RandomThings23/donut",
+    "url": "https://github.com/RandomThings23/donut",
+    "desc": "DONUTS DONUTS DONUTS 🍩",
+    "lang": "Python"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "lang": "Go"
+  },
+  {
+    "title": "youzan/vant",
+    "url": "https://github.com/youzan/vant",
+    "desc": "Lightweight Mobile UI Components built on Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kristories/awesome-guidelines",
+    "url": "https://github.com/Kristories/awesome-guidelines",
+    "desc": "A curated list of high quality coding style conventions and standards.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3 UI Library made by Element team",
+    "lang": "Vue"
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "desc": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "PanJiaChen/vue-admin-template",
+    "url": "https://github.com/PanJiaChen/vue-admin-template",
+    "desc": "a vue2.0 minimal admin template",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HashLips/hashlips_art_engine",
+    "url": "https://github.com/HashLips/hashlips_art_engine",
+    "desc": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BuilderIO/partytown",
+    "url": "https://github.com/BuilderIO/partytown",
+    "desc": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ant-design/ant-design-mobile",
+    "url": "https://github.com/ant-design/ant-design-mobile",
+    "desc": "Mobile component library based on React.",
+    "lang": "TypeScript"
+  }
+]
