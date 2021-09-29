@@ -1,0 +1,145 @@
+[
+  {
+    "title": "kimlimjustin/xplorer",
+    "url": "https://github.com/kimlimjustin/xplorer",
+    "desc": "Xplorer, a customizable, modern file manager",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rust-embedded/rust-raspberrypi-OS-tutorials",
+    "url": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+    "desc": "📚 Learn to write an embedded OS in Rust 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "BuilderIO/partytown",
+    "url": "https://github.com/BuilderIO/partytown",
+    "desc": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "stackgl/shader-school",
+    "url": "https://github.com/stackgl/shader-school",
+    "desc": "🎓 A workshopper for GLSL shaders and graphics programming",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tsoding/porth",
+    "url": "https://github.com/tsoding/porth",
+    "desc": "It's like Forth but in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "python-engineer/ml-study-plan",
+    "url": "https://github.com/python-engineer/ml-study-plan",
+    "desc": "The Ultimate FREE Machine Learning Study Plan"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "chithakumar13/FUT-Auto-Buyer",
+    "url": "https://github.com/chithakumar13/FUT-Auto-Buyer",
+    "desc": "Fifa 21 AutoBuyer / Snipping Bot for fifa 21 ultimate team web app with captcha solver",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "im2nguyen/rover",
+    "url": "https://github.com/im2nguyen/rover",
+    "desc": "Interactive Terraform visualization. State and configuration explorer.",
+    "lang": "Go"
+  },
+  {
+    "title": "RandomThings23/donut",
+    "url": "https://github.com/RandomThings23/donut",
+    "desc": "DONUTS DONUTS DONUTS 🍩",
+    "lang": "Python"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "waydroid/waydroid",
+    "url": "https://github.com/waydroid/waydroid",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "desc": "Source to app.diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "git-lfs/git-lfs",
+    "url": "https://github.com/git-lfs/git-lfs",
+    "desc": "Git extension for versioning large files",
+    "lang": "Go"
+  },
+  {
+    "title": "Kaustubh-Natuskar/companies-to-apply",
+    "url": "https://github.com/Kaustubh-Natuskar/companies-to-apply",
+    "desc": "this repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-up's"
+  },
+  {
+    "title": "astaxie/build-web-application-with-golang",
+    "url": "https://github.com/astaxie/build-web-application-with-golang",
+    "desc": "A golang ebook intro how to build a web with golang",
+    "lang": "Go"
+  }
+]
