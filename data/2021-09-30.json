@@ -1,0 +1,146 @@
+[
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "robertdavidgraham/masscan",
+    "url": "https://github.com/robertdavidgraham/masscan",
+    "desc": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+    "lang": "C"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "python-engineer/ml-study-plan",
+    "url": "https://github.com/python-engineer/ml-study-plan",
+    "desc": "The Ultimate FREE Machine Learning Study Plan"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "github/india",
+    "url": "https://github.com/github/india",
+    "desc": "GitHub resources and information for the developer community in India"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kaustubh-Natuskar/companies-to-apply",
+    "url": "https://github.com/Kaustubh-Natuskar/companies-to-apply",
+    "desc": "this repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-up's"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "chithakumar13/FUT-Auto-Buyer",
+    "url": "https://github.com/chithakumar13/FUT-Auto-Buyer",
+    "desc": "Fifa UT AutoBuyer / Snipping Bot for fifa ultimate team web app with captcha solver",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "Lux-AI-Challenge/Lux-Design-2021",
+    "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
+    "desc": "Home to the design and engine of the @Lux-AI-Challenge Season 1, hosted on @Kaggle",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "desc": "A PHP framework for web artisans.",
+    "lang": "PHP"
+  },
+  {
+    "title": "tsoding/porth",
+    "url": "https://github.com/tsoding/porth",
+    "desc": "It's like Forth but in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Moya/Moya",
+    "url": "https://github.com/Moya/Moya",
+    "desc": "Network abstraction layer written in Swift.",
+    "lang": "Swift"
+  },
+  {
+    "title": "tanc7/EXOCET-AV-Evasion",
+    "url": "https://github.com/tanc7/EXOCET-AV-Evasion",
+    "desc": "EXOCET - AV-evading, undetectable, payload delivery tool",
+    "lang": "Go"
+  },
+  {
+    "title": "apolloconfig/apollo",
+    "url": "https://github.com/apolloconfig/apollo",
+    "desc": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+    "lang": "Java"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "lang": "HTML"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "grpc/grpc-go",
+    "url": "https://github.com/grpc/grpc-go",
+    "desc": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "lang": "Go"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  }
+]
