@@ -1,0 +1,147 @@
+[
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jonataslaw/getx",
+    "url": "https://github.com/jonataslaw/getx",
+    "desc": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+    "lang": "Dart"
+  },
+  {
+    "title": "robertdavidgraham/masscan",
+    "url": "https://github.com/robertdavidgraham/masscan",
+    "desc": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+    "lang": "C"
+  },
+  {
+    "title": "mithi/react-philosophies",
+    "url": "https://github.com/mithi/react-philosophies",
+    "desc": "🧘 Things I think about when I write React code 🧘"
+  },
+  {
+    "title": "pytorch/data",
+    "url": "https://github.com/pytorch/data",
+    "desc": "A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.",
+    "lang": "Python"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "lang": "Blade"
+  },
+  {
+    "title": "kimlimjustin/xplorer",
+    "url": "https://github.com/kimlimjustin/xplorer",
+    "desc": "Xplorer, a customizable, modern file manager",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "python-engineer/ml-study-plan",
+    "url": "https://github.com/python-engineer/ml-study-plan",
+    "desc": "The Ultimate FREE Machine Learning Study Plan"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "lang": "PHP"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "docker/compose",
+    "url": "https://github.com/docker/compose",
+    "desc": "Define and run multi-container applications with Docker",
+    "lang": "Go"
+  },
+  {
+    "title": "tsoding/porth",
+    "url": "https://github.com/tsoding/porth",
+    "desc": "It's like Forth but in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "knative/serving",
+    "url": "https://github.com/knative/serving",
+    "desc": "Kubernetes-based, scale-to-zero, request-driven compute",
+    "lang": "Go"
+  },
+  {
+    "title": "knadh/listmonk",
+    "url": "https://github.com/knadh/listmonk",
+    "desc": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+    "lang": "Go"
+  },
+  {
+    "title": "marcel-dempers/docker-development-youtube-series",
+    "url": "https://github.com/marcel-dempers/docker-development-youtube-series",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "github/india",
+    "url": "https://github.com/github/india",
+    "desc": "GitHub resources and information for the developer community in India"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",
+    "lang": "Go"
+  },
+  {
+    "title": "input-output-hk/cardano-node",
+    "url": "https://github.com/input-output-hk/cardano-node",
+    "desc": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NebuTech/NBMiner",
+    "url": "https://github.com/NebuTech/NBMiner",
+    "desc": "NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, ZIL, AE, SERO, ERGO"
+  }
+]
