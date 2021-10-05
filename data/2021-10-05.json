@@ -1,0 +1,151 @@
+[
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "Slurmio/school-dev-k8s",
+    "url": "https://github.com/Slurmio/school-dev-k8s",
+    "desc": "",
+    "lang": "Mustache"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "girlscript/winter-of-contributing",
+    "url": "https://github.com/girlscript/winter-of-contributing",
+    "desc": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr",
+    "desc": "📚 Collaborative cheatsheets for console commands",
+    "lang": "Markdown"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "lang": "C++"
+  },
+  {
+    "title": "mmazzarolo/react-native-universal-monorepo",
+    "url": "https://github.com/mmazzarolo/react-native-universal-monorepo",
+    "desc": "React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "lang": "PHP"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "lang": "C++"
+  },
+  {
+    "title": "Siterizer/new-world-fishing-bot",
+    "url": "https://github.com/Siterizer/new-world-fishing-bot",
+    "desc": "user friendly python script who is able to catch fish in the game New World",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The communications platform that puts data protection first.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "itzg/docker-minecraft-server",
+    "url": "https://github.com/itzg/docker-minecraft-server",
+    "desc": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+    "lang": "Shell"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "trickster0/OffensiveRust",
+    "url": "https://github.com/trickster0/OffensiveRust",
+    "desc": "Rust Weaponization for Red Team Engagements.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  }
+]
