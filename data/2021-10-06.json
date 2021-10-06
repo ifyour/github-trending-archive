@@ -1,0 +1,150 @@
+[
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "speedyg0nz/MagInkCal",
+    "url": "https://github.com/speedyg0nz/MagInkCal",
+    "desc": "E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mentebinaria/retoolkit",
+    "url": "https://github.com/mentebinaria/retoolkit",
+    "desc": "Reverse Engineer's Toolkit",
+    "lang": "InnoSetup"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "jagrosh/MusicBot",
+    "url": "https://github.com/jagrosh/MusicBot",
+    "desc": "🎶 A Discord music bot that's easy to set up and run yourself!",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test"
+  },
+  {
+    "title": "fchollet/deep-learning-with-python-notebooks",
+    "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+    "desc": "Jupyter notebooks for the code samples of the book Deep Learning with Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abhpd/hacktoberfest2021",
+    "url": "https://github.com/abhpd/hacktoberfest2021",
+    "desc": "🌱 Contribute your favorite 📚 Data Structure implementation, 🕸 Algorithms, and 🎲 Projects. 😊 | Very Active Repository, Star and Share with your friends |",
+    "lang": "Java"
+  },
+  {
+    "title": "trufflesuite/truffle",
+    "url": "https://github.com/trufflesuite/truffle",
+    "desc": "A tool for developing smart contracts. Crafted with the finest cacaos.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Git-Credential-Manager-Core",
+    "url": "https://github.com/microsoft/Git-Credential-Manager-Core",
+    "desc": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+    "lang": "C#"
+  },
+  {
+    "title": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "desc": "🙃 A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Siterizer/new-world-fishing-bot",
+    "url": "https://github.com/Siterizer/new-world-fishing-bot",
+    "desc": "user friendly python script who is able to catch fish in the game New World",
+    "lang": "Python"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The communications platform that puts data protection first.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "lang": "PHP"
+  },
+  {
+    "title": "SwiftGen/SwiftGen",
+    "url": "https://github.com/SwiftGen/SwiftGen",
+    "desc": "The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!",
+    "lang": "Swift"
+  },
+  {
+    "title": "microsoft/LightGBM",
+    "url": "https://github.com/microsoft/LightGBM",
+    "desc": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+    "lang": "C++"
+  }
+]
