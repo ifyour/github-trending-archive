@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Slurmio/school-dev-k8s",
+    "url": "https://github.com/Slurmio/school-dev-k8s",
+    "desc": "",
+    "lang": "Mustache"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "peregrine-lang/Peregrine",
+    "url": "https://github.com/peregrine-lang/Peregrine",
+    "desc": "An easy to use systems programming language with Python-like syntax.",
+    "lang": "V"
+  },
+  {
+    "title": "kentcdodds/kentcdodds.com",
+    "url": "https://github.com/kentcdodds/kentcdodds.com",
+    "desc": "My personal website",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vmware-tanzu/community-edition",
+    "url": "https://github.com/vmware-tanzu/community-edition",
+    "desc": "VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",
+    "lang": "Shell"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "desc": "Open Source Continuous File Synchronization",
+    "lang": "Go"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "JoeWDavies/geoblender",
+    "url": "https://github.com/JoeWDavies/geoblender",
+    "desc": "Tutorials for making 3D-looking maps with Blender and QGIS"
+  },
+  {
+    "title": "opencodeiiita/Collaborative-Web",
+    "url": "https://github.com/opencodeiiita/Collaborative-Web",
+    "desc": "Opencode 21 Collaborative website!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file manager that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "oatpp/oatpp",
+    "url": "https://github.com/oatpp/oatpp",
+    "desc": "🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.",
+    "lang": "C++"
+  },
+  {
+    "title": "Harsha200105/DesktopAssistant",
+    "url": "https://github.com/Harsha200105/DesktopAssistant",
+    "desc": "A Virtual Desktop Assistant Written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "abhpd/hacktoberfest2021",
+    "url": "https://github.com/abhpd/hacktoberfest2021",
+    "desc": "🌱 Contribute your favorite 📚 Data Structure implementation, 🕸 Algorithms, and 🎲 Projects. 😊 | Very Active Repository, Star and Share with your friends |",
+    "lang": "Java"
+  },
+  {
+    "title": "novaspirit/pi-hosted",
+    "url": "https://github.com/novaspirit/pi-hosted",
+    "desc": "Raspberry Pi Self Hosted Server Based on Docker / Portainer.io",
+    "lang": "Shell"
+  },
+  {
+    "title": "M2Team/NanaZip",
+    "url": "https://github.com/M2Team/NanaZip",
+    "desc": "The 7-Zip derivative intended for the modern Windows experience.",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "girlscript/winter-of-contributing",
+    "url": "https://github.com/girlscript/winter-of-contributing",
+    "desc": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  }
+]
