@@ -1,0 +1,150 @@
+[
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
+    "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
+    "desc": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "github/india",
+    "url": "https://github.com/github/india",
+    "desc": "GitHub resources and information for the developer community in India"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "SAP-samples/devtoberfest-2021",
+    "url": "https://github.com/SAP-samples/devtoberfest-2021",
+    "desc": "The home of Devtoberfest 2021 - an open celebration of what us developers do - coding and collaboration!"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "Slurmio/school-dev-k8s",
+    "url": "https://github.com/Slurmio/school-dev-k8s",
+    "desc": "",
+    "lang": "Mustache"
+  },
+  {
+    "title": "peregrine-lang/Peregrine",
+    "url": "https://github.com/peregrine-lang/Peregrine",
+    "desc": "An easy to use systems programming language with Python-like syntax.",
+    "lang": "V"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leerob/leerob.io",
+    "url": "https://github.com/leerob/leerob.io",
+    "desc": "✨ My portfolio built with Next.js, Tailwind, Prisma, and Vercel.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Harsha200105/DesktopAssistant",
+    "url": "https://github.com/Harsha200105/DesktopAssistant",
+    "desc": "A Virtual Desktop Assistant Written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "PlummersSoftwareLLC/NightDriverStrip",
+    "url": "https://github.com/PlummersSoftwareLLC/NightDriverStrip",
+    "desc": "NightDriver client for ESP32",
+    "lang": "C++"
+  },
+  {
+    "title": "abhpd/hacktoberfest2021",
+    "url": "https://github.com/abhpd/hacktoberfest2021",
+    "desc": "🌱 Contribute your favorite 📚 Data Structure implementation, 🕸 Algorithms, and 🎲 Projects. 😊 | Very Active Repository, Star and Share with your friends |",
+    "lang": "Java"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "desc": "Odoo. Open Source Apps To Grow Your Business.",
+    "lang": "Python"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "farag2/Sophia-Script-for-Windows",
+    "url": "https://github.com/farag2/Sophia-Script-for-Windows",
+    "desc": "⚡ The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file manager that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A SQL linter and auto-formatter for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  }
+]
