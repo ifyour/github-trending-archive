@@ -1,0 +1,151 @@
+[
+  {
+    "title": "raywenderlich/flta-materials",
+    "url": "https://github.com/raywenderlich/flta-materials",
+    "desc": "The projects and the materials that accompany the Flutter Apprentice book",
+    "lang": "Dart"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "arkenfox/user.js",
+    "url": "https://github.com/arkenfox/user.js",
+    "desc": "Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WordPress/twentytwentytwo",
+    "url": "https://github.com/WordPress/twentytwentytwo",
+    "desc": "Twenty Twenty-Two, the default WordPress theme that will launch with WordPress 5.9.",
+    "lang": "HTML"
+  },
+  {
+    "title": "opencodeiiita/Collaborative-Web",
+    "url": "https://github.com/opencodeiiita/Collaborative-Web",
+    "desc": "Opencode 21 Collaborative website!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "M2Team/NanaZip",
+    "url": "https://github.com/M2Team/NanaZip",
+    "desc": "The 7-Zip derivative intended for the modern Windows experience.",
+    "lang": "C++"
+  },
+  {
+    "title": "lvgl/lvgl",
+    "url": "https://github.com/lvgl/lvgl",
+    "desc": "Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",
+    "lang": "C"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gnuradio/gnuradio",
+    "url": "https://github.com/gnuradio/gnuradio",
+    "desc": "GNU Radio – the Free and Open Software Radio Ecosystem",
+    "lang": "C++"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/boundary",
+    "url": "https://github.com/hashicorp/boundary",
+    "desc": "Boundary enables identity-based access management for dynamic infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "isometimes/rpi4-osdev",
+    "url": "https://github.com/isometimes/rpi4-osdev",
+    "desc": "Tutorial: Writing a bare metal operating system for Raspberry Pi 4",
+    "lang": "C"
+  },
+  {
+    "title": "trailofbits/algo",
+    "url": "https://github.com/trailofbits/algo",
+    "desc": "Set up a personal VPN in the cloud",
+    "lang": "Python"
+  },
+  {
+    "title": "tristanhimmelman/ObjectMapper",
+    "url": "https://github.com/tristanhimmelman/ObjectMapper",
+    "desc": "Simple JSON Object mapping written in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "aws/jsii",
+    "url": "https://github.com/aws/jsii",
+    "desc": "jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "desc": "Open Source Continuous File Synchronization",
+    "lang": "Go"
+  },
+  {
+    "title": "peregrine-lang/Peregrine",
+    "url": "https://github.com/peregrine-lang/Peregrine",
+    "desc": "A blazing fast language for the blazing fast world",
+    "lang": "V"
+  },
+  {
+    "title": "wireshark/wireshark",
+    "url": "https://github.com/wireshark/wireshark",
+    "desc": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.",
+    "lang": "C"
+  },
+  {
+    "title": "vapor/vapor",
+    "url": "https://github.com/vapor/vapor",
+    "desc": "💧 A server-side Swift HTTP web framework.",
+    "lang": "Swift"
+  }
+]
