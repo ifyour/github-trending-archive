@@ -1,0 +1,150 @@
+[
+  {
+    "title": "trailofbits/algo",
+    "url": "https://github.com/trailofbits/algo",
+    "desc": "Set up a personal VPN in the cloud",
+    "lang": "Python"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "desc": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "lang": "Go"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "sdras/awesome-actions",
+    "url": "https://github.com/sdras/awesome-actions",
+    "desc": "A curated list of awesome actions to use on GitHub"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "anncwb/vue-vben-admin",
+    "url": "https://github.com/anncwb/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  },
+  {
+    "title": "Python-World/Python_and_the_Web",
+    "url": "https://github.com/Python-World/Python_and_the_Web",
+    "desc": "Build Bots, Scrape a website or use an API to solve a problem.",
+    "lang": "Python"
+  },
+  {
+    "title": "wimpysworld/quickemu",
+    "url": "https://github.com/wimpysworld/quickemu",
+    "desc": "Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
+    "lang": "Shell"
+  },
+  {
+    "title": "apache/rocketmq",
+    "url": "https://github.com/apache/rocketmq",
+    "desc": "Mirror of Apache RocketMQ",
+    "lang": "Java"
+  },
+  {
+    "title": "raywenderlich/flta-materials",
+    "url": "https://github.com/raywenderlich/flta-materials",
+    "desc": "The projects and the materials that accompany the Flutter Apprentice book",
+    "lang": "Dart"
+  },
+  {
+    "title": "alibaba/Sentinel",
+    "url": "https://github.com/alibaba/Sentinel",
+    "desc": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "desc": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "desc": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "youzan/vant",
+    "url": "https://github.com/youzan/vant",
+    "desc": "Lightweight Mobile UI Components built on Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "desc": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "lang": "Groovy"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "An open-source vector database for embedding similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "ant-design/ant-design-pro",
+    "url": "https://github.com/ant-design/ant-design-pro",
+    "desc": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/hudi",
+    "url": "https://github.com/apache/hudi",
+    "desc": "Upserts, Deletes And Incremental Processing on Big Data.",
+    "lang": "Java"
+  }
+]
