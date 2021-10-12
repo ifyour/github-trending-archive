@@ -1,0 +1,150 @@
+[
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "ckosmic/sm64ex-ios",
+    "url": "https://github.com/ckosmic/sm64ex-ios",
+    "desc": "iOS port of https://github.com/sm64pc/sm64ex/",
+    "lang": "C"
+  },
+  {
+    "title": "ethereum/ethereum-org-website",
+    "url": "https://github.com/ethereum/ethereum-org-website",
+    "desc": "Ethereum.org is a primary online resource for the Ethereum community.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WebDevSimplified/useful-custom-react-hooks",
+    "url": "https://github.com/WebDevSimplified/useful-custom-react-hooks",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trailofbits/algo",
+    "url": "https://github.com/trailofbits/algo",
+    "desc": "Set up a personal VPN in the cloud",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/promote-your-next-startup",
+    "url": "https://github.com/trekhleb/promote-your-next-startup",
+    "desc": "🚀 Free resources you may use to promote your next startup"
+  },
+  {
+    "title": "sdras/awesome-actions",
+    "url": "https://github.com/sdras/awesome-actions",
+    "desc": "A curated list of awesome actions to use on GitHub"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "valinet/ExplorerPatcher",
+    "url": "https://github.com/valinet/ExplorerPatcher",
+    "desc": "This project aims to bring back a productive working environment on Windows 11.",
+    "lang": "C"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "lang": "C"
+  },
+  {
+    "title": "zeromicro/go-zero",
+    "url": "https://github.com/zeromicro/go-zero",
+    "desc": "go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.",
+    "lang": "Go"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goplus/gop",
+    "url": "https://github.com/goplus/gop",
+    "desc": "GoPlus - The Go+ language for engineering, STEM education, and data science",
+    "lang": "Go"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "desc": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "desc": "Implementation of the Filecoin protocol, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "raimohanska/ourboard",
+    "url": "https://github.com/raimohanska/ourboard",
+    "desc": "An online whiteboard",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Chakazul/Lenia",
+    "url": "https://github.com/Chakazul/Lenia",
+    "desc": "Lenia - Mathematical Life Forms",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "desc": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "lang": "Groovy"
+  },
+  {
+    "title": "ankidroid/Anki-Android",
+    "url": "https://github.com/ankidroid/Anki-Android",
+    "desc": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
+    "lang": "Java"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  }
+]
