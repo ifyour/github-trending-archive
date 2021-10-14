@@ -1,0 +1,150 @@
+[
+  {
+    "title": "goplus/gop",
+    "url": "https://github.com/goplus/gop",
+    "desc": "GoPlus - The Go+ language for engineering, STEM education, and data science",
+    "lang": "Go"
+  },
+  {
+    "title": "fosscord/fosscord-server",
+    "url": "https://github.com/fosscord/fosscord-server",
+    "desc": "Fosscord Server (selfhostable open source discord server) (contains api + cdn + gateway + dashboard + voice)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Chakazul/Lenia",
+    "url": "https://github.com/Chakazul/Lenia",
+    "desc": "Lenia - Mathematical Life Forms",
+    "lang": "Python"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WebDevSimplified/useful-custom-react-hooks",
+    "url": "https://github.com/WebDevSimplified/useful-custom-react-hooks",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "marcelja/facebook-delete",
+    "url": "https://github.com/marcelja/facebook-delete",
+    "desc": "Fast facebook activity deletion",
+    "lang": "Go"
+  },
+  {
+    "title": "fosscord/fosscord",
+    "url": "https://github.com/fosscord/fosscord",
+    "desc": "Fosscord is a free open source selfhostable discord compatible chat, voice and video platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "raimohanska/ourboard",
+    "url": "https://github.com/raimohanska/ourboard",
+    "desc": "An online whiteboard",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "An open-source vector database for embedding similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "thunlp/OpenPrompt",
+    "url": "https://github.com/thunlp/OpenPrompt",
+    "desc": "An Open-Source Toolkit for Prompt-Learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 Open source API development ecosystem https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "kacos2000/MFT_Browser",
+    "url": "https://github.com/kacos2000/MFT_Browser",
+    "desc": "$MFT directory tree reconstruction & record info",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "google/glog",
+    "url": "https://github.com/google/glog",
+    "desc": "C++ implementation of the Google logging module",
+    "lang": "C++"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "desc": "🐉 Material Component Framework for Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cube-js/cube.js",
+    "url": "https://github.com/cube-js/cube.js",
+    "desc": "📊 Cube.js — Open-Source Analytics API for Building Data Apps",
+    "lang": "TypeScript"
+  }
+]
