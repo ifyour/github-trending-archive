@@ -1,0 +1,149 @@
+[
+  {
+    "title": "goplus/gop",
+    "url": "https://github.com/goplus/gop",
+    "desc": "GoPlus - The Go+ language for engineering, STEM education, and data science",
+    "lang": "Go"
+  },
+  {
+    "title": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "desc": "Official open source SVG icon library for Bootstrap.",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Chakazul/Lenia",
+    "url": "https://github.com/Chakazul/Lenia",
+    "desc": "Lenia - Mathematical Life Forms",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Swin-Transformer",
+    "url": "https://github.com/microsoft/Swin-Transformer",
+    "desc": "This is an official implementation for Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.",
+    "lang": "Python"
+  },
+  {
+    "title": "electron-userland/electron-builder",
+    "url": "https://github.com/electron-userland/electron-builder",
+    "desc": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "3b1b/videos",
+    "url": "https://github.com/3b1b/videos",
+    "desc": "Code for the manim-generated scenes used in 3blue1brown videos",
+    "lang": "Python"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "desc": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ddosify/ddosify",
+    "url": "https://github.com/ddosify/ddosify",
+    "desc": "High-performance load testing tool, written in Golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/apisix",
+    "url": "https://github.com/apache/apisix",
+    "desc": "The Cloud-Native API Gateway",
+    "lang": "Lua"
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "desc": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "handtracking-io/yoha",
+    "url": "https://github.com/handtracking-io/yoha",
+    "desc": "A practical hand tracking engine.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openssl/openssl",
+    "url": "https://github.com/openssl/openssl",
+    "desc": "TLS/SSL and crypto library",
+    "lang": "C"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "An open-source vector database for embedding similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "OpenFeign/feign",
+    "url": "https://github.com/OpenFeign/feign",
+    "desc": "Feign makes writing java http clients easier",
+    "lang": "Java"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "C++"
+  },
+  {
+    "title": "cube-js/cube.js",
+    "url": "https://github.com/cube-js/cube.js",
+    "desc": "📊 Cube.js — Open-Source Analytics API for Building Data Apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "desc": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "lang": "Go"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  }
+]
