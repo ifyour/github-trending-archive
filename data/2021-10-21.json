@@ -1,0 +1,151 @@
+[
+  {
+    "title": "datreeio/datree",
+    "url": "https://github.com/datreeio/datree",
+    "desc": "Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io",
+    "lang": "Go"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "ianstormtaylor/slate",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "desc": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python 3 and 2 (PEP 484)",
+    "lang": "Python"
+  },
+  {
+    "title": "toniblyx/prowler",
+    "url": "https://github.com/toniblyx/prowler",
+    "desc": "Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls and many more additional checks that help on GDPR, HIPAA and other security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "mperham/sidekiq",
+    "url": "https://github.com/mperham/sidekiq",
+    "desc": "Simple, efficient background processing for Ruby",
+    "lang": "Ruby"
+  },
+  {
+    "title": "sudheerj/javascript-interview-questions",
+    "url": "https://github.com/sudheerj/javascript-interview-questions",
+    "desc": "List of 1000 JavaScript Interview Questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "CoinAlpha/hummingbot",
+    "url": "https://github.com/CoinAlpha/hummingbot",
+    "desc": "Hummingbot: a client for crypto market making",
+    "lang": "Python"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "craftzdog/dotfiles-public",
+    "url": "https://github.com/craftzdog/dotfiles-public",
+    "desc": "My personal dotfiles",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "desc": "🐉 Material Component Framework for Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/apisix",
+    "url": "https://github.com/apache/apisix",
+    "desc": "The Cloud-Native API Gateway",
+    "lang": "Lua"
+  },
+  {
+    "title": "mattermost/mattermost-webapp",
+    "url": "https://github.com/mattermost/mattermost-webapp",
+    "desc": "Webapp of Mattermost server: https://github.com/mattermost/mattermost-server",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "panjf2000/ants",
+    "url": "https://github.com/panjf2000/ants",
+    "desc": "🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",
+    "lang": "Go"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "lang": "Clojure"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "desc": "The PHP Interpreter",
+    "lang": "C"
+  },
+  {
+    "title": "typicode/json-server",
+    "url": "https://github.com/typicode/json-server",
+    "desc": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+    "lang": "JavaScript"
+  }
+]
