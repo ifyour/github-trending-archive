@@ -1,0 +1,150 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "reactjs/reactjs.org",
+    "url": "https://github.com/reactjs/reactjs.org",
+    "desc": "The React documentation website",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "IntelLabs/control-flag",
+    "url": "https://github.com/IntelLabs/control-flag",
+    "desc": "A system to flag anomalous source code expressions by learning typical expressions from training data",
+    "lang": "C++"
+  },
+  {
+    "title": "Dusk-Labs/dim",
+    "url": "https://github.com/Dusk-Labs/dim",
+    "desc": "Dim, a media manager fueled by dark forces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "desc": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "lang": "Python"
+  },
+  {
+    "title": "CoinAlpha/hummingbot",
+    "url": "https://github.com/CoinAlpha/hummingbot",
+    "desc": "Hummingbot: a client for crypto market making",
+    "lang": "Python"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "desc": "Awesome tips for Laravel"
+  },
+  {
+    "title": "javascript-obfuscator/javascript-obfuscator",
+    "url": "https://github.com/javascript-obfuscator/javascript-obfuscator",
+    "desc": "A powerful obfuscator for JavaScript and Node.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tesseract-ocr/tesseract",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "desc": "Tesseract Open Source OCR Engine (main repository)",
+    "lang": "C++"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PHPMailer/PHPMailer",
+    "url": "https://github.com/PHPMailer/PHPMailer",
+    "desc": "The classic email sending library for PHP",
+    "lang": "PHP"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "redisson/redisson",
+    "url": "https://github.com/redisson/redisson",
+    "desc": "Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/sdk",
+    "url": "https://github.com/dotnet/sdk",
+    "desc": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
+    "lang": "C#"
+  },
+  {
+    "title": "frappe/erpnext",
+    "url": "https://github.com/frappe/erpnext",
+    "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "lang": "Python"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "microsoft/rnx-kit",
+    "url": "https://github.com/microsoft/rnx-kit",
+    "desc": "Tools which help developers build, deliver, and maintain React Native apps and libraries.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "lang": "C"
+  },
+  {
+    "title": "alexgurr/react-coding-challenges",
+    "url": "https://github.com/alexgurr/react-coding-challenges",
+    "desc": "A series of ReactJS coding challenges with a variety of difficulties.",
+    "lang": "SCSS"
+  },
+  {
+    "title": "microsoft/WindowsAppSDK",
+    "url": "https://github.com/microsoft/WindowsAppSDK",
+    "desc": "The Windows App SDK empowers all Windows Desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",
+    "lang": "C++"
+  },
+  {
+    "title": "SheetJS/sheetjs",
+    "url": "https://github.com/SheetJS/sheetjs",
+    "desc": "📗 SheetJS Community Edition -- Spreadsheet Data Toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hathach/tinyusb",
+    "url": "https://github.com/hathach/tinyusb",
+    "desc": "An open source cross-platform USB stack for embedded system",
+    "lang": "C"
+  },
+  {
+    "title": "sk3pp3r/cheat-sheet-pdf",
+    "url": "https://github.com/sk3pp3r/cheat-sheet-pdf",
+    "desc": "📜 A Cheat-Sheet Collection from the WWW"
+  },
+  {
+    "title": "TuSimple/naive-ui",
+    "url": "https://github.com/TuSimple/naive-ui",
+    "desc": "A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.",
+    "lang": "TypeScript"
+  }
+]
