@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jessfraz/dockerfiles",
+    "url": "https://github.com/jessfraz/dockerfiles",
+    "desc": "Various Dockerfiles I use on the desktop and on servers.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "cheatsheet1999/FrontEndCollection",
+    "url": "https://github.com/cheatsheet1999/FrontEndCollection",
+    "desc": "Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "processhacker/processhacker",
+    "url": "https://github.com/processhacker/processhacker",
+    "desc": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
+    "lang": "C"
+  },
+  {
+    "title": "simdjson/simdjson",
+    "url": "https://github.com/simdjson/simdjson",
+    "desc": "Parsing gigabytes of JSON per second",
+    "lang": "C++"
+  },
+  {
+    "title": "ilyas-it83/CloudComparer",
+    "url": "https://github.com/ilyas-it83/CloudComparer",
+    "desc": "Compare the various managed cloud services offered by the major public cloud providers in the market.",
+    "lang": "HTML"
+  },
+  {
+    "title": "jojo2234/GreenPass-Experiments",
+    "url": "https://github.com/jojo2234/GreenPass-Experiments",
+    "desc": "It's possible to create a valid and fake green pass? The scope of this project is try to create one.",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "faisalman/ua-parser-js",
+    "url": "https://github.com/faisalman/ua-parser-js",
+    "desc": "UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spmallick/learnopencv",
+    "url": "https://github.com/spmallick/learnopencv",
+    "desc": "Learn OpenCV : C++ and Python Examples",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fffaraz/awesome-cpp",
+    "url": "https://github.com/fffaraz/awesome-cpp",
+    "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+  },
+  {
+    "title": "rigtorp/awesome-modern-cpp",
+    "url": "https://github.com/rigtorp/awesome-modern-cpp",
+    "desc": "A collection of resources on modern C++",
+    "lang": "HTML"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudcommunity/Free-Certifications",
+    "url": "https://github.com/cloudcommunity/Free-Certifications",
+    "desc": "Curated list of free courses & certifications"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "IntelLabs/control-flag",
+    "url": "https://github.com/IntelLabs/control-flag",
+    "desc": "A system to flag anomalous source code expressions by learning typical expressions from training data",
+    "lang": "C++"
+  },
+  {
+    "title": "oceanbase/oceanbase",
+    "url": "https://github.com/oceanbase/oceanbase",
+    "desc": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
+    "lang": "C++"
+  },
+  {
+    "title": "micro-zoe/micro-app",
+    "url": "https://github.com/micro-zoe/micro-app",
+    "desc": "A minimalist solution for building micro front-end applications. 一种用于构建微前端应用的极简方案",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "desc": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "lang": "Rust"
+  },
+  {
+    "title": "codesandbox/sandpack",
+    "url": "https://github.com/codesandbox/sandpack",
+    "desc": "An ecosystem of components and utilities built around the browser bundler that powers https://codesandbox.io",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "desc": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography",
+    "lang": "HTML"
+  },
+  {
+    "title": "emilk/egui",
+    "url": "https://github.com/emilk/egui",
+    "desc": "egui: an easy-to-use immediate mode GUI in pure Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "docker-slim/docker-slim",
+    "url": "https://github.com/docker-slim/docker-slim",
+    "desc": "DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+    "lang": "Go"
+  },
+  {
+    "title": "MrH0wl/Cloudmare",
+    "url": "https://github.com/MrH0wl/Cloudmare",
+    "desc": "Cloudflare, Sucuri, Incapsula real IP tracker.",
+    "lang": "Python"
+  }
+]
