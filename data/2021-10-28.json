@@ -1,0 +1,151 @@
+[
+  {
+    "title": "KilledByAPixel/LittleJS",
+    "url": "https://github.com/KilledByAPixel/LittleJS",
+    "desc": "The Tiny JavaScript Game Engine That Can! 🚂",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nuta/kerla",
+    "url": "https://github.com/nuta/kerla",
+    "desc": "A new operating system kernel with Linux binary compatibility written in Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "htr-tech/zphisher",
+    "url": "https://github.com/htr-tech/zphisher",
+    "desc": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
+    "lang": "Hack"
+  },
+  {
+    "title": "liuhuigmail/GrowingBugRepository",
+    "url": "https://github.com/liuhuigmail/GrowingBugRepository",
+    "desc": "A bug repository that keeps growing",
+    "lang": "Perl"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "desc": "A Collection of Flutter and Dart Tips and Tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "processhacker/processhacker",
+    "url": "https://github.com/processhacker/processhacker",
+    "desc": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
+    "lang": "C"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cheatsheet1999/FrontEndCollection",
+    "url": "https://github.com/cheatsheet1999/FrontEndCollection",
+    "desc": "Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dgiot/dgiot",
+    "url": "https://github.com/dgiot/dgiot",
+    "desc": "DG-IoT，Open-source IoT Platform - Connect management,Device management,Data collection, Processing and Visualization.High concurrency, light weight, low code, fast access, free platform. Industry SaaS for IoT Platform.物联网开源平台，物联网平台开发，连接管理、设备管理、多工业协议兼容、数据采集、可视化开发、高并发、轻量级、低代码、快接入、平台免费。",
+    "lang": "Erlang"
+  },
+  {
+    "title": "mltframework/shotcut",
+    "url": "https://github.com/mltframework/shotcut",
+    "desc": "cross-platform (Qt), open-source (GPLv3) video editor",
+    "lang": "C++"
+  },
+  {
+    "title": "IntelLabs/control-flag",
+    "url": "https://github.com/IntelLabs/control-flag",
+    "desc": "A system to flag anomalous source code expressions by learning typical expressions from training data",
+    "lang": "C++"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "near/nearcore",
+    "url": "https://github.com/near/nearcore",
+    "desc": "Reference client for NEAR Protocol",
+    "lang": "Rust"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows/macOS GUI based on Clash"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "desc": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "lang": "Rust"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "portainer/portainer",
+    "url": "https://github.com/portainer/portainer",
+    "desc": "Making Docker and Kubernetes management easy.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "k0shk0sh/FastHub",
+    "url": "https://github.com/k0shk0sh/FastHub",
+    "desc": "FastHub the ultimate GitHub client for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "fofapro/fapro",
+    "url": "https://github.com/fofapro/fapro",
+    "desc": "Fake Protocol Server",
+    "lang": "Python"
+  },
+  {
+    "title": "conduktor/kafka-stack-docker-compose",
+    "url": "https://github.com/conduktor/kafka-stack-docker-compose",
+    "desc": "docker compose files to create a fully working kafka stack",
+    "lang": "Shell"
+  }
+]
