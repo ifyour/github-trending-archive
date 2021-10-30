@@ -1,0 +1,152 @@
+[
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "lang": "Go"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "desc": "Trading strategy for the Freqtrade crypto bot",
+    "lang": "Python"
+  },
+  {
+    "title": "ehn-dcc-development/hcert-spec",
+    "url": "https://github.com/ehn-dcc-development/hcert-spec",
+    "desc": "Electronic Health Certificates Specification",
+    "lang": "Makefile"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "desc": "🍃 JavaScript library for mobile-friendly interactive maps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "devMEremenko/XcodeBenchmark",
+    "url": "https://github.com/devMEremenko/XcodeBenchmark",
+    "desc": "XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro",
+    "lang": "Swift"
+  },
+  {
+    "title": "waldo-vision/optical-flow-demo",
+    "url": "https://github.com/waldo-vision/optical-flow-demo",
+    "desc": "A project that uses optical flow and machine learning to detect aimhacking in video clips.",
+    "lang": "Python"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "mltframework/shotcut",
+    "url": "https://github.com/mltframework/shotcut",
+    "desc": "cross-platform (Qt), open-source (GPLv3) video editor",
+    "lang": "C++"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "desc": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "M2Team/NanaZip",
+    "url": "https://github.com/M2Team/NanaZip",
+    "desc": "The 7-Zip derivative intended for the modern Windows experience.",
+    "lang": "C++"
+  },
+  {
+    "title": "smoltcp-rs/smoltcp",
+    "url": "https://github.com/smoltcp-rs/smoltcp",
+    "desc": "a smol tcp/ip stack",
+    "lang": "Rust"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "desc": "n³ The unorthodox terminal file manager",
+    "lang": "C"
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "desc": "A hyperparameter optimization framework",
+    "lang": "Python"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tikv/tikv",
+    "url": "https://github.com/tikv/tikv",
+    "desc": "Distributed transactional key-value database, originally created to complement TiDB",
+    "lang": "Rust"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Parallel programming for everyone.",
+    "lang": "C++"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  }
+]
