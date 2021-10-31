@@ -1,0 +1,150 @@
+[
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Parallel programming for everyone.",
+    "lang": "C++"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "lang": "Go"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "kubesphere/kubesphere",
+    "url": "https://github.com/kubesphere/kubesphere",
+    "desc": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "lang": "Go"
+  },
+  {
+    "title": "acidanthera/BrcmPatchRAM",
+    "url": "https://github.com/acidanthera/BrcmPatchRAM",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "github/india",
+    "url": "https://github.com/github/india",
+    "desc": "GitHub resources and information for the developer community in India"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
+    "lang": "Rust"
+  },
+  {
+    "title": "notifirehq/notifire",
+    "url": "https://github.com/notifirehq/notifire",
+    "desc": "🚀 The open-source notification infrastructure for products.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "desc": "OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。",
+    "lang": "Go"
+  },
+  {
+    "title": "diem/diem",
+    "url": "https://github.com/diem/diem",
+    "desc": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+    "lang": "Rust"
+  },
+  {
+    "title": "priyankavergadia/GCPSketchnote",
+    "url": "https://github.com/priyankavergadia/GCPSketchnote",
+    "desc": "If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format."
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "desc": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "lang": "Go"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "antfu/vitesse",
+    "url": "https://github.com/antfu/vitesse",
+    "desc": "🏕 Opinionated Vite Starter Template",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "anncwb/vben-admin-thin-next",
+    "url": "https://github.com/anncwb/vben-admin-thin-next",
+    "desc": "vue-vben-admin-2.0 mini template.vue3,vite,typescript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/dubbo",
+    "url": "https://github.com/apache/dubbo",
+    "desc": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "ReactiveX/rxjs",
+    "url": "https://github.com/ReactiveX/rxjs",
+    "desc": "A reactive programming library for JavaScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tokio-rs/tokio",
+    "url": "https://github.com/tokio-rs/tokio",
+    "desc": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "lang": "Rust"
+  },
+  {
+    "title": "waldo-vision/optical.flow.demo",
+    "url": "https://github.com/waldo-vision/optical.flow.demo",
+    "desc": "A project that uses optical flow and machine learning to detect aimhacking in video clips.",
+    "lang": "Python"
+  },
+  {
+    "title": "eu-digital-green-certificates/dgca-issuance-web",
+    "url": "https://github.com/eu-digital-green-certificates/dgca-issuance-web",
+    "desc": "Repository for the dgca issuance web app.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  }
+]
