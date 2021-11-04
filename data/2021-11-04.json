@@ -1,0 +1,150 @@
+[
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "desc": "OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "notifirehq/notifire",
+    "url": "https://github.com/notifirehq/notifire",
+    "desc": "🚀 Open-source notification infrastructure for products",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nunomaduro/larastan",
+    "url": "https://github.com/nunomaduro/larastan",
+    "desc": "⚗️ Adds static analysis to Laravel improving developer productivity and code quality.",
+    "lang": "PHP"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "tokio-rs/axum",
+    "url": "https://github.com/tokio-rs/axum",
+    "desc": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "lang": "Rust"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "desc": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "desc": "Awesome tips for Laravel"
+  },
+  {
+    "title": "NixOS/nix",
+    "url": "https://github.com/NixOS/nix",
+    "desc": "Nix, the purely functional package manager",
+    "lang": "C++"
+  },
+  {
+    "title": "questdb/questdb",
+    "url": "https://github.com/questdb/questdb",
+    "desc": "An open source SQL database designed to process time series data, faster",
+    "lang": "Java"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "desc": "The Julia Programming Language",
+    "lang": "Julia"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "desc": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "antonbabenko/pre-commit-terraform",
+    "url": "https://github.com/antonbabenko/pre-commit-terraform",
+    "desc": "pre-commit git hooks to take care of Terraform configurations",
+    "lang": "Shell"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "mongodb/mongo",
+    "url": "https://github.com/mongodb/mongo",
+    "desc": "The MongoDB Database",
+    "lang": "C++"
+  },
+  {
+    "title": "golang/protobuf",
+    "url": "https://github.com/golang/protobuf",
+    "desc": "Go support for Google's protocol buffers",
+    "lang": "Go"
+  },
+  {
+    "title": "github/gh-ost",
+    "url": "https://github.com/github/gh-ost",
+    "desc": "GitHub's Online Schema Migrations for MySQL",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "rclone/rclone",
+    "url": "https://github.com/rclone/rclone",
+    "desc": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",
+    "lang": "Go"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  }
+]
