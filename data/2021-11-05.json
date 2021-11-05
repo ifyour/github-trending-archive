@@ -1,0 +1,151 @@
+[
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "desc": "OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。",
+    "lang": "Go"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "desc": "Awesome tips for Laravel"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "motor-admin/motor-admin",
+    "url": "https://github.com/motor-admin/motor-admin",
+    "desc": "Deploy a no-code admin panel for your application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "desc": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "lang": "Go"
+  },
+  {
+    "title": "Shopify/toxiproxy",
+    "url": "https://github.com/Shopify/toxiproxy",
+    "desc": "⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+    "lang": "Go"
+  },
+  {
+    "title": "naganandy/graph-based-deep-learning-literature",
+    "url": "https://github.com/naganandy/graph-based-deep-learning-literature",
+    "desc": "links to conference publications in graph-based deep learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CesiumGS/cesium",
+    "url": "https://github.com/CesiumGS/cesium",
+    "desc": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "desc": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+    "lang": "Nunjucks"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vesoft-inc/nebula",
+    "url": "https://github.com/vesoft-inc/nebula",
+    "desc": "A distributed, fast open-source graph database featuring horizontal scalability and high availability",
+    "lang": "C++"
+  },
+  {
+    "title": "dgiot/dgiot",
+    "url": "https://github.com/dgiot/dgiot",
+    "desc": "DG-IoT，Open-source IoT Platform - Connect management,Device management,Data collection, Processing and Visualization.High concurrency, light weight, low code, fast access, free platform. Industry SaaS for IoT Platform.物联网开源平台，物联网平台开发，连接管理、设备管理、多工业协议兼容、数据采集、可视化开发、高并发、轻量级、低代码、快接入、平台免费。",
+    "lang": "Erlang"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "questdb/questdb",
+    "url": "https://github.com/questdb/questdb",
+    "desc": "An open source SQL database designed to process time series data, faster",
+    "lang": "Java"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/Power-Fx",
+    "url": "https://github.com/microsoft/Power-Fx",
+    "desc": "Power Fx low-code programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "daima/fense",
+    "url": "https://github.com/daima/fense",
+    "desc": "Fense is a database proxy written in Java, which can connect DB of different engines at the same time. The key features are: authority management, query cache, audit security, current limiting fuse, onesql and so on",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  }
+]
