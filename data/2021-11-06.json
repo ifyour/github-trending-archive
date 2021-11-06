@@ -1,0 +1,150 @@
+[
+  {
+    "title": "knownsec/KCon",
+    "url": "https://github.com/knownsec/KCon",
+    "desc": "KCon is a famous Hacker Con powered by Knownsec Team.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "questdb/questdb",
+    "url": "https://github.com/questdb/questdb",
+    "desc": "An open source SQL database designed to process time series data, faster",
+    "lang": "Java"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "desc": "OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。",
+    "lang": "Go"
+  },
+  {
+    "title": "Roblox/luau",
+    "url": "https://github.com/Roblox/luau",
+    "desc": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/PaddleClas",
+    "url": "https://github.com/PaddlePaddle/PaddleClas",
+    "desc": "A treasure chest for visual recognition powered by PaddlePaddle",
+    "lang": "Python"
+  },
+  {
+    "title": "artart222/CodeArt",
+    "url": "https://github.com/artart222/CodeArt",
+    "desc": "Use NeoVim as general purpose IDE",
+    "lang": "Lua"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/Power-Fx",
+    "url": "https://github.com/microsoft/Power-Fx",
+    "desc": "Power Fx low-code programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "desc": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "desc": "OpenMMLab's next-generation platform for general 3D object detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "desc": "A high-performance, web standards-compliant rendering engine based on Flutter.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ThePrimeagen/harpoon",
+    "url": "https://github.com/ThePrimeagen/harpoon",
+    "desc": "",
+    "lang": "Lua"
+  },
+  {
+    "title": "PCSX2/pcsx2",
+    "url": "https://github.com/PCSX2/pcsx2",
+    "desc": "PCSX2 - The Playstation 2 Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3 UI Library made by Element team",
+    "lang": "Vue"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "desc": "The Kotlin Programming Language.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "desc": "Terraform module which creates VPC resources on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  }
+]
