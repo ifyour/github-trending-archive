@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "Java"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "desc": "A Collection of Flutter and Dart Tips and Tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix",
+    "desc": "A collection of modern/faster/saner alternatives to common unix commands."
+  },
+  {
+    "title": "TandoorRecipes/recipes",
+    "url": "https://github.com/TandoorRecipes/recipes",
+    "desc": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+    "lang": "HTML"
+  },
+  {
+    "title": "knownsec/KCon",
+    "url": "https://github.com/knownsec/KCon",
+    "desc": "KCon is a famous Hacker Con powered by Knownsec Team.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CesiumGS/cesium",
+    "url": "https://github.com/CesiumGS/cesium",
+    "desc": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "desc": "A collection of useful .gitignore templates"
+  },
+  {
+    "title": "WordPress/wordpress-develop",
+    "url": "https://github.com/WordPress/wordpress-develop",
+    "desc": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "lang": "PHP"
+  },
+  {
+    "title": "FaridSafi/react-native-gifted-chat",
+    "url": "https://github.com/FaridSafi/react-native-gifted-chat",
+    "desc": "💬 The most complete chat UI for React Native",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/re2",
+    "url": "https://github.com/google/re2",
+    "desc": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "alibaba/ice",
+    "url": "https://github.com/alibaba/ice",
+    "desc": "🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "bombomby/optick",
+    "url": "https://github.com/bombomby/optick",
+    "desc": "C++ Profiler For Games",
+    "lang": "C#"
+  },
+  {
+    "title": "Roblox/luau",
+    "url": "https://github.com/Roblox/luau",
+    "desc": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "desc": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "desc": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "HashLips/hashlips_art_engine",
+    "url": "https://github.com/HashLips/hashlips_art_engine",
+    "desc": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "casbin/casbin",
+    "url": "https://github.com/casbin/casbin",
+    "desc": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
+    "lang": "Go"
+  },
+  {
+    "title": "aws/aws-sdk-go-v2",
+    "url": "https://github.com/aws/aws-sdk-go-v2",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "Shopify/toxiproxy",
+    "url": "https://github.com/Shopify/toxiproxy",
+    "desc": "⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  }
+]
