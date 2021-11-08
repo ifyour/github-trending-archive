@@ -1,0 +1,147 @@
+[
+  {
+    "title": "misterokaygo/MapAssist",
+    "url": "https://github.com/misterokaygo/MapAssist",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "questdb/questdb",
+    "url": "https://github.com/questdb/questdb",
+    "desc": "An open source SQL database designed to process time series data, faster",
+    "lang": "Java"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "Java"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file manager that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "desc": "A Collection of Flutter and Dart Tips and Tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "dockersamples/example-voting-app",
+    "url": "https://github.com/dockersamples/example-voting-app",
+    "desc": "Example Docker Compose app",
+    "lang": "C#"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "TandoorRecipes/recipes",
+    "url": "https://github.com/TandoorRecipes/recipes",
+    "desc": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+    "lang": "HTML"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "mxssl/sre-interview-prep-guide",
+    "url": "https://github.com/mxssl/sre-interview-prep-guide",
+    "desc": "Site Reliability Engineer Interview Preparation Guide"
+  },
+  {
+    "title": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "desc": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "remix-run/react-router",
+    "url": "https://github.com/remix-run/react-router",
+    "desc": "Declarative routing for React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "A sandbox tower defense game",
+    "lang": "Java"
+  }
+]
