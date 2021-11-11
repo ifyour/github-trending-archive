@@ -1,0 +1,150 @@
+[
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "lang": "Shell"
+  },
+  {
+    "title": "bryandlee/animegan2-pytorch",
+    "url": "https://github.com/bryandlee/animegan2-pytorch",
+    "desc": "PyTorch implementation of AnimeGANv2",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "minio/minio",
+    "url": "https://github.com/minio/minio",
+    "desc": "High Performance, Kubernetes Native Object Storage",
+    "lang": "Go"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "solana-labs/token-list",
+    "url": "https://github.com/solana-labs/token-list",
+    "desc": "The community maintained Solana token registry",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/roslyn",
+    "url": "https://github.com/dotnet/roslyn",
+    "desc": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "desc": "This repository contains .NET Documentation."
+  },
+  {
+    "title": "PHPOffice/PHPWord",
+    "url": "https://github.com/PHPOffice/PHPWord",
+    "desc": "A pure PHP library for reading and writing word processing documents",
+    "lang": "PHP"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "lang": "Python"
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "desc": "The official home of the Presto distributed SQL query engine for big data",
+    "lang": "Java"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "fonoster/fonoster",
+    "url": "https://github.com/fonoster/fonoster",
+    "desc": "🚀 The open-source alternative to Twilio",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gradle/gradle",
+    "url": "https://github.com/gradle/gradle",
+    "desc": "Adaptable, fast automation for all",
+    "lang": "Groovy"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  },
+  {
+    "title": "SheetJS/sheetjs",
+    "url": "https://github.com/SheetJS/sheetjs",
+    "desc": "📗 SheetJS Community Edition -- Spreadsheet Data Toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/dotnet-docker",
+    "url": "https://github.com/dotnet/dotnet-docker",
+    "desc": "Docker images for .NET and the .NET Tools.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  }
+]
