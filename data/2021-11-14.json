@@ -1,0 +1,150 @@
+[
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "lang": "Python"
+  },
+  {
+    "title": "halfrost/Halfrost-Field",
+    "url": "https://github.com/halfrost/Halfrost-Field",
+    "desc": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+    "lang": "Go"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SwifterSwift/SwifterSwift",
+    "url": "https://github.com/SwifterSwift/SwifterSwift",
+    "desc": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
+    "lang": "Swift"
+  },
+  {
+    "title": "checkstyle/checkstyle",
+    "url": "https://github.com/checkstyle/checkstyle",
+    "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "lang": "Java"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "serverless/serverless",
+    "url": "https://github.com/serverless/serverless",
+    "desc": "⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "lang": "Rust"
+  },
+  {
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "desc": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "lang": "Go"
+  },
+  {
+    "title": "sirupsen/logrus",
+    "url": "https://github.com/sirupsen/logrus",
+    "desc": "Structured, pluggable logging for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "lang": "C"
+  },
+  {
+    "title": "kubernetes/test-infra",
+    "url": "https://github.com/kubernetes/test-infra",
+    "desc": "Test infrastructure for the Kubernetes project.",
+    "lang": "Go"
+  },
+  {
+    "title": "canonical/multipass",
+    "url": "https://github.com/canonical/multipass",
+    "desc": "Multipass orchestrates virtual Ubuntu instances",
+    "lang": "C++"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "gravitational/teleport",
+    "url": "https://github.com/gravitational/teleport",
+    "desc": "Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",
+    "lang": "Go"
+  },
+  {
+    "title": "gabime/spdlog",
+    "url": "https://github.com/gabime/spdlog",
+    "desc": "Fast C++ logging library.",
+    "lang": "C++"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "desc": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AllThingsSmitty/css-protips",
+    "url": "https://github.com/AllThingsSmitty/css-protips",
+    "desc": "A collection of tips to help take your CSS skills pro"
+  }
+]
