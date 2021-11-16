@@ -1,0 +1,149 @@
+[
+  {
+    "title": "xmrig/xmrig",
+    "url": "https://github.com/xmrig/xmrig",
+    "desc": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
+    "lang": "C++"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "desc": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "desc": "Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "WyvernTKC/cpuminer-gr-avx2",
+    "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
+    "desc": "Optimised Version of GR miner for RTM",
+    "lang": "C"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "desc": "Statistical Rethinking course winter 2022"
+  },
+  {
+    "title": "FiloSottile/age",
+    "url": "https://github.com/FiloSottile/age",
+    "desc": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "lang": "Go"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Parallel programming for everyone.",
+    "lang": "C++"
+  },
+  {
+    "title": "Raptor3um/raptoreum",
+    "url": "https://github.com/Raptor3um/raptoreum",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "0xCGonzalo/Golden-Guide-for-Pentesting",
+    "url": "https://github.com/0xCGonzalo/Golden-Guide-for-Pentesting",
+    "desc": "Golden Guide",
+    "lang": "Python"
+  },
+  {
+    "title": "JamesIves/github-pages-deploy-action",
+    "url": "https://github.com/JamesIves/github-pages-deploy-action",
+    "desc": "Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "desc": "📚 Community guides for open source creators",
+    "lang": "HTML"
+  },
+  {
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "desc": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "lang": "Go"
+  },
+  {
+    "title": "PCSX2/pcsx2",
+    "url": "https://github.com/PCSX2/pcsx2",
+    "desc": "PCSX2 - The Playstation 2 Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "rectorphp/rector",
+    "url": "https://github.com/rectorphp/rector",
+    "desc": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+    "lang": "PHP"
+  },
+  {
+    "title": "trexminer/T-Rex",
+    "url": "https://github.com/trexminer/T-Rex",
+    "desc": "T-Rex NVIDIA GPU miner with web control monitoring page"
+  }
+]
