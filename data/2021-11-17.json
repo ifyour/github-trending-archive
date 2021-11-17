@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "desc": "Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "koekeishiya/yabai",
+    "url": "https://github.com/koekeishiya/yabai",
+    "desc": "A tiling window manager for macOS based on binary space partitioning",
+    "lang": "C"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "desc": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "lang": "Go"
+  },
+  {
+    "title": "riramar/Web-Attack-Cheat-Sheet",
+    "url": "https://github.com/riramar/Web-Attack-Cheat-Sheet",
+    "desc": "Web Attack Cheat Sheet"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "desc": "🐉 Material Component Framework for Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "desc": "Statistical Rethinking course winter 2022"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "cloudwego/kitex",
+    "url": "https://github.com/cloudwego/kitex",
+    "desc": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "Raptor3um/raptoreum",
+    "url": "https://github.com/Raptor3um/raptoreum",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "zhenghaoz/gorse",
+    "url": "https://github.com/zhenghaoz/gorse",
+    "desc": "An open source recommender system service written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "olafhartong/sysmon-cheatsheet",
+    "url": "https://github.com/olafhartong/sysmon-cheatsheet",
+    "desc": "All sysmon event types and their fields explained"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "WyvernTKC/cpuminer-gr-avx2",
+    "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
+    "desc": "Optimised Version of GR miner for RTM",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "desc": "All Algorithms implemented in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "ReactiveX/RxJava",
+    "url": "https://github.com/ReactiveX/RxJava",
+    "desc": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+    "lang": "Java"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "desc": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rougier/scientific-visualization-book",
+    "url": "https://github.com/rougier/scientific-visualization-book",
+    "desc": "An open access book on scientific visualization using python and matplotlib",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.",
+    "lang": "Python"
+  }
+]
