@@ -1,0 +1,150 @@
+[
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "lang": "Shell"
+  },
+  {
+    "title": "riramar/Web-Attack-Cheat-Sheet",
+    "url": "https://github.com/riramar/Web-Attack-Cheat-Sheet",
+    "desc": "Web Attack Cheat Sheet"
+  },
+  {
+    "title": "rougier/scientific-visualization-book",
+    "url": "https://github.com/rougier/scientific-visualization-book",
+    "desc": "An open access book on scientific visualization using python and matplotlib",
+    "lang": "Python"
+  },
+  {
+    "title": "ververica/flink-cdc-connectors",
+    "url": "https://github.com/ververica/flink-cdc-connectors",
+    "desc": "Change Data Capture (CDC) Connectors for Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 Open source API development ecosystem https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "stream-labs/streamlabs-obs",
+    "url": "https://github.com/stream-labs/streamlabs-obs",
+    "desc": "Free and open source streaming software built on OBS and Electron.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "davidrmiller/biosim4",
+    "url": "https://github.com/davidrmiller/biosim4",
+    "desc": "Biological evolution simulator",
+    "lang": "C++"
+  },
+  {
+    "title": "SeldonIO/seldon-core",
+    "url": "https://github.com/SeldonIO/seldon-core",
+    "desc": "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",
+    "lang": "HTML"
+  },
+  {
+    "title": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "desc": "Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "koekeishiya/yabai",
+    "url": "https://github.com/koekeishiya/yabai",
+    "desc": "A tiling window manager for macOS based on binary space partitioning",
+    "lang": "C"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "OLSF/libra",
+    "url": "https://github.com/OLSF/libra",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "pixie-io/pixie",
+    "url": "https://github.com/pixie-io/pixie",
+    "desc": "Instant Kubernetes-Native Application Observability",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "desc": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "lang": "Go"
+  },
+  {
+    "title": "deepinsight/insightface",
+    "url": "https://github.com/deepinsight/insightface",
+    "desc": "State-of-the-art 2D and 3D Face Analysis Project",
+    "lang": "Python"
+  },
+  {
+    "title": "raywenderlich/flta-materials",
+    "url": "https://github.com/raywenderlich/flta-materials",
+    "desc": "The projects and the materials that accompany the Flutter Apprentice book",
+    "lang": "Dart"
+  }
+]
