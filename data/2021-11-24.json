@@ -1,0 +1,151 @@
+[
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "desc": "The open-source Shopify alternative ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "desc": "Not the usual clone that you can find on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bryandlee/animegan2-pytorch",
+    "url": "https://github.com/bryandlee/animegan2-pytorch",
+    "desc": "PyTorch implementation of AnimeGANv2",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "ava-labs/avalanchego",
+    "url": "https://github.com/ava-labs/avalanchego",
+    "desc": "Go implementation of an Avalanche node.",
+    "lang": "Go"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "desc": "Black Friday Deals for macOS / iOS Software & Books",
+    "lang": "Swift"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JingyunLiang/SwinIR",
+    "url": "https://github.com/JingyunLiang/SwinIR",
+    "desc": "SwinIR: Image Restoration Using Swin Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dmlc/dgl",
+    "url": "https://github.com/dmlc/dgl",
+    "desc": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "desc": "C++ Parallel Computing and Asynchronous Networking Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "davidrmiller/biosim4",
+    "url": "https://github.com/davidrmiller/biosim4",
+    "desc": "Biological evolution simulator",
+    "lang": "C++"
+  },
+  {
+    "title": "yonaskolb/XcodeGen",
+    "url": "https://github.com/yonaskolb/XcodeGen",
+    "desc": "A Swift command line tool for generating your Xcode project",
+    "lang": "Swift"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/monaco-editor",
+    "url": "https://github.com/microsoft/monaco-editor",
+    "desc": "A browser based code editor",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kubernetes/minikube",
+    "url": "https://github.com/kubernetes/minikube",
+    "desc": "Run Kubernetes locally",
+    "lang": "Go"
+  },
+  {
+    "title": "linkedin/datahub",
+    "url": "https://github.com/linkedin/datahub",
+    "desc": "The Metadata Platform for the Modern Data Stack",
+    "lang": "Java"
+  },
+  {
+    "title": "umijs/dumi",
+    "url": "https://github.com/umijs/dumi",
+    "desc": "📖 Documentation Generator of React Component",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-mmlab/mmsegmentation",
+    "url": "https://github.com/open-mmlab/mmsegmentation",
+    "desc": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/plugins",
+    "url": "https://github.com/flutter/plugins",
+    "desc": "Plugins for Flutter maintained by the Flutter team",
+    "lang": "Dart"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "desc": "Solidity, the Smart Contract Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "InstaPy/InstaPy",
+    "url": "https://github.com/InstaPy/InstaPy",
+    "desc": "📷 Instagram Bot - Tool for automated Instagram interactions",
+    "lang": "Python"
+  }
+]
