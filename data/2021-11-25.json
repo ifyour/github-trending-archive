@@ -1,0 +1,151 @@
+[
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "desc": "The open-source Shopify alternative ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "desc": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "lang": "C++"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "desc": "Black Friday Deals for macOS / iOS Software & Books",
+    "lang": "Swift"
+  },
+  {
+    "title": "Panshak/arcinvoice",
+    "url": "https://github.com/Panshak/arcinvoice",
+    "desc": "Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaakkopasanen/AutoEq",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "desc": "Automatic headphone equalization from frequency responses",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot - The Open-Source design & prototyping platform",
+    "lang": "Clojure"
+  },
+  {
+    "title": "bryandlee/animegan2-pytorch",
+    "url": "https://github.com/bryandlee/animegan2-pytorch",
+    "desc": "PyTorch implementation of AnimeGANv2",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "onion-liu/BlendGAN",
+    "url": "https://github.com/onion-liu/BlendGAN",
+    "desc": "Official PyTorch implementation of BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation (NeurIPS 2021)",
+    "lang": "Python"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "desc": "The PHP Interpreter",
+    "lang": "C"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 Open source API development ecosystem https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "progschj/ThreadPool",
+    "url": "https://github.com/progschj/ThreadPool",
+    "desc": "A simple C++11 Thread Pool implementation",
+    "lang": "C++"
+  },
+  {
+    "title": "kubernetes-sigs/kubespray",
+    "url": "https://github.com/kubernetes-sigs/kubespray",
+    "desc": "Deploy a Production Ready Kubernetes Cluster",
+    "lang": "Jinja"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Java"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "openresty/lua-nginx-module",
+    "url": "https://github.com/openresty/lua-nginx-module",
+    "desc": "Embed the Power of Lua into NGINX HTTP servers",
+    "lang": "C"
+  },
+  {
+    "title": "typeorm/typeorm",
+    "url": "https://github.com/typeorm/typeorm",
+    "desc": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ethereum/remix-project",
+    "url": "https://github.com/ethereum/remix-project",
+    "desc": "Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "emscripten-core/emscripten",
+    "url": "https://github.com/emscripten-core/emscripten",
+    "desc": "Emscripten: An LLVM-to-WebAssembly Compiler",
+    "lang": "C"
+  },
+  {
+    "title": "karatelabs/karate",
+    "url": "https://github.com/karatelabs/karate",
+    "desc": "Test Automation Made Simple",
+    "lang": "Java"
+  }
+]
