@@ -1,0 +1,152 @@
+[
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "desc": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "lang": "C++"
+  },
+  {
+    "title": "vueuse/vueuse",
+    "url": "https://github.com/vueuse/vueuse",
+    "desc": "Collection of essential Vue Composition Utilities for Vue 2 and 3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "desc": "The open-source Shopify alternative ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "merico-dev/lake",
+    "url": "https://github.com/merico-dev/lake",
+    "desc": "DevLake: the open source data lake & dashboard for your DevOps tools.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
+    "lang": "Python"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "desc": "OpenVINO™ Toolkit repository",
+    "lang": "C++"
+  },
+  {
+    "title": "skylot/jadx",
+    "url": "https://github.com/skylot/jadx",
+    "desc": "Dex to Java decompiler",
+    "lang": "Java"
+  },
+  {
+    "title": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "desc": "The Symfony PHP framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "sogou/srpc",
+    "url": "https://github.com/sogou/srpc",
+    "desc": "RPC based on C++ Workflow. Supports Baidu bRPC, Tencent tRPC, thrift protocols.",
+    "lang": "C++"
+  },
+  {
+    "title": "prettier/prettier",
+    "url": "https://github.com/prettier/prettier",
+    "desc": "Prettier is an opinionated code formatter.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "desc": "simple terminal UI for git commands",
+    "lang": "Go"
+  },
+  {
+    "title": "wazuh/wazuh",
+    "url": "https://github.com/wazuh/wazuh",
+    "desc": "Wazuh - The Open Source Security Platform",
+    "lang": "C"
+  },
+  {
+    "title": "Seldaek/monolog",
+    "url": "https://github.com/Seldaek/monolog",
+    "desc": "Sends your logs to files, sockets, inboxes, databases and various web services",
+    "lang": "PHP"
+  },
+  {
+    "title": "reactjs/reactjs.org",
+    "url": "https://github.com/reactjs/reactjs.org",
+    "desc": "The React documentation website",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "The Laravel Framework.",
+    "lang": "PHP"
+  },
+  {
+    "title": "redisson/redisson",
+    "url": "https://github.com/redisson/redisson",
+    "desc": "Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...",
+    "lang": "Java"
+  },
+  {
+    "title": "pentaho/pentaho-kettle",
+    "url": "https://github.com/pentaho/pentaho-kettle",
+    "desc": "Pentaho Data Integration ( ETL ) a.k.a Kettle",
+    "lang": "Java"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gitpod-io/gitpod",
+    "url": "https://github.com/gitpod-io/gitpod",
+    "desc": "Gitpod automates the provisioning of ready-to-code development environments.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  }
+]
