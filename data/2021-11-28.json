@@ -1,0 +1,148 @@
+[
+  {
+    "title": "wazuh/wazuh",
+    "url": "https://github.com/wazuh/wazuh",
+    "desc": "Wazuh - The Open Source Security Platform",
+    "lang": "C"
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning",
+    "desc": "Becoming better at data science every day"
+  },
+  {
+    "title": "kingToolbox/WindTerm",
+    "url": "https://github.com/kingToolbox/WindTerm",
+    "desc": "A quicker and better cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.",
+    "lang": "C"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
+    "lang": "Python"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "desc": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/ice",
+    "url": "https://github.com/alibaba/ice",
+    "desc": "🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kkkgo/LTSC-Add-MicrosoftStore",
+    "url": "https://github.com/kkkgo/LTSC-Add-MicrosoftStore",
+    "desc": "Add Windows Store for LTSC",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "sottlmarek/DevSecOps",
+    "url": "https://github.com/sottlmarek/DevSecOps",
+    "desc": "Ultimate DevSecOps library"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows/macOS GUI based on Clash"
+  },
+  {
+    "title": "PaddlePaddle/Paddle",
+    "url": "https://github.com/PaddlePaddle/Paddle",
+    "desc": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "lang": "Python"
+  },
+  {
+    "title": "kubesphere/kubesphere",
+    "url": "https://github.com/kubesphere/kubesphere",
+    "desc": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "lang": "Go"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Juanpe/SkeletonView",
+    "url": "https://github.com/Juanpe/SkeletonView",
+    "desc": "☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting",
+    "lang": "Swift"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "desc": "A full-featured download manager.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "desc": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "lang": "C++"
+  },
+  {
+    "title": "warmcat/libwebsockets",
+    "url": "https://github.com/warmcat/libwebsockets",
+    "desc": "canonical libwebsockets.org networking library",
+    "lang": "C"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-rust",
+    "url": "https://github.com/shadowsocks/shadowsocks-rust",
+    "desc": "A Rust port of shadowsocks",
+    "lang": "Rust"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "lima-vm/lima",
+    "url": "https://github.com/lima-vm/lima",
+    "desc": "Linux virtual machines, on macOS (aka Linux-on-Mac, macOS subsystem for Linux, containerd for Mac, unofficially)",
+    "lang": "Go"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "robertodoering/harpy",
+    "url": "https://github.com/robertodoering/harpy",
+    "desc": "a Twitter app built with Flutter 🐦",
+    "lang": "Dart"
+  },
+  {
+    "title": "cov-lineages/pango-designation",
+    "url": "https://github.com/cov-lineages/pango-designation",
+    "desc": "Repository for suggesting new lineages that should be added to the current scheme",
+    "lang": "Python"
+  }
+]
