@@ -1,0 +1,142 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "desc": "Trading strategy for the Freqtrade crypto bot",
+    "lang": "Python"
+  },
+  {
+    "title": "CoreyMSchafer/code_snippets",
+    "url": "https://github.com/CoreyMSchafer/code_snippets",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "desc": "CasaOS - A simple, easy-to-use, elegant open-source Family Cloud system.",
+    "lang": "Go"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "LunarVim/LunarVim",
+    "url": "https://github.com/LunarVim/LunarVim",
+    "desc": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
+    "lang": "Lua"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021"
+  },
+  {
+    "title": "ScottPlot/ScottPlot",
+    "url": "https://github.com/ScottPlot/ScottPlot",
+    "desc": "Interactive Plotting Library for .NET",
+    "lang": "C#"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  }
+]
