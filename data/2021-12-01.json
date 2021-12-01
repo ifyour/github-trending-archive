@@ -1,0 +1,148 @@
+[
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CoreyMSchafer/code_snippets",
+    "url": "https://github.com/CoreyMSchafer/code_snippets",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zeldaret/oot",
+    "url": "https://github.com/zeldaret/oot",
+    "desc": "Decompilation of The Legend of Zelda: Ocarina of Time",
+    "lang": "C"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "desc": "CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "fullstackhero/dotnet-webapi-boilerplate",
+    "url": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
+    "desc": "Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.",
+    "lang": "C#"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "desc": "Trading strategy for the Freqtrade crypto bot",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "drakkan/sftpgo",
+    "url": "https://github.com/drakkan/sftpgo",
+    "desc": "Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",
+    "lang": "Go"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "desc": "A Decentralized Operating System for Zero-Knowledge Applications",
+    "lang": "Rust"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "toniblyx/prowler",
+    "url": "https://github.com/toniblyx/prowler",
+    "desc": "Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "tonsky/FiraCode",
+    "url": "https://github.com/tonsky/FiraCode",
+    "desc": "Free monospaced font with programming ligatures",
+    "lang": "Clojure"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/AirSim",
+    "url": "https://github.com/microsoft/AirSim",
+    "desc": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+    "lang": "C++"
+  },
+  {
+    "title": "elastic/beats",
+    "url": "https://github.com/elastic/beats",
+    "desc": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+    "lang": "Go"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iv-org/invidious",
+    "url": "https://github.com/iv-org/invidious",
+    "desc": "Invidious is an alternative front-end to YouTube",
+    "lang": "Crystal"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  }
+]
