@@ -1,0 +1,150 @@
+[
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "glixzzy/blooket-hack",
+    "url": "https://github.com/glixzzy/blooket-hack",
+    "desc": "Multiple game hacks to use so the game becomes easier to play!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jesseduffield/lazydocker",
+    "url": "https://github.com/jesseduffield/lazydocker",
+    "desc": "The lazier way to manage everything docker",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iron-fish/ironfish",
+    "url": "https://github.com/iron-fish/ironfish",
+    "desc": "A novel cryptocurrency focused on privacy and accessibility.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "desc": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "lang": "Go"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "frankwxu/digital-forensics-lab",
+    "url": "https://github.com/frankwxu/digital-forensics-lab",
+    "desc": "Free hands-on digital forensics labs for students and faculty",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "CymChad/BaseRecyclerViewAdapterHelper",
+    "url": "https://github.com/CymChad/BaseRecyclerViewAdapterHelper",
+    "desc": "BRVAH:Powerful and flexible RecyclerAdapter",
+    "lang": "Java"
+  },
+  {
+    "title": "toniblyx/prowler",
+    "url": "https://github.com/toniblyx/prowler",
+    "desc": "Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "crater-invoice/crater",
+    "url": "https://github.com/crater-invoice/crater",
+    "desc": "Open Source Invoicing Solution for Individuals & Businesses",
+    "lang": "PHP"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "desc": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ethereum/consensus-specs",
+    "url": "https://github.com/ethereum/consensus-specs",
+    "desc": "Ethereum Proof-of-Stake Consensus Specifications",
+    "lang": "Python"
+  },
+  {
+    "title": "tdlib/td",
+    "url": "https://github.com/tdlib/td",
+    "desc": "Cross-platform library for building Telegram clients",
+    "lang": "C++"
+  }
+]
