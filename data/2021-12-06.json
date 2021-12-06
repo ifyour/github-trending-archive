@@ -1,0 +1,150 @@
+[
+  {
+    "title": "haampie/libtree",
+    "url": "https://github.com/haampie/libtree",
+    "desc": "ldd as a tree with an option to bundle dependencies into a single folder",
+    "lang": "C++"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "desc": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iron-fish/ironfish",
+    "url": "https://github.com/iron-fish/ironfish",
+    "desc": "A novel cryptocurrency focused on privacy and accessibility.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Qovery/engine",
+    "url": "https://github.com/Qovery/engine",
+    "desc": "Deploy your apps on any Cloud provider in just a few seconds",
+    "lang": "Rust"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "desc": "Protocol and application framework for decentralized NFT minting, storefronts, and sales.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "desc": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "o3de/o3de",
+    "url": "https://github.com/o3de/o3de",
+    "desc": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+    "lang": "C++"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "raspberrypi/pico-examples",
+    "url": "https://github.com/raspberrypi/pico-examples",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "shervinea/mit-15-003-data-science-tools",
+    "url": "https://github.com/shervinea/mit-15-003-data-science-tools",
+    "desc": "Study guides for MIT's 15.003 Data Science Tools"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "PX4/PX4-Autopilot",
+    "url": "https://github.com/PX4/PX4-Autopilot",
+    "desc": "PX4 Autopilot Software",
+    "lang": "C++"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "itzg/docker-minecraft-server",
+    "url": "https://github.com/itzg/docker-minecraft-server",
+    "desc": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+    "lang": "Shell"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "lang": "C"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  }
+]
