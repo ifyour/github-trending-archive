@@ -1,0 +1,152 @@
+[
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss.com",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "kelseyhightower/nocode",
+    "url": "https://github.com/kelseyhightower/nocode",
+    "desc": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "hashicorp/raft",
+    "url": "https://github.com/hashicorp/raft",
+    "desc": "Golang implementation of the Raft consensus protocol",
+    "lang": "Go"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "desc": "🔍 Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "clap-rs/clap",
+    "url": "https://github.com/clap-rs/clap",
+    "desc": "A full featured, fast Command Line Argument Parser for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "laravel-filament/filament",
+    "url": "https://github.com/laravel-filament/filament",
+    "desc": "A collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans.",
+    "lang": "PHP"
+  },
+  {
+    "title": "runelite/runelite",
+    "url": "https://github.com/runelite/runelite",
+    "desc": "Open source Old School RuneScape client",
+    "lang": "Java"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "desc": "The Swift Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "desc": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "lang": "Java"
+  },
+  {
+    "title": "troyeguo/koodo-reader",
+    "url": "https://github.com/troyeguo/koodo-reader",
+    "desc": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iovisor/bcc",
+    "url": "https://github.com/iovisor/bcc",
+    "desc": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+    "lang": "C"
+  },
+  {
+    "title": "fyne-io/fyne",
+    "url": "https://github.com/fyne-io/fyne",
+    "desc": "Cross platform GUI in Go inspired by Material Design",
+    "lang": "Go"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "realm/realm-cocoa",
+    "url": "https://github.com/realm/realm-cocoa",
+    "desc": "Realm is a mobile database: a replacement for Core Data & SQLite",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "aws/aws-sdk-java-v2",
+    "url": "https://github.com/aws/aws-sdk-java-v2",
+    "desc": "The official AWS SDK for Java - Version 2",
+    "lang": "Java"
+  },
+  {
+    "title": "QuestPDF/QuestPDF",
+    "url": "https://github.com/QuestPDF/QuestPDF",
+    "desc": "QuestPDF is an open-source, modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API.",
+    "lang": "C#"
+  },
+  {
+    "title": "kenwheeler/slick",
+    "url": "https://github.com/kenwheeler/slick",
+    "desc": "the last carousel you'll ever need",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Scalable user load testing tool written in Python",
+    "lang": "Python"
+  }
+]
