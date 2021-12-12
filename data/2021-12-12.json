@@ -1,0 +1,151 @@
+[
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/logging-log4j2",
+    "url": "https://github.com/apache/logging-log4j2",
+    "desc": "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.",
+    "lang": "Java"
+  },
+  {
+    "title": "mbechler/marshalsec",
+    "url": "https://github.com/mbechler/marshalsec",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "welk1n/JNDI-Injection-Exploit",
+    "url": "https://github.com/welk1n/JNDI-Injection-Exploit",
+    "desc": "JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）",
+    "lang": "Java"
+  },
+  {
+    "title": "flame-engine/flame",
+    "url": "https://github.com/flame-engine/flame",
+    "desc": "A minimalist Flutter game engine",
+    "lang": "Dart"
+  },
+  {
+    "title": "laravel-filament/filament",
+    "url": "https://github.com/laravel-filament/filament",
+    "desc": "A collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans.",
+    "lang": "PHP"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "desc": "Implementation of the Filecoin protocol, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss.com",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "desc": "A terminal for a more modern age (formerly Terminus)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flix/flix",
+    "url": "https://github.com/flix/flix",
+    "desc": "The Flix Programming Language",
+    "lang": "Scala"
+  },
+  {
+    "title": "kubeedge/kubeedge",
+    "url": "https://github.com/kubeedge/kubeedge",
+    "desc": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/raft",
+    "url": "https://github.com/hashicorp/raft",
+    "desc": "Golang implementation of the Raft consensus protocol",
+    "lang": "Go"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "priyankavergadia/GCPSketchnote",
+    "url": "https://github.com/priyankavergadia/GCPSketchnote",
+    "desc": "If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format."
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "desc": "🔍 Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "keycloak/keycloak",
+    "url": "https://github.com/keycloak/keycloak",
+    "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+    "lang": "Java"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "lang": "Clojure"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "Oneflow-Inc/oneflow",
+    "url": "https://github.com/Oneflow-Inc/oneflow",
+    "desc": "OneFlow is a performance-centered and open-source deep learning framework.",
+    "lang": "C++"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SteveMacenski/slam_toolbox",
+    "url": "https://github.com/SteveMacenski/slam_toolbox",
+    "desc": "Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS",
+    "lang": "C++"
+  },
+  {
+    "title": "deepinsight/insightface",
+    "url": "https://github.com/deepinsight/insightface",
+    "desc": "State-of-the-art 2D and 3D Face Analysis Project",
+    "lang": "Python"
+  }
+]
