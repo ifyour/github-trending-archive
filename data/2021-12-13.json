@@ -1,0 +1,152 @@
+[
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "welk1n/JNDI-Injection-Exploit",
+    "url": "https://github.com/welk1n/JNDI-Injection-Exploit",
+    "desc": "JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/logging-log4j2",
+    "url": "https://github.com/apache/logging-log4j2",
+    "desc": "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.",
+    "lang": "Java"
+  },
+  {
+    "title": "veracode-research/rogue-jndi",
+    "url": "https://github.com/veracode-research/rogue-jndi",
+    "desc": "A malicious LDAP server for JNDI injection attacks",
+    "lang": "Java"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Java"
+  },
+  {
+    "title": "mbechler/marshalsec",
+    "url": "https://github.com/mbechler/marshalsec",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "HashLips/hashlips_art_engine",
+    "url": "https://github.com/HashLips/hashlips_art_engine",
+    "desc": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flame-engine/flame",
+    "url": "https://github.com/flame-engine/flame",
+    "desc": "A minimalist Flutter game engine",
+    "lang": "Dart"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "tsherif/space-shooter.c",
+    "url": "https://github.com/tsherif/space-shooter.c",
+    "desc": "A cross-platform, top-down 2D space shooter written in C using only system libraries.",
+    "lang": "C"
+  },
+  {
+    "title": "lunasec-io/lunasec",
+    "url": "https://github.com/lunasec-io/lunasec",
+    "desc": "LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "Photos App powered by Go and Google TensorFlow 🌈",
+    "lang": "Go"
+  },
+  {
+    "title": "kitao/pyxel",
+    "url": "https://github.com/kitao/pyxel",
+    "desc": "A retro game engine for Python",
+    "lang": "Rust"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "flix/flix",
+    "url": "https://github.com/flix/flix",
+    "desc": "The Flix Programming Language",
+    "lang": "Scala"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "The automation tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "lang": "Clojure"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "solana-labs/token-list",
+    "url": "https://github.com/solana-labs/token-list",
+    "desc": "The community maintained Solana token registry",
+    "lang": "Go"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  }
+]
