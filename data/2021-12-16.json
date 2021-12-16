@@ -1,0 +1,149 @@
+[
+  {
+    "title": "fullhunt/log4j-scan",
+    "url": "https://github.com/fullhunt/log4j-scan",
+    "desc": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
+    "lang": "Python"
+  },
+  {
+    "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "desc": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+    "lang": "HTML"
+  },
+  {
+    "title": "logpresso/CVE-2021-44228-Scanner",
+    "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
+    "desc": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+    "lang": "Java"
+  },
+  {
+    "title": "NCSC-NL/log4shell",
+    "url": "https://github.com/NCSC-NL/log4shell",
+    "desc": "Operational information regarding the vulnerability in the Log4j logging library."
+  },
+  {
+    "title": "mergebase/log4j-detector",
+    "url": "https://github.com/mergebase/log4j-detector",
+    "desc": "Detects vulnerable log4j versions on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!",
+    "lang": "Java"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "desc": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+    "lang": "Java"
+  },
+  {
+    "title": "hillu/local-log4j-vuln-scanner",
+    "url": "https://github.com/hillu/local-log4j-vuln-scanner",
+    "desc": "Simple local scanner for vulnerable log4j instances",
+    "lang": "Go"
+  },
+  {
+    "title": "solana-labs/spl-zk-token",
+    "url": "https://github.com/solana-labs/spl-zk-token",
+    "desc": "SPL Confidential Token",
+    "lang": "Rust"
+  },
+  {
+    "title": "ChendoChap/pOOBs4",
+    "url": "https://github.com/ChendoChap/pOOBs4",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonjza/log4jpwn",
+    "url": "https://github.com/leonjza/log4jpwn",
+    "desc": "log4j rce test environment and poc",
+    "lang": "Python"
+  },
+  {
+    "title": "alexandre-lavoie/python-log4rce",
+    "url": "https://github.com/alexandre-lavoie/python-log4rce",
+    "desc": "An All-In-One Pure Python PoC for CVE-2021-44228",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudera/cloudera-scripts-for-log4j",
+    "url": "https://github.com/cloudera/cloudera-scripts-for-log4j",
+    "desc": "Scripts for addressing log4j zero day security issue",
+    "lang": "Shell"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "corretto/hotpatch-for-apache-log4j2",
+    "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
+    "desc": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
+    "lang": "Java"
+  },
+  {
+    "title": "Diverto/nse-log4shell",
+    "url": "https://github.com/Diverto/nse-log4shell",
+    "desc": "Nmap NSE scripts to check against log4shell or LogJam vulnerabilities (CVE-2021-44228)",
+    "lang": "Lua"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Code for Data Engineer Zoomcamp course"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Neo23x0/log4shell-detector",
+    "url": "https://github.com/Neo23x0/log4shell-detector",
+    "desc": "Detector for Log4Shell exploitation attempts",
+    "lang": "Python"
+  },
+  {
+    "title": "inconvergent/weird",
+    "url": "https://github.com/inconvergent/weird",
+    "desc": "Generative art in Common Lisp",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ilmoi/awesome-solana-nfts",
+    "url": "https://github.com/ilmoi/awesome-solana-nfts",
+    "desc": "A curated list of Solana NFT protocols, repos & community tools"
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "desc": "A web framework for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "lunasec-io/lunasec",
+    "url": "https://github.com/lunasec-io/lunasec",
+    "desc": "LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "uberswe/golang-base-project",
+    "url": "https://github.com/uberswe/golang-base-project",
+    "desc": "A minimal Go project with user authentication ready out of the box. All frontend assets should be less than 100 kB on every page load.",
+    "lang": "Go"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  }
+]
