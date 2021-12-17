@@ -1,0 +1,150 @@
+[
+  {
+    "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "desc": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+    "lang": "HTML"
+  },
+  {
+    "title": "lunasec-io/lunasec",
+    "url": "https://github.com/lunasec-io/lunasec",
+    "desc": "LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fox-it/log4j-finder",
+    "url": "https://github.com/fox-it/log4j-finder",
+    "desc": "Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228 & CVE-2021-45046)",
+    "lang": "Python"
+  },
+  {
+    "title": "NCSC-NL/log4shell",
+    "url": "https://github.com/NCSC-NL/log4shell",
+    "desc": "Operational information regarding the vulnerability in the Log4j logging library.",
+    "lang": "Python"
+  },
+  {
+    "title": "atmosgames/SuperSimple2DKit",
+    "url": "https://github.com/atmosgames/SuperSimple2DKit",
+    "desc": "A simple kit meant to help jump start the creation of your 2D Unity game!",
+    "lang": "C#"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "desc": "The open-source Shopify alternative ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cisagov/log4j-affected-db",
+    "url": "https://github.com/cisagov/log4j-affected-db",
+    "desc": ""
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "desc": "mold: A Modern Linker",
+    "lang": "C++"
+  },
+  {
+    "title": "fullhunt/log4j-scan",
+    "url": "https://github.com/fullhunt/log4j-scan",
+    "desc": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
+    "lang": "Python"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "anchore/grype",
+    "url": "https://github.com/anchore/grype",
+    "desc": "A vulnerability scanner for container images and filesystems",
+    "lang": "Go"
+  },
+  {
+    "title": "github/codeql",
+    "url": "https://github.com/github/codeql",
+    "desc": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise",
+    "lang": "CodeQL"
+  },
+  {
+    "title": "ChendoChap/pOOBs4",
+    "url": "https://github.com/ChendoChap/pOOBs4",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "logpresso/CVE-2021-44228-Scanner",
+    "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
+    "desc": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+    "lang": "Java"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "corretto/hotpatch-for-apache-log4j2",
+    "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
+    "desc": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
+    "lang": "Java"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "anchore/syft",
+    "url": "https://github.com/anchore/syft",
+    "desc": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "Diverto/nse-log4shell",
+    "url": "https://github.com/Diverto/nse-log4shell",
+    "desc": "Nmap NSE scripts to check against log4shell or LogJam vulnerabilities (CVE-2021-44228)",
+    "lang": "Lua"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "jaredpalmer/formik",
+    "url": "https://github.com/jaredpalmer/formik",
+    "desc": "Build forms in React, without the tears 😭",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "realm/realm-cocoa",
+    "url": "https://github.com/realm/realm-cocoa",
+    "desc": "Realm is a mobile database: a replacement for Core Data & SQLite",
+    "lang": "Objective-C"
+  }
+]
