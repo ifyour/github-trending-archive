@@ -1,0 +1,151 @@
+[
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "desc": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+    "lang": "Java"
+  },
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "desc": "Ruby on Rails",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "cisagov/log4j-affected-db",
+    "url": "https://github.com/cisagov/log4j-affected-db",
+    "desc": "A community sourced list of log4j-affected software"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "desc": "mold: A Modern Linker",
+    "lang": "C++"
+  },
+  {
+    "title": "picocss/pico",
+    "url": "https://github.com/picocss/pico",
+    "desc": "Minimal CSS Framework for semantic HTML",
+    "lang": "CSS"
+  },
+  {
+    "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "desc": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+    "lang": "HTML"
+  },
+  {
+    "title": "Loopring/loopring-web-v2",
+    "url": "https://github.com/Loopring/loopring-web-v2",
+    "desc": "Web application version 2, update new UI design.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NCSC-NL/log4shell",
+    "url": "https://github.com/NCSC-NL/log4shell",
+    "desc": "Operational information regarding the vulnerability in the Log4j logging library.",
+    "lang": "Python"
+  },
+  {
+    "title": "hillu/local-log4j-vuln-scanner",
+    "url": "https://github.com/hillu/local-log4j-vuln-scanner",
+    "desc": "Simple local scanner for vulnerable log4j instances",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "0xsp-SRD/mortar",
+    "url": "https://github.com/0xsp-SRD/mortar",
+    "desc": "evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)",
+    "lang": "Pascal"
+  },
+  {
+    "title": "rubo77/log4j_checker_beta",
+    "url": "https://github.com/rubo77/log4j_checker_beta",
+    "desc": "a fast check, if your server could be vulnerable to CVE-2021-44228",
+    "lang": "Shell"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fullhunt/log4j-scan",
+    "url": "https://github.com/fullhunt/log4j-scan",
+    "desc": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "fox-it/log4j-finder",
+    "url": "https://github.com/fox-it/log4j-finder",
+    "desc": "Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228 & CVE-2021-45046)",
+    "lang": "Python"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "lang": "C++"
+  },
+  {
+    "title": "logpresso/CVE-2021-44228-Scanner",
+    "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
+    "desc": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+    "lang": "Java"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Yet another remote desktop software",
+    "lang": "Rust"
+  },
+  {
+    "title": "plasmicapp/plasmic",
+    "url": "https://github.com/plasmicapp/plasmic",
+    "desc": "Visually build pages and frontends, lightning-fast. Plug into your React codebase. Empower anyone to ship.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "minitorch/minitorch",
+    "url": "https://github.com/minitorch/minitorch",
+    "desc": "The full minitorch student suite.",
+    "lang": "Python"
+  },
+  {
+    "title": "mergebase/log4j-detector",
+    "url": "https://github.com/mergebase/log4j-detector",
+    "desc": "Scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!",
+    "lang": "Java"
+  },
+  {
+    "title": "snyk/snyk",
+    "url": "https://github.com/snyk/snyk",
+    "desc": "Snyk CLI scans and monitors your projects for security vulnerabilities.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SortableJS/Sortable",
+    "url": "https://github.com/SortableJS/Sortable",
+    "desc": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
+    "lang": "JavaScript"
+  }
+]
