@@ -1,0 +1,150 @@
+[
+  {
+    "title": "CERTCC/CVE-2021-44228_scanner",
+    "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
+    "desc": "Scanners for Jar files that may be vulnerable to CVE-2021-44228",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "signalapp/Signal-Calling-Service",
+    "url": "https://github.com/signalapp/Signal-Calling-Service",
+    "desc": "Forwards media from 1 group call device to N group call devices.",
+    "lang": "Rust"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "desc": "A Neovim config designed from scratch to be understandable",
+    "lang": "Lua"
+  },
+  {
+    "title": "aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "desc": "A monitor of resources",
+    "lang": "C++"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "desc": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/guava",
+    "url": "https://github.com/google/guava",
+    "desc": "Google core libraries for Java",
+    "lang": "Java"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "cisagov/log4j-affected-db",
+    "url": "https://github.com/cisagov/log4j-affected-db",
+    "desc": "A community sourced list of log4j-affected software"
+  },
+  {
+    "title": "jfrog/log4j-tools",
+    "url": "https://github.com/jfrog/log4j-tools",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fox-it/log4j-finder",
+    "url": "https://github.com/fox-it/log4j-finder",
+    "desc": "Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)",
+    "lang": "Python"
+  },
+  {
+    "title": "Loopring/loopring-web-v2",
+    "url": "https://github.com/Loopring/loopring-web-v2",
+    "desc": "Web application version 2, update new UI design.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "serverless-stack/serverless-stack",
+    "url": "https://github.com/serverless-stack/serverless-stack",
+    "desc": "💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps. Set breakpoints and test your functions locally.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LEGO/woof",
+    "url": "https://github.com/LEGO/woof",
+    "desc": "A pure Scala logging library with no reflection",
+    "lang": "Scala"
+  },
+  {
+    "title": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "desc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "lang": "Lua"
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "desc": "Bitburner Game",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript and CSS bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "zo0r/react-native-push-notification",
+    "url": "https://github.com/zo0r/react-native-push-notification",
+    "desc": "React Native Local and Remote Notifications",
+    "lang": "Java"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "desc": "mold: A Modern Linker",
+    "lang": "C++"
+  }
+]
