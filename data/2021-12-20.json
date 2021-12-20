@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Shopify/react-native-skia",
+    "url": "https://github.com/Shopify/react-native-skia",
+    "desc": "High-performance React Native Graphics using Skia",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "desc": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+    "lang": "Python"
+  },
+  {
+    "title": "proferosec/log4jScanner",
+    "url": "https://github.com/proferosec/log4jScanner",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "CERTCC/CVE-2021-44228_scanner",
+    "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
+    "desc": "Scanners for Jar files that may be vulnerable to CVE-2021-44228",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "desc": "Bitburner Game",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "desc": "A Neovim config designed from scratch to be understandable",
+    "lang": "Lua"
+  },
+  {
+    "title": "Revadike/epicgames-freebies-claimer",
+    "url": "https://github.com/Revadike/epicgames-freebies-claimer",
+    "desc": "Claim available free game promotions from the Epic Games Store.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "desc": "immudb - world’s fastest immutable database, built on a zero trust model",
+    "lang": "Go"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "Qualys/log4jscanwin",
+    "url": "https://github.com/Qualys/log4jscanwin",
+    "desc": "Log4j Vulnerability Scanner for Windows",
+    "lang": "C"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "DavidBuchanan314/ambiguous-png-packer",
+    "url": "https://github.com/DavidBuchanan314/ambiguous-png-packer",
+    "desc": "Craft PNG files that appear completely different in Apple software",
+    "lang": "Python"
+  },
+  {
+    "title": "jayendrapatil/kubernetes-exercises",
+    "url": "https://github.com/jayendrapatil/kubernetes-exercises",
+    "desc": "Collection covers kubernetes exercises categorized topics-wise and referred back to the individual Kubernetes certification exams."
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CollabCodeTech/backend-challenges",
+    "url": "https://github.com/CollabCodeTech/backend-challenges",
+    "desc": "A public list of open-source challenges from jobs around the world"
+  },
+  {
+    "title": "kuaifan/dootask",
+    "url": "https://github.com/kuaifan/dootask",
+    "desc": "DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。",
+    "lang": "PHP"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheOdinProject/css-exercises",
+    "url": "https://github.com/TheOdinProject/css-exercises",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "saic-mdal/lama",
+    "url": "https://github.com/saic-mdal/lama",
+    "desc": "🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows/macOS GUI based on Clash"
+  }
+]
