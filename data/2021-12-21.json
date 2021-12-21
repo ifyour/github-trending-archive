@@ -1,0 +1,148 @@
+[
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "desc": "A Neovim config designed from scratch to be understandable",
+    "lang": "Lua"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "Shopify/react-native-skia",
+    "url": "https://github.com/Shopify/react-native-skia",
+    "desc": "High-performance React Native Graphics using Skia",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Revadike/epicgames-freebies-claimer",
+    "url": "https://github.com/Revadike/epicgames-freebies-claimer",
+    "desc": "Claim available free game promotions from the Epic Games Store.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nolanlawson/fuite",
+    "url": "https://github.com/nolanlawson/fuite",
+    "desc": "A tool for finding memory leaks in web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "desc": "Bitburner Game",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "bottlesdevs/Bottles",
+    "url": "https://github.com/bottlesdevs/Bottles",
+    "desc": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "CollabCodeTech/backend-challenges",
+    "url": "https://github.com/CollabCodeTech/backend-challenges",
+    "desc": "A public list of open-source challenges from jobs around the world"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "wez/wezterm",
+    "url": "https://github.com/wez/wezterm",
+    "desc": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Stephan-S/FS22_AutoDrive",
+    "url": "https://github.com/Stephan-S/FS22_AutoDrive",
+    "desc": "FS22 version of the AutoDrive mod",
+    "lang": "Lua"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "desc": "A cross-platform, OpenGL terminal emulator.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "desc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "lang": "Lua"
+  },
+  {
+    "title": "tokio-rs/console",
+    "url": "https://github.com/tokio-rs/console",
+    "desc": "a debugger for async rust!",
+    "lang": "Rust"
+  }
+]
