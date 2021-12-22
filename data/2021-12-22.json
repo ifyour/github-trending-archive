@@ -1,0 +1,149 @@
+[
+  {
+    "title": "nolanlawson/fuite",
+    "url": "https://github.com/nolanlawson/fuite",
+    "desc": "A tool for finding memory leaks in web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "proferosec/log4jScanner",
+    "url": "https://github.com/proferosec/log4jScanner",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "kuaifan/dootask",
+    "url": "https://github.com/kuaifan/dootask",
+    "desc": "DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。",
+    "lang": "PHP"
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "desc": "Bitburner Game",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "desc": "immudb - world’s fastest immutable database, built on a zero trust model",
+    "lang": "Go"
+  },
+  {
+    "title": "Shopify/react-native-skia",
+    "url": "https://github.com/Shopify/react-native-skia",
+    "desc": "High-performance React Native Graphics using Skia",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CollabCodeTech/backend-challenges",
+    "url": "https://github.com/CollabCodeTech/backend-challenges",
+    "desc": "A public list of open-source challenges from jobs around the world"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "buildspace/buildspace-dao-starter",
+    "url": "https://github.com/buildspace/buildspace-dao-starter",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaredpalmer/formik",
+    "url": "https://github.com/jaredpalmer/formik",
+    "desc": "Build forms in React, without the tears 😭",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "desc": "Google Research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zyedidia/generic",
+    "url": "https://github.com/zyedidia/generic",
+    "desc": "An experimental collection of generic data structures written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "desc": "Arduino core for the ESP32",
+    "lang": "C"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "samuelmtimbo/unit",
+    "url": "https://github.com/samuelmtimbo/unit",
+    "desc": "Next Generation Visual Programming Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/accompanist",
+    "url": "https://github.com/google/accompanist",
+    "desc": "A collection of extension libraries for Jetpack Compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Revadike/epicgames-freebies-claimer",
+    "url": "https://github.com/Revadike/epicgames-freebies-claimer",
+    "desc": "Claim available free game promotions from the Epic Games Store.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skylot/jadx",
+    "url": "https://github.com/skylot/jadx",
+    "desc": "Dex to Java decompiler",
+    "lang": "Java"
+  },
+  {
+    "title": "palantir/log4j-sniffer",
+    "url": "https://github.com/palantir/log4j-sniffer",
+    "desc": "A tool that scans archives to check for vulnerable log4j versions",
+    "lang": "Go"
+  },
+  {
+    "title": "Netflix/pollyjs",
+    "url": "https://github.com/Netflix/pollyjs",
+    "desc": "Record, Replay, and Stub HTTP Interactions.",
+    "lang": "JavaScript"
+  }
+]
