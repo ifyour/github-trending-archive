@@ -1,0 +1,149 @@
+[
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "desc": "immudb - world’s fastest immutable database, built on a zero trust model",
+    "lang": "Go"
+  },
+  {
+    "title": "bytedance/btrace",
+    "url": "https://github.com/bytedance/btrace",
+    "desc": "🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "vitest-dev/vitest",
+    "url": "https://github.com/vitest-dev/vitest",
+    "desc": "A Vite-native test framework. It's fast!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EmbarkStudios/kajiya",
+    "url": "https://github.com/EmbarkStudios/kajiya",
+    "desc": "💡 Experimental real-time global illumination renderer 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "desc": "A Neovim config designed from scratch to be understandable",
+    "lang": "Lua"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!"
+  },
+  {
+    "title": "dabeaz/dataklasses",
+    "url": "https://github.com/dabeaz/dataklasses",
+    "desc": "A different spin on dataclasses.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "desc": "List of Development YouTube Channels"
+  },
+  {
+    "title": "Maelstromage/Log4jSherlock",
+    "url": "https://github.com/Maelstromage/Log4jSherlock",
+    "desc": "",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "Rari-Capital/solmate",
+    "url": "https://github.com/Rari-Capital/solmate",
+    "desc": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/incubator-shenyu",
+    "url": "https://github.com/apache/incubator-shenyu",
+    "desc": "ShenYu is High-Performance Java API Gateway.",
+    "lang": "Java"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "chrislusf/seaweedfs",
+    "url": "https://github.com/chrislusf/seaweedfs",
+    "desc": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+    "lang": "Go"
+  },
+  {
+    "title": "phoboslab/qoi",
+    "url": "https://github.com/phoboslab/qoi",
+    "desc": "The “Quite OK Image Format” for fast, lossless image compression",
+    "lang": "C"
+  },
+  {
+    "title": "gakonst/foundry",
+    "url": "https://github.com/gakonst/foundry",
+    "desc": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "lang": "Rust"
+  }
+]
