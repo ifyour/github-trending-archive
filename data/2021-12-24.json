@@ -1,0 +1,148 @@
+[
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "The automation tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "phoboslab/qoi",
+    "url": "https://github.com/phoboslab/qoi",
+    "desc": "The “Quite OK Image Format” for fast, lossless image compression",
+    "lang": "C"
+  },
+  {
+    "title": "kuaifan/dootask",
+    "url": "https://github.com/kuaifan/dootask",
+    "desc": "DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。",
+    "lang": "PHP"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "desc": "immudb - world’s fastest immutable database, built on a zero trust model",
+    "lang": "Go"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "samuelmtimbo/unit",
+    "url": "https://github.com/samuelmtimbo/unit",
+    "desc": "Next Generation Visual Programming Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CompVis/latent-diffusion",
+    "url": "https://github.com/CompVis/latent-diffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "louisfb01/best_AI_papers_2021",
+    "url": "https://github.com/louisfb01/best_AI_papers_2021",
+    "desc": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress]"
+  },
+  {
+    "title": "microsoft/api-guidelines",
+    "url": "https://github.com/microsoft/api-guidelines",
+    "desc": "Microsoft REST API Guidelines"
+  },
+  {
+    "title": "ethereum/ethereum-org-website",
+    "url": "https://github.com/ethereum/ethereum-org-website",
+    "desc": "Ethereum.org is a primary online resource for the Ethereum community.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "ornicar/lila",
+    "url": "https://github.com/ornicar/lila",
+    "desc": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "lang": "Scala"
+  },
+  {
+    "title": "dabeaz/dataklasses",
+    "url": "https://github.com/dabeaz/dataklasses",
+    "desc": "A different spin on dataclasses.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "desc": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+    "lang": "Python"
+  },
+  {
+    "title": "EmbarkStudios/kajiya",
+    "url": "https://github.com/EmbarkStudios/kajiya",
+    "desc": "💡 Experimental real-time global illumination renderer 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "bozbez/win-capture-audio",
+    "url": "https://github.com/bozbez/win-capture-audio",
+    "desc": "An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",
+    "lang": "C++"
+  },
+  {
+    "title": "vitest-dev/vitest",
+    "url": "https://github.com/vitest-dev/vitest",
+    "desc": "A Vite-native test framework. It's fast!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "desc": "World's fastest and most advanced password recovery utility",
+    "lang": "C"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  }
+]
