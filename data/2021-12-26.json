@@ -1,0 +1,149 @@
+[
+  {
+    "title": "cisagov/log4j-scanner",
+    "url": "https://github.com/cisagov/log4j-scanner",
+    "desc": "log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.",
+    "lang": "Java"
+  },
+  {
+    "title": "open-mmlab/mmrazor",
+    "url": "https://github.com/open-mmlab/mmrazor",
+    "desc": "OpenMMLab Model Compression Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "sxyu/svox2",
+    "url": "https://github.com/sxyu/svox2",
+    "desc": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
+    "lang": "Python"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "The automation tower defense game",
+    "lang": "Java"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "h3r2tic/cornell-mcray",
+    "url": "https://github.com/h3r2tic/cornell-mcray",
+    "desc": "🕹 A quick'n'dirty game sample using kajiya, physx-rs, and dolly",
+    "lang": "Rust"
+  },
+  {
+    "title": "mehdihadeli/awesome-go-education",
+    "url": "https://github.com/mehdihadeli/awesome-go-education",
+    "desc": "A curated list of awesome articles and resources for learning and practicing Go and its related technologies.",
+    "lang": "Go"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "desc": "Create desktop apps using Go and Web Technologies.",
+    "lang": "Go"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "wader/fq",
+    "url": "https://github.com/wader/fq",
+    "desc": "jq for binary formats",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bozbez/win-capture-audio",
+    "url": "https://github.com/bozbez/win-capture-audio",
+    "desc": "An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",
+    "lang": "C++"
+  },
+  {
+    "title": "Courseplay/courseplay",
+    "url": "https://github.com/Courseplay/courseplay",
+    "desc": "Courseplay for Farming Simulator 2019",
+    "lang": "Lua"
+  },
+  {
+    "title": "freeCodeCamp/LearnToCodeRPG",
+    "url": "https://github.com/freeCodeCamp/LearnToCodeRPG",
+    "desc": "A visual novel video game where you learn to code and get a dev job 🎯",
+    "lang": "Ren'Py"
+  },
+  {
+    "title": "phoboslab/qoi",
+    "url": "https://github.com/phoboslab/qoi",
+    "desc": "The “Quite OK Image Format” for fast, lossless image compression",
+    "lang": "C"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "louisfb01/best_AI_papers_2021",
+    "url": "https://github.com/louisfb01/best_AI_papers_2021",
+    "desc": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress]"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ornicar/lila",
+    "url": "https://github.com/ornicar/lila",
+    "desc": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "lang": "Scala"
+  },
+  {
+    "title": "DimensionDev/Maskbook",
+    "url": "https://github.com/DimensionDev/Maskbook",
+    "desc": "The portal to the new, open Internet. ([I:b])",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "triton-inference-server/server",
+    "url": "https://github.com/triton-inference-server/server",
+    "desc": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "lang": "C++"
+  }
+]
