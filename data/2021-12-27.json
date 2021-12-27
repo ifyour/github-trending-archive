@@ -1,0 +1,147 @@
+[
+  {
+    "title": "mkrl/misbrands",
+    "url": "https://github.com/mkrl/misbrands",
+    "desc": "The world's most hated IT stickers"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "zeldaret/oot",
+    "url": "https://github.com/zeldaret/oot",
+    "desc": "Decompilation of The Legend of Zelda: Ocarina of Time",
+    "lang": "C"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "teslamotors/light-show",
+    "url": "https://github.com/teslamotors/light-show",
+    "desc": "Tesla Light Show",
+    "lang": "Python"
+  },
+  {
+    "title": "alesimula/wsa_pacman",
+    "url": "https://github.com/alesimula/wsa_pacman",
+    "desc": "A GUI package manager and package installer for Windows Subsystem for Android (WSA)",
+    "lang": "Dart"
+  },
+  {
+    "title": "Courseplay/Courseplay_FS22",
+    "url": "https://github.com/Courseplay/Courseplay_FS22",
+    "desc": "Courseplay for Farming Simulator 2022",
+    "lang": "Lua"
+  },
+  {
+    "title": "cisagov/log4j-scanner",
+    "url": "https://github.com/cisagov/log4j-scanner",
+    "desc": "log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.",
+    "lang": "Java"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "desc": "A repository to index and organize the latest machine learning courses found on YouTube."
+  },
+  {
+    "title": "R2Northstar/Northstar",
+    "url": "https://github.com/R2Northstar/Northstar",
+    "desc": "Repo for packaged Northstar releases and the wiki"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "R2Northstar/NorthstarMods",
+    "url": "https://github.com/R2Northstar/NorthstarMods",
+    "desc": "Mods used for hosting Titanfall 2 custom servers, requires the northstar launcher to use",
+    "lang": "Squirrel"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/LearnToCodeRPG",
+    "url": "https://github.com/freeCodeCamp/LearnToCodeRPG",
+    "desc": "A visual novel video game where you learn to code and get a dev job 🎯",
+    "lang": "Ren'Py"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JustArchiNET/ArchiSteamFarm",
+    "url": "https://github.com/JustArchiNET/ArchiSteamFarm",
+    "desc": "C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.",
+    "lang": "C#"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "lang": "Clojure"
+  },
+  {
+    "title": "yuliskov/SmartTubeNext",
+    "url": "https://github.com/yuliskov/SmartTubeNext",
+    "desc": "Ad free app for watching tube videos on Android TV boxes",
+    "lang": "Java"
+  }
+]
