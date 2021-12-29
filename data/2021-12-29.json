@@ -1,0 +1,149 @@
+[
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "widevinedump/WV-AMZN-4K-RIPPER",
+    "url": "https://github.com/widevinedump/WV-AMZN-4K-RIPPER",
+    "desc": "Tool To download Amazon 4k SDR HDR 1080, CDM IS Not Included",
+    "lang": "Python"
+  },
+  {
+    "title": "crater-invoice/crater",
+    "url": "https://github.com/crater-invoice/crater",
+    "desc": "Open Source Invoicing Solution for Individuals & Businesses",
+    "lang": "PHP"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ValdikSS/GoodbyeDPI",
+    "url": "https://github.com/ValdikSS/GoodbyeDPI",
+    "desc": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+    "lang": "C"
+  },
+  {
+    "title": "Yamato-Security/WELA",
+    "url": "https://github.com/Yamato-Security/WELA",
+    "desc": "WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "minosproject/minos2",
+    "url": "https://github.com/minosproject/minos2",
+    "desc": "Minos2 is a micro-kernel OS for ARMv8-a",
+    "lang": "C"
+  },
+  {
+    "title": "sxyu/svox2",
+    "url": "https://github.com/sxyu/svox2",
+    "desc": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
+    "lang": "Python"
+  },
+  {
+    "title": "teslamotors/light-show",
+    "url": "https://github.com/teslamotors/light-show",
+    "desc": "Tesla Light Show",
+    "lang": "Python"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "desc": "A javaagent framework",
+    "lang": "Java"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mkrl/misbrands",
+    "url": "https://github.com/mkrl/misbrands",
+    "desc": "The world's most hated IT stickers"
+  },
+  {
+    "title": "solana-labs/token-list",
+    "url": "https://github.com/solana-labs/token-list",
+    "desc": "The community maintained Solana token registry",
+    "lang": "Go"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "widevinedump/Netflix-4K-Script",
+    "url": "https://github.com/widevinedump/Netflix-4K-Script",
+    "desc": "Tool to download Netflix in 4k",
+    "lang": "Python"
+  },
+  {
+    "title": "widevinedump/L3-Dumper",
+    "url": "https://github.com/widevinedump/L3-Dumper",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/p3c",
+    "url": "https://github.com/alibaba/p3c",
+    "desc": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "desc": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "lang": "Rust"
+  },
+  {
+    "title": "GSD6338/XmasTree",
+    "url": "https://github.com/GSD6338/XmasTree",
+    "desc": "Computational Xmas Tree lights!",
+    "lang": "JupyterNotebook"
+  }
+]
