@@ -1,0 +1,100 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "🛸 Open source API development ecosystem https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "desc": "Web 3.0 React Solidity Blockchain Application",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "teivah/100-go-mistakes",
+    "url": "https://github.com/teivah/100-go-mistakes",
+    "desc": "Source code of the 100 Go Mistakes book",
+    "lang": "Go"
+  },
+  {
+    "title": "google/python-fire",
+    "url": "https://github.com/google/python-fire",
+    "desc": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "lang": "Python"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Code for Data Engineer Zoomcamp course"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3 UI Library made by Element team",
+    "lang": "Vue"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (December 2021)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rockerBOO/awesome-neovim",
+    "url": "https://github.com/rockerBOO/awesome-neovim",
+    "desc": "Collections of awesome neovim plugins."
+  },
+  {
+    "title": "CleverRaven/Cataclysm-DDA",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "desc": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  }
+]
