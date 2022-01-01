@@ -1,0 +1,144 @@
+[
+  {
+    "title": "bytedance/btrace",
+    "url": "https://github.com/bytedance/btrace",
+    "desc": "🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "google/log4jscanner",
+    "url": "https://github.com/google/log4jscanner",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Code for Data Engineer Zoomcamp course"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "google/python-fire",
+    "url": "https://github.com/google/python-fire",
+    "desc": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "desc": "A javaagent framework",
+    "lang": "Java"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "url": "https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "desc": "AZ-204: Developing solutions for Microsoft Azure",
+    "lang": "C#"
+  },
+  {
+    "title": "dfir-iris/iris-web",
+    "url": "https://github.com/dfir-iris/iris-web",
+    "desc": "Incident Response collaborative platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CleverRaven/Cataclysm-DDA",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "desc": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "lang": "C++"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3 UI Library made by Element team",
+    "lang": "Vue"
+  },
+  {
+    "title": "Mas0nShi/typoraCracker",
+    "url": "https://github.com/Mas0nShi/typoraCracker",
+    "desc": "A extract & decryption and pack & encryption tools for typora.",
+    "lang": "Python"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/gvisor",
+    "url": "https://github.com/google/gvisor",
+    "desc": "Application Kernel for Containers",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hibiken/asynq",
+    "url": "https://github.com/hibiken/asynq",
+    "desc": "Asynq: simple, reliable, and efficient distributed task queue in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/formily",
+    "url": "https://github.com/alibaba/formily",
+    "desc": "Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "ververica/flink-cdc-connectors",
+    "url": "https://github.com/ververica/flink-cdc-connectors",
+    "desc": "Change Data Capture (CDC) Connectors for Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a free analytics DBMS for big data",
+    "lang": "C++"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  }
+]
