@@ -1,0 +1,149 @@
+[
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "lang": "Java"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 Open source API development ecosystem https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "bellard/quickjs",
+    "url": "https://github.com/bellard/quickjs",
+    "desc": "Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.",
+    "lang": "C"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "desc": "Web 3.0 React Solidity Blockchain Application",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "desc": "Chrome extension to return youtube dislikes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Kaustubh-Natuskar/moreThanFAANGM",
+    "url": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM",
+    "desc": "This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) & good start-ups."
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Code for Data Engineer Zoomcamp course"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "exelban/stats",
+    "url": "https://github.com/exelban/stats",
+    "desc": "macOS system monitor in your menu bar",
+    "lang": "Swift"
+  },
+  {
+    "title": "alibaba/BladeDISC",
+    "url": "https://github.com/alibaba/BladeDISC",
+    "desc": "BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.",
+    "lang": "C++"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "desc": "A javaagent framework",
+    "lang": "Java"
+  },
+  {
+    "title": "linebender/druid",
+    "url": "https://github.com/linebender/druid",
+    "desc": "A data-first Rust-native UI design toolkit.",
+    "lang": "Rust"
+  },
+  {
+    "title": "GoogleContainerTools/distroless",
+    "url": "https://github.com/GoogleContainerTools/distroless",
+    "desc": "🥑 Language focused docker images, minus the operating system.",
+    "lang": "Starlark"
+  },
+  {
+    "title": "google/python-fire",
+    "url": "https://github.com/google/python-fire",
+    "desc": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "lang": "Python"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "desc": "Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+    "lang": "Elixir"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "desc": "Telegram Desktop messaging app",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/formily",
+    "url": "https://github.com/alibaba/formily",
+    "desc": "Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3",
+    "lang": "TypeScript"
+  }
+]
