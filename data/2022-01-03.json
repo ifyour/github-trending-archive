@@ -1,0 +1,147 @@
+[
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "lang": "Java"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",
+    "lang": "Shell"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "surge-synthesizer/monique-monosynth",
+    "url": "https://github.com/surge-synthesizer/monique-monosynth",
+    "desc": "Monique monosynth",
+    "lang": "C++"
+  },
+  {
+    "title": "deepklarity/jupyter-text2code",
+    "url": "https://github.com/deepklarity/jupyter-text2code",
+    "desc": "A proof-of-concept jupyter extension which converts english queries into relevant python code",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dariubs/GoBooks",
+    "url": "https://github.com/dariubs/GoBooks",
+    "desc": "List of Golang books"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "desc": "Web 3.0 React Solidity Blockchain Application",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "clap-rs/clap",
+    "url": "https://github.com/clap-rs/clap",
+    "desc": "A full featured, fast Command Line Argument Parser for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "desc": "📚 Community guides for open source creators",
+    "lang": "HTML"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "desc": "A Collection of Flutter and Dart Tips and Tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "ccrisan/motioneyeos",
+    "url": "https://github.com/ccrisan/motioneyeos",
+    "desc": "A Video Surveillance OS For Single-board Computers",
+    "lang": "Makefile"
+  },
+  {
+    "title": "kivy/kivy",
+    "url": "https://github.com/kivy/kivy",
+    "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "lang": "Python"
+  },
+  {
+    "title": "betaflight/betaflight",
+    "url": "https://github.com/betaflight/betaflight",
+    "desc": "Open Source Flight Controller Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "fikrikarim/companies-with-successful-pivot",
+    "url": "https://github.com/fikrikarim/companies-with-successful-pivot",
+    "desc": "List of startups/companies that had successful pivots"
+  },
+  {
+    "title": "Kaustubh-Natuskar/moreThanFAANGM",
+    "url": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM",
+    "desc": "This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) & good start-ups."
+  },
+  {
+    "title": "bkaradzic/bgfx",
+    "url": "https://github.com/bkaradzic/bgfx",
+    "desc": "Cross-platform, graphics API agnostic, Bring Your Own Engine/Framework style rendering library.",
+    "lang": "C++"
+  },
+  {
+    "title": "hku-mars/r3live",
+    "url": "https://github.com/hku-mars/r3live",
+    "desc": "A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package",
+    "lang": "C++"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  }
+]
