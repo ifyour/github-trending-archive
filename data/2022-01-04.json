@@ -1,0 +1,148 @@
+[
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common programming languages",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/log4jscanner",
+    "url": "https://github.com/google/log4jscanner",
+    "desc": "A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.",
+    "lang": "Go"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "dariubs/GoBooks",
+    "url": "https://github.com/dariubs/GoBooks",
+    "desc": "List of Golang books"
+  },
+  {
+    "title": "Rari-Capital/solmate",
+    "url": "https://github.com/Rari-Capital/solmate",
+    "desc": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "Go"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "desc": "📚 Community guides for open source creators",
+    "lang": "HTML"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Bugswriter/notflix",
+    "url": "https://github.com/Bugswriter/notflix",
+    "desc": "Notflix is a shell script to search and stream torrent.",
+    "lang": "Shell"
+  },
+  {
+    "title": "bkaradzic/bgfx",
+    "url": "https://github.com/bkaradzic/bgfx",
+    "desc": "Cross-platform, graphics API agnostic, Bring Your Own Engine/Framework style rendering library.",
+    "lang": "C++"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",
+    "lang": "Shell"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "kivy/kivy",
+    "url": "https://github.com/kivy/kivy",
+    "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "lang": "Python"
+  },
+  {
+    "title": "praydog/REFramework",
+    "url": "https://github.com/praydog/REFramework",
+    "desc": "Scripting platform, modding framework and VR support for all RE Engine games",
+    "lang": "C++"
+  },
+  {
+    "title": "Jackett/Jackett",
+    "url": "https://github.com/Jackett/Jackett",
+    "desc": "API Support for your favorite torrent trackers",
+    "lang": "C#"
+  },
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kallaway/100-days-of-code",
+    "url": "https://github.com/kallaway/100-days-of-code",
+    "desc": "Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)"
+  },
+  {
+    "title": "betaflight/betaflight",
+    "url": "https://github.com/betaflight/betaflight",
+    "desc": "Open Source Flight Controller Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "desc": "Web 3.0 React Solidity Blockchain Application",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mdecrevoisier/Windows-auditing-mindmap",
+    "url": "https://github.com/mdecrevoisier/Windows-auditing-mindmap",
+    "desc": "Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files."
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "desc": "Bitburner Game",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nerdyrodent/VQGAN-CLIP",
+    "url": "https://github.com/nerdyrodent/VQGAN-CLIP",
+    "desc": "Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  }
+]
