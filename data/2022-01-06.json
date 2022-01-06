@@ -1,0 +1,148 @@
+[
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hku-mars/r3live",
+    "url": "https://github.com/hku-mars/r3live",
+    "desc": "A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package",
+    "lang": "C++"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "desc": "Your window into the Elastic Stack",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tkellogg/dura",
+    "url": "https://github.com/tkellogg/dura",
+    "desc": "You shouldn't ever lose your work if you're using Git",
+    "lang": "Rust"
+  },
+  {
+    "title": "jonathandata1/pegasus_spyware",
+    "url": "https://github.com/jonathandata1/pegasus_spyware",
+    "desc": "decompiled pegasus_spyware",
+    "lang": "Smali"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "desc": "Statistical Rethinking course winter 2022"
+  },
+  {
+    "title": "AstraZeneca/awesome-explainable-graph-reasoning",
+    "url": "https://github.com/AstraZeneca/awesome-explainable-graph-reasoning",
+    "desc": "A collection of research papers and software related to explainability in graph machine learning."
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common programming languages",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/CodeAnalysis",
+    "url": "https://github.com/Tencent/CodeAnalysis",
+    "desc": "Static Code Analysis",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes/autoscaler",
+    "url": "https://github.com/kubernetes/autoscaler",
+    "desc": "Autoscaling components for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "lang": "Java"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "lang": "Java"
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "desc": "Universal dependency update tool that fits into your workflows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps."
+  },
+  {
+    "title": "CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
+    "desc": "This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio",
+    "lang": "Python"
+  },
+  {
+    "title": "datafuselabs/openraft",
+    "url": "https://github.com/datafuselabs/openraft",
+    "desc": "rust raft with improvements",
+    "lang": "Rust"
+  },
+  {
+    "title": "Bugswriter/notflix",
+    "url": "https://github.com/Bugswriter/notflix",
+    "desc": "Notflix is a shell script to search and stream torrent.",
+    "lang": "Shell"
+  },
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "desc": "CockroachDB - the open source, cloud-native distributed SQL database.",
+    "lang": "Go"
+  },
+  {
+    "title": "containers/podman",
+    "url": "https://github.com/containers/podman",
+    "desc": "Podman: A tool for managing OCI containers and pods.",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "project-error/npwd",
+    "url": "https://github.com/project-error/npwd",
+    "desc": "New-Phone-Who-Dis (NPWD) is a FiveM phone resource written entirely in TypeScript and React.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "0xperp/defi-derivatives",
+    "url": "https://github.com/0xperp/defi-derivatives",
+    "desc": "A hopefully comprehensive guide to the defi derivative landscape"
+  },
+  {
+    "title": "gravitl/netmaker",
+    "url": "https://github.com/gravitl/netmaker",
+    "desc": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",
+    "lang": "Go"
+  }
+]
