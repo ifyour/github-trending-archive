@@ -1,0 +1,150 @@
+[
+  {
+    "title": "jonathandata1/pegasus_spyware",
+    "url": "https://github.com/jonathandata1/pegasus_spyware",
+    "desc": "decompiled pegasus_spyware",
+    "lang": "Smali"
+  },
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/CodeAnalysis",
+    "url": "https://github.com/Tencent/CodeAnalysis",
+    "desc": "Static Code Analysis",
+    "lang": "Python"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "rapiz1/rathole",
+    "url": "https://github.com/rapiz1/rathole",
+    "desc": "A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Schneegans/Burn-My-Windows",
+    "url": "https://github.com/Schneegans/Burn-My-Windows",
+    "desc": "🔥 Disintegrate your apps with style.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps."
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common programming languages",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PyGithub/PyGithub",
+    "url": "https://github.com/PyGithub/PyGithub",
+    "desc": "Typed interactions with the GitHub API v3",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DioxusLabs/dioxus",
+    "url": "https://github.com/DioxusLabs/dioxus",
+    "desc": "Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",
+    "lang": "Rust"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "desc": "Desktop environment in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "cert-ee/cuckoo3",
+    "url": "https://github.com/cert-ee/cuckoo3",
+    "desc": "Cuckoo 3 is a Python 3 open source automated malware analysis system.",
+    "lang": "Python"
+  },
+  {
+    "title": "Saul-Mirone/milkdown",
+    "url": "https://github.com/Saul-Mirone/milkdown",
+    "desc": "🍼 Plugin driven WYSIWYG markdown editor framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "popcorn-official/popcorn-desktop",
+    "url": "https://github.com/popcorn-official/popcorn-desktop",
+    "desc": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/vscode-dev-containers",
+    "url": "https://github.com/microsoft/vscode-dev-containers",
+    "desc": "A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces",
+    "lang": "Shell"
+  },
+  {
+    "title": "liuguitao/AVP-SLAM-PLUS",
+    "url": "https://github.com/liuguitao/AVP-SLAM-PLUS",
+    "desc": "An implementation of AVP-SLAM and some new contributions",
+    "lang": "C++"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "desc": "Statistical Rethinking course winter 2022"
+  }
+]
