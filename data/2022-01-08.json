@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DioxusLabs/dioxus",
+    "url": "https://github.com/DioxusLabs/dioxus",
+    "desc": "Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",
+    "lang": "Rust"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "lang": "HCL"
+  },
+  {
+    "title": "Tencent/CodeAnalysis",
+    "url": "https://github.com/Tencent/CodeAnalysis",
+    "desc": "Static Code Analysis",
+    "lang": "Python"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps."
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "desc": "A tool for writing better scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coder/code-server",
+    "url": "https://github.com/coder/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "arainho/awesome-api-security",
+    "url": "https://github.com/arainho/awesome-api-security",
+    "desc": "A collection of awesome API Security tools and resources."
+  },
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "up9inc/mizu",
+    "url": "https://github.com/up9inc/mizu",
+    "desc": "API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "desc": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "panjf2000/ants",
+    "url": "https://github.com/panjf2000/ants",
+    "desc": "🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "DefinitelyTyped/DefinitelyTyped",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "desc": "The repository for high quality TypeScript type definitions.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gravitl/netmaker",
+    "url": "https://github.com/gravitl/netmaker",
+    "desc": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",
+    "lang": "Go"
+  },
+  {
+    "title": "SeleniumHQ/selenium",
+    "url": "https://github.com/SeleniumHQ/selenium",
+    "desc": "A browser automation framework and ecosystem.",
+    "lang": "Java"
+  },
+  {
+    "title": "linkedin/datahub",
+    "url": "https://github.com/linkedin/datahub",
+    "desc": "The Metadata Platform for the Modern Data Stack",
+    "lang": "Java"
+  }
+]
