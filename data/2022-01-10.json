@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "desc": "A curated list of awesome warez and piracy links",
+    "lang": "HTML"
+  },
+  {
+    "title": "megadose/holehe",
+    "url": "https://github.com/megadose/holehe",
+    "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "VGVentures/slide_puzzle",
+    "url": "https://github.com/VGVentures/slide_puzzle",
+    "desc": "",
+    "lang": "Dart"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "lynn/hello-wordl",
+    "url": "https://github.com/lynn/hello-wordl",
+    "desc": "Wordle clone you can play forever",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix",
+    "desc": "A collection of modern/faster/saner alternatives to common unix commands."
+  },
+  {
+    "title": "faridrashidi/kaggle-solutions",
+    "url": "https://github.com/faridrashidi/kaggle-solutions",
+    "desc": "🏅 Collection of Kaggle Solutions and Ideas 🏅",
+    "lang": "HTML"
+  },
+  {
+    "title": "solo-io/bumblebee",
+    "url": "https://github.com/solo-io/bumblebee",
+    "desc": "Get eBPF programs running from the cloud to the kernel in 1 line of bash",
+    "lang": "C"
+  },
+  {
+    "title": "MichMich/MagicMirror",
+    "url": "https://github.com/MichMich/MagicMirror",
+    "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "desc": "Awesome tips for Laravel"
+  },
+  {
+    "title": "BookStackApp/BookStack",
+    "url": "https://github.com/BookStackApp/BookStack",
+    "desc": "A platform to create documentation/wiki content built with PHP & Laravel",
+    "lang": "PHP"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "lang": "Java"
+  },
+  {
+    "title": "octokatherine/word-master",
+    "url": "https://github.com/octokatherine/word-master",
+    "desc": "A Mastermind-like word guessing game",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kgrzybek/modular-monolith-with-ddd",
+    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "lang": "C#"
+  },
+  {
+    "title": "popcorn-official/popcorn-desktop",
+    "url": "https://github.com/popcorn-official/popcorn-desktop",
+    "desc": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LingDong-/shan-shui-inf",
+    "url": "https://github.com/LingDong-/shan-shui-inf",
+    "desc": "Procedurally generated Chinese landscape painting.",
+    "lang": "HTML"
+  },
+  {
+    "title": "coder/code-server",
+    "url": "https://github.com/coder/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "desc": "A tool for writing better scripts",
+    "lang": "JavaScript"
+  }
+]
