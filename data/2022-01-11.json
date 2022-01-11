@@ -1,0 +1,150 @@
+[
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "xmu-xiaoma666/External-Attention-pytorch",
+    "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "desc": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "lang": "Python"
+  },
+  {
+    "title": "FastVM/minivm",
+    "url": "https://github.com/FastVM/minivm",
+    "desc": "A VM That is Dynamic and Fast",
+    "lang": "C"
+  },
+  {
+    "title": "megadose/holehe",
+    "url": "https://github.com/megadose/holehe",
+    "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "lang": "Python"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "desc": "Chrome extension to return youtube dislikes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faridrashidi/kaggle-solutions",
+    "url": "https://github.com/faridrashidi/kaggle-solutions",
+    "desc": "🏅 Collection of Kaggle Solutions and Ideas 🏅",
+    "lang": "HTML"
+  },
+  {
+    "title": "paralax/awesome-cybersecurity-internships",
+    "url": "https://github.com/paralax/awesome-cybersecurity-internships",
+    "desc": "a list of cybersecurity internships"
+  },
+  {
+    "title": "Klipper3d/klipper",
+    "url": "https://github.com/Klipper3d/klipper",
+    "desc": "Klipper is a 3d-printer firmware",
+    "lang": "C"
+  },
+  {
+    "title": "VGVentures/slide_puzzle",
+    "url": "https://github.com/VGVentures/slide_puzzle",
+    "desc": "",
+    "lang": "Dart"
+  },
+  {
+    "title": "solo-io/bumblebee",
+    "url": "https://github.com/solo-io/bumblebee",
+    "desc": "Get eBPF programs running from the cloud to the kernel in 1 line of bash",
+    "lang": "C"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "desc": "A cat(1) clone with wings.",
+    "lang": "Rust"
+  },
+  {
+    "title": "jekyll/minima",
+    "url": "https://github.com/jekyll/minima",
+    "desc": "Minima is a one-size-fits-all Jekyll theme for writers.",
+    "lang": "SCSS"
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "desc": "Telegram Desktop messaging app",
+    "lang": "C++"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "emilk/egui",
+    "url": "https://github.com/emilk/egui",
+    "desc": "egui: an easy-to-use immediate mode GUI in pure Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "input-output-hk/cardano-node",
+    "url": "https://github.com/input-output-hk/cardano-node",
+    "desc": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "lang": "Haskell"
+  }
+]
