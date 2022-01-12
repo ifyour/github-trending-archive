@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Marak/colors.js",
+    "url": "https://github.com/Marak/colors.js",
+    "desc": "get colors in your node.js console",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Code for Data Engineer Zoomcamp course",
+    "lang": "HCL"
+  },
+  {
+    "title": "jamesstringerparsec/Easy-GPU-PV",
+    "url": "https://github.com/jamesstringerparsec/Easy-GPU-PV",
+    "desc": "A Project dedicated to making GPU Partitioning on Windows easier!",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "VGVentures/slide_puzzle",
+    "url": "https://github.com/VGVentures/slide_puzzle",
+    "desc": "",
+    "lang": "Dart"
+  },
+  {
+    "title": "megadose/holehe",
+    "url": "https://github.com/megadose/holehe",
+    "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "StarRocks/starrocks",
+    "url": "https://github.com/StarRocks/starrocks",
+    "desc": "StarRocks is a next-gen sub-second MPP database for full analysis scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "nolanlawson/fuite",
+    "url": "https://github.com/nolanlawson/fuite",
+    "desc": "A tool for finding memory leaks in web apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tharsis/evmos",
+    "url": "https://github.com/tharsis/evmos",
+    "desc": "Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.",
+    "lang": "Go"
+  },
+  {
+    "title": "Juanpe/SkeletonView",
+    "url": "https://github.com/Juanpe/SkeletonView",
+    "desc": "☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting",
+    "lang": "Swift"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "graphql/graphiql",
+    "url": "https://github.com/graphql/graphiql",
+    "desc": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RPCS3/rpcs3",
+    "url": "https://github.com/RPCS3/rpcs3",
+    "desc": "PS3 emulator/debugger",
+    "lang": "C++"
+  },
+  {
+    "title": "oclif/oclif",
+    "url": "https://github.com/oclif/oclif",
+    "desc": "Node.js Open CLI Framework. Built with 💜 by Heroku.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "desc": "OpenVINO™ Toolkit repository",
+    "lang": "C++"
+  },
+  {
+    "title": "0xsp-SRD/mortar",
+    "url": "https://github.com/0xsp-SRD/mortar",
+    "desc": "evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)",
+    "lang": "Pascal"
+  },
+  {
+    "title": "OWASP/DevSecOpsGuideline",
+    "url": "https://github.com/OWASP/DevSecOpsGuideline",
+    "desc": "The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline."
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "desc": "不知名大佬备份",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PhilJay/MPAndroidChart",
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "desc": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+    "lang": "Java"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.",
+    "lang": "C++"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  }
+]
