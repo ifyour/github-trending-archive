@@ -1,0 +1,150 @@
+[
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "desc": "",
+    "lang": "Haskell"
+  },
+  {
+    "title": "Marak/colors.js",
+    "url": "https://github.com/Marak/colors.js",
+    "desc": "get colors in your node.js console",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BoltzmannEntropy/interviews.ai",
+    "url": "https://github.com/BoltzmannEntropy/interviews.ai",
+    "desc": "It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well."
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WordPress/wordpress-develop",
+    "url": "https://github.com/WordPress/wordpress-develop",
+    "desc": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "lang": "PHP"
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "desc": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "lang": "Go"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Code for Data Engineer Zoomcamp course",
+    "lang": "HCL"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "desc": "不知名大佬备份",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "jamesstringerparsec/Easy-GPU-PV",
+    "url": "https://github.com/jamesstringerparsec/Easy-GPU-PV",
+    "desc": "A Project dedicated to making GPU Partitioning on Windows easier!",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "desc": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "lang": "C++"
+  },
+  {
+    "title": "ScarredMonk/SysmonSimulator",
+    "url": "https://github.com/ScarredMonk/SysmonSimulator",
+    "desc": "Sysmon event simulation utility which can be used to simulate the attacks to generate the Sysmon Event logs for testing the EDR detections and correlation rules by Blue teams.",
+    "lang": "C"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-synapse-analytics-end2end",
+    "url": "https://github.com/Azure/azure-synapse-analytics-end2end",
+    "desc": "Azure Analytics End to End with Azure Synapse - Deployment Accelerator",
+    "lang": "Bicep"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "desc": "OpenVINO™ Toolkit repository",
+    "lang": "C++"
+  },
+  {
+    "title": "skylot/jadx",
+    "url": "https://github.com/skylot/jadx",
+    "desc": "Dex to Java decompiler",
+    "lang": "Java"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "desc": "Public interface definitions of Google APIs.",
+    "lang": "Starlark"
+  },
+  {
+    "title": "doctrine/orm",
+    "url": "https://github.com/doctrine/orm",
+    "desc": "Doctrine Object Relational Mapper (ORM)",
+    "lang": "PHP"
+  },
+  {
+    "title": "HandBrake/HandBrake",
+    "url": "https://github.com/HandBrake/HandBrake",
+    "desc": "HandBrake's main development repository",
+    "lang": "C"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "karmada-io/karmada",
+    "url": "https://github.com/karmada-io/karmada",
+    "desc": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+    "lang": "Go"
+  },
+  {
+    "title": "trufflesuite/ganache-ui",
+    "url": "https://github.com/trufflesuite/ganache-ui",
+    "desc": "Personal blockchain for Ethereum development",
+    "lang": "JavaScript"
+  }
+]
