@@ -1,0 +1,151 @@
+[
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "desc": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "lang": "C++"
+  },
+  {
+    "title": "skylot/jadx",
+    "url": "https://github.com/skylot/jadx",
+    "desc": "Dex to Java decompiler",
+    "lang": "Java"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "windowtoolbox/powershell-windows-toolbox",
+    "url": "https://github.com/windowtoolbox/powershell-windows-toolbox",
+    "desc": ""
+  },
+  {
+    "title": "windowjs/windowjs",
+    "url": "https://github.com/windowjs/windowjs",
+    "desc": "Window.js is an open-source Javascript runtime for desktop graphics programming.",
+    "lang": "C++"
+  },
+  {
+    "title": "woocommerce/woocommerce",
+    "url": "https://github.com/woocommerce/woocommerce",
+    "desc": "An open source eCommerce plugin for WordPress.",
+    "lang": "PHP"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "desc": "Build fast websites, faster. 🚀🧑‍🚀✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Mogli12/AIVehicleExtension",
+    "url": "https://github.com/Mogli12/AIVehicleExtension",
+    "desc": "AIVehicleExtension",
+    "lang": "Lua"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "sxyu/svox2",
+    "url": "https://github.com/sxyu/svox2",
+    "desc": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
+    "lang": "Python"
+  },
+  {
+    "title": "pycaret/pycaret",
+    "url": "https://github.com/pycaret/pycaret",
+    "desc": "An open-source, low-code machine learning library in Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file manager that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "desc": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "lang": "Python"
+  },
+  {
+    "title": "Juanpe/SkeletonView",
+    "url": "https://github.com/Juanpe/SkeletonView",
+    "desc": "☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting",
+    "lang": "Swift"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Open-source low-code framework for building React-based web applications and internal tools 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "desc": "不知名大佬备份",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "provectus/kafka-ui",
+    "url": "https://github.com/provectus/kafka-ui",
+    "desc": "Open-Source Web GUI for Apache Kafka Management",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "helm/charts",
+    "url": "https://github.com/helm/charts",
+    "desc": "⚠️(OBSOLETE) Curated applications for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pulumi/examples",
+    "url": "https://github.com/pulumi/examples",
+    "desc": "Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build data apps in Python",
+    "lang": "Python"
+  }
+]
