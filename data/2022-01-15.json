@@ -1,0 +1,148 @@
+[
+  {
+    "title": "windowjs/windowjs",
+    "url": "https://github.com/windowjs/windowjs",
+    "desc": "Window.js is an open-source Javascript runtime for desktop graphics programming.",
+    "lang": "C++"
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "desc": "Build fast websites, faster. 🚀🧑‍🚀✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "desc": "Cut and paste your surroundings using AR",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sottlmarek/DevSecOps",
+    "url": "https://github.com/sottlmarek/DevSecOps",
+    "desc": "Ultimate DevSecOps library"
+  },
+  {
+    "title": "crater-invoice/crater",
+    "url": "https://github.com/crater-invoice/crater",
+    "desc": "Open Source Invoicing Solution for Individuals & Businesses",
+    "lang": "PHP"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2022"
+  },
+  {
+    "title": "windowtoolbox/powershell-windows-toolbox",
+    "url": "https://github.com/windowtoolbox/powershell-windows-toolbox",
+    "desc": ""
+  },
+  {
+    "title": "commit-live-students/Data_Science_Masters_Program_2021",
+    "url": "https://github.com/commit-live-students/Data_Science_Masters_Program_2021",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "itcharge/LeetCode-Py",
+    "url": "https://github.com/itcharge/LeetCode-Py",
+    "desc": "⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。",
+    "lang": "Python"
+  },
+  {
+    "title": "ethereumbook/ethereumbook",
+    "url": "https://github.com/ethereumbook/ethereumbook",
+    "desc": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "desc": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "lang": "C++"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "desc": "",
+    "lang": "Haskell"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file manager that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "prabhatsharma/zinc",
+    "url": "https://github.com/prabhatsharma/zinc",
+    "desc": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "lang": "Vue"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ColorlibHQ/AdminLTE",
+    "url": "https://github.com/ColorlibHQ/AdminLTE",
+    "desc": "AdminLTE - Free admin dashboard template based on Bootstrap 4",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SortableJS/Sortable",
+    "url": "https://github.com/SortableJS/Sortable",
+    "desc": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "desc": "不知名大佬备份",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "desc": "Latex code for making neural networks diagrams",
+    "lang": "TeX"
+  }
+]
