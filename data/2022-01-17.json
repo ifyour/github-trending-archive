@@ -1,0 +1,146 @@
+[
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file manager that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "windowjs/windowjs",
+    "url": "https://github.com/windowjs/windowjs",
+    "desc": "Window.js is an open-source Javascript runtime for desktop graphics programming.",
+    "lang": "C++"
+  },
+  {
+    "title": "alyssaxuu/omni",
+    "url": "https://github.com/alyssaxuu/omni",
+    "desc": "The all-in-one tool to supercharge your productivity ⌨️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "sottlmarek/DevSecOps",
+    "url": "https://github.com/sottlmarek/DevSecOps",
+    "desc": "Ultimate DevSecOps library"
+  },
+  {
+    "title": "Matthew-J-Spencer/Ultimate-2D-Controller",
+    "url": "https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller",
+    "desc": "A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc",
+    "lang": "C#"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sergiomarotco/Network-segmentation-cheat-sheet",
+    "url": "https://github.com/sergiomarotco/Network-segmentation-cheat-sheet",
+    "desc": "Best practices for segmentation of the corporate network of any company"
+  },
+  {
+    "title": "github/roadmap",
+    "url": "https://github.com/github/roadmap",
+    "desc": "GitHub public roadmap"
+  },
+  {
+    "title": "hannahcode/wordle",
+    "url": "https://github.com/hannahcode/wordle",
+    "desc": "A clone of the popular game Wordle made using React, Typescript, and Tailwind",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "rufuspollock/awesome-crypto-critique",
+    "url": "https://github.com/rufuspollock/awesome-crypto-critique",
+    "desc": "Awesome critique of crypto / web3. Curated list of high quality critique plus background. Seek to be as constructive as possible."
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "desc": "Latex code for making neural networks diagrams",
+    "lang": "TeX"
+  },
+  {
+    "title": "aseprite/aseprite",
+    "url": "https://github.com/aseprite/aseprite",
+    "desc": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "lang": "C++"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "desc": "very currency",
+    "lang": "C++"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2022"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "vim/vim",
+    "url": "https://github.com/vim/vim",
+    "desc": "The official Vim repository",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "AvrahamRaviv/Deep-Learning-in-Hebrew",
+    "url": "https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew",
+    "desc": "ספר מלא בעברית בנושאים של למידת מכונה ולמידה עמוקה"
+  }
+]
