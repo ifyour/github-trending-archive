@@ -1,0 +1,148 @@
+[
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "TandoorRecipes/recipes",
+    "url": "https://github.com/TandoorRecipes/recipes",
+    "desc": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+    "lang": "HTML"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "A modern file manager that pushes the boundaries of the platform.",
+    "lang": "C#"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "opsdisk/the_cyber_plumbers_handbook",
+    "url": "https://github.com/opsdisk/the_cyber_plumbers_handbook",
+    "desc": "Free copy of The Cyber Plumber's Handbook"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "sergiomarotco/Network-segmentation-cheat-sheet",
+    "url": "https://github.com/sergiomarotco/Network-segmentation-cheat-sheet",
+    "desc": "Best practices for segmentation of the corporate network of any company"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "Matthew-J-Spencer/Ultimate-2D-Controller",
+    "url": "https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller",
+    "desc": "A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc",
+    "lang": "C#"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "PCSX2/pcsx2",
+    "url": "https://github.com/PCSX2/pcsx2",
+    "desc": "PCSX2 - The Playstation 2 Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aseprite/aseprite",
+    "url": "https://github.com/aseprite/aseprite",
+    "desc": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "lang": "C++"
+  },
+  {
+    "title": "hannahcode/wordle",
+    "url": "https://github.com/hannahcode/wordle",
+    "desc": "A clone of the popular game Wordle made using React, Typescript, and Tailwind",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "revoxhere/duino-coin",
+    "url": "https://github.com/revoxhere/duino-coin",
+    "desc": "ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  }
+]
