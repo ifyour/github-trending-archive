@@ -1,0 +1,150 @@
+[
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Code for Data Engineer Zoomcamp course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "XProger/OpenLara",
+    "url": "https://github.com/XProger/OpenLara",
+    "desc": "Classic Tomb Raider open-source engine",
+    "lang": "C"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "desc": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NVlabs/tiny-cuda-nn",
+    "url": "https://github.com/NVlabs/tiny-cuda-nn",
+    "desc": "Lightning fast & tiny C++/CUDA neural network framework",
+    "lang": "C++"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "desc": "Statistical Rethinking course winter 2022",
+    "lang": "R"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "hannahcode/wordle",
+    "url": "https://github.com/hannahcode/wordle",
+    "desc": "A clone of the popular game Wordle made using React, Typescript, and Tailwind",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "opsdisk/the_cyber_plumbers_handbook",
+    "url": "https://github.com/opsdisk/the_cyber_plumbers_handbook",
+    "desc": "Free copy of The Cyber Plumber's Handbook"
+  },
+  {
+    "title": "aseprite/aseprite",
+    "url": "https://github.com/aseprite/aseprite",
+    "desc": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "lang": "C++"
+  },
+  {
+    "title": "mumble-voip/mumble",
+    "url": "https://github.com/mumble-voip/mumble",
+    "desc": "Mumble is an open-source, low-latency, high quality voice chat software.",
+    "lang": "C++"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "desc": "Open Source Computer Vision Library",
+    "lang": "C++"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "desc": "The open-source Shopify alternative ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum-optimism/optimism",
+    "url": "https://github.com/ethereum-optimism/optimism",
+    "desc": "The Optimism monorepo",
+    "lang": "Go"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/core",
+    "url": "https://github.com/vuejs/core",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  }
+]
