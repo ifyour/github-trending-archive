@@ -1,0 +1,150 @@
+[
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "desc": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IBAX-io/go-ibax",
+    "url": "https://github.com/IBAX-io/go-ibax",
+    "desc": "An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",
+    "lang": "Go"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Go"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lima-vm/lima",
+    "url": "https://github.com/lima-vm/lima",
+    "desc": "Linux virtual machines, typically on macOS, for running containerd",
+    "lang": "Go"
+  },
+  {
+    "title": "jacob-ebey/remix-ecommerce",
+    "url": "https://github.com/jacob-ebey/remix-ecommerce",
+    "desc": "WIP",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iaddis/SNESticle",
+    "url": "https://github.com/iaddis/SNESticle",
+    "desc": "SNESticle source code (circa ~2004)",
+    "lang": "C"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "remzi-arpacidusseau/ostep-code",
+    "url": "https://github.com/remzi-arpacidusseau/ostep-code",
+    "desc": "Code from various chapters in OSTEP (http://www.ostep.org)",
+    "lang": "C"
+  },
+  {
+    "title": "ngneat/falso",
+    "url": "https://github.com/ngneat/falso",
+    "desc": "All the Fake Data for All Your Real Needs 🙂",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "XProger/OpenLara",
+    "url": "https://github.com/XProger/OpenLara",
+    "desc": "Classic Tomb Raider open-source engine",
+    "lang": "C"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Code for Data Engineer Zoomcamp course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "FaqT0tum/Orbion_Space_Mouse",
+    "url": "https://github.com/FaqT0tum/Orbion_Space_Mouse",
+    "desc": "ORBION the OpenSource Space Mouse 3D",
+    "lang": "C++"
+  },
+  {
+    "title": "LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "desc": ""
+  },
+  {
+    "title": "armosec/kubescape",
+    "url": "https://github.com/armosec/kubescape",
+    "desc": "Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",
+    "lang": "Go"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "sinwindie/OSINT",
+    "url": "https://github.com/sinwindie/OSINT",
+    "desc": "Collections of tools and methods created to aid in OSINT collection",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  }
+]
