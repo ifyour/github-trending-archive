@@ -1,0 +1,150 @@
+[
+  {
+    "title": "khuedoan/homelab",
+    "url": "https://github.com/khuedoan/homelab",
+    "desc": "My self-hosting infrastructure, fully automated from empty disk to operating services",
+    "lang": "Python"
+  },
+  {
+    "title": "flxzt/rnote",
+    "url": "https://github.com/flxzt/rnote",
+    "desc": "A simple drawing application to create handwritten notes.",
+    "lang": "Rust"
+  },
+  {
+    "title": "veler/DevToys",
+    "url": "https://github.com/veler/DevToys",
+    "desc": "A Swiss Army knife for developers.",
+    "lang": "C#"
+  },
+  {
+    "title": "vercel/platforms",
+    "url": "https://github.com/vercel/platforms",
+    "desc": "A template for site builders and low-code tools.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "akutz/go-generics-the-hard-way",
+    "url": "https://github.com/akutz/go-generics-the-hard-way",
+    "desc": "A hands-on approach to getting started with Go generics.",
+    "lang": "Go"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "desc": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "lang": "Python"
+  },
+  {
+    "title": "cybersecsi/HOUDINI",
+    "url": "https://github.com/cybersecsi/HOUDINI",
+    "desc": "Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trufflesuite/ganache",
+    "url": "https://github.com/trufflesuite/ganache",
+    "desc": "A tool for creating a local blockchain for fast Ethereum development.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "fireship-io/fireship.io",
+    "url": "https://github.com/fireship-io/fireship.io",
+    "desc": "Build and ship your app faster https://fireship.io",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "lang": "Shell"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Klipper3d/klipper",
+    "url": "https://github.com/Klipper3d/klipper",
+    "desc": "Klipper is a 3d-printer firmware",
+    "lang": "C"
+  },
+  {
+    "title": "fireship-io/nft-art-generator",
+    "url": "https://github.com/fireship-io/nft-art-generator",
+    "desc": "A simple randomized NFT art generator",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skyzh/type-exercise-in-rust",
+    "url": "https://github.com/skyzh/type-exercise-in-rust",
+    "desc": "Learn Rust black magics by implementing basic types in database systems",
+    "lang": "Rust"
+  }
+]
