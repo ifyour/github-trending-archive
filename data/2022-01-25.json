@@ -1,0 +1,149 @@
+[
+  {
+    "title": "veler/DevToys",
+    "url": "https://github.com/veler/DevToys",
+    "desc": "A Swiss Army knife for developers.",
+    "lang": "C#"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "khuedoan/homelab",
+    "url": "https://github.com/khuedoan/homelab",
+    "desc": "My self-hosting infrastructure, fully automated from empty disk to operating services",
+    "lang": "Python"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "desc": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "lang": "Shell"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "desc": "Desktop environment in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IBAX-io/go-ibax",
+    "url": "https://github.com/IBAX-io/go-ibax",
+    "desc": "An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",
+    "lang": "Go"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "akutz/go-generics-the-hard-way",
+    "url": "https://github.com/akutz/go-generics-the-hard-way",
+    "desc": "A hands-on approach to getting started with Go generics.",
+    "lang": "Go"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "desc": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "chiru-labs/ERC721A",
+    "url": "https://github.com/chiru-labs/ERC721A",
+    "desc": "https://ERC721A.org",
+    "lang": "Solidity"
+  },
+  {
+    "title": "jonmatthis/freemocap",
+    "url": "https://github.com/jonmatthis/freemocap",
+    "desc": "Free like Freedom",
+    "lang": "Python"
+  },
+  {
+    "title": "tokio-rs/axum",
+    "url": "https://github.com/tokio-rs/axum",
+    "desc": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "lang": "Rust"
+  },
+  {
+    "title": "flxzt/rnote",
+    "url": "https://github.com/flxzt/rnote",
+    "desc": "A simple drawing application to create handwritten notes.",
+    "lang": "Rust"
+  },
+  {
+    "title": "mljar/mercury",
+    "url": "https://github.com/mljar/mercury",
+    "desc": "Mercury: easily convert Python notebook to web app and share with others",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "radareorg/radare2",
+    "url": "https://github.com/radareorg/radare2",
+    "desc": "UNIX-like reverse engineering framework and command-line toolset",
+    "lang": "C"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "fireship-io/fireship.io",
+    "url": "https://github.com/fireship-io/fireship.io",
+    "desc": "Build and ship your app faster https://fireship.io",
+    "lang": "TypeScript"
+  }
+]
