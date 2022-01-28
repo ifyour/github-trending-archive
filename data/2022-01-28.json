@@ -1,0 +1,148 @@
+[
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "nccgroup/nmap-nse-vulnerability-scripts",
+    "url": "https://github.com/nccgroup/nmap-nse-vulnerability-scripts",
+    "desc": "NMAP Vulnerability Scanning Scripts",
+    "lang": "Lua"
+  },
+  {
+    "title": "mszoek/airyx",
+    "url": "https://github.com/mszoek/airyx",
+    "desc": "A BSD-based OS project that aims to provide an experience like and some compatibility with macOS",
+    "lang": "C"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "Idov31/FunctionStomping",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "desc": "A new shellcode injection technique. Given as C++ header or standalone Rust program.",
+    "lang": "C++"
+  },
+  {
+    "title": "IBAX-io/go-ibax",
+    "url": "https://github.com/IBAX-io/go-ibax",
+    "desc": "An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",
+    "lang": "Go"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "kunal-kushwaha/DevOps-Bootcamp",
+    "url": "https://github.com/kunal-kushwaha/DevOps-Bootcamp",
+    "desc": "This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom."
+  },
+  {
+    "title": "jkarlin/topics",
+    "url": "https://github.com/jkarlin/topics",
+    "desc": "The Topics API"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "postgres-ai/database-lab-engine",
+    "url": "https://github.com/postgres-ai/database-lab-engine",
+    "desc": "Thin PostgreSQL clones. DLE provides blazing fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.",
+    "lang": "Go"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "desc": "深度学习经典、新论文逐段精读"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "Algorithms implemented in Javascript for beginners, following best practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ariga/atlas",
+    "url": "https://github.com/ariga/atlas",
+    "desc": "A database toolkit",
+    "lang": "Go"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "desc": "Desktop environment in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "desc": "The Prometheus monitoring system and time series database.",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/incubator-shenyu",
+    "url": "https://github.com/apache/incubator-shenyu",
+    "desc": "ShenYu is High-Performance Java API Gateway.",
+    "lang": "Java"
+  },
+  {
+    "title": "BishopFox/sliver",
+    "url": "https://github.com/BishopFox/sliver",
+    "desc": "Adversary Emulation Framework",
+    "lang": "Go"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "pankod/refine",
+    "url": "https://github.com/pankod/refine",
+    "desc": "refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "slundberg/shap",
+    "url": "https://github.com/slundberg/shap",
+    "desc": "A game theoretic approach to explain the output of any machine learning model.",
+    "lang": "JupyterNotebook"
+  }
+]
