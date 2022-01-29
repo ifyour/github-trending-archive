@@ -1,0 +1,150 @@
+[
+  {
+    "title": "arthepsy/CVE-2021-4034",
+    "url": "https://github.com/arthepsy/CVE-2021-4034",
+    "desc": "PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)",
+    "lang": "C"
+  },
+  {
+    "title": "berdav/CVE-2021-4034",
+    "url": "https://github.com/berdav/CVE-2021-4034",
+    "desc": "CVE-2021-4034 1day",
+    "lang": "C"
+  },
+  {
+    "title": "nccgroup/nmap-nse-vulnerability-scripts",
+    "url": "https://github.com/nccgroup/nmap-nse-vulnerability-scripts",
+    "desc": "NMAP Vulnerability Scanning Scripts",
+    "lang": "Lua"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "IBAX-io/go-ibax",
+    "url": "https://github.com/IBAX-io/go-ibax",
+    "desc": "An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",
+    "lang": "Go"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "rancher-sandbox/rancher-desktop",
+    "url": "https://github.com/rancher-sandbox/rancher-desktop",
+    "desc": "Kubernetes and container management to the desktop",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "Ajaxy/telegram-tt",
+    "url": "https://github.com/Ajaxy/telegram-tt",
+    "desc": "Telegram Web Z, GPL v3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "roottusk/vapi",
+    "url": "https://github.com/roottusk/vapi",
+    "desc": "vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.",
+    "lang": "HTML"
+  },
+  {
+    "title": "sinwindie/OSINT",
+    "url": "https://github.com/sinwindie/OSINT",
+    "desc": "Collections of tools and methods created to aid in OSINT collection",
+    "lang": "Python"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "desc": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hlldz/RefleXXion",
+    "url": "https://github.com/hlldz/RefleXXion",
+    "desc": "RefleXXion is a utility designed to aid in bypassing user-mode hooks utilised by AV/EPP/EDR etc. In order to bypass the user-mode hooks, it first collects the syscall numbers of the NtOpenFile, NtCreateSection, NtOpenSection and NtMapViewOfSection found in the LdrpThunkSignature array.",
+    "lang": "C++"
+  },
+  {
+    "title": "jkarlin/topics",
+    "url": "https://github.com/jkarlin/topics",
+    "desc": "The Topics API"
+  },
+  {
+    "title": "bitnami-labs/sealed-secrets",
+    "url": "https://github.com/bitnami-labs/sealed-secrets",
+    "desc": "A Kubernetes controller and tool for one-way encrypted Secrets",
+    "lang": "Go"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "desc": "Desktop environment in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xamarin/xamarin-forms-samples",
+    "url": "https://github.com/xamarin/xamarin-forms-samples",
+    "desc": "Sample apps built using the Xamarin.Forms framework",
+    "lang": "C#"
+  },
+  {
+    "title": "PX4/PX4-Autopilot",
+    "url": "https://github.com/PX4/PX4-Autopilot",
+    "desc": "PX4 Autopilot Software",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/terraformer",
+    "url": "https://github.com/GoogleCloudPlatform/terraformer",
+    "desc": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "lang": "Go"
+  },
+  {
+    "title": "mmp/pbrt-v3",
+    "url": "https://github.com/mmp/pbrt-v3",
+    "desc": "Source code for pbrt, the renderer described in the third edition of Physically Based Rendering: From Theory To Implementation, by Matt Pharr, Wenzel Jakob, and Greg Humphreys.",
+    "lang": "C++"
+  }
+]
