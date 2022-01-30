@@ -1,0 +1,150 @@
+[
+  {
+    "title": "nextui-org/nextui",
+    "url": "https://github.com/nextui-org/nextui",
+    "desc": "🚀 Beautiful, fast and modern React UI library.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ly4k/PwnKit",
+    "url": "https://github.com/ly4k/PwnKit",
+    "desc": "Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation",
+    "lang": "C"
+  },
+  {
+    "title": "serverless/serverless",
+    "url": "https://github.com/serverless/serverless",
+    "desc": "⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "jonathandata1/2022_beijing",
+    "url": "https://github.com/jonathandata1/2022_beijing",
+    "desc": "Decompiled 2022 Beijing iOS & Android Apps",
+    "lang": "HTML"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "KaLendsi/CVE-2022-21882",
+    "url": "https://github.com/KaLendsi/CVE-2022-21882",
+    "desc": "win32k LPE",
+    "lang": "C++"
+  },
+  {
+    "title": "berdav/CVE-2021-4034",
+    "url": "https://github.com/berdav/CVE-2021-4034",
+    "desc": "CVE-2021-4034 1day",
+    "lang": "C"
+  },
+  {
+    "title": "tree-sitter/tree-sitter",
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "desc": "An incremental parsing system for programming tools",
+    "lang": "Rust"
+  },
+  {
+    "title": "arthepsy/CVE-2021-4034",
+    "url": "https://github.com/arthepsy/CVE-2021-4034",
+    "desc": "PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)",
+    "lang": "C"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "desc": "Desktop environment in the browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Ayrx/CVE-2021-4034",
+    "url": "https://github.com/Ayrx/CVE-2021-4034",
+    "desc": "Exploit for CVE-2021-4034",
+    "lang": "C"
+  },
+  {
+    "title": "bitnami-labs/sealed-secrets",
+    "url": "https://github.com/bitnami-labs/sealed-secrets",
+    "desc": "A Kubernetes controller and tool for one-way encrypted Secrets",
+    "lang": "Go"
+  },
+  {
+    "title": "Shabinder/SpotiFlyer",
+    "url": "https://github.com/Shabinder/SpotiFlyer",
+    "desc": "Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud. NOTE: BEING REWRITTEN, SO STAY TUNED.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "SBoudrias/Inquirer.js",
+    "url": "https://github.com/SBoudrias/Inquirer.js",
+    "desc": "A collection of common interactive command line user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "emilk/egui",
+    "url": "https://github.com/emilk/egui",
+    "desc": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+    "lang": "Rust"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "redcanaryco/atomic-red-team",
+    "url": "https://github.com/redcanaryco/atomic-red-team",
+    "desc": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "lang": "Go"
+  },
+  {
+    "title": "FaridSafi/react-native-gifted-chat",
+    "url": "https://github.com/FaridSafi/react-native-gifted-chat",
+    "desc": "💬 The most complete chat UI for React Native",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "michiganrobotics/rob501",
+    "url": "https://github.com/michiganrobotics/rob501",
+    "desc": "Mathematics for Robotics"
+  }
+]
