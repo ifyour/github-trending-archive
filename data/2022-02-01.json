@@ -1,0 +1,148 @@
+[
+  {
+    "title": "AppFlowy-IO/appflowy",
+    "url": "https://github.com/AppFlowy-IO/appflowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "nextui-org/nextui",
+    "url": "https://github.com/nextui-org/nextui",
+    "desc": "🚀 Beautiful, fast and modern React UI library.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ciderapp/Cider",
+    "url": "https://github.com/ciderapp/Cider",
+    "desc": "Project Cider. A new look into listening and enjoying Apple Music in style and performance. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "lang": "Python"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "HashLips/hashlips_art_engine",
+    "url": "https://github.com/HashLips/hashlips_art_engine",
+    "desc": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IBAX-io/go-ibax",
+    "url": "https://github.com/IBAX-io/go-ibax",
+    "desc": "An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",
+    "lang": "Go"
+  },
+  {
+    "title": "emilk/egui",
+    "url": "https://github.com/emilk/egui",
+    "desc": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+    "lang": "Rust"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "uutils/coreutils",
+    "url": "https://github.com/uutils/coreutils",
+    "desc": "Cross-platform Rust rewrite of the GNU coreutils",
+    "lang": "Rust"
+  },
+  {
+    "title": "ryanoasis/nerd-fonts",
+    "url": "https://github.com/ryanoasis/nerd-fonts",
+    "desc": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
+    "lang": "CSS"
+  },
+  {
+    "title": "KaLendsi/CVE-2022-21882",
+    "url": "https://github.com/KaLendsi/CVE-2022-21882",
+    "desc": "win32k LPE",
+    "lang": "C++"
+  },
+  {
+    "title": "kdrag0n/safetynet-fix",
+    "url": "https://github.com/kdrag0n/safetynet-fix",
+    "desc": "Google SafetyNet attestation workarounds for Magisk",
+    "lang": "C++"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Go",
+    "url": "https://github.com/TheAlgorithms/Go",
+    "desc": "Algorithms implemented in Go for beginners, following best practices.",
+    "lang": "Go"
+  },
+  {
+    "title": "pi-hole/docker-pi-hole",
+    "url": "https://github.com/pi-hole/docker-pi-hole",
+    "desc": "Pi-hole in a docker container",
+    "lang": "Shell"
+  },
+  {
+    "title": "zhiwehu/Python-programming-exercises",
+    "url": "https://github.com/zhiwehu/Python-programming-exercises",
+    "desc": "100+ Python challenging programming exercises"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "ethereumbook/ethereumbook",
+    "url": "https://github.com/ethereumbook/ethereumbook",
+    "desc": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+    "lang": "JavaScript"
+  }
+]
