@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ThioJoe/YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "desc": "Allows you easily scan for and delete scam comments using several methods.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "desc": "A massively parallel, optimal functional runtime in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "hannahcode/word-guessing-game",
+    "url": "https://github.com/hannahcode/word-guessing-game",
+    "desc": "A word guessing game made using React, Typescript, and Tailwind",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "solana-labs/solana-pay",
+    "url": "https://github.com/solana-labs/solana-pay",
+    "desc": "A new standard for decentralized payments.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "lang": "Python"
+  },
+  {
+    "title": "flashbots/simple-arbitrage",
+    "url": "https://github.com/flashbots/simple-arbitrage",
+    "desc": "Example arbitrage bot using Flashbots",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pysemtec/semantic-python-overview",
+    "url": "https://github.com/pysemtec/semantic-python-overview",
+    "desc": "(subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "patrikzudel/PatrikZeros-CSGO-Sound-Fix",
+    "url": "https://github.com/patrikzudel/PatrikZeros-CSGO-Sound-Fix",
+    "desc": "Program that lowers volume when aren't alive and get flashed in CS:GO. It aims to lower the chance of hearing damage by reducing overall sound exposure. Uses game state integration. Anti-cheat safe.",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "flxzt/rnote",
+    "url": "https://github.com/flxzt/rnote",
+    "desc": "A simple drawing application to create handwritten notes.",
+    "lang": "Rust"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "desc": "MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  },
+  {
+    "title": "cosmic-horizon/testnets",
+    "url": "https://github.com/cosmic-horizon/testnets",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "decalage2/awesome-security-hardening",
+    "url": "https://github.com/decalage2/awesome-security-hardening",
+    "desc": "A collection of awesome security hardening guides, tools and other resources"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The communications platform that puts data protection first.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "desc": "The Kotlin Programming Language.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "certusone/wormhole",
+    "url": "https://github.com/certusone/wormhole",
+    "desc": "Certus One's reference implementation for the Wormhole blockchain interoperability protocol.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "denysdovhan/wtfjs",
+    "url": "https://github.com/denysdovhan/wtfjs",
+    "desc": "🤪 A list of funny and tricky JavaScript examples",
+    "lang": "JavaScript"
+  }
+]
