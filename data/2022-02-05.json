@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "lang": "Clojure"
+  },
+  {
+    "title": "fly-apps/live_beats",
+    "url": "https://github.com/fly-apps/live_beats",
+    "desc": "",
+    "lang": "Elixir"
+  },
+  {
+    "title": "certusone/wormhole",
+    "url": "https://github.com/certusone/wormhole",
+    "desc": "Certus One's reference implementation for the Wormhole blockchain interoperability protocol.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "thefLink/RecycledGate",
+    "url": "https://github.com/thefLink/RecycledGate",
+    "desc": "Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll",
+    "lang": "C"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "desc": "A massively parallel, optimal functional runtime in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "cosmic-horizon/testnets",
+    "url": "https://github.com/cosmic-horizon/testnets",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AdRoll/rustenstein",
+    "url": "https://github.com/AdRoll/rustenstein",
+    "desc": "Rustenstein 3D: Game programming like it's 1992",
+    "lang": "Rust"
+  },
+  {
+    "title": "BuilderIO/partytown",
+    "url": "https://github.com/BuilderIO/partytown",
+    "desc": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "leaningtech/webvm",
+    "url": "https://github.com/leaningtech/webvm",
+    "desc": "Source code for the page webvm.io",
+    "lang": "HTML"
+  },
+  {
+    "title": "ThioJoe/YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "desc": "Allows you easily scan for and delete scam comments using several methods.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "google/go-github",
+    "url": "https://github.com/google/go-github",
+    "desc": "Go library for accessing the GitHub API",
+    "lang": "Go"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "solana-labs/solana-pay",
+    "url": "https://github.com/solana-labs/solana-pay",
+    "desc": "A new standard for decentralized payments.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "serverless-stack/serverless-stack",
+    "url": "https://github.com/serverless-stack/serverless-stack",
+    "desc": "💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NaturalSelectionLabs/RSS3-Protocol",
+    "url": "https://github.com/NaturalSelectionLabs/RSS3-Protocol",
+    "desc": "RSS3 is a next-generation feed standard that aims to support efficient and decentralized information distribution."
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "AlexChesser/recruiter-autoresponse",
+    "url": "https://github.com/AlexChesser/recruiter-autoresponse",
+    "desc": "Based on the Medium Article entitled - Career Advice Nobody Gave Me: Never ignore a recruiter this repo has a copyable script which you can use to auto-respond to recruiters."
+  },
+  {
+    "title": "runatlantis/atlantis",
+    "url": "https://github.com/runatlantis/atlantis",
+    "desc": "Terraform Pull Request Automation",
+    "lang": "Go"
+  }
+]
