@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "huginn/huginn",
+    "url": "https://github.com/huginn/huginn",
+    "desc": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fireship-io/gpt3-twitter-bot",
+    "url": "https://github.com/fireship-io/gpt3-twitter-bot",
+    "desc": "Build a GPT-3 Powered Twitter Bot with Node.js & Firebase",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepmind/code_contests",
+    "url": "https://github.com/deepmind/code_contests",
+    "desc": "",
+    "lang": "Starlark"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common programming languages",
+    "lang": "C#"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "desc": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Lolliedieb/lolMiner-releases",
+    "url": "https://github.com/Lolliedieb/lolMiner-releases",
+    "desc": ""
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "thoughtbot/hotwire-example-template",
+    "url": "https://github.com/thoughtbot/hotwire-example-template",
+    "desc": "",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Jguer/yay",
+    "url": "https://github.com/Jguer/yay",
+    "desc": "Yet another Yogurt - An AUR Helper written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "desc": "Implementation of the Filecoin protocol, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "NG-ZORRO/ng-zorro-antd",
+    "url": "https://github.com/NG-ZORRO/ng-zorro-antd",
+    "desc": "Angular UI Component Library based on Ant Design",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "lang": "C++"
+  },
+  {
+    "title": "wbkd/react-flow",
+    "url": "https://github.com/wbkd/react-flow",
+    "desc": "Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "desc": "The Hybrid Vue(3) Framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cosmic-horizon/testnets",
+    "url": "https://github.com/cosmic-horizon/testnets",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  }
+]
