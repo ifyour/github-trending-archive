@@ -1,0 +1,151 @@
+[
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "desc": "The open-source Shopify alternative ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ObuchiYuki/DevToysMac",
+    "url": "https://github.com/ObuchiYuki/DevToysMac",
+    "desc": "DevToys For mac",
+    "lang": "Swift"
+  },
+  {
+    "title": "gyroflow/gyroflow",
+    "url": "https://github.com/gyroflow/gyroflow",
+    "desc": "Video stabilization using gyroscope data",
+    "lang": "Rust"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3 UI Library made by Element team",
+    "lang": "Vue"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Yet another remote desktop software",
+    "lang": "Rust"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "meysamhadeli/awesome-dotnet-tips",
+    "url": "https://github.com/meysamhadeli/awesome-dotnet-tips",
+    "desc": "Curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "lang": "Shell"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "desc": "A PHP framework for web artisans.",
+    "lang": "PHP"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "desc": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "PhilJay/MPAndroidChart",
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "desc": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+    "lang": "Java"
+  },
+  {
+    "title": "glixzzy/blooket-hack",
+    "url": "https://github.com/glixzzy/blooket-hack",
+    "desc": "The Blooket Hack",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/router",
+    "url": "https://github.com/vuejs/router",
+    "desc": "🚦 The official router for Vue.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "An enterprise-class UI design language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ogoguel/realtimehand",
+    "url": "https://github.com/ogoguel/realtimehand",
+    "desc": "Realtime Hand Tracking Unity Package",
+    "lang": "C#"
+  },
+  {
+    "title": "carla-simulator/carla",
+    "url": "https://github.com/carla-simulator/carla",
+    "desc": "Open-source simulator for autonomous driving research.",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "desc": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "lang": "Java"
+  }
+]
