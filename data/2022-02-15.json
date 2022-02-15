@@ -1,0 +1,149 @@
+[
+  {
+    "title": "novak-99/MLPP",
+    "url": "https://github.com/novak-99/MLPP",
+    "desc": "A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.",
+    "lang": "C++"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  },
+  {
+    "title": "4ndersonLin/awesome-cloud-security",
+    "url": "https://github.com/4ndersonLin/awesome-cloud-security",
+    "desc": "🛡️ Awesome Cloud Security Resources ⚔️"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "desc": "Chrome extension to return youtube dislikes",
+    "lang": "Vue"
+  },
+  {
+    "title": "tinymce/tinymce",
+    "url": "https://github.com/tinymce/tinymce",
+    "desc": "The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zricethezav/gitleaks",
+    "url": "https://github.com/zricethezav/gitleaks",
+    "desc": "Scan git repos (or files) for secrets using regex and entropy 🔑",
+    "lang": "Go"
+  },
+  {
+    "title": "zxing/zxing",
+    "url": "https://github.com/zxing/zxing",
+    "desc": "ZXing (Zebra Crossing) barcode scanning library for Java, Android",
+    "lang": "Java"
+  },
+  {
+    "title": "cncf/mentoring",
+    "url": "https://github.com/cncf/mentoring",
+    "desc": "👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs"
+  },
+  {
+    "title": "Azure/ResourceModules",
+    "url": "https://github.com/Azure/ResourceModules",
+    "desc": "This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines.",
+    "lang": "Bicep"
+  },
+  {
+    "title": "VoronDesign/VoronUsers",
+    "url": "https://github.com/VoronDesign/VoronUsers",
+    "desc": "Voron Community mods, slicer profiles and firmware configurations.",
+    "lang": "GAP"
+  },
+  {
+    "title": "jeremylong/DependencyCheck",
+    "url": "https://github.com/jeremylong/DependencyCheck",
+    "desc": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+    "lang": "Java"
+  },
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "desc": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "theonedev/onedev",
+    "url": "https://github.com/theonedev/onedev",
+    "desc": "Super Easy All-In-One DevOps Platform",
+    "lang": "Java"
+  },
+  {
+    "title": "meilisearch/meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "desc": "Powerful, fast, and an easy to use search engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "lang": "Go"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "desc": "Elegant transition library for iOS & tvOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "squizlabs/PHP_CodeSniffer",
+    "url": "https://github.com/squizlabs/PHP_CodeSniffer",
+    "desc": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
+    "lang": "PHP"
+  }
+]
