@@ -1,0 +1,147 @@
+[
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "desc": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ethereumbook/ethereumbook",
+    "url": "https://github.com/ethereumbook/ethereumbook",
+    "desc": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cube0x0/KrbRelay",
+    "url": "https://github.com/cube0x0/KrbRelay",
+    "desc": "Framework for Kerberos relaying",
+    "lang": "C#"
+  },
+  {
+    "title": "penk/penkesu",
+    "url": "https://github.com/penk/penkesu",
+    "desc": "Penkesu Computer - A Homebrew Retro-style Handheld PC"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "desc": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "lang": "Go"
+  },
+  {
+    "title": "novak-99/MLPP",
+    "url": "https://github.com/novak-99/MLPP",
+    "desc": "A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.",
+    "lang": "C++"
+  },
+  {
+    "title": "JonathanSalwan/VMProtect-devirtualization",
+    "url": "https://github.com/JonathanSalwan/VMProtect-devirtualization",
+    "desc": "Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.",
+    "lang": "Roff"
+  },
+  {
+    "title": "OffcierCia/DeFi-Developer-Road-Map",
+    "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+    "desc": "DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks."
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "trickest/cve",
+    "url": "https://github.com/trickest/cve",
+    "desc": "Gather and update all available and newest CVEs with their PoC."
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "desc": "💥 Listing some playful open-source's challenges of companies to test your knowledge"
+  },
+  {
+    "title": "pen4uin/bug-bounty",
+    "url": "https://github.com/pen4uin/bug-bounty",
+    "desc": "list of bug bounty writeups"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dtm-php/dtm-client",
+    "url": "https://github.com/dtm-php/dtm-client",
+    "desc": "A PHP coroutine client for distributed transaction manager DTM. 分布式事务管理器 DTM 的 PHP 协程客户端",
+    "lang": "PHP"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "lang": "Svelte"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "lang": "Cuda"
+  },
+  {
+    "title": "NVlabs/tiny-cuda-nn",
+    "url": "https://github.com/NVlabs/tiny-cuda-nn",
+    "desc": "Lightning fast & tiny C++/CUDA neural network framework",
+    "lang": "C++"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-policy-agent/gatekeeper",
+    "url": "https://github.com/open-policy-agent/gatekeeper",
+    "desc": "Gatekeeper - Policy Controller for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "shopware/platform",
+    "url": "https://github.com/shopware/platform",
+    "desc": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions",
+    "lang": "PHP"
+  },
+  {
+    "title": "raulmur/ORB_SLAM2",
+    "url": "https://github.com/raulmur/ORB_SLAM2",
+    "desc": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  }
+]
