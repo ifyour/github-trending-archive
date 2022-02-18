@@ -1,0 +1,146 @@
+[
+  {
+    "title": "trickest/cve",
+    "url": "https://github.com/trickest/cve",
+    "desc": "Gather and update all available and newest CVEs with their PoC."
+  },
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "desc": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OffcierCia/DeFi-Developer-Road-Map",
+    "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+    "desc": "DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks."
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "penk/penkesu",
+    "url": "https://github.com/penk/penkesu",
+    "desc": "Penkesu Computer - A Homebrew Retro-style Handheld PC"
+  },
+  {
+    "title": "obss/sahi",
+    "url": "https://github.com/obss/sahi",
+    "desc": "A lightweight vision library for performing large scale object detection/ instance segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "sekigon-gonnoc/Pico-PIO-USB",
+    "url": "https://github.com/sekigon-gonnoc/Pico-PIO-USB",
+    "desc": "USB host/device implementation using PIO of raspberry pi pico (RP2040).",
+    "lang": "C"
+  },
+  {
+    "title": "beefproject/beef",
+    "url": "https://github.com/beefproject/beef",
+    "desc": "The Browser Exploitation Framework Project",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "desc": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "lang": "Go"
+  },
+  {
+    "title": "spotify/ruler",
+    "url": "https://github.com/spotify/ruler",
+    "desc": "Gradle plugin which helps you analyze the size of your Android apps.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "rockerBOO/awesome-neovim",
+    "url": "https://github.com/rockerBOO/awesome-neovim",
+    "desc": "Collections of awesome neovim plugins."
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "darkquasar/AzureHunter",
+    "url": "https://github.com/darkquasar/AzureHunter",
+    "desc": "A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "microsoft/sql-server-samples",
+    "url": "https://github.com/microsoft/sql-server-samples",
+    "desc": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge"
+  },
+  {
+    "title": "nihui/realcugan-ncnn-vulkan",
+    "url": "https://github.com/nihui/realcugan-ncnn-vulkan",
+    "desc": "real-cugan converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan",
+    "lang": "C"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "lang": "Cuda"
+  },
+  {
+    "title": "probml/pml-book",
+    "url": "https://github.com/probml/pml-book",
+    "desc": "Probabilistic Machine Learning - a book series by Kevin Murphy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "desc": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "lang": "C"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "desc": "Fast, multi-platform web server with automatic HTTPS",
+    "lang": "Go"
+  }
+]
