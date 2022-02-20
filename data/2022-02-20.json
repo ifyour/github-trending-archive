@@ -1,0 +1,149 @@
+[
+  {
+    "title": "BishopFox/unredacter",
+    "url": "https://github.com/BishopFox/unredacter",
+    "desc": "Never ever ever use pixelation as a redaction technique",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "lang": "Svelte"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "desc": "Implementation of the Filecoin protocol, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Free Data Engineering course!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "quenhus/uBlock-Origin-dev-filter",
+    "url": "https://github.com/quenhus/uBlock-Origin-dev-filter",
+    "desc": "Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "algorithmica-org/algorithmica",
+    "url": "https://github.com/algorithmica-org/algorithmica",
+    "desc": "New version of the website",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OffcierCia/DeFi-Developer-Road-Map",
+    "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+    "desc": "DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks."
+  },
+  {
+    "title": "dair-ai/GNNs-Recipe",
+    "url": "https://github.com/dair-ai/GNNs-Recipe",
+    "desc": "A recipe to study Graph Neural Networks (GNNs)"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "odin-lang/Odin",
+    "url": "https://github.com/odin-lang/Odin",
+    "desc": "Odin Programming Language",
+    "lang": "Odin"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "probml/pml-book",
+    "url": "https://github.com/probml/pml-book",
+    "desc": "Probabilistic Machine Learning - a book series by Kevin Murphy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "desc": "An extremely fast JavaScript and CSS bundler and minifier",
+    "lang": "Go"
+  },
+  {
+    "title": "obss/sahi",
+    "url": "https://github.com/obss/sahi",
+    "desc": "A lightweight vision library for performing large scale object detection/ instance segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "The Laravel Framework.",
+    "lang": "PHP"
+  },
+  {
+    "title": "libevent/libevent",
+    "url": "https://github.com/libevent/libevent",
+    "desc": "Event notification library",
+    "lang": "C"
+  },
+  {
+    "title": "littlefs-project/littlefs",
+    "url": "https://github.com/littlefs-project/littlefs",
+    "desc": "A little fail-safe filesystem designed for microcontrollers",
+    "lang": "C"
+  },
+  {
+    "title": "carlospolop/PEASS-ng",
+    "url": "https://github.com/carlospolop/PEASS-ng",
+    "desc": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+    "lang": "C#"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "csharpfritz/InstantAPIs",
+    "url": "https://github.com/csharpfritz/InstantAPIs",
+    "desc": "A library that generates Minimal API endpoints for an Entity Framework context.",
+    "lang": "C#"
+  },
+  {
+    "title": "PHPMailer/PHPMailer",
+    "url": "https://github.com/PHPMailer/PHPMailer",
+    "desc": "The classic email sending library for PHP",
+    "lang": "PHP"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  }
+]
