@@ -1,0 +1,150 @@
+[
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "lang": "Cuda"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common programming languages",
+    "lang": "C#"
+  },
+  {
+    "title": "odin-lang/Odin",
+    "url": "https://github.com/odin-lang/Odin",
+    "desc": "Odin Programming Language",
+    "lang": "Odin"
+  },
+  {
+    "title": "emilk/egui",
+    "url": "https://github.com/emilk/egui",
+    "desc": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+    "lang": "Rust"
+  },
+  {
+    "title": "martinvonz/jj",
+    "url": "https://github.com/martinvonz/jj",
+    "desc": "A Git-compatible DVCS that is both simple and powerful",
+    "lang": "Rust"
+  },
+  {
+    "title": "adrianhajdin/project_professional_portfolio",
+    "url": "https://github.com/adrianhajdin/project_professional_portfolio",
+    "desc": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lwthiker/curl-impersonate",
+    "url": "https://github.com/lwthiker/curl-impersonate",
+    "desc": "curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "BlueWallet/BlueWallet",
+    "url": "https://github.com/BlueWallet/BlueWallet",
+    "desc": "Bitcoin thin client for iOS & Android. Built with React Native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cryptotwinsbr/spacecrypto-bot",
+    "url": "https://github.com/cryptotwinsbr/spacecrypto-bot",
+    "desc": "This is a free python bot program that crosses you to farm with auto click in space crypto NFT game, having fun :)",
+    "lang": "Python"
+  },
+  {
+    "title": "harmonoid/harmonoid",
+    "url": "https://github.com/harmonoid/harmonoid",
+    "desc": "🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube support.",
+    "lang": "Dart"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "myugan/awesome-docker-security",
+    "url": "https://github.com/myugan/awesome-docker-security",
+    "desc": "📚 A curated list of awesome Docker security resources"
+  },
+  {
+    "title": "BuilderIO/qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "desc": "The HTML-first framework. Initialize apps of any size with < 1kb JS",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "danielbeach/data-engineering-practice",
+    "url": "https://github.com/danielbeach/data-engineering-practice",
+    "desc": "Data Engineering Practice Problems",
+    "lang": "Python"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "Go"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "lang": "Svelte"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  }
+]
