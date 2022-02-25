@@ -1,0 +1,146 @@
+[
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "desc": "How to systematically secure anything: a repository about security engineering"
+  },
+  {
+    "title": "riti2409/Resources-for-preparation-Of-Placements",
+    "url": "https://github.com/riti2409/Resources-for-preparation-Of-Placements",
+    "desc": "Lecture video links for preparation of Placements"
+  },
+  {
+    "title": "kaist-cp/cs431",
+    "url": "https://github.com/kaist-cp/cs431",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "riti2409/Operating_System",
+    "url": "https://github.com/riti2409/Operating_System",
+    "desc": "Resources , Notes , Videos of Operating System"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "ant-design/ant-design-mobile",
+    "url": "https://github.com/ant-design/ant-design-mobile",
+    "desc": "Essential UI blocks for building mobile web apps.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "FederatedAI/FATE",
+    "url": "https://github.com/FederatedAI/FATE",
+    "desc": "An Industrial Grade Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "desc": "Yao A low code engine to create web services and dashboard.",
+    "lang": "Go"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "zellij-org/zellij",
+    "url": "https://github.com/zellij-org/zellij",
+    "desc": "A terminal workspace with batteries included",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "evilbuffer/malware-and-exploitdev-resources",
+    "url": "https://github.com/evilbuffer/malware-and-exploitdev-resources",
+    "desc": ""
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jrouwe/JoltPhysics",
+    "url": "https://github.com/jrouwe/JoltPhysics",
+    "desc": "A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.",
+    "lang": "C++"
+  },
+  {
+    "title": "influxdata/influxdb",
+    "url": "https://github.com/influxdata/influxdb",
+    "desc": "Scalable datastore for metrics, events, and real-time analytics",
+    "lang": "Go"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common programming languages",
+    "lang": "C#"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "An open-source vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "juice-shop/juice-shop",
+    "url": "https://github.com/juice-shop/juice-shop",
+    "desc": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "abiosoft/colima",
+    "url": "https://github.com/abiosoft/colima",
+    "desc": "Container runtimes on macOS (and Linux) with minimal setup",
+    "lang": "Go"
+  },
+  {
+    "title": "FreeRDP/FreeRDP",
+    "url": "https://github.com/FreeRDP/FreeRDP",
+    "desc": "FreeRDP is a free remote desktop protocol library and clients",
+    "lang": "C"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "C++"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "desc": "Source to app.diagrams.net",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  }
+]
