@@ -1,0 +1,147 @@
+[
+  {
+    "title": "github/advisory-database",
+    "url": "https://github.com/github/advisory-database",
+    "desc": "Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software."
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "jrouwe/JoltPhysics",
+    "url": "https://github.com/jrouwe/JoltPhysics",
+    "desc": "A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.",
+    "lang": "C++"
+  },
+  {
+    "title": "KumarRobotics/kr_autonomous_flight",
+    "url": "https://github.com/KumarRobotics/kr_autonomous_flight",
+    "desc": "Autonomous flight system for aerial robots",
+    "lang": "C++"
+  },
+  {
+    "title": "anderspitman/awesome-tunneling",
+    "url": "https://github.com/anderspitman/awesome-tunneling",
+    "desc": "List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting."
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "planetscale/beam",
+    "url": "https://github.com/planetscale/beam",
+    "desc": "A simple message board for your organization or project",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "VoronDesign/Voron-2",
+    "url": "https://github.com/VoronDesign/Voron-2",
+    "desc": "Voron 2 CoreXY 3D Printer design"
+  },
+  {
+    "title": "vueComponent/ant-design-vue",
+    "url": "https://github.com/vueComponent/ant-design-vue",
+    "desc": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+    "lang": "Vue"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "desc": "Yao A low code engine to create web services and dashboard.",
+    "lang": "Go"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "lang": "Swift"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common programming languages",
+    "lang": "C#"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "priyankavergadia/GCPSketchnote",
+    "url": "https://github.com/priyankavergadia/GCPSketchnote",
+    "desc": "If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format."
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "desc": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cosmtrek/air",
+    "url": "https://github.com/cosmtrek/air",
+    "desc": "☁️ Live reload for Go apps",
+    "lang": "Go"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  }
+]
