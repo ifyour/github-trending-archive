@@ -1,0 +1,147 @@
+[
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "dj-nitehawk/FastEndpoints",
+    "url": "https://github.com/dj-nitehawk/FastEndpoints",
+    "desc": "A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/AlwaysOn",
+    "url": "https://github.com/Azure/AlwaysOn",
+    "desc": "AlwaysOn provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads."
+  },
+  {
+    "title": "krol3/container-security-checklist",
+    "url": "https://github.com/krol3/container-security-checklist",
+    "desc": "Checklist for container security - devsecops practices"
+  },
+  {
+    "title": "planetscale/beam",
+    "url": "https://github.com/planetscale/beam",
+    "desc": "A simple message board for your organization or project",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "phil-opp/blog_os",
+    "url": "https://github.com/phil-opp/blog_os",
+    "desc": "Writing an OS in Rust",
+    "lang": "HTML"
+  },
+  {
+    "title": "sampotts/plyr",
+    "url": "https://github.com/sampotts/plyr",
+    "desc": "A simple HTML5, YouTube and Vimeo player",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rust-lang/rust-clippy",
+    "url": "https://github.com/rust-lang/rust-clippy",
+    "desc": "A bunch of lints to catch common mistakes and improve your Rust code",
+    "lang": "Rust"
+  },
+  {
+    "title": "KumarRobotics/kr_autonomous_flight",
+    "url": "https://github.com/KumarRobotics/kr_autonomous_flight",
+    "desc": "Autonomous flight system for GPS-denied quadrotors",
+    "lang": "C++"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "desc": "Yao A low code engine to create web services and dashboard.",
+    "lang": "Go"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 36 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/torchrec",
+    "url": "https://github.com/pytorch/torchrec",
+    "desc": "Pytorch domain library for recommendation systems",
+    "lang": "Python"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "antfu/vitesse",
+    "url": "https://github.com/antfu/vitesse",
+    "desc": "🏕 Opinionated Vite Starter Template",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vectordotdev/vector",
+    "url": "https://github.com/vectordotdev/vector",
+    "desc": "A high-performance observability data pipeline.",
+    "lang": "Rust"
+  },
+  {
+    "title": "prometheus-community/helm-charts",
+    "url": "https://github.com/prometheus-community/helm-charts",
+    "desc": "Prometheus community Helm charts",
+    "lang": "Mustache"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "desc": "MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "Nixtla/statsforecast",
+    "url": "https://github.com/Nixtla/statsforecast",
+    "desc": "Lightning ⚡️ fast forecasting with statistical and econometric models.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "rust-lang/mdBook",
+    "url": "https://github.com/rust-lang/mdBook",
+    "desc": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "squizlabs/PHP_CodeSniffer",
+    "url": "https://github.com/squizlabs/PHP_CodeSniffer",
+    "desc": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
+    "lang": "PHP"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  }
+]
