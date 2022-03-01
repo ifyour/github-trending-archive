@@ -1,0 +1,146 @@
+[
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "HashLips/hashlips_art_engine",
+    "url": "https://github.com/HashLips/hashlips_art_engine",
+    "desc": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "erkexzcx/stoppropaganda",
+    "url": "https://github.com/erkexzcx/stoppropaganda",
+    "desc": "DOS application to stop pro-Russian aggression websites. Support Ukraine!",
+    "lang": "Go"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 40 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "ajax-lives/NoRussian",
+    "url": "https://github.com/ajax-lives/NoRussian",
+    "desc": "Volunteer DoS tool via HTML + JS",
+    "lang": "HTML"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "palahsu/DDoS-Ripper",
+    "url": "https://github.com/palahsu/DDoS-Ripper",
+    "desc": "DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic",
+    "lang": "Python"
+  },
+  {
+    "title": "curated-intel/Ukraine-Cyber-Operations",
+    "url": "https://github.com/curated-intel/Ukraine-Cyber-Operations",
+    "desc": "Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine."
+  },
+  {
+    "title": "techchipnet/CamPhish",
+    "url": "https://github.com/techchipnet/CamPhish",
+    "desc": "Grab cam shots from target's phone front camera or PC webcam just sending a link.",
+    "lang": "HTML"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "github/advisory-database",
+    "url": "https://github.com/github/advisory-database",
+    "desc": "Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software."
+  },
+  {
+    "title": "cyprosecurity/API-SecurityEmpire",
+    "url": "https://github.com/cyprosecurity/API-SecurityEmpire",
+    "desc": "API Security Projecto aims to present unique attack & defense methods in API Security field"
+  },
+  {
+    "title": "LimerBoy/Impulse",
+    "url": "https://github.com/LimerBoy/Impulse",
+    "desc": "💣 Impulse Denial-of-service ToolKit",
+    "lang": "Python"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "jseidl/GoldenEye",
+    "url": "https://github.com/jseidl/GoldenEye",
+    "desc": "GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "Luzhnuy/attacker",
+    "url": "https://github.com/Luzhnuy/attacker",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "hwdsl2/setup-ipsec-vpn",
+    "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
+    "desc": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
+    "lang": "Shell"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "uberhalit/EldenRingFpsUnlockAndMore",
+    "url": "https://github.com/uberhalit/EldenRingFpsUnlockAndMore",
+    "desc": "A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring",
+    "lang": "C#"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-rust",
+    "url": "https://github.com/shadowsocks/shadowsocks-rust",
+    "desc": "A Rust port of shadowsocks",
+    "lang": "Rust"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-windows",
+    "url": "https://github.com/shadowsocks/shadowsocks-windows",
+    "desc": "A C# port of shadowsocks",
+    "lang": "C#"
+  }
+]
