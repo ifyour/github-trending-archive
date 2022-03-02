@@ -1,0 +1,143 @@
+[
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 Open source API development ecosystem - https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 40 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "LimerBoy/Impulse",
+    "url": "https://github.com/LimerBoy/Impulse",
+    "desc": "💣 Impulse Denial-of-service ToolKit",
+    "lang": "Python"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "desc": "A small C compiler",
+    "lang": "C"
+  },
+  {
+    "title": "curated-intel/Ukraine-Cyber-Operations",
+    "url": "https://github.com/curated-intel/Ukraine-Cyber-Operations",
+    "desc": "Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine."
+  },
+  {
+    "title": "erkexzcx/stoppropaganda",
+    "url": "https://github.com/erkexzcx/stoppropaganda",
+    "desc": "DOS application to stop pro-Russian aggression websites. Support Ukraine!",
+    "lang": "Go"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "cyprosecurity/API-SecurityEmpire",
+    "url": "https://github.com/cyprosecurity/API-SecurityEmpire",
+    "desc": "API Security Projecto aims to present unique attack & defense methods in API Security field"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "github/feedback",
+    "url": "https://github.com/github/feedback",
+    "desc": "Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "QMHTMY/RustBook",
+    "url": "https://github.com/QMHTMY/RustBook",
+    "desc": "A book about Rust Data Structures and Algorithms.",
+    "lang": "Rust"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zeromicro/go-zero",
+    "url": "https://github.com/zeromicro/go-zero",
+    "desc": "go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.",
+    "lang": "Go"
+  },
+  {
+    "title": "pytorch/torchrec",
+    "url": "https://github.com/pytorch/torchrec",
+    "desc": "Pytorch domain library for recommendation systems",
+    "lang": "Python"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-rust",
+    "url": "https://github.com/shadowsocks/shadowsocks-rust",
+    "desc": "A Rust port of shadowsocks",
+    "lang": "Rust"
+  },
+  {
+    "title": "codesenberg/bombardier",
+    "url": "https://github.com/codesenberg/bombardier",
+    "desc": "Fast cross-platform HTTP benchmarking tool written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "ConsenSys/smart-contract-best-practices",
+    "url": "https://github.com/ConsenSys/smart-contract-best-practices",
+    "desc": "A guide to smart contract security best practices"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "uberhalit/EldenRingFpsUnlockAndMore",
+    "url": "https://github.com/uberhalit/EldenRingFpsUnlockAndMore",
+    "desc": "A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring",
+    "lang": "C#"
+  }
+]
