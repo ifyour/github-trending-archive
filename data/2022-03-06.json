@@ -1,0 +1,150 @@
+[
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "desc": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "desc": "🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "mattn/awesome-twitter-communities",
+    "url": "https://github.com/mattn/awesome-twitter-communities",
+    "desc": "Awesome Twitter Communities for Engineers",
+    "lang": "Shell"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xianyi/OpenBLAS",
+    "url": "https://github.com/xianyi/OpenBLAS",
+    "desc": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+    "lang": "Fortran"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/FastFold",
+    "url": "https://github.com/hpcaitech/FastFold",
+    "desc": "Optimizing Protein Structure Prediction Model Training and Inference on GPU Clusters",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gildas-lormeau/SingleFile",
+    "url": "https://github.com/gildas-lormeau/SingleFile",
+    "desc": "Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "desc": "🍃 JavaScript library for mobile-friendly interactive maps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "containers/podman",
+    "url": "https://github.com/containers/podman",
+    "desc": "Podman: A tool for managing OCI containers and pods.",
+    "lang": "Go"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "sudheerj/javascript-interview-questions",
+    "url": "https://github.com/sudheerj/javascript-interview-questions",
+    "desc": "List of 1000 JavaScript Interview Questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenCTI-Platform/opencti",
+    "url": "https://github.com/OpenCTI-Platform/opencti",
+    "desc": "Open Cyber Threat Intelligence Platform",
+    "lang": "JavaScript"
+  }
+]
