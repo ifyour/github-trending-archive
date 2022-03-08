@@ -1,0 +1,147 @@
+[
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Lakr233/Rayon",
+    "url": "https://github.com/Lakr233/Rayon",
+    "desc": "yet another SSH machine manager",
+    "lang": "Swift"
+  },
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "samber/lo",
+    "url": "https://github.com/samber/lo",
+    "desc": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "lang": "Go"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "desc": "🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "hashlips-lab/nft-erc721-collection",
+    "url": "https://github.com/hashlips-lab/nft-erc721-collection",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CaiJimmy/hugo-theme-stack",
+    "url": "https://github.com/CaiJimmy/hugo-theme-stack",
+    "desc": "Card-style Hugo theme designed for bloggers",
+    "lang": "HTML"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "solidlyexchange/solidly.exchange",
+    "url": "https://github.com/solidlyexchange/solidly.exchange",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "xerpi/vita2hos",
+    "url": "https://github.com/xerpi/vita2hos",
+    "desc": "[WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer",
+    "lang": "C"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "alexmon1989/russia_ddos",
+    "url": "https://github.com/alexmon1989/russia_ddos",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "desc": "The Single Sign-On Multi-Factor portal for web apps",
+    "lang": "Go"
+  },
+  {
+    "title": "remotion-dev/remotion",
+    "url": "https://github.com/remotion-dev/remotion",
+    "desc": "🎥 Create videos programmatically in React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zzzgydi/clash-verge",
+    "url": "https://github.com/zzzgydi/clash-verge",
+    "desc": "A Clash GUI based on tauri. Supports Windows and Macos.",
+    "lang": "TypeScript"
+  }
+]
