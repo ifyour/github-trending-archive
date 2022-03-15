@@ -1,0 +1,150 @@
+[
+  {
+    "title": "LukeSmithxyz/voidrice",
+    "url": "https://github.com/LukeSmithxyz/voidrice",
+    "desc": "My dotfiles (deployed by LARBS)",
+    "lang": "Shell"
+  },
+  {
+    "title": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "squad303/squad303app",
+    "url": "https://github.com/squad303/squad303app",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "datastack-net/dockerized",
+    "url": "https://github.com/datastack-net/dockerized",
+    "desc": "Run popular commandline tools within docker",
+    "lang": "Shell"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "desc": "A web framework for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "desc": "The user-friendly command line shell.",
+    "lang": "C++"
+  },
+  {
+    "title": "hwdsl2/setup-ipsec-vpn",
+    "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
+    "desc": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
+    "lang": "Shell"
+  },
+  {
+    "title": "Klipper3d/klipper",
+    "url": "https://github.com/Klipper3d/klipper",
+    "desc": "Klipper is a 3d-printer firmware",
+    "lang": "C"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "naaive/orange",
+    "url": "https://github.com/naaive/orange",
+    "desc": "Cross-platform local file search engine.",
+    "lang": "Rust"
+  },
+  {
+    "title": "alexeymezenin/laravel-best-practices",
+    "url": "https://github.com/alexeymezenin/laravel-best-practices",
+    "desc": "Laravel best practices"
+  },
+  {
+    "title": "xiaorouji/openwrt-passwall",
+    "url": "https://github.com/xiaorouji/openwrt-passwall",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  }
+]
