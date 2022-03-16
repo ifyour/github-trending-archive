@@ -1,0 +1,150 @@
+[
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "desc": "Vanced Installer",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "YTVanced/VancedStore",
+    "url": "https://github.com/YTVanced/VancedStore",
+    "desc": "General Application Store with support for root apps and more",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "winfsp/hubfs",
+    "url": "https://github.com/winfsp/hubfs",
+    "desc": "File system for GitHub",
+    "lang": "Go"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "desc": "Flipper Zero Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "hwdsl2/setup-ipsec-vpn",
+    "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
+    "desc": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
+    "lang": "Shell"
+  },
+  {
+    "title": "YTVanced/Vanced",
+    "url": "https://github.com/YTVanced/Vanced",
+    "desc": "Vanced Issues/Docs repo",
+    "lang": "Python"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "DulLabs/bhai-lang",
+    "url": "https://github.com/DulLabs/bhai-lang",
+    "desc": "A toy programming language written in Typescript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "six2dez/OneListForAll",
+    "url": "https://github.com/six2dez/OneListForAll",
+    "desc": "Rockyou for web fuzzing",
+    "lang": "Shell"
+  },
+  {
+    "title": "yuliskov/SmartTubeNext",
+    "url": "https://github.com/yuliskov/SmartTubeNext",
+    "desc": "Ad free app for watching tube videos on Android TV boxes",
+    "lang": "Java"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "JuanCrg90/Clean-Code-Notes",
+    "url": "https://github.com/JuanCrg90/Clean-Code-Notes",
+    "desc": "My notes of Clean Code book"
+  },
+  {
+    "title": "FirmWire/FirmWire",
+    "url": "https://github.com/FirmWire/FirmWire",
+    "desc": "FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares",
+    "lang": "Python"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "desc": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+    "lang": "Java"
+  },
+  {
+    "title": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "desc": "The user-friendly command line shell.",
+    "lang": "C++"
+  },
+  {
+    "title": "facebookexperimental/Recoil",
+    "url": "https://github.com/facebookexperimental/Recoil",
+    "desc": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Productive & portable high-performance programming in Python.",
+    "lang": "C++"
+  }
+]
