@@ -1,0 +1,148 @@
+[
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Frontesque/VueTube",
+    "url": "https://github.com/Frontesque/VueTube",
+    "desc": "A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)",
+    "lang": "Vue"
+  },
+  {
+    "title": "samber/lo",
+    "url": "https://github.com/samber/lo",
+    "desc": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "lang": "Go"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "DulLabs/bhai-lang",
+    "url": "https://github.com/DulLabs/bhai-lang",
+    "desc": "A toy programming language written in Typescript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "quackduck/devzat",
+    "url": "https://github.com/quackduck/devzat",
+    "desc": "The devs are over here at devzat, chat over SSH!",
+    "lang": "Go"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "ssloy/tinyrenderer",
+    "url": "https://github.com/ssloy/tinyrenderer",
+    "desc": "A brief computer graphics / rendering course",
+    "lang": "C++"
+  },
+  {
+    "title": "LukeMathWalker/zero-to-production",
+    "url": "https://github.com/LukeMathWalker/zero-to-production",
+    "desc": "Code for Zero To Production In Rust, a book on API development using Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Bonfee/CVE-2022-25636",
+    "url": "https://github.com/Bonfee/CVE-2022-25636",
+    "desc": "CVE-2022-25636",
+    "lang": "C"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "oskardudycz/EventSourcing.NetCore",
+    "url": "https://github.com/oskardudycz/EventSourcing.NetCore",
+    "desc": "Examples and Tutorials of Event Sourcing in .NET",
+    "lang": "C#"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "ploomber/ploomber",
+    "url": "https://github.com/ploomber/ploomber",
+    "desc": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
+    "lang": "Python"
+  },
+  {
+    "title": "heidihoward/distributed-consensus-reading-list",
+    "url": "https://github.com/heidihoward/distributed-consensus-reading-list",
+    "desc": "A list of papers about distributed consensus."
+  },
+  {
+    "title": "yangxy/GPEN",
+    "url": "https://github.com/yangxy/GPEN",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bill88t/ljinux",
+    "url": "https://github.com/bill88t/ljinux",
+    "desc": "A linux in python, for the rpi pico!",
+    "lang": "Python"
+  },
+  {
+    "title": "Cloud-Architekt/AzureAD-Attack-Defense",
+    "url": "https://github.com/Cloud-Architekt/AzureAD-Attack-Defense",
+    "desc": "This publication is a collection of various common attack scenarios on Azure Active Directory and how they can be mitigated or detected."
+  },
+  {
+    "title": "zeromq/zmq.rs",
+    "url": "https://github.com/zeromq/zmq.rs",
+    "desc": "A native implementation of ØMQ in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "desc": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  }
+]
