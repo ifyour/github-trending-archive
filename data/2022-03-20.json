@@ -1,0 +1,151 @@
+[
+  {
+    "title": "microsoft/routeros-scanner",
+    "url": "https://github.com/microsoft/routeros-scanner",
+    "desc": "Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "RIAEvangelist/node-ipc",
+    "url": "https://github.com/RIAEvangelist/node-ipc",
+    "desc": "Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "remix-run/blues-stack",
+    "url": "https://github.com/remix-run/blues-stack",
+    "desc": "The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RIAEvangelist/peacenotwar",
+    "url": "https://github.com/RIAEvangelist/peacenotwar",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "google/h2e_technical_documentation",
+    "url": "https://github.com/google/h2e_technical_documentation",
+    "desc": ""
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "remix-run/indie-stack",
+    "url": "https://github.com/remix-run/indie-stack",
+    "desc": "The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "drago-96/CVE-2022-0778",
+    "url": "https://github.com/drago-96/CVE-2022-0778",
+    "desc": "Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt",
+    "lang": "C"
+  },
+  {
+    "title": "ploomber/ploomber",
+    "url": "https://github.com/ploomber/ploomber",
+    "desc": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
+    "lang": "Python"
+  },
+  {
+    "title": "discourse/discourse",
+    "url": "https://github.com/discourse/discourse",
+    "desc": "A platform for community discussion. Free, open, simple.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "yewstack/yew",
+    "url": "https://github.com/yewstack/yew",
+    "desc": "Rust / Wasm framework for building client web apps",
+    "lang": "Rust"
+  },
+  {
+    "title": "Teaching-Assistants-of-Cloud-Computing/CloudHack",
+    "url": "https://github.com/Teaching-Assistants-of-Cloud-Computing/CloudHack",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "desc": "The open-source Shopify alternative ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faker-js/faker",
+    "url": "https://github.com/faker-js/faker",
+    "desc": "Generate massive amounts of fake data in the browser and node.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "devMEremenko/XcodeBenchmark",
+    "url": "https://github.com/devMEremenko/XcodeBenchmark",
+    "desc": "XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro",
+    "lang": "Swift"
+  },
+  {
+    "title": "RaiMan/SikuliX1",
+    "url": "https://github.com/RaiMan/SikuliX1",
+    "desc": "SikuliX version 2.0.0+ (2019+)",
+    "lang": "Java"
+  }
+]
