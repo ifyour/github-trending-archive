@@ -1,0 +1,151 @@
+[
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.",
+    "lang": "Vue"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "amplication/amplication",
+    "url": "https://github.com/amplication/amplication",
+    "desc": "Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HarbourMasters/Shipwright",
+    "url": "https://github.com/HarbourMasters/Shipwright",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "KathanP19/HowToHunt",
+    "url": "https://github.com/KathanP19/HowToHunt",
+    "desc": "Tutorials and Things to Do while Hunting Vulnerability."
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "kognise/arpchat",
+    "url": "https://github.com/kognise/arpchat",
+    "desc": "Answering the question nobody asked: what if you wanted to text your friends using only ARP?",
+    "lang": "Rust"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C++"
+  },
+  {
+    "title": "orchest/orchest",
+    "url": "https://github.com/orchest/orchest",
+    "desc": "Build data pipelines, the easy way 🛠️",
+    "lang": "Python"
+  },
+  {
+    "title": "meilisearch/meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "desc": "Powerful, fast, and an easy to use search engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "tihanyin/PSSW100AVB",
+    "url": "https://github.com/tihanyin/PSSW100AVB",
+    "desc": "A list of useful Powershell scripts with 100% AV bypass (At the time of publication).",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "Go"
+  },
+  {
+    "title": "infracost/infracost",
+    "url": "https://github.com/infracost/infracost",
+    "desc": "Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!",
+    "lang": "Go"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "BuilderIO/partytown",
+    "url": "https://github.com/BuilderIO/partytown",
+    "desc": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "AI4Finance-Foundation/FinRL",
+    "url": "https://github.com/AI4Finance-Foundation/FinRL",
+    "desc": "FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  }
+]
