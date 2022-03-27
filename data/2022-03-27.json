@@ -1,0 +1,149 @@
+[
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "hashicorp/terraform-provider-azurerm",
+    "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "ReVancedTeam/revanced-patcher",
+    "url": "https://github.com/ReVancedTeam/revanced-patcher",
+    "desc": "Repo for the patcher used by ReVanced",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "BishopFox/unredacter",
+    "url": "https://github.com/BishopFox/unredacter",
+    "desc": "Never ever ever use pixelation as a redaction technique",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "desc": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+  },
+  {
+    "title": "polygraphene/DirtyPipe-Android",
+    "url": "https://github.com/polygraphene/DirtyPipe-Android",
+    "desc": "Dirty Pipe root exploit for Android (Pixel 6)",
+    "lang": "C"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "solana-labs/token-list",
+    "url": "https://github.com/solana-labs/token-list",
+    "desc": "The community maintained Solana token registry",
+    "lang": "Go"
+  },
+  {
+    "title": "orchest/orchest",
+    "url": "https://github.com/orchest/orchest",
+    "desc": "Build data pipelines, the easy way 🛠️",
+    "lang": "Python"
+  },
+  {
+    "title": "mgerdes/Open-Golf",
+    "url": "https://github.com/mgerdes/Open-Golf",
+    "desc": "A cross-platform minigolf game written in C.",
+    "lang": "C"
+  },
+  {
+    "title": "ionic-team/stencil",
+    "url": "https://github.com/ionic-team/stencil",
+    "desc": "A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jonkpirateboy/Pass-fur-alle",
+    "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
+    "desc": "Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :)",
+    "lang": "Python"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "flower-corp/lotusdb",
+    "url": "https://github.com/flower-corp/lotusdb",
+    "desc": "Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.",
+    "lang": "Go"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows/macOS GUI based on Clash"
+  },
+  {
+    "title": "codewithsadee/vcard-personal-portfolio",
+    "url": "https://github.com/codewithsadee/vcard-personal-portfolio",
+    "desc": "vCard is a fully responsive personal portfolio website, responsive for all devices.",
+    "lang": "HTML"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "desc": "深度学习经典、新论文逐段精读"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "lang": "Cuda"
+  },
+  {
+    "title": "didi/nightingale",
+    "url": "https://github.com/didi/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/tflite-micro",
+    "url": "https://github.com/tensorflow/tflite-micro",
+    "desc": "TensorFlow Lite for Microcontrollers",
+    "lang": "C++"
+  }
+]
