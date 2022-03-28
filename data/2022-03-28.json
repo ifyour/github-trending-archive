@@ -1,0 +1,148 @@
+[
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "lang": "Cuda"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "desc": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "nonamecoder/CVE-2022-27254",
+    "url": "https://github.com/nonamecoder/CVE-2022-27254",
+    "desc": "PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "apple/swift-async-algorithms",
+    "url": "https://github.com/apple/swift-async-algorithms",
+    "desc": "Async Algorithms for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "desc": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ullmark/hashids.net",
+    "url": "https://github.com/ullmark/hashids.net",
+    "desc": "A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.",
+    "lang": "C#"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "minetest/minetest",
+    "url": "https://github.com/minetest/minetest",
+    "desc": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "lang": "C++"
+  },
+  {
+    "title": "rxi/lite",
+    "url": "https://github.com/rxi/lite",
+    "desc": "A lightweight text editor written in Lua",
+    "lang": "Lua"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "pytorch/torchrec",
+    "url": "https://github.com/pytorch/torchrec",
+    "desc": "Pytorch domain library for recommendation systems",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "scaffold-eth/scaffold-eth",
+    "url": "https://github.com/scaffold-eth/scaffold-eth",
+    "desc": "🏗 forkable Ethereum dev stack focused on fast product iterations",
+    "lang": "CSS"
+  },
+  {
+    "title": "sourabh-joshi/awesome-quincy-larson-emails",
+    "url": "https://github.com/sourabh-joshi/awesome-quincy-larson-emails",
+    "desc": "This repository is an archive of emails that are sent by the awesome Quincy Larson every week.",
+    "lang": "Python"
+  },
+  {
+    "title": "bmild/nerf",
+    "url": "https://github.com/bmild/nerf",
+    "desc": "Code release for NeRF (Neural Radiance Fields)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nvim-treesitter/nvim-treesitter",
+    "url": "https://github.com/nvim-treesitter/nvim-treesitter",
+    "desc": "Nvim Treesitter configurations and abstraction layer",
+    "lang": "Scheme"
+  }
+]
