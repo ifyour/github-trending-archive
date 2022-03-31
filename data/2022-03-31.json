@@ -1,0 +1,147 @@
+[
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Wilfred/difftastic",
+    "url": "https://github.com/Wilfred/difftastic",
+    "desc": "a diff that understands syntax 🟥🟩",
+    "lang": "Rust"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "desc": "📺 A place to discover the latest machine learning courses on YouTube."
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "hktalent/spring-spel-0day-poc",
+    "url": "https://github.com/hktalent/spring-spel-0day-poc",
+    "desc": "spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP"
+  },
+  {
+    "title": "ciderapp/Cider",
+    "url": "https://github.com/ciderapp/Cider",
+    "desc": "A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "lang": "Cuda"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "desc": "A Collection of Flutter and Dart Tips and Tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "faker-js/faker",
+    "url": "https://github.com/faker-js/faker",
+    "desc": "Generate massive amounts of fake data in the browser and node.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "lang": "C++"
+  },
+  {
+    "title": "lucasvegi/Elixir-Code-Smells",
+    "url": "https://github.com/lucasvegi/Elixir-Code-Smells",
+    "desc": "Catalog of Elixir-specific code smells",
+    "lang": "Elixir"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  }
+]
