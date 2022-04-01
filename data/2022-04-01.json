@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Wilfred/difftastic",
+    "url": "https://github.com/Wilfred/difftastic",
+    "desc": "a diff that understands syntax 🟥🟩",
+    "lang": "Rust"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "NVlabs/nvdiffrec",
+    "url": "https://github.com/NVlabs/nvdiffrec",
+    "desc": "Official code for the CVPR 2022 (oral) paper Extracting Triangular 3D Models, Materials, and Lighting From Images.",
+    "lang": "Python"
+  },
+  {
+    "title": "bobangajicsm/react-portfolio-website",
+    "url": "https://github.com/bobangajicsm/react-portfolio-website",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "hktalent/spring-spel-0day-poc",
+    "url": "https://github.com/hktalent/spring-spel-0day-poc",
+    "desc": "spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP"
+  },
+  {
+    "title": "Sycnex/Windows10Debloater",
+    "url": "https://github.com/Sycnex/Windows10Debloater",
+    "desc": "Script to remove Windows 10 bloatware.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "desc": "A Collection of Flutter and Dart Tips and Tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "ciderapp/Cider",
+    "url": "https://github.com/ciderapp/Cider",
+    "desc": "A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "Xhofe/alist",
+    "url": "https://github.com/Xhofe/alist",
+    "desc": "🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",
+    "lang": "Go"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "desc": "Next generation frontend tooling. It's fast!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cckuailong/spring-cloud-function-SpEL-RCE",
+    "url": "https://github.com/cckuailong/spring-cloud-function-SpEL-RCE",
+    "desc": "spring-cloud-function SpEL RCE, Vultarget & Poc",
+    "lang": "Java"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "desc": "Quarkus: Supersonic Subatomic Java.",
+    "lang": "Java"
+  }
+]
