@@ -1,0 +1,151 @@
+[
+  {
+    "title": "dagger/dagger",
+    "url": "https://github.com/dagger/dagger",
+    "desc": "A portable devkit for CI/CD pipelines",
+    "lang": "Go"
+  },
+  {
+    "title": "grafana/mimir",
+    "url": "https://github.com/grafana/mimir",
+    "desc": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "lang": "Go"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "desc": "A small C compiler",
+    "lang": "C"
+  },
+  {
+    "title": "BobTheShoplifter/Spring4Shell-POC",
+    "url": "https://github.com/BobTheShoplifter/Spring4Shell-POC",
+    "desc": "Spring4Shell Proof Of Concept/Information CVE-2022-22965",
+    "lang": "Python"
+  },
+  {
+    "title": "Retrospected/spring-rce-poc",
+    "url": "https://github.com/Retrospected/spring-rce-poc",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone.",
+    "lang": "Python"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "cleanlock/VideoAdBlockForTwitch",
+    "url": "https://github.com/cleanlock/VideoAdBlockForTwitch",
+    "desc": "Swaps video ads for an ad-free stream.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dinosn/CVE-2022-22963",
+    "url": "https://github.com/dinosn/CVE-2022-22963",
+    "desc": "CVE-2022-22963 PoC",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "desc": "A Collection of Flutter and Dart Tips and Tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "NVlabs/nvdiffrec",
+    "url": "https://github.com/NVlabs/nvdiffrec",
+    "desc": "Official code for the CVPR 2022 (oral) paper Extracting Triangular 3D Models, Materials, and Lighting From Images.",
+    "lang": "Python"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "desc": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "lang": "Go"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "HowProgrammingWorks/Book",
+    "url": "https://github.com/HowProgrammingWorks/Book",
+    "desc": "Metaprogramming. Multi-paradigm approach in the Software Engineering.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "desc": "The Hybrid Vue(3) Framework.",
+    "lang": "TypeScript"
+  }
+]
