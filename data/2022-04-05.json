@@ -1,0 +1,151 @@
+[
+  {
+    "title": "rdeepak2002/reddit-place-script-2022",
+    "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
+    "desc": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
+    "lang": "Python"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "kestra-io/kestra",
+    "url": "https://github.com/kestra-io/kestra",
+    "desc": "Kestra is an infinitely scalable opensource orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
+    "lang": "Java"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "phoboslab/qoi",
+    "url": "https://github.com/phoboslab/qoi",
+    "desc": "The “Quite OK Image Format” for fast, lossless image compression",
+    "lang": "C"
+  },
+  {
+    "title": "PlaceNL/Bot",
+    "url": "https://github.com/PlaceNL/Bot",
+    "desc": "De r/place bot voor r/PlaceNL.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "placeDE/pixel",
+    "url": "https://github.com/placeDE/pixel",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "ThioJoe/YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "desc": "Allows you easily scan for and delete scam comments using several methods.",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "sahat/hackathon-starter",
+    "url": "https://github.com/sahat/hackathon-starter",
+    "desc": "A boilerplate for Node.js web applications",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "pixeltris/TwitchAdSolutions",
+    "url": "https://github.com/pixeltris/TwitchAdSolutions",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mytechnotalent/Hacking-Windows",
+    "url": "https://github.com/mytechnotalent/Hacking-Windows",
+    "desc": "A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.",
+    "lang": "C"
+  },
+  {
+    "title": "cleanlock/VideoAdBlockForTwitch",
+    "url": "https://github.com/cleanlock/VideoAdBlockForTwitch",
+    "desc": "Blocks Ads on Twitch.tv.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "s0md3v/Smap",
+    "url": "https://github.com/s0md3v/Smap",
+    "desc": "a drop-in replacement for Nmap powered by shodan.io",
+    "lang": "Go"
+  },
+  {
+    "title": "stackrox/stackrox",
+    "url": "https://github.com/stackrox/stackrox",
+    "desc": "The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.",
+    "lang": "Go"
+  },
+  {
+    "title": "cloudflare/cloudflared",
+    "url": "https://github.com/cloudflare/cloudflared",
+    "desc": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "Algorithms implemented in JavaScript for beginners, following best practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "desc": "All Algorithms implemented in Rust",
+    "lang": "Rust"
+  }
+]
