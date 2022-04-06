@@ -1,0 +1,151 @@
+[
+  {
+    "title": "rdeepak2002/reddit-place-script-2022",
+    "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
+    "desc": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
+    "lang": "Python"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "s0md3v/Smap",
+    "url": "https://github.com/s0md3v/Smap",
+    "desc": "a drop-in replacement for Nmap powered by shodan.io",
+    "lang": "Go"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "NCSC-NL/spring4shell",
+    "url": "https://github.com/NCSC-NL/spring4shell",
+    "desc": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "trufflesecurity/trufflehog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "desc": "Find credentials all over the place",
+    "lang": "Go"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "kestra-io/kestra",
+    "url": "https://github.com/kestra-io/kestra",
+    "desc": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
+    "lang": "Java"
+  },
+  {
+    "title": "mytechnotalent/Hacking-Windows",
+    "url": "https://github.com/mytechnotalent/Hacking-Windows",
+    "desc": "A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.",
+    "lang": "C"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "VoronDesign/VoronUsers",
+    "url": "https://github.com/VoronDesign/VoronUsers",
+    "desc": "Voron Community mods, slicer profiles and firmware configurations.",
+    "lang": "GAP"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "ArduPilot/ardupilot",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "desc": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "lang": "C++"
+  },
+  {
+    "title": "actions/runner",
+    "url": "https://github.com/actions/runner",
+    "desc": "The Runner for GitHub Actions 🚀",
+    "lang": "C#"
+  },
+  {
+    "title": "requarks/wiki",
+    "url": "https://github.com/requarks/wiki",
+    "desc": "Wiki.js | A modern and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "lukas-blecher/LaTeX-OCR",
+    "url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "desc": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+    "lang": "Python"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yjs/yjs",
+    "url": "https://github.com/yjs/yjs",
+    "desc": "Shared data types for building collaborative software",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "desc": "Yao A low code engine to create web services and dashboard.",
+    "lang": "Go"
+  }
+]
