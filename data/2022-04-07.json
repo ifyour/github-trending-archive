@@ -1,0 +1,151 @@
+[
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "trufflesecurity/trufflehog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "desc": "Find credentials all over the place",
+    "lang": "Go"
+  },
+  {
+    "title": "Lissy93/personal-security-checklist",
+    "url": "https://github.com/Lissy93/personal-security-checklist",
+    "desc": "🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021"
+  },
+  {
+    "title": "CompVis/latent-diffusion",
+    "url": "https://github.com/CompVis/latent-diffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NCSC-NL/spring4shell",
+    "url": "https://github.com/NCSC-NL/spring4shell",
+    "desc": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "kris-nova/boopkit",
+    "url": "https://github.com/kris-nova/boopkit",
+    "desc": "Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.",
+    "lang": "C"
+  },
+  {
+    "title": "kestra-io/kestra",
+    "url": "https://github.com/kestra-io/kestra",
+    "desc": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
+    "lang": "Java"
+  },
+  {
+    "title": "saic-mdal/lama",
+    "url": "https://github.com/saic-mdal/lama",
+    "desc": "🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C++"
+  },
+  {
+    "title": "s0md3v/Smap",
+    "url": "https://github.com/s0md3v/Smap",
+    "desc": "a drop-in replacement for Nmap powered by shodan.io",
+    "lang": "Go"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "saikou-app/saikou",
+    "url": "https://github.com/saikou-app/saikou",
+    "desc": "An anilist only client, which lets you stream & download Anime & Manga.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "microsoft/azure-pipelines-tasks",
+    "url": "https://github.com/microsoft/azure-pipelines-tasks",
+    "desc": "Tasks for Azure Pipelines",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "probml/pyprobml",
+    "url": "https://github.com/probml/pyprobml",
+    "desc": "Python code for Probabilistic Machine learning book by Kevin Murphy",
+    "lang": "Python"
+  },
+  {
+    "title": "Unity-Technologies/Graphics",
+    "url": "https://github.com/Unity-Technologies/Graphics",
+    "desc": "Unity Graphics - Including Scriptable Render Pipeline",
+    "lang": "C#"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kabinspace/AstroVim",
+    "url": "https://github.com/kabinspace/AstroVim",
+    "desc": "AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "lang": "Lua"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  }
+]
