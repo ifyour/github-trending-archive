@@ -1,0 +1,151 @@
+[
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "trufflesecurity/trufflehog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "desc": "Find credentials all over the place",
+    "lang": "Go"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "lang": "HTML"
+  },
+  {
+    "title": "yoship1639/UniToon",
+    "url": "https://github.com/yoship1639/UniToon",
+    "desc": "Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.",
+    "lang": "ShaderLab"
+  },
+  {
+    "title": "goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "desc": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vercel/pkg",
+    "url": "https://github.com/vercel/pkg",
+    "desc": "Package your Node.js project into an executable",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BabylonJS/Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "desc": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "brettwooldridge/HikariCP",
+    "url": "https://github.com/brettwooldridge/HikariCP",
+    "desc": "光 HikariCP・A solid, high-performance, JDBC connection pool at last.",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/azure-pipelines-tasks",
+    "url": "https://github.com/microsoft/azure-pipelines-tasks",
+    "desc": "Tasks for Azure Pipelines",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rome/tools",
+    "url": "https://github.com/rome/tools",
+    "desc": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/incubator-shenyu",
+    "url": "https://github.com/apache/incubator-shenyu",
+    "desc": "ShenYu is High-Performance Java API Gateway.",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "desc": "A massively parallel, optimal functional runtime in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/re2",
+    "url": "https://github.com/google/re2",
+    "desc": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "lang": "C++"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "kilimchoi/engineering-blogs",
+    "url": "https://github.com/kilimchoi/engineering-blogs",
+    "desc": "A curated list of engineering blogs",
+    "lang": "Ruby"
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "desc": "The official home of the Presto distributed SQL query engine for big data",
+    "lang": "Java"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "An enterprise-class UI design language and React UI library",
+    "lang": "TypeScript"
+  }
+]
