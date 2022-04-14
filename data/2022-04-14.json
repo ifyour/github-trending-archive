@@ -1,0 +1,145 @@
+[
+  {
+    "title": "ekzhang/bore",
+    "url": "https://github.com/ekzhang/bore",
+    "desc": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+    "lang": "Rust"
+  },
+  {
+    "title": "chiru-labs/ERC721A",
+    "url": "https://github.com/chiru-labs/ERC721A",
+    "desc": "https://ERC721A.org",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "archway-network/testnets",
+    "url": "https://github.com/archway-network/testnets",
+    "desc": "This repository contains archway testnets"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
+    "desc": "Resources for deep learning with satellite & aerial imagery"
+  },
+  {
+    "title": "goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "desc": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (March 2022)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gakonst/foundry",
+    "url": "https://github.com/gakonst/foundry",
+    "desc": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "oneThousand1000/non-hair-FFHQ",
+    "url": "https://github.com/oneThousand1000/non-hair-FFHQ",
+    "desc": "A dataset that contains 6,000 non-hair FFHQ portraits."
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "desc": "Like Prometheus, but for logs.",
+    "lang": "Go"
+  },
+  {
+    "title": "projectdiscovery/subfinder",
+    "url": "https://github.com/projectdiscovery/subfinder",
+    "desc": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+    "lang": "Go"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "mlcommons/inference",
+    "url": "https://github.com/mlcommons/inference",
+    "desc": "Reference implementations of MLPerf™ inference benchmarks",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "ern0/howto-wasm-minimal",
+    "url": "https://github.com/ern0/howto-wasm-minimal",
+    "desc": "How to create minimal wasm module",
+    "lang": "C++"
+  },
+  {
+    "title": "projectdiscovery/uncover",
+    "url": "https://github.com/projectdiscovery/uncover",
+    "desc": "Quickly discover exposed hosts on the internet using multiple search engine.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "tc39/proposals",
+    "url": "https://github.com/tc39/proposals",
+    "desc": "Tracking ECMAScript Proposals"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Lissy93/personal-security-checklist",
+    "url": "https://github.com/Lissy93/personal-security-checklist",
+    "desc": "🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  }
+]
