@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "AykutSarac/jsonvisio.com",
+    "url": "https://github.com/AykutSarac/jsonvisio.com",
+    "desc": "🧩 Visualize your JSON data onto graphs seamlessly.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "urfave/cli",
+    "url": "https://github.com/urfave/cli",
+    "desc": "A simple, fast, and fun package for building command line apps in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "CodinGame/SpringChallenge2022",
+    "url": "https://github.com/CodinGame/SpringChallenge2022",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "bloomberg/memray",
+    "url": "https://github.com/bloomberg/memray",
+    "desc": "Memray is a memory profiler for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "lang": "HTML"
+  },
+  {
+    "title": "wisdompeak/LeetCode",
+    "url": "https://github.com/wisdompeak/LeetCode",
+    "desc": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.",
+    "lang": "C++"
+  },
+  {
+    "title": "openai/CLIP",
+    "url": "https://github.com/openai/CLIP",
+    "desc": "Contrastive Language-Image Pretraining",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hakivvi/CVE-2022-29464",
+    "url": "https://github.com/hakivvi/CVE-2022-29464",
+    "desc": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
+    "lang": "Python"
+  },
+  {
+    "title": "diesel-rs/diesel",
+    "url": "https://github.com/diesel-rs/diesel",
+    "desc": "A safe, extensible ORM and Query Builder for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Courseplay/Courseplay_FS22",
+    "url": "https://github.com/Courseplay/Courseplay_FS22",
+    "desc": "Courseplay for Farming Simulator 2022",
+    "lang": "Lua"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "warpdotdev/Warp",
+    "url": "https://github.com/warpdotdev/Warp",
+    "desc": "Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive."
+  },
+  {
+    "title": "mxgmn/WaveFunctionCollapse",
+    "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "desc": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics",
+    "lang": "C#"
+  },
+  {
+    "title": "dair-ai/ML-Notebooks",
+    "url": "https://github.com/dair-ai/ML-Notebooks",
+    "desc": "🔥 A series of code examples for all sorts of machine learning tasks and applications."
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "desc": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "desc": "GitHub’s official command line tool",
+    "lang": "Go"
+  },
+  {
+    "title": "grpc/grpc-go",
+    "url": "https://github.com/grpc/grpc-go",
+    "desc": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "lang": "Go"
+  },
+  {
+    "title": "tteck/Proxmox",
+    "url": "https://github.com/tteck/Proxmox",
+    "desc": "Proxmox Helper Scripts",
+    "lang": "Shell"
+  }
+]
