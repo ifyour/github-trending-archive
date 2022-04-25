@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "WolfireGames/overgrowth",
+    "url": "https://github.com/WolfireGames/overgrowth",
+    "desc": "Open Source codebase of the game Overgrowth by Wolfire Games LLC",
+    "lang": "C++"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "FBlackBox/BlackBox",
+    "url": "https://github.com/FBlackBox/BlackBox",
+    "desc": "BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox."
+  },
+  {
+    "title": "janestreet/magic-trace",
+    "url": "https://github.com/janestreet/magic-trace",
+    "desc": "magic-trace collects and displays high-resolution traces of what a process is doing",
+    "lang": "OCaml"
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "desc": "Repository containing the game data for the game Genshin Impact."
+  },
+  {
+    "title": "Grasscutters/Grasscutter-Protos",
+    "url": "https://github.com/Grasscutters/Grasscutter-Protos",
+    "desc": "Protobuf files for Grasscutter"
+  },
+  {
+    "title": "stylegan-human/StyleGAN-Human",
+    "url": "https://github.com/stylegan-human/StyleGAN-Human",
+    "desc": "StyleGAN-Human: A Data-Centric Odyssey of Human Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "urfave/cli",
+    "url": "https://github.com/urfave/cli",
+    "desc": "A simple, fast, and fun package for building command line apps in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "lang": "HTML"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "radioegor146/gi-bin-output",
+    "url": "https://github.com/radioegor146/gi-bin-output",
+    "desc": "Almost™ full Genshin Impact BinOutput data"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "lang": "C++"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "desc": "World's fastest and most advanced password recovery utility",
+    "lang": "C"
+  },
+  {
+    "title": "BGU-CS-VIL/DeepDPM",
+    "url": "https://github.com/BGU-CS-VIL/DeepDPM",
+    "desc": "DeepDPM: Deep Clustering With An Unknown Number of Clusters [CVPR 2022]",
+    "lang": "Python"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "lang": "C"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abdallahdib/NextFace",
+    "url": "https://github.com/abdallahdib/NextFace",
+    "desc": "A high-fidelity 3D face reconstruction library from monocular RGB image(s)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "desc": "mold: A Modern Linker",
+    "lang": "C++"
+  },
+  {
+    "title": "acantril/aws-sa-associate-saac02",
+    "url": "https://github.com/acantril/aws-sa-associate-saac02",
+    "desc": "Course Files for AWS Certified Solutions Architect Certification Course (SAAC02) - Adrian Cantrill",
+    "lang": "HTML"
+  }
+]
