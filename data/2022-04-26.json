@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "dimensionhq/fleet",
+    "url": "https://github.com/dimensionhq/fleet",
+    "desc": "🚀 The blazing fast build tool for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "desc": "World's fastest and most advanced password recovery utility",
+    "lang": "C"
+  },
+  {
+    "title": "Rem0o/FanControl.Releases",
+    "url": "https://github.com/Rem0o/FanControl.Releases",
+    "desc": "This is the release repository for Fan Control, a highly customizable fan controlling software for Windows."
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "desc": "Repository containing the game data for the game Genshin Impact."
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "golang-standards/project-layout",
+    "url": "https://github.com/golang-standards/project-layout",
+    "desc": "Standard Go Project Layout",
+    "lang": "Makefile"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "AykutSarac/jsonvisio.com",
+    "url": "https://github.com/AykutSarac/jsonvisio.com",
+    "desc": "🧩 Visualize your JSON data onto graphs seamlessly.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CodinGame/SpringChallenge2022",
+    "url": "https://github.com/CodinGame/SpringChallenge2022",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "Wizz1337/TikTokMassBotting",
+    "url": "https://github.com/Wizz1337/TikTokMassBotting",
+    "desc": "TikTok Mass View & Share Boting ~ Unpatched",
+    "lang": "Python"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.",
+    "lang": "C"
+  },
+  {
+    "title": "Grasscutters/Grasscutter-Protos",
+    "url": "https://github.com/Grasscutters/Grasscutter-Protos",
+    "desc": "Protobuf files for Grasscutter"
+  },
+  {
+    "title": "vueschool/vue-masterclass",
+    "url": "https://github.com/vueschool/vue-masterclass",
+    "desc": "🗂 Source code for The Vue 3 Masterclass",
+    "lang": "CSS"
+  },
+  {
+    "title": "radioegor146/gi-bin-output",
+    "url": "https://github.com/radioegor146/gi-bin-output",
+    "desc": "Almost™ full Genshin Impact BinOutput data"
+  },
+  {
+    "title": "dropout1337/TikTok-Share-Bot",
+    "url": "https://github.com/dropout1337/TikTok-Share-Bot",
+    "desc": "A fast TikTok share bot made in golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "Grasscutters/GrassClipper",
+    "url": "https://github.com/Grasscutters/GrassClipper",
+    "desc": "A launcher for quickly & easily switching server destinations.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aolofsson/awesome-hardware-tools",
+    "url": "https://github.com/aolofsson/awesome-hardware-tools",
+    "desc": "List of awesome open source hardware tools"
+  },
+  {
+    "title": "wisdompeak/LeetCode",
+    "url": "https://github.com/wisdompeak/LeetCode",
+    "desc": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.",
+    "lang": "C++"
+  },
+  {
+    "title": "WolfireGames/overgrowth",
+    "url": "https://github.com/WolfireGames/overgrowth",
+    "desc": "Open Source codebase of the game Overgrowth by Wolfire Games LLC",
+    "lang": "C++"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "title": "FBlackBox/BlackBox",
+    "url": "https://github.com/FBlackBox/BlackBox",
+    "desc": "BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox."
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  }
+]
