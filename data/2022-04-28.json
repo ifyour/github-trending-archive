@@ -1,0 +1,149 @@
+[
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "desc": "The Hybrid Vue(3) Framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "desc": "World's fastest and most advanced password recovery utility",
+    "lang": "C"
+  },
+  {
+    "title": "hlorus/CAD_Sketcher",
+    "url": "https://github.com/hlorus/CAD_Sketcher",
+    "desc": "Constraint-based geometry sketcher for blender",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "desc": "Repository containing the game data for the game Genshin Impact."
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "desc": "The fastai book, published as Jupyter Notebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "python-engineer/snake-ai-pytorch",
+    "url": "https://github.com/python-engineer/snake-ai-pytorch",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "tiimgreen/github-cheat-sheet",
+    "url": "https://github.com/tiimgreen/github-cheat-sheet",
+    "desc": "A list of cool features of Git and GitHub."
+  },
+  {
+    "title": "michael-rubel/livewire-best-practices",
+    "url": "https://github.com/michael-rubel/livewire-best-practices",
+    "desc": "Laravel Livewire Best Practices"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "guzzle/guzzle",
+    "url": "https://github.com/guzzle/guzzle",
+    "desc": "Guzzle, an extensible PHP HTTP client",
+    "lang": "PHP"
+  },
+  {
+    "title": "tuist/tuist",
+    "url": "https://github.com/tuist/tuist",
+    "desc": "🚀 Create, maintain, and interact with Xcode projects at scale",
+    "lang": "Swift"
+  },
+  {
+    "title": "wisdompeak/LeetCode",
+    "url": "https://github.com/wisdompeak/LeetCode",
+    "desc": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.",
+    "lang": "C++"
+  },
+  {
+    "title": "CrunchyData/postgres-operator",
+    "url": "https://github.com/CrunchyData/postgres-operator",
+    "desc": "Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",
+    "lang": "Go"
+  },
+  {
+    "title": "ellie/atuin",
+    "url": "https://github.com/ellie/atuin",
+    "desc": "🐢 Magical shell history",
+    "lang": "Rust"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. Enterprise version:",
+    "lang": "Shell"
+  },
+  {
+    "title": "ektogamat/threejs-andy-bolierplate",
+    "url": "https://github.com/ektogamat/threejs-andy-bolierplate",
+    "desc": "Very simple threejs boilerplate in VanillaJS to start your projects. There is only a basic scene, a load model method and a simple webpack.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "C++"
+  },
+  {
+    "title": "iovisor/bcc",
+    "url": "https://github.com/iovisor/bcc",
+    "desc": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+    "lang": "C"
+  },
+  {
+    "title": "sudheerj/javascript-interview-questions",
+    "url": "https://github.com/sudheerj/javascript-interview-questions",
+    "desc": "List of 1000 JavaScript Interview Questions",
+    "lang": "JavaScript"
+  }
+]
