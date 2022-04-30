@@ -1,0 +1,151 @@
+[
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "jsonhero-io/jsonhero-web",
+    "url": "https://github.com/jsonhero-io/jsonhero-web",
+    "desc": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/wireit",
+    "url": "https://github.com/google/wireit",
+    "desc": "Wireit upgrades your npm scripts to make them smarter and more efficient.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Trainguy9512/trainguys-animation-overhaul",
+    "url": "https://github.com/Trainguy9512/trainguys-animation-overhaul",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "desc": "A multi-voice TTS system trained with an emphasis on quality",
+    "lang": "Python"
+  },
+  {
+    "title": "F5OEO/rpitx",
+    "url": "https://github.com/F5OEO/rpitx",
+    "desc": "RF transmitter for Raspberry Pi",
+    "lang": "C"
+  },
+  {
+    "title": "hlorus/CAD_Sketcher",
+    "url": "https://github.com/hlorus/CAD_Sketcher",
+    "desc": "Constraint-based geometry sketcher for blender",
+    "lang": "Python"
+  },
+  {
+    "title": "rejetto/hfs",
+    "url": "https://github.com/rejetto/hfs",
+    "desc": "HFS is a file server offering a virtual file system (vfs). You can easily share a single file instead of the whole folder, or you can rename it, but without touching the real file, just virtually.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "desc": "Complete container management platform",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "ruilisi/fortune-sheet",
+    "url": "https://github.com/ruilisi/fortune-sheet",
+    "desc": "A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RedisInsight/RedisInsight",
+    "url": "https://github.com/RedisInsight/RedisInsight",
+    "desc": "RedisInsight",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦",
+    "lang": "HCL"
+  },
+  {
+    "title": "FrancescoXX/free-Web3-resources",
+    "url": "https://github.com/FrancescoXX/free-Web3-resources",
+    "desc": "A list of FREE resources to make Web3 accessible to everyone.",
+    "lang": "HTML"
+  },
+  {
+    "title": "Dec0ne/KrbRelayUp",
+    "url": "https://github.com/Dec0ne/KrbRelayUp",
+    "desc": "KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).",
+    "lang": "C#"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "desc": "Delightful JavaScript Testing.",
+    "lang": "TypeScript"
+  }
+]
