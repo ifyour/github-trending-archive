@@ -1,0 +1,152 @@
+[
+  {
+    "title": "BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "url": "https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "desc": "This repository provides motion datasets collected by Bandai Namco Research Inc",
+    "lang": "Python"
+  },
+  {
+    "title": "ganelson/inform",
+    "url": "https://github.com/ganelson/inform",
+    "desc": "The core software distribution for the Inform 7 programming language.",
+    "lang": "C"
+  },
+  {
+    "title": "OpenRA/OpenRA",
+    "url": "https://github.com/OpenRA/OpenRA",
+    "desc": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+    "lang": "C#"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "singularity-data/risingwave",
+    "url": "https://github.com/singularity-data/risingwave",
+    "desc": "RisingWave: the next-generation streaming database in the cloud.",
+    "lang": "Rust"
+  },
+  {
+    "title": "jsonhero-io/jsonhero-web",
+    "url": "https://github.com/jsonhero-io/jsonhero-web",
+    "desc": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "mattpocock/ts-error-translator",
+    "url": "https://github.com/mattpocock/ts-error-translator",
+    "desc": "Translate your TypeScript errors into plain English",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ellie/atuin",
+    "url": "https://github.com/ellie/atuin",
+    "desc": "🐢 Magical shell history",
+    "lang": "Rust"
+  },
+  {
+    "title": "ethereum-optimism/optimism",
+    "url": "https://github.com/ethereum-optimism/optimism",
+    "desc": "The Optimism monorepo",
+    "lang": "Go"
+  },
+  {
+    "title": "streamxhub/streamx",
+    "url": "https://github.com/streamxhub/streamx",
+    "desc": "Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",
+    "lang": "Scala"
+  },
+  {
+    "title": "CoreWCF/CoreWCF",
+    "url": "https://github.com/CoreWCF/CoreWCF",
+    "desc": "Main repository for the Core WCF project",
+    "lang": "C#"
+  },
+  {
+    "title": "BoomingTech/Pilot",
+    "url": "https://github.com/BoomingTech/Pilot",
+    "desc": "Pilot – mini game engine for games104",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "desc": "Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "klauspost/compress",
+    "url": "https://github.com/klauspost/compress",
+    "desc": "Optimized Go Compression Packages",
+    "lang": "Go"
+  },
+  {
+    "title": "kedacore/keda",
+    "url": "https://github.com/kedacore/keda",
+    "desc": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "ddangelov/Top2Vec",
+    "url": "https://github.com/ddangelov/Top2Vec",
+    "desc": "Top2Vec learns jointly embedded topic, document and word vectors.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/wireit",
+    "url": "https://github.com/google/wireit",
+    "desc": "Wireit upgrades your npm scripts to make them smarter and more efficient.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "desc": "Smart, Fast and Extensible Build System",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pmndrs/drei",
+    "url": "https://github.com/pmndrs/drei",
+    "desc": "🥉 useful helpers for react-three-fiber",
+    "lang": "JavaScript"
+  }
+]
