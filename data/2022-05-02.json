@@ -1,0 +1,151 @@
+[
+  {
+    "title": "actualbudget/actual",
+    "url": "https://github.com/actualbudget/actual",
+    "desc": "A local-first personal finance system",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "actualbudget/actual-server",
+    "url": "https://github.com/actualbudget/actual-server",
+    "desc": "Actual's server",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/wireit",
+    "url": "https://github.com/google/wireit",
+    "desc": "Wireit upgrades your npm scripts to make them smarter and more efficient.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "RedisInsight/RedisInsight",
+    "url": "https://github.com/RedisInsight/RedisInsight",
+    "desc": "RedisInsight",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ganelson/inform",
+    "url": "https://github.com/ganelson/inform",
+    "desc": "The core software distribution for the Inform 7 programming language.",
+    "lang": "C"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "kuglee/TermiWatch",
+    "url": "https://github.com/kuglee/TermiWatch",
+    "desc": "Terminal Watch Face for Apple Watch",
+    "lang": "Swift"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "FrancescoXX/free-Web3-resources",
+    "url": "https://github.com/FrancescoXX/free-Web3-resources",
+    "desc": "A list of FREE resources to make Web3 accessible to everyone.",
+    "lang": "HTML"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "G33kzD3n/Catalogue",
+    "url": "https://github.com/G33kzD3n/Catalogue",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "cashapp/pranadb",
+    "url": "https://github.com/cashapp/pranadb",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/",
+    "lang": "C#"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gnolang/gno",
+    "url": "https://github.com/gnolang/gno",
+    "desc": "Gno language",
+    "lang": "Go"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "AlreadyBored/basic-js",
+    "url": "https://github.com/AlreadyBored/basic-js",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jsonhero-io/jsonhero-web",
+    "url": "https://github.com/jsonhero-io/jsonhero-web",
+    "desc": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "desc": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition"
+  }
+]
