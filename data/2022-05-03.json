@@ -1,0 +1,150 @@
+[
+  {
+    "title": "pyscript/pyscript",
+    "url": "https://github.com/pyscript/pyscript",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "actualbudget/actual",
+    "url": "https://github.com/actualbudget/actual",
+    "desc": "A local-first personal finance system",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "actualbudget/actual-server",
+    "url": "https://github.com/actualbudget/actual-server",
+    "desc": "Actual's server",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PacktPublishing/The-Kaggle-Book",
+    "url": "https://github.com/PacktPublishing/The-Kaggle-Book",
+    "desc": "Code Repository for The Kaggle Book, Published by Packt Publishing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Aria/qBittorrent Telegram mirror/leech bot",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lukemurraynz/awesome-azure-architecture",
+    "url": "https://github.com/lukemurraynz/awesome-azure-architecture",
+    "desc": "AWESOME-Azure-Architecture"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "StevenBlack/hosts",
+    "url": "https://github.com/StevenBlack/hosts",
+    "desc": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+    "lang": "Python"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "G33kzD3n/Catalogue",
+    "url": "https://github.com/G33kzD3n/Catalogue",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kuglee/TermiWatch",
+    "url": "https://github.com/kuglee/TermiWatch",
+    "desc": "Terminal Watch Face for Apple Watch",
+    "lang": "Swift"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  }
+]
