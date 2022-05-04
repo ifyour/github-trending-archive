@@ -1,0 +1,150 @@
+[
+  {
+    "title": "pyscript/pyscript",
+    "url": "https://github.com/pyscript/pyscript",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "desc": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "saalikmubeen/microservices-architectured-app",
+    "url": "https://github.com/saalikmubeen/microservices-architectured-app",
+    "desc": "Event-driven microservices architectured e-commerce app created using Express, Typescript, Nats-Streaming and Next.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bizz84/complete-flutter-course",
+    "url": "https://github.com/bizz84/complete-flutter-course",
+    "desc": "Complete Flutter Course Bundle - Flutter eCommerce App",
+    "lang": "Dart"
+  },
+  {
+    "title": "lukemurraynz/awesome-azure-architecture",
+    "url": "https://github.com/lukemurraynz/awesome-azure-architecture",
+    "desc": "AWESOME-Azure-Architecture"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "replicate/cog",
+    "url": "https://github.com/replicate/cog",
+    "desc": "Containers for machine learning",
+    "lang": "Go"
+  },
+  {
+    "title": "nomi-sec/PoC-in-GitHub",
+    "url": "https://github.com/nomi-sec/PoC-in-GitHub",
+    "desc": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware."
+  },
+  {
+    "title": "vincentneo/LosslessSwitcher",
+    "url": "https://github.com/vincentneo/LosslessSwitcher",
+    "desc": "Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.",
+    "lang": "Swift"
+  },
+  {
+    "title": "PacktPublishing/The-Kaggle-Book",
+    "url": "https://github.com/PacktPublishing/The-Kaggle-Book",
+    "desc": "Code Repository for The Kaggle Book, Published by Packt Publishing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "RedisInsight/RedisInsight",
+    "url": "https://github.com/RedisInsight/RedisInsight",
+    "desc": "RedisInsight",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "actualbudget/actual",
+    "url": "https://github.com/actualbudget/actual",
+    "desc": "A local-first personal finance system",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "AlreadyBored/basic-js-ds",
+    "url": "https://github.com/AlreadyBored/basic-js-ds",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "JupyterNotebook"
+  }
+]
