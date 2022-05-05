@@ -1,0 +1,150 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SebLague/Geographical-Adventures",
+    "url": "https://github.com/SebLague/Geographical-Adventures",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "pyscript/pyscript",
+    "url": "https://github.com/pyscript/pyscript",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "ipfs/go-ipfs",
+    "url": "https://github.com/ipfs/go-ipfs",
+    "desc": "IPFS implementation in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "PacktPublishing/The-Kaggle-Book",
+    "url": "https://github.com/PacktPublishing/The-Kaggle-Book",
+    "desc": "Code Repository for The Kaggle Book, Published by Packt Publishing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "replicate/cog",
+    "url": "https://github.com/replicate/cog",
+    "desc": "Containers for machine learning",
+    "lang": "Go"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "desc": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "ItsKaitlyn03/OculusKiller",
+    "url": "https://github.com/ItsKaitlyn03/OculusKiller",
+    "desc": "Completely kill the Oculus Dash and auto-launch SteamVR.",
+    "lang": "C#"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "palantir/blueprint",
+    "url": "https://github.com/palantir/blueprint",
+    "desc": "A React-based UI toolkit for the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "desc": "This repository contains .NET Documentation."
+  },
+  {
+    "title": "trexminer/T-Rex",
+    "url": "https://github.com/trexminer/T-Rex",
+    "desc": "T-Rex NVIDIA GPU miner with web control monitoring page"
+  },
+  {
+    "title": "ossf/package-analysis",
+    "url": "https://github.com/ossf/package-analysis",
+    "desc": "Open Source Package Analysis",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "desc": "Free MLOps course from DataTalks.Club",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  }
+]
