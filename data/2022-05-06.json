@@ -1,0 +1,150 @@
+[
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "education/GitHubGraduation-2022",
+    "url": "https://github.com/education/GitHubGraduation-2022",
+    "desc": "Join the GitHub Graduation Yearbook and walk the stage on June 11.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "pyscript/pyscript",
+    "url": "https://github.com/pyscript/pyscript",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "huggingface/deep-rl-class",
+    "url": "https://github.com/huggingface/deep-rl-class",
+    "desc": "This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "desc": "Repository containing the game data for the game Genshin Impact."
+  },
+  {
+    "title": "mikeroyal/Digital-Forensics-Guide",
+    "url": "https://github.com/mikeroyal/Digital-Forensics-Guide",
+    "desc": "Digital Forensics Guide",
+    "lang": "Python"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "desc": "This repository contains .NET Documentation."
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "theVakhovskeIsTaken/holoiso",
+    "url": "https://github.com/theVakhovskeIsTaken/holoiso",
+    "desc": "SteamOS 3 (Holo) archiso configuration",
+    "lang": "Shell"
+  },
+  {
+    "title": "NginxProxyManager/nginx-proxy-manager",
+    "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+    "desc": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "SebLague/Geographical-Adventures",
+    "url": "https://github.com/SebLague/Geographical-Adventures",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "lang": "PHP"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "lang": "Python"
+  },
+  {
+    "title": "pulumi/pulumi",
+    "url": "https://github.com/pulumi/pulumi",
+    "desc": "Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",
+    "lang": "Go"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  }
+]
