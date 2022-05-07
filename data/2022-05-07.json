@@ -1,0 +1,151 @@
+[
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Microsoft-3D-Movie-Maker",
+    "url": "https://github.com/microsoft/Microsoft-3D-Movie-Maker",
+    "desc": "This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.",
+    "lang": "SWIG"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "huggingface/deep-rl-class",
+    "url": "https://github.com/huggingface/deep-rl-class",
+    "desc": "This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mikeroyal/Digital-Forensics-Guide",
+    "url": "https://github.com/mikeroyal/Digital-Forensics-Guide",
+    "desc": "Digital Forensics Guide",
+    "lang": "Python"
+  },
+  {
+    "title": "pyscript/pyscript",
+    "url": "https://github.com/pyscript/pyscript",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "education/GitHubGraduation-2022",
+    "url": "https://github.com/education/GitHubGraduation-2022",
+    "desc": "Join the GitHub Graduation Yearbook and walk the stage on June 11.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "lang": "Python"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "theVakhovskeIsTaken/holoiso",
+    "url": "https://github.com/theVakhovskeIsTaken/holoiso",
+    "desc": "SteamOS 3 (Holo) archiso configuration",
+    "lang": "Shell"
+  },
+  {
+    "title": "polarsignals/arcticdb",
+    "url": "https://github.com/polarsignals/arcticdb",
+    "desc": "❄️ Coolest database around 🧊 Embeddable column database written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "ElemeFE/element",
+    "url": "https://github.com/ElemeFE/element",
+    "desc": "A Vue.js 2.0 UI Toolkit for Web",
+    "lang": "Vue"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "desc": "This repository contains .NET Documentation."
+  },
+  {
+    "title": "SebLague/Geographical-Adventures",
+    "url": "https://github.com/SebLague/Geographical-Adventures",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "AykutSarac/jsonvisio.com",
+    "url": "https://github.com/AykutSarac/jsonvisio.com",
+    "desc": "🧩 Visualize your JSON data onto graphs seamlessly.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "desc": "Gogs is a painless self-hosted Git service",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/incubator-kvrocks",
+    "url": "https://github.com/apache/incubator-kvrocks",
+    "desc": "Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/EasyNLP",
+    "url": "https://github.com/alibaba/EasyNLP",
+    "desc": "EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fkhadra/react-toastify",
+    "url": "https://github.com/fkhadra/react-toastify",
+    "desc": "React notification made easy 🚀 !",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  }
+]
