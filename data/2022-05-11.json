@@ -1,0 +1,148 @@
+[
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "desc": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI."
+  },
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "desc": "Free MLOps course from DataTalks.Club",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NebuTech/NBMiner",
+    "url": "https://github.com/NebuTech/NBMiner",
+    "desc": "GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "naptha/tesseract.js",
+    "url": "https://github.com/naptha/tesseract.js",
+    "desc": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "pojntfx/weron",
+    "url": "https://github.com/pojntfx/weron",
+    "desc": "Overlay networks based on WebRTC.",
+    "lang": "Go"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "desc": "⚙️ NGINX config generator on steroids 💉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "go-kratos/kratos",
+    "url": "https://github.com/go-kratos/kratos",
+    "desc": "Your ultimate Go microservices framework for the cloud-native era.",
+    "lang": "Go"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2022"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "desc": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "meysamhadeli/booking-microservices-sample",
+    "url": "https://github.com/meysamhadeli/booking-microservices-sample",
+    "desc": "Booking Microservices is a Sample application for booking ticket. This application based on different software architecture and technologies like .Net Core, CQRS, DDD, Vertical Slice Architecture, Docker, kubernetes, tye, masstransit, RabbitMQ, Grpc, yarp reverse proxy, Identity Server, Redis, SqlServer, Entity Framework Core, Event Sourcing and…",
+    "lang": "C#"
+  },
+  {
+    "title": "paulgp/applied-methods-phd",
+    "url": "https://github.com/paulgp/applied-methods-phd",
+    "desc": "Repo for Yale Applied Empirical Methods PHD Course",
+    "lang": "TeX"
+  },
+  {
+    "title": "Jdsleppy/django-orm-cheatsheet",
+    "url": "https://github.com/Jdsleppy/django-orm-cheatsheet",
+    "desc": "A cheatsheet for the Django ORM"
+  },
+  {
+    "title": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "desc": "Gogs is a painless self-hosted Git service",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "kubesphere/kubesphere",
+    "url": "https://github.com/kubesphere/kubesphere",
+    "desc": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "lang": "Go"
+  },
+  {
+    "title": "BabylonJS/Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "desc": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "desc": "A web framework for Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Oneflow-Inc/oneflow",
+    "url": "https://github.com/Oneflow-Inc/oneflow",
+    "desc": "OneFlow is a performance-centered and open-source deep learning framework.",
+    "lang": "C++"
+  },
+  {
+    "title": "cloudwego/kitex",
+    "url": "https://github.com/cloudwego/kitex",
+    "desc": "A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "juniorforlife/react-native-animations",
+    "url": "https://github.com/juniorforlife/react-native-animations",
+    "desc": "",
+    "lang": "TypeScript"
+  }
+]
