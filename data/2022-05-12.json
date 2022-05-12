@@ -1,0 +1,150 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "purocean/yn",
+    "url": "https://github.com/purocean/yn",
+    "desc": "A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "desc": "Fast, multi-platform web server with automatic HTTPS",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "lang": "Clojure"
+  },
+  {
+    "title": "horizon3ai/CVE-2022-1388",
+    "url": "https://github.com/horizon3ai/CVE-2022-1388",
+    "desc": "POC for CVE-2022-1388",
+    "lang": "Python"
+  },
+  {
+    "title": "benbjohnson/litestream",
+    "url": "https://github.com/benbjohnson/litestream",
+    "desc": "Streaming replication for SQLite.",
+    "lang": "Go"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "charmbracelet/bubbletea",
+    "url": "https://github.com/charmbracelet/bubbletea",
+    "desc": "A powerful little TUI framework 🏗",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "theVakhovskeIsTaken/holoiso",
+    "url": "https://github.com/theVakhovskeIsTaken/holoiso",
+    "desc": "SteamOS 3 (Holo) archiso configuration",
+    "lang": "Shell"
+  },
+  {
+    "title": "NebuTech/NBMiner",
+    "url": "https://github.com/NebuTech/NBMiner",
+    "desc": "GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "desc": "MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexbatalov/fallout2-re",
+    "url": "https://github.com/alexbatalov/fallout2-re",
+    "desc": "Reverse engineered Fallout 2",
+    "lang": "C"
+  },
+  {
+    "title": "dusty-nv/jetson-inference",
+    "url": "https://github.com/dusty-nv/jetson-inference",
+    "desc": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "lang": "C++"
+  },
+  {
+    "title": "kcp-dev/kcp",
+    "url": "https://github.com/kcp-dev/kcp",
+    "desc": "kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters",
+    "lang": "Go"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "C++"
+  }
+]
