@@ -1,0 +1,147 @@
+[
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "Cveinnt/LiveTerm",
+    "url": "https://github.com/Cveinnt/LiveTerm",
+    "desc": "💻 Build terminal styled websites in minutes!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "b3nj5m1n/xdg-ninja",
+    "url": "https://github.com/b3nj5m1n/xdg-ninja",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "NannyML/nannyml",
+    "url": "https://github.com/NannyML/nannyml",
+    "desc": "Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rari-Capital/solmate",
+    "url": "https://github.com/Rari-Capital/solmate",
+    "desc": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dokku/dokku",
+    "url": "https://github.com/dokku/dokku",
+    "desc": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+    "lang": "Shell"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
+    "lang": "Java"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows/macOS GUI based on Clash"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "spicetify/spicetify-cli",
+    "url": "https://github.com/spicetify/spicetify-cli",
+    "desc": "Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "desc": "Flipper Zero Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "ACM-Alexandria-SC/Internships",
+    "url": "https://github.com/ACM-Alexandria-SC/Internships",
+    "desc": ""
+  }
+]
