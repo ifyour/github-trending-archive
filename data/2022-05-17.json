@@ -1,0 +1,147 @@
+[
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "b3nj5m1n/xdg-ninja",
+    "url": "https://github.com/b3nj5m1n/xdg-ninja",
+    "desc": "A shell script which checks your $HOME for unwanted files and directories.",
+    "lang": "Shell"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "Lucaslhm/Flipper-IRDB",
+    "url": "https://github.com/Lucaslhm/Flipper-IRDB",
+    "desc": "A collective of different IRs for the Flipper"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "desc": "A Neovim config designed from scratch to be understandable",
+    "lang": "Lua"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "Cveinnt/LiveTerm",
+    "url": "https://github.com/Cveinnt/LiveTerm",
+    "desc": "💻 Build terminal styled websites in minutes!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HarbourMasters/Shipwright",
+    "url": "https://github.com/HarbourMasters/Shipwright",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "desc": "The Single Sign-On Multi-Factor portal for web apps",
+    "lang": "Go"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Java"
+  },
+  {
+    "title": "evrone/go-clean-template",
+    "url": "https://github.com/evrone/go-clean-template",
+    "desc": "Clean Architecture template for Golang services",
+    "lang": "Go"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
+    "lang": "Java"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "connorferster/handcalcs",
+    "url": "https://github.com/connorferster/handcalcs",
+    "desc": "Python library for converting Python calculations into rendered latex.",
+    "lang": "CSS"
+  },
+  {
+    "title": "penk/MainboardTerminal",
+    "url": "https://github.com/penk/MainboardTerminal",
+    "desc": "A Retro-style Computer with a Modern Core"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-rust",
+    "url": "https://github.com/shadowsocks/shadowsocks-rust",
+    "desc": "A Rust port of shadowsocks",
+    "lang": "Rust"
+  }
+]
