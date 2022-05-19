@@ -1,0 +1,149 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "desc": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "cilium/tetragon",
+    "url": "https://github.com/cilium/tetragon",
+    "desc": "eBPF-based Security Observability and Runtime Enforcement",
+    "lang": "C"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "MrGlockenspiel/activate-linux",
+    "url": "https://github.com/MrGlockenspiel/activate-linux",
+    "desc": "The Activate Windows watermark ported to Linux",
+    "lang": "C"
+  },
+  {
+    "title": "cloudwego/kitex-examples",
+    "url": "https://github.com/cloudwego/kitex-examples",
+    "desc": "Examples for Kitex.",
+    "lang": "Go"
+  },
+  {
+    "title": "rzashakeri/beautify-github-profile",
+    "url": "https://github.com/rzashakeri/beautify-github-profile",
+    "desc": "This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐"
+  },
+  {
+    "title": "javascript-tutorial/en.javascript.info",
+    "url": "https://github.com/javascript-tutorial/en.javascript.info",
+    "desc": "Modern JavaScript Tutorial",
+    "lang": "HTML"
+  },
+  {
+    "title": "ChainSafe/web3.js",
+    "url": "https://github.com/ChainSafe/web3.js",
+    "desc": "Ethereum JavaScript API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "p0dalirius/Awesome-RCE-techniques",
+    "url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "desc": "Awesome list of techniques to achieve Remote Code Execution on various apps!",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "desc": "🎤⌨️ Acoustic keyboard eavesdropping",
+    "lang": "C++"
+  },
+  {
+    "title": "OpenCTI-Platform/opencti",
+    "url": "https://github.com/OpenCTI-Platform/opencti",
+    "desc": "Open Cyber Threat Intelligence Platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "evrone/go-clean-template",
+    "url": "https://github.com/evrone/go-clean-template",
+    "desc": "Clean Architecture template for Golang services",
+    "lang": "Go"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "PatrikH0lop/malware_showcase",
+    "url": "https://github.com/PatrikH0lop/malware_showcase",
+    "desc": "Understand the nature of malicious software with practical examples in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "desc": "Free MLOps course from DataTalks.Club",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "anhkgg/SuperRDP",
+    "url": "https://github.com/anhkgg/SuperRDP",
+    "desc": "Super RDPWrap",
+    "lang": "C++"
+  },
+  {
+    "title": "bitnami/charts",
+    "url": "https://github.com/bitnami/charts",
+    "desc": "Bitnami Helm Charts",
+    "lang": "Mustache"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "desc": "The Single Sign-On Multi-Factor portal for web apps",
+    "lang": "Go"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  }
+]
