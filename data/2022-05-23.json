@@ -1,0 +1,146 @@
+[
+  {
+    "title": "SerenityOS/jakt",
+    "url": "https://github.com/SerenityOS/jakt",
+    "desc": "The Jakt Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "M66B/FairEmail",
+    "url": "https://github.com/M66B/FairEmail",
+    "desc": "Fully featured, open source, privacy friendly email app for Android",
+    "lang": "Java"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
+    "lang": "Rust"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "education/GitHubGraduation-2022",
+    "url": "https://github.com/education/GitHubGraduation-2022",
+    "desc": "Join the GitHub Graduation Yearbook and walk the stage on June 11.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ACM-Alexandria-SC/Internships",
+    "url": "https://github.com/ACM-Alexandria-SC/Internships",
+    "desc": ""
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "sharkdp/fd",
+    "url": "https://github.com/sharkdp/fd",
+    "desc": "A simple, fast and user-friendly alternative to 'find'",
+    "lang": "Rust"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "noisetorch/NoiseTorch",
+    "url": "https://github.com/noisetorch/NoiseTorch",
+    "desc": "Real-time microphone noise suppression on Linux.",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects."
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KaTeX/KaTeX",
+    "url": "https://github.com/KaTeX/KaTeX",
+    "desc": "Fast math typesetting for the web.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "NVlabs/nvdiffrec",
+    "url": "https://github.com/NVlabs/nvdiffrec",
+    "desc": "Official code for the CVPR 2022 (oral) paper Extracting Triangular 3D Models, Materials, and Lighting From Images.",
+    "lang": "Python"
+  },
+  {
+    "title": "TrinityCore/TrinityCore",
+    "url": "https://github.com/TrinityCore/TrinityCore",
+    "desc": "TrinityCore Open Source MMO Framework (master = 9.2.0.43345, 3.3.5 = 3.3.5a.12340)",
+    "lang": "C++"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "desc": "Metasploit Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "simh/simh",
+    "url": "https://github.com/simh/simh",
+    "desc": "The Computer History Simulation Project",
+    "lang": "C"
+  }
+]
