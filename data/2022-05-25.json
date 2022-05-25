@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ansh/bionic-reading",
+    "url": "https://github.com/ansh/bionic-reading",
+    "desc": "A Chrome Extension for Bionic Reading on ANY website!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SerenityOS/jakt",
+    "url": "https://github.com/SerenityOS/jakt",
+    "desc": "The Jakt Programming Language",
+    "lang": "Rust"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
+    "lang": "Rust"
+  },
+  {
+    "title": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "desc": "A fast JSON parser/generator for Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mifi/lossless-cut",
+    "url": "https://github.com/mifi/lossless-cut",
+    "desc": "The swiss army knife of lossless video/audio editing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ProjectOpenSea/seaport",
+    "url": "https://github.com/ProjectOpenSea/seaport",
+    "desc": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "education/GitHubGraduation-2022",
+    "url": "https://github.com/education/GitHubGraduation-2022",
+    "desc": "Join the GitHub Graduation Yearbook and walk the stage on June 11.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "uutils/coreutils",
+    "url": "https://github.com/uutils/coreutils",
+    "desc": "Cross-platform Rust rewrite of the GNU coreutils",
+    "lang": "Rust"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "go-redis/redis",
+    "url": "https://github.com/go-redis/redis",
+    "desc": "Type-safe Redis client for Golang",
+    "lang": "Go"
+  },
+  {
+    "title": "kentcdodds/advanced-remix",
+    "url": "https://github.com/kentcdodds/advanced-remix",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "TryGhost/Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "desc": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "deepmind/mujoco",
+    "url": "https://github.com/deepmind/mujoco",
+    "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "lang": "C"
+  },
+  {
+    "title": "fastify/fastify",
+    "url": "https://github.com/fastify/fastify",
+    "desc": "Fast and low overhead web framework, for Node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "pvolok/mprocs",
+    "url": "https://github.com/pvolok/mprocs",
+    "desc": "Run multiple commands in parallel",
+    "lang": "Rust"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  }
+]
