@@ -1,0 +1,150 @@
+[
+  {
+    "title": "deepmind/mujoco",
+    "url": "https://github.com/deepmind/mujoco",
+    "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "lang": "C"
+  },
+  {
+    "title": "terra-money/core",
+    "url": "https://github.com/terra-money/core",
+    "desc": "GO implementation of the Terra 2.0 Protocol",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ansh/bionic-reading",
+    "url": "https://github.com/ansh/bionic-reading",
+    "desc": "A Chrome Extension for Bionic Reading on ANY website!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "desc": "NocoBase is a scalability-first, open-source no-code/low-code development platform.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kentcdodds/advanced-remix",
+    "url": "https://github.com/kentcdodds/advanced-remix",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "databricks-academy/data-engineering-with-databricks",
+    "url": "https://github.com/databricks-academy/data-engineering-with-databricks",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build data apps in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "github/super-linter",
+    "url": "https://github.com/github/super-linter",
+    "desc": "Combination of multiple linters to install as a GitHub Action",
+    "lang": "Shell"
+  },
+  {
+    "title": "dotnet-presentations/dotnet-maui-workshop",
+    "url": "https://github.com/dotnet-presentations/dotnet-maui-workshop",
+    "desc": "A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows",
+    "lang": "C#"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "docker/compose",
+    "url": "https://github.com/docker/compose",
+    "desc": "Define and run multi-container applications with Docker",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dair-ai/Mathematics-for-ML",
+    "url": "https://github.com/dair-ai/Mathematics-for-ML",
+    "desc": "🧮 A collection of resources to learn mathematics for machine learning"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "desc": "A javaagent framework",
+    "lang": "Java"
+  },
+  {
+    "title": "faker-js/faker",
+    "url": "https://github.com/faker-js/faker",
+    "desc": "Generate massive amounts of fake data in the browser and node.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dmlc/xgboost",
+    "url": "https://github.com/dmlc/xgboost",
+    "desc": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "lang": "C++"
+  },
+  {
+    "title": "elastic/beats",
+    "url": "https://github.com/elastic/beats",
+    "desc": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+    "lang": "Go"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "Speek-App/Speek",
+    "url": "https://github.com/Speek-App/Speek",
+    "desc": "Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications",
+    "lang": "C++"
+  }
+]
