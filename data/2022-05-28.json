@@ -1,0 +1,151 @@
+[
+  {
+    "title": "phyver/GameShell",
+    "url": "https://github.com/phyver/GameShell",
+    "desc": "a game to learn (or teach) how to use standard commands in a Unix shell",
+    "lang": "Shell"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "desc": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
+    "lang": "C++"
+  },
+  {
+    "title": "singularity-data/risingwave",
+    "url": "https://github.com/singularity-data/risingwave",
+    "desc": "RisingWave: the next-generation streaming database in the cloud.",
+    "lang": "Rust"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The way the world runs Kubernetes",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "desc": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "InoriRus/Kyty",
+    "url": "https://github.com/InoriRus/Kyty",
+    "desc": "PS4 & PS5 emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "axoletl/not-br",
+    "url": "https://github.com/axoletl/not-br",
+    "desc": "Site source for Not BR (https://not-br.neocities.org/)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "terra-money/core",
+    "url": "https://github.com/terra-money/core",
+    "desc": "GO implementation of the Terra 2.0 Protocol",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "lang": "C++"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "desc": "NocoBase is a scalability-first, open-source no-code/low-code development platform.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hyperledger/besu",
+    "url": "https://github.com/hyperledger/besu",
+    "desc": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookresearch/myosuite",
+    "url": "https://github.com/facebookresearch/myosuite",
+    "desc": "MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API.",
+    "lang": "Python"
+  },
+  {
+    "title": "pmndrs/react-three-fiber",
+    "url": "https://github.com/pmndrs/react-three-fiber",
+    "desc": "🇨🇭 A React renderer for Three.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-collector",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector",
+    "desc": "OpenTelemetry Collector",
+    "lang": "Go"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "lang": "JavaScript"
+  }
+]
