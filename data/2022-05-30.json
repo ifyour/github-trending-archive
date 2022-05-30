@@ -1,0 +1,147 @@
+[
+  {
+    "title": "hasinhayder/hydra",
+    "url": "https://github.com/hasinhayder/hydra",
+    "desc": "Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box",
+    "lang": "PHP"
+  },
+  {
+    "title": "livebud/bud",
+    "url": "https://github.com/livebud/bud",
+    "desc": "The Full-Stack Web Framework for Go",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "desc": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cloudflare/cloudflare-docs",
+    "url": "https://github.com/cloudflare/cloudflare-docs",
+    "desc": "Cloudflare’s developer docs.",
+    "lang": "CSS"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-js",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
+    "desc": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "lang": "C"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "Go"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "desc": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+    "lang": "C"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "desc": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "rzashakeri/beautify-github-profile",
+    "url": "https://github.com/rzashakeri/beautify-github-profile",
+    "desc": "This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "desc": "Repository containing the game data for the game Genshin Impact."
+  },
+  {
+    "title": "singularity-data/risingwave",
+    "url": "https://github.com/singularity-data/risingwave",
+    "desc": "RisingWave: the next-generation streaming database in the cloud.",
+    "lang": "Rust"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "lang": "Rust"
+  },
+  {
+    "title": "auctors/free-lunch",
+    "url": "https://github.com/auctors/free-lunch",
+    "desc": "A curated list of free Windows software, online services and resources."
+  },
+  {
+    "title": "trickest/cve",
+    "url": "https://github.com/trickest/cve",
+    "desc": "Gather and update all available and newest CVEs with their PoC."
+  }
+]
