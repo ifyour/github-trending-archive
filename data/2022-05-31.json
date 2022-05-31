@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "neondatabase/neon",
+    "url": "https://github.com/neondatabase/neon",
+    "desc": "The serverless open source alternative to AWS Aurora Postgres.",
+    "lang": "Rust"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "requarks/wiki",
+    "url": "https://github.com/requarks/wiki",
+    "desc": "Wiki.js | A modern and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-js",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
+    "desc": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript"
+  },
+  {
+    "title": "hasinhayder/hydra",
+    "url": "https://github.com/hasinhayder/hydra",
+    "desc": "Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box",
+    "lang": "PHP"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "livebud/bud",
+    "url": "https://github.com/livebud/bud",
+    "desc": "The Full-Stack Web Framework for Go",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Cveinnt/LiveTerm",
+    "url": "https://github.com/Cveinnt/LiveTerm",
+    "desc": "💻 Build terminal styled websites in minutes!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "BishopFox/sliver",
+    "url": "https://github.com/BishopFox/sliver",
+    "desc": "Adversary Emulation Framework",
+    "lang": "Go"
+  },
+  {
+    "title": "cotes2020/jekyll-theme-chirpy",
+    "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
+    "desc": "A minimal, responsive, and powerful Jekyll theme for presenting professional writing.",
+    "lang": "HTML"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "eludadev/css-buttons",
+    "url": "https://github.com/eludadev/css-buttons",
+    "desc": "100 Modern CSS Buttons, Free And Royalty Free.",
+    "lang": "CSS"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "desc": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+    "lang": "C"
+  },
+  {
+    "title": "zju3dv/OnePose",
+    "url": "https://github.com/zju3dv/OnePose",
+    "desc": "Code for OnePose: One-Shot Object Pose Estimation without CAD Models, CVPR 2022"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  }
+]
