@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "lang": "C++"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chvancooten/follina.py",
+    "url": "https://github.com/chvancooten/follina.py",
+    "desc": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
+    "lang": "Smarty"
+  },
+  {
+    "title": "chaharnishant11/CodeIn10DSA",
+    "url": "https://github.com/chaharnishant11/CodeIn10DSA",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Akebi-Group/Akebi-GC",
+    "url": "https://github.com/Akebi-Group/Akebi-GC",
+    "desc": "The great software for some game that exploiting anime girls (and boys).",
+    "lang": "C++"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-js",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
+    "desc": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript"
+  },
+  {
+    "title": "yihong0618/2022",
+    "url": "https://github.com/yihong0618/2022",
+    "desc": "2022 gogogo",
+    "lang": "Python"
+  },
+  {
+    "title": "sottlmarek/DevSecOps",
+    "url": "https://github.com/sottlmarek/DevSecOps",
+    "desc": "Ultimate DevSecOps library"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "xianfei/SysMocap",
+    "url": "https://github.com/xianfei/SysMocap",
+    "desc": "A real-time motion capture system for 3D virtual character animating.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nodejs/undici",
+    "url": "https://github.com/nodejs/undici",
+    "desc": "An HTTP/1.1 client, written from scratch for Node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "toniblyx/my-arsenal-of-aws-security-tools",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "desc": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "lang": "Shell"
+  },
+  {
+    "title": "cookiecutter/cookiecutter",
+    "url": "https://github.com/cookiecutter/cookiecutter",
+    "desc": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
+    "lang": "Python"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "mockito/mockito",
+    "url": "https://github.com/mockito/mockito",
+    "desc": "Most popular Mocking framework for unit tests written in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "requarks/wiki",
+    "url": "https://github.com/requarks/wiki",
+    "desc": "Wiki.js | A modern and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "android/architecture-samples",
+    "url": "https://github.com/android/architecture-samples",
+    "desc": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  }
+]
