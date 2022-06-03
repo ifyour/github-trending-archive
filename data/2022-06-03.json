@@ -1,0 +1,147 @@
+[
+  {
+    "title": "JohnHammond/msdt-follina",
+    "url": "https://github.com/JohnHammond/msdt-follina",
+    "desc": "Codebase to generate an msdt-follina payload",
+    "lang": "Python"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "title": "chvancooten/follina.py",
+    "url": "https://github.com/chvancooten/follina.py",
+    "desc": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
+    "lang": "Smarty"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "khangich/machine-learning-interview",
+    "url": "https://github.com/khangich/machine-learning-interview",
+    "desc": "Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io."
+  },
+  {
+    "title": "sottlmarek/DevSecOps",
+    "url": "https://github.com/sottlmarek/DevSecOps",
+    "desc": "Ultimate DevSecOps library"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "What the f*ck Python? 😱",
+    "lang": "Python"
+  },
+  {
+    "title": "HazyResearch/flash-attention",
+    "url": "https://github.com/HazyResearch/flash-attention",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "desc": "即时通讯IM",
+    "lang": "Go"
+  },
+  {
+    "title": "DavidBrightSparc/Tenets-of-IT",
+    "url": "https://github.com/DavidBrightSparc/Tenets-of-IT",
+    "desc": "The Tenets of IT: an accumulation of IT advice, wisdom, and humour."
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "akaunting/akaunting",
+    "url": "https://github.com/akaunting/akaunting",
+    "desc": "Free and Online Accounting Software",
+    "lang": "PHP"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CogVideo",
+    "url": "https://github.com/THUDM/CogVideo",
+    "desc": "Text-to-video generation."
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Akebi-Group/Akebi-GC",
+    "url": "https://github.com/Akebi-Group/Akebi-GC",
+    "desc": "The great software for some game that exploiting anime girls (and boys).",
+    "lang": "C++"
+  },
+  {
+    "title": "ag-grid/ag-grid",
+    "url": "https://github.com/ag-grid/ag-grid",
+    "desc": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "containers/skopeo",
+    "url": "https://github.com/containers/skopeo",
+    "desc": "Work with remote images registries - retrieving information, images, signing content",
+    "lang": "Go"
+  },
+  {
+    "title": "yugabyte/yugabyte-db",
+    "url": "https://github.com/yugabyte/yugabyte-db",
+    "desc": "The high-performance distributed SQL database for global, internet-scale apps.",
+    "lang": "C"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  }
+]
