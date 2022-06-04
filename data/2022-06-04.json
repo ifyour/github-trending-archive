@@ -1,0 +1,149 @@
+[
+  {
+    "title": "mxgmn/MarkovJunior",
+    "url": "https://github.com/mxgmn/MarkovJunior",
+    "desc": "Probabilistic PL based on pattern matching and constraint propagation, 148 examples",
+    "lang": "C#"
+  },
+  {
+    "title": "JohnHammond/msdt-follina",
+    "url": "https://github.com/JohnHammond/msdt-follina",
+    "desc": "Codebase to generate an msdt-follina payload",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "PJLab-ADG/SensorsCalibration",
+    "url": "https://github.com/PJLab-ADG/SensorsCalibration",
+    "desc": "OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving",
+    "lang": "C++"
+  },
+  {
+    "title": "khangich/machine-learning-interview",
+    "url": "https://github.com/khangich/machine-learning-interview",
+    "desc": "Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io."
+  },
+  {
+    "title": "samber/lo",
+    "url": "https://github.com/samber/lo",
+    "desc": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "lang": "Go"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "desc": "中国程序员容易发音错误的单词",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "ergrelet/unlicense",
+    "url": "https://github.com/ergrelet/unlicense",
+    "desc": "Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.",
+    "lang": "Python"
+  },
+  {
+    "title": "git-noter/gitnoter",
+    "url": "https://github.com/git-noter/gitnoter",
+    "desc": "An open source, markdown-based, self-hosted note taking webapp.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "desc": "Vite & Vue powered static site generator.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tinygo-org/tinygo",
+    "url": "https://github.com/tinygo-org/tinygo",
+    "desc": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+    "lang": "Go"
+  },
+  {
+    "title": "WordPress/gutenberg",
+    "url": "https://github.com/WordPress/gutenberg",
+    "desc": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "WordPress/wordpress-develop",
+    "url": "https://github.com/WordPress/wordpress-develop",
+    "desc": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "lang": "PHP"
+  },
+  {
+    "title": "chvancooten/follina.py",
+    "url": "https://github.com/chvancooten/follina.py",
+    "desc": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
+    "lang": "Smarty"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "desc": "Simple HTML5 Charts using the <canvas> tag",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitnami/charts",
+    "url": "https://github.com/bitnami/charts",
+    "desc": "Bitnami Helm Charts",
+    "lang": "Mustache"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "lang": "TypeScript"
+  }
+]
