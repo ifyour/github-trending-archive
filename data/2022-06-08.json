@@ -1,0 +1,149 @@
+[
+  {
+    "title": "tinygo-org/tinygo",
+    "url": "https://github.com/tinygo-org/tinygo",
+    "desc": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "alibaba/GaiaX",
+    "url": "https://github.com/alibaba/GaiaX",
+    "desc": "GaiaX dynamic template engine is a lightweight cross-platform solution of pure native dynamic card.",
+    "lang": "Rust"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "Lissy93/dashy",
+    "url": "https://github.com/Lissy93/dashy",
+    "desc": "🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!",
+    "lang": "Vue"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "desc": "中国程序员容易发音错误的单词",
+    "lang": "Python"
+  },
+  {
+    "title": "Nwqda/CVE-2022-26134",
+    "url": "https://github.com/Nwqda/CVE-2022-26134",
+    "desc": "[PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE)",
+    "lang": "Python"
+  },
+  {
+    "title": "ahmedtariq01/Cloud-DevOps-Learning-Resources",
+    "url": "https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources",
+    "desc": "This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes."
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "saharmor/dalle-playground",
+    "url": "https://github.com/saharmor/dalle-playground",
+    "desc": "A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "knela96/Dynamic-Parkour-System",
+    "url": "https://github.com/knela96/Dynamic-Parkour-System",
+    "desc": "Dynamic Parkour System is a FREE plugin for Unity that allows anyone to import any model and have an already working controller with parkour capabilities like in Assassin's Creed games.",
+    "lang": "C#"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "ashishpatel26/Andrew-NG-Notes",
+    "url": "https://github.com/ashishpatel26/Andrew-NG-Notes",
+    "desc": "This is Andrew NG Coursera Handwritten Notes.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "EpicGames/Signup",
+    "url": "https://github.com/EpicGames/Signup",
+    "desc": "Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code."
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PlasmoHQ/plasmo",
+    "url": "https://github.com/PlasmoHQ/plasmo",
+    "desc": "The browser extension framework",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "arc298/instagram-scraper",
+    "url": "https://github.com/arc298/instagram-scraper",
+    "desc": "Scrapes an instagram user's photos and videos",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "google/highway",
+    "url": "https://github.com/google/highway",
+    "desc": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+    "lang": "C++"
+  },
+  {
+    "title": "icloud-photos-downloader/icloud_photos_downloader",
+    "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+    "desc": "A command-line tool to download photos from iCloud",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "desc": "Vite & Vue powered static site generator.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "realm/realm-swift",
+    "url": "https://github.com/realm/realm-swift",
+    "desc": "Realm is a mobile database: a replacement for Core Data & SQLite",
+    "lang": "Objective-C"
+  }
+]
