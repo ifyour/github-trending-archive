@@ -1,0 +1,149 @@
+[
+  {
+    "title": "siyuan-note/siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "desc": "📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "n3r4zzurr0/svg-spinners",
+    "url": "https://github.com/n3r4zzurr0/svg-spinners",
+    "desc": "A collection of 24 x 24 dp SVG spinners!",
+    "lang": "SVG"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mbrlabs/Lorien",
+    "url": "https://github.com/mbrlabs/Lorien",
+    "desc": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+    "lang": "GDScript"
+  },
+  {
+    "title": "asim/go-micro",
+    "url": "https://github.com/asim/go-micro",
+    "desc": "A Go microservices framework",
+    "lang": "Go"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "desc": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "lang": "C"
+  },
+  {
+    "title": "dotnet-presentations/dotnet-maui-workshop",
+    "url": "https://github.com/dotnet-presentations/dotnet-maui-workshop",
+    "desc": "A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows",
+    "lang": "C#"
+  },
+  {
+    "title": "pmndrs/zustand",
+    "url": "https://github.com/pmndrs/zustand",
+    "desc": "🐻 Bear necessities for state management in React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SwifterSwift/SwifterSwift",
+    "url": "https://github.com/SwifterSwift/SwifterSwift",
+    "desc": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
+    "lang": "Swift"
+  },
+  {
+    "title": "prometheus/client_golang",
+    "url": "https://github.com/prometheus/client_golang",
+    "desc": "Prometheus instrumentation library for Go applications",
+    "lang": "Go"
+  },
+  {
+    "title": "SmiteshP/nvim-navic",
+    "url": "https://github.com/SmiteshP/nvim-navic",
+    "desc": "Simple winbar/statusline plugin that shows your current code context",
+    "lang": "Lua"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "ThreeDotsLabs/watermill",
+    "url": "https://github.com/ThreeDotsLabs/watermill",
+    "desc": "Building event-driven applications the easy way in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "desc": "Quarkus: Supersonic Subatomic Java.",
+    "lang": "Java"
+  },
+  {
+    "title": "sheepla/pingu",
+    "url": "https://github.com/sheepla/pingu",
+    "desc": "🐧ping command but with pingu",
+    "lang": "Go"
+  },
+  {
+    "title": "wiz-sec/cloud-middleware-dataset",
+    "url": "https://github.com/wiz-sec/cloud-middleware-dataset",
+    "desc": ""
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "desc": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "desc": "⚙️ NGINX config generator on steroids 💉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "raycast/extensions",
+    "url": "https://github.com/raycast/extensions",
+    "desc": "Everything you need to extend Raycast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "libre-tube/LibreTube",
+    "url": "https://github.com/libre-tube/LibreTube",
+    "desc": "An alternative YouTube front end, for Android. [WIP]",
+    "lang": "Kotlin"
+  }
+]
