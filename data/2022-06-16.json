@@ -1,0 +1,150 @@
+[
+  {
+    "title": "lxgr-linux/pokete",
+    "url": "https://github.com/lxgr-linux/pokete",
+    "desc": "A terminal based Pokemon like game",
+    "lang": "Python"
+  },
+  {
+    "title": "CeresDB/ceresdb",
+    "url": "https://github.com/CeresDB/ceresdb",
+    "desc": "CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",
+    "lang": "Rust"
+  },
+  {
+    "title": "sheepla/pingu",
+    "url": "https://github.com/sheepla/pingu",
+    "desc": "🐧ping command but with pingu",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "zhiqi-li/BEVFormer",
+    "url": "https://github.com/zhiqi-li/BEVFormer",
+    "desc": "This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "n3r4zzurr0/svg-spinners",
+    "url": "https://github.com/n3r4zzurr0/svg-spinners",
+    "desc": "A collection of 24 x 24 dp SVG spinners!",
+    "lang": "SVG"
+  },
+  {
+    "title": "still-scene/t3",
+    "url": "https://github.com/still-scene/t3",
+    "desc": "A new tooll implementation with Dear ImGUI",
+    "lang": "C#"
+  },
+  {
+    "title": "hashicorp/raft",
+    "url": "https://github.com/hashicorp/raft",
+    "desc": "Golang implementation of the Raft consensus protocol",
+    "lang": "Go"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "4ra1n/tomcat-jmxproxy-rce-exp",
+    "url": "https://github.com/4ra1n/tomcat-jmxproxy-rce-exp",
+    "desc": "Apache Tomcat JMXProxy RCE",
+    "lang": "Go"
+  },
+  {
+    "title": "lucacasonato/fresh",
+    "url": "https://github.com/lucacasonato/fresh",
+    "desc": "Preact, but super edgy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "winsiderss/systeminformer",
+    "url": "https://github.com/winsiderss/systeminformer",
+    "desc": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+    "lang": "C"
+  },
+  {
+    "title": "prettier/prettier",
+    "url": "https://github.com/prettier/prettier",
+    "desc": "Prettier is an opinionated code formatter.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AzureAD/microsoft-authentication-library-for-js",
+    "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
+    "desc": "Microsoft Authentication Library (MSAL) for JS",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "knadh/dns.toys",
+    "url": "https://github.com/knadh/dns.toys",
+    "desc": "A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.",
+    "lang": "Go"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/go-plugin",
+    "url": "https://github.com/hashicorp/go-plugin",
+    "desc": "Golang plugin system over RPC.",
+    "lang": "Go"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "desc": "Material Design for React Native (Android & iOS)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "desc": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "lang": "C"
+  },
+  {
+    "title": "jascoproducts/firmware",
+    "url": "https://github.com/jascoproducts/firmware",
+    "desc": "Firmware for connected home devices."
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  }
+]
