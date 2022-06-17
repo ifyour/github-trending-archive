@@ -1,0 +1,151 @@
+[
+  {
+    "title": "grafana/oncall",
+    "url": "https://github.com/grafana/oncall",
+    "desc": "Developer-friendly incident response with brilliant Slack integration",
+    "lang": "Python"
+  },
+  {
+    "title": "csteinmetz1/ai-audio-startups",
+    "url": "https://github.com/csteinmetz1/ai-audio-startups",
+    "desc": "Community list of startups working with AI in audio and music technology"
+  },
+  {
+    "title": "lucacasonato/fresh",
+    "url": "https://github.com/lucacasonato/fresh",
+    "desc": "Preact, but super edgy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CeresDB/ceresdb",
+    "url": "https://github.com/CeresDB/ceresdb",
+    "desc": "CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",
+    "lang": "Rust"
+  },
+  {
+    "title": "lxgr-linux/pokete",
+    "url": "https://github.com/lxgr-linux/pokete",
+    "desc": "A terminal based Pokemon like game",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/spring-cloud-tencent",
+    "url": "https://github.com/Tencent/spring-cloud-tencent",
+    "desc": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
+    "lang": "Java"
+  },
+  {
+    "title": "elastic/eui",
+    "url": "https://github.com/elastic/eui",
+    "desc": "Elastic UI Framework 🙌",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ProjectOpenSea/seaport",
+    "url": "https://github.com/ProjectOpenSea/seaport",
+    "desc": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "sheepla/pingu",
+    "url": "https://github.com/sheepla/pingu",
+    "desc": "🐧ping command but with pingu",
+    "lang": "Go"
+  },
+  {
+    "title": "vmware-tanzu/community-edition",
+    "url": "https://github.com/vmware-tanzu/community-edition",
+    "desc": "VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "redis/redis-py",
+    "url": "https://github.com/redis/redis-py",
+    "desc": "Redis Python Client",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "desc": "Terraform AWS provider",
+    "lang": "Go"
+  },
+  {
+    "title": "VueTubeApp/VueTube",
+    "url": "https://github.com/VueTubeApp/VueTube",
+    "desc": "A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)",
+    "lang": "Vue"
+  },
+  {
+    "title": "softwaremill/tapir",
+    "url": "https://github.com/softwaremill/tapir",
+    "desc": "Declarative, type-safe web endpoints library",
+    "lang": "Scala"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "Kong/kong",
+    "url": "https://github.com/Kong/kong",
+    "desc": "🦍 The Cloud-Native API Gateway",
+    "lang": "Lua"
+  },
+  {
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "desc": "Material Design for React Native (Android & iOS)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "siyuan-note/siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "desc": "📕 Build Your Eternal Digital Garden",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "prettier/prettier",
+    "url": "https://github.com/prettier/prettier",
+    "desc": "Prettier is an opinionated code formatter.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ferdium/ferdium-app",
+    "url": "https://github.com/ferdium/ferdium-app",
+    "desc": "All your services in one place, built by the community",
+    "lang": "JavaScript"
+  }
+]
