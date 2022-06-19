@@ -1,0 +1,149 @@
+[
+  {
+    "title": "open-goal/jak-project",
+    "url": "https://github.com/open-goal/jak-project",
+    "desc": "Reviving the language that brought us the Jak & Daxter Series",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "free-audio/clap",
+    "url": "https://github.com/free-audio/clap",
+    "desc": "Audio Plugin API",
+    "lang": "C"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "desc": "Lightweight full-featured WhatsApp Web + Multi-Device API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "lucacasonato/fresh",
+    "url": "https://github.com/lucacasonato/fresh",
+    "desc": "Preact, but super edgy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "n3r4zzurr0/svg-spinners",
+    "url": "https://github.com/n3r4zzurr0/svg-spinners",
+    "desc": "A collection of 24 x 24 dp SVG spinners!",
+    "lang": "SVG"
+  },
+  {
+    "title": "alibaba/IOC-golang",
+    "url": "https://github.com/alibaba/IOC-golang",
+    "desc": "一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.",
+    "lang": "Go"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "Tencent/spring-cloud-tencent",
+    "url": "https://github.com/Tencent/spring-cloud-tencent",
+    "desc": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
+    "lang": "Java"
+  },
+  {
+    "title": "Minqi824/ADBench",
+    "url": "https://github.com/Minqi824/ADBench",
+    "desc": "Official Implement of ADBench: Anomaly Detection Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "desc": "C++ Parallel Computing and Asynchronous Networking Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "stephencelis/SQLite.swift",
+    "url": "https://github.com/stephencelis/SQLite.swift",
+    "desc": "A type-safe, Swift-language layer over SQLite3.",
+    "lang": "Swift"
+  },
+  {
+    "title": "runelite/runelite",
+    "url": "https://github.com/runelite/runelite",
+    "desc": "Open source Old School RuneScape client",
+    "lang": "Java"
+  },
+  {
+    "title": "csteinmetz1/ai-audio-startups",
+    "url": "https://github.com/csteinmetz1/ai-audio-startups",
+    "desc": "Community list of startups working with AI in audio and music technology"
+  },
+  {
+    "title": "elastic/eui",
+    "url": "https://github.com/elastic/eui",
+    "desc": "Elastic UI Framework 🙌",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tauri-apps/tao",
+    "url": "https://github.com/tauri-apps/tao",
+    "desc": "The TAO of cross-platform windowing. A library in Rust built for Tauri.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "arco-design/arco-design-vue",
+    "url": "https://github.com/arco-design/arco-design-vue",
+    "desc": "A Vue.js 3 UI Library based on Arco Design",
+    "lang": "TypeScript"
+  }
+]
