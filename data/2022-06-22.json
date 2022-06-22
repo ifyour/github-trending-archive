@@ -1,0 +1,147 @@
+[
+  {
+    "title": "kraanzu/dooit",
+    "url": "https://github.com/kraanzu/dooit",
+    "desc": "A TUI todo manager",
+    "lang": "Python"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "alibaba/IOC-golang",
+    "url": "https://github.com/alibaba/IOC-golang",
+    "desc": "一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.",
+    "lang": "Go"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jfecher/ante",
+    "url": "https://github.com/jfecher/ante",
+    "desc": "A safe, easy systems language",
+    "lang": "Rust"
+  },
+  {
+    "title": "LunarVim/nvim-basic-ide",
+    "url": "https://github.com/LunarVim/nvim-basic-ide",
+    "desc": "This is my attempt at a basic stable starting point for a Neovim IDE.",
+    "lang": "Lua"
+  },
+  {
+    "title": "NomicFoundation/hardhat",
+    "url": "https://github.com/NomicFoundation/hardhat",
+    "desc": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "daffainfo/AllAboutBugBounty",
+    "url": "https://github.com/daffainfo/AllAboutBugBounty",
+    "desc": "All about bug bounty (bypasses, payloads, and etc)"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dblalock/bolt",
+    "url": "https://github.com/dblalock/bolt",
+    "desc": "10x faster matrix and vector operations",
+    "lang": "C++"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "Elfocrash/.NET-Backend-Developer-Roadmap",
+    "url": "https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap",
+    "desc": "Nick's Roadmap for a .NET Backend Developer working with Microservices"
+  },
+  {
+    "title": "TGX-Android/Telegram-X",
+    "url": "https://github.com/TGX-Android/Telegram-X",
+    "desc": "The main repository of Telegram X — official alternative Telegram client for Android. Check out the $25,000 contest in the pinned issue.",
+    "lang": "Java"
+  },
+  {
+    "title": "Q930844N/awesome_tech_content",
+    "url": "https://github.com/Q930844N/awesome_tech_content",
+    "desc": "Technology related content shared by folks on LinkedIn. I have collected, categorized and stored here. This content includes, Notes, Interview Questions, Leetcode Solutions, Hackerrank Solutions, Cheat sheets diagrams, Books etc."
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "lang": "C++"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).",
+    "lang": "Python"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "alecthomas/chroma",
+    "url": "https://github.com/alecthomas/chroma",
+    "desc": "A general purpose syntax highlighter in pure Go",
+    "lang": "Go"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "timmbogner/Farm-Data-Relay-System",
+    "url": "https://github.com/timmbogner/Farm-Data-Relay-System",
+    "desc": "A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.",
+    "lang": "C"
+  }
+]
