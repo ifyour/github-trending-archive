@@ -1,0 +1,149 @@
+[
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/lexical",
+    "url": "https://github.com/facebook/lexical",
+    "desc": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "WenchaoD/FSCalendar",
+    "url": "https://github.com/WenchaoD/FSCalendar",
+    "desc": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "Reiten966/Polyformer",
+    "url": "https://github.com/Reiten966/Polyformer",
+    "desc": "Polyformer is an open-source project that aims to recycle plastics into FDM filaments"
+  },
+  {
+    "title": "hashicorp/hcl",
+    "url": "https://github.com/hashicorp/hcl",
+    "desc": "HCL is the HashiCorp configuration language.",
+    "lang": "Go"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "Technawi/SOC-Analyst-Diploma",
+    "url": "https://github.com/Technawi/SOC-Analyst-Diploma",
+    "desc": ""
+  },
+  {
+    "title": "apache/hbase",
+    "url": "https://github.com/apache/hbase",
+    "desc": "Apache HBase",
+    "lang": "Java"
+  },
+  {
+    "title": "go-gorm/gorm",
+    "url": "https://github.com/go-gorm/gorm",
+    "desc": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "lang": "Go"
+  },
+  {
+    "title": "elixir-ecto/ecto",
+    "url": "https://github.com/elixir-ecto/ecto",
+    "desc": "A toolkit for data mapping and language integrated query.",
+    "lang": "Elixir"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "knative/serving",
+    "url": "https://github.com/knative/serving",
+    "desc": "Kubernetes-based, scale-to-zero, request-driven compute",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "desc": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+    "lang": "Java"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-alb",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-alb",
+    "desc": "Terraform module to create an AWS Application/Network Load Balancer (ALB/NLB) and associated resources 🇺🇦",
+    "lang": "HCL"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Universal code search (self-hosted)",
+    "lang": "Go"
+  },
+  {
+    "title": "woocommerce/woocommerce",
+    "url": "https://github.com/woocommerce/woocommerce",
+    "desc": "A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.",
+    "lang": "PHP"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "microsoftgraph/microsoft-graph-docs",
+    "url": "https://github.com/microsoftgraph/microsoft-graph-docs",
+    "desc": "Documentation for the Microsoft Graph REST API",
+    "lang": "PowerShell"
+  }
+]
