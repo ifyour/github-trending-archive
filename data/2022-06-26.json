@@ -1,0 +1,149 @@
+[
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "desc": "Dolt – It's Git for Data",
+    "lang": "Go"
+  },
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "desc": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/spring-cloud-tencent",
+    "url": "https://github.com/Tencent/spring-cloud-tencent",
+    "desc": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
+    "lang": "Java"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "still-scene/t3",
+    "url": "https://github.com/still-scene/t3",
+    "desc": "Tooll 3 is an open source software to create realtime motion graphics.",
+    "lang": "C#"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "responsible-financial-innovation-act22/RFIA-bill",
+    "url": "https://github.com/responsible-financial-innovation-act22/RFIA-bill",
+    "desc": ""
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "lang": "C++"
+  },
+  {
+    "title": "p0dalirius/Awesome-RCE-techniques",
+    "url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "desc": "Awesome list of step by step techniques to achieve Remote Code Execution on various apps!",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "rougier/numpy-100",
+    "url": "https://github.com/rougier/numpy-100",
+    "desc": "100 numpy exercises (with solutions)",
+    "lang": "Python"
+  },
+  {
+    "title": "datafold/data-diff",
+    "url": "https://github.com/datafold/data-diff",
+    "desc": "Efficiently diff rows across two different databases.",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "desc": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library",
+    "lang": "Svelte"
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "desc": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux."
+  },
+  {
+    "title": "CFandR-github/PHP-binary-bugs",
+    "url": "https://github.com/CFandR-github/PHP-binary-bugs",
+    "desc": "PHP binary bugs advisory",
+    "lang": "Python"
+  },
+  {
+    "title": "google/re2",
+    "url": "https://github.com/google/re2",
+    "desc": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "lang": "C++"
+  },
+  {
+    "title": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "desc": "The Ruby Programming Language [mirror]",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "desc": "SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.",
+    "lang": "C++"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web app—powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "cupy/cupy",
+    "url": "https://github.com/cupy/cupy",
+    "desc": "NumPy & SciPy for GPU",
+    "lang": "Python"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡",
+    "lang": "JavaScript"
+  }
+]
