@@ -1,0 +1,142 @@
+[
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "desc": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "desc": "All Algorithms implemented in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "D3Ext/WEF",
+    "url": "https://github.com/D3Ext/WEF",
+    "desc": "Wi-Fi Exploitation Framework",
+    "lang": "Hack"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "desc": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "edoardottt/awesome-hacker-search-engines",
+    "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
+    "desc": "A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more"
+  },
+  {
+    "title": "carlospolop/PEASS-ng",
+    "url": "https://github.com/carlospolop/PEASS-ng",
+    "desc": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+    "lang": "C#"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "desc": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "lang": "Groovy"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "desc": "The next-gen web framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vim/vim",
+    "url": "https://github.com/vim/vim",
+    "desc": "The official Vim repository",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "tldraw/tldraw",
+    "url": "https://github.com/tldraw/tldraw",
+    "desc": "A tiny little drawing app.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "pterodactyl/panel",
+    "url": "https://github.com/pterodactyl/panel",
+    "desc": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+    "lang": "PHP"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "desc": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MetaMask/metamask-mobile",
+    "url": "https://github.com/MetaMask/metamask-mobile",
+    "desc": "Mobile web browser providing access to websites that use the Ethereum blockchain",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "still-scene/t3",
+    "url": "https://github.com/still-scene/t3",
+    "desc": "Tooll 3 is an open source software to create realtime motion graphics.",
+    "lang": "C#"
+  }
+]
