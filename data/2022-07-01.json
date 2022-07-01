@@ -1,0 +1,148 @@
+[
+  {
+    "title": "delta-io/delta",
+    "url": "https://github.com/delta-io/delta",
+    "desc": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",
+    "lang": "Scala"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "desc": "The next-gen web framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "desc": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "desc": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI."
+  },
+  {
+    "title": "edoardottt/awesome-hacker-search-engines",
+    "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
+    "desc": "A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "desc": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "D3Ext/WEF",
+    "url": "https://github.com/D3Ext/WEF",
+    "desc": "Wi-Fi Exploitation Framework",
+    "lang": "Hack"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "desc": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aolofsson/awesome-opensource-hardware",
+    "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+    "desc": "List of awesome open source hardware projects",
+    "lang": "Python"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kuprel/min-dalle",
+    "url": "https://github.com/kuprel/min-dalle",
+    "desc": "min(DALL·E) is a minimal implementation of DALL·E Mini in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes-sigs/kubespray",
+    "url": "https://github.com/kubernetes-sigs/kubespray",
+    "desc": "Deploy a Production Ready Kubernetes Cluster",
+    "lang": "Jinja"
+  },
+  {
+    "title": "vim/vim",
+    "url": "https://github.com/vim/vim",
+    "desc": "The official Vim repository",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "flashbots/simple-arbitrage",
+    "url": "https://github.com/flashbots/simple-arbitrage",
+    "desc": "Example arbitrage bot using Flashbots",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "desc": "JavaScript 3D Library.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  }
+]
