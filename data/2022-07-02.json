@@ -1,0 +1,149 @@
+[
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "desc": "The next-gen web framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "python-discord/code-jam-qualifier-9",
+    "url": "https://github.com/python-discord/code-jam-qualifier-9",
+    "desc": "Qualifier for Python Discord Code Jam 9 - Summer 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "micropython/micropython",
+    "url": "https://github.com/micropython/micropython",
+    "desc": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+    "lang": "C"
+  },
+  {
+    "title": "laravel/vite-plugin",
+    "url": "https://github.com/laravel/vite-plugin",
+    "desc": "Laravel plugin for Vite.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "libevm/subway",
+    "url": "https://github.com/libevm/subway",
+    "desc": "A practical example on how to perform sandwich attacks on Ethereum",
+    "lang": "Solidity"
+  },
+  {
+    "title": "ialberquilla/aave-liquidation",
+    "url": "https://github.com/ialberquilla/aave-liquidation",
+    "desc": "Liquidation Aave protocol example",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ccyanxyz/uniswap-arbitrage-analysis",
+    "url": "https://github.com/ccyanxyz/uniswap-arbitrage-analysis",
+    "desc": "Uniswap arbitrage problem analysis",
+    "lang": "Python"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "desc": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "desc": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum/go-ethereum",
+    "url": "https://github.com/ethereum/go-ethereum",
+    "desc": "Official Go implementation of the Ethereum protocol",
+    "lang": "Go"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "desc": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "lang": "Groovy"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "muesli/duf",
+    "url": "https://github.com/muesli/duf",
+    "desc": "Disk Usage/Free Utility - a better 'df' alternative",
+    "lang": "Go"
+  },
+  {
+    "title": "flashbots/simple-arbitrage",
+    "url": "https://github.com/flashbots/simple-arbitrage",
+    "desc": "Example arbitrage bot using Flashbots",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "desc": "A small C compiler",
+    "lang": "C"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "thebookisclosed/ViVe",
+    "url": "https://github.com/thebookisclosed/ViVe",
+    "desc": "C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer",
+    "lang": "C#"
+  },
+  {
+    "title": "alphacep/vosk-api",
+    "url": "https://github.com/alphacep/vosk-api",
+    "desc": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+    "lang": "C++"
+  },
+  {
+    "title": "kubernetes/client-go",
+    "url": "https://github.com/kubernetes/client-go",
+    "desc": "Go client for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "ceph/ceph",
+    "url": "https://github.com/ceph/ceph",
+    "desc": "Ceph is a distributed object, block, and file storage platform",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Shell"
+  }
+]
