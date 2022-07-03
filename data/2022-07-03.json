@@ -1,0 +1,149 @@
+[
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "desc": "The next-gen web framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "Shopify/flash-list",
+    "url": "https://github.com/Shopify/flash-list",
+    "desc": "A better list for React Native",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "StarRocks/starrocks",
+    "url": "https://github.com/StarRocks/starrocks",
+    "desc": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
+    "lang": "C++"
+  },
+  {
+    "title": "LearningOS/rust-based-os-comp2022",
+    "url": "https://github.com/LearningOS/rust-based-os-comp2022",
+    "desc": "[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)",
+    "lang": "Rust"
+  },
+  {
+    "title": "michaelgutmann/ml-pen-and-paper-exercises",
+    "url": "https://github.com/michaelgutmann/ml-pen-and-paper-exercises",
+    "desc": "Pen and paper exercises in machine learning",
+    "lang": "TeX"
+  },
+  {
+    "title": "christophercalm/if-im-gone",
+    "url": "https://github.com/christophercalm/if-im-gone",
+    "desc": "A cheat sheet for if I am somehow incapacitated."
+  },
+  {
+    "title": "delta-io/delta",
+    "url": "https://github.com/delta-io/delta",
+    "desc": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",
+    "lang": "Scala"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "deepmind/educational",
+    "url": "https://github.com/deepmind/educational",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pystardust/ani-cli",
+    "url": "https://github.com/pystardust/ani-cli",
+    "desc": "A cli tool to browse and play anime",
+    "lang": "Shell"
+  },
+  {
+    "title": "laravel/vite-plugin",
+    "url": "https://github.com/laravel/vite-plugin",
+    "desc": "Laravel plugin for Vite.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "o0HalfLife0o/TVBoxOSC",
+    "url": "https://github.com/o0HalfLife0o/TVBoxOSC",
+    "desc": ""
+  },
+  {
+    "title": "tModLoader/tModLoader",
+    "url": "https://github.com/tModLoader/tModLoader",
+    "desc": "A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations",
+    "lang": "C#"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "desc": "🔎 Open source distributed and RESTful search engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "antlr/antlr4",
+    "url": "https://github.com/antlr/antlr4",
+    "desc": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "desc": "🐉 Material Component Framework for Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "stoneatom/stonedb",
+    "url": "https://github.com/stoneatom/stonedb",
+    "desc": "StoneDB is a MySQL HTAP database developed by StoneAtom Technology Co.,Ltd.",
+    "lang": "C++"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Offensive Google framework.",
+    "lang": "Python"
+  }
+]
