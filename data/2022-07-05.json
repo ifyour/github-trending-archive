@@ -1,0 +1,147 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rebuy-de/aws-nuke",
+    "url": "https://github.com/rebuy-de/aws-nuke",
+    "desc": "Nuke a whole AWS account and delete all its resources.",
+    "lang": "Go"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "desc": "⏬ Dumb downloader that scrapes the web",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "desc": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI."
+  },
+  {
+    "title": "gfx-rs/wgpu",
+    "url": "https://github.com/gfx-rs/wgpu",
+    "desc": "Safe and portable GPU abstraction in Rust, implementing WebGPU API.",
+    "lang": "Rust"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "StarRocks/starrocks",
+    "url": "https://github.com/StarRocks/starrocks",
+    "desc": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
+    "lang": "C++"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fiveoutofnine/cool-contracts",
+    "url": "https://github.com/fiveoutofnine/cool-contracts",
+    "desc": "A compilation of smart contracts I find cool/fun/interesting."
+  },
+  {
+    "title": "darktable-org/darktable",
+    "url": "https://github.com/darktable-org/darktable",
+    "desc": "darktable is an open source photography workflow application and raw developer",
+    "lang": "C"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "lang": "C++"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "searxng/searxng-docker",
+    "url": "https://github.com/searxng/searxng-docker",
+    "desc": "The docker-compose files for setting up a SearXNG instance with docker.",
+    "lang": "Shell"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "decalage2/awesome-security-hardening",
+    "url": "https://github.com/decalage2/awesome-security-hardening",
+    "desc": "A collection of awesome security hardening guides, tools and other resources"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gocopper/copper",
+    "url": "https://github.com/gocopper/copper",
+    "desc": "🚀‏‏‎ ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.",
+    "lang": "Go"
+  },
+  {
+    "title": "jina-ai/discoart",
+    "url": "https://github.com/jina-ai/discoart",
+    "desc": "Create Disco Diffusion artworks in one line",
+    "lang": "Python"
+  }
+]
