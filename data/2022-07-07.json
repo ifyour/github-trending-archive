@@ -1,0 +1,150 @@
+[
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "t3-oss/create-t3-app",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "desc": "Quickest way to start a new web app with full stack typesafety",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hemanth/functional-programming-jargon",
+    "url": "https://github.com/hemanth/functional-programming-jargon",
+    "desc": "Jargon from the functional programming world in simple terms!"
+  },
+  {
+    "title": "alexbieber/Bug_Bounty_writeups",
+    "url": "https://github.com/alexbieber/Bug_Bounty_writeups",
+    "desc": "BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔",
+    "lang": "Python"
+  },
+  {
+    "title": "google/google-ctf",
+    "url": "https://github.com/google/google-ctf",
+    "desc": "Google CTF",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "h33tlit/secret-regex-list",
+    "url": "https://github.com/h33tlit/secret-regex-list",
+    "desc": "List of regex for scraping secret API keys and juicy information."
+  },
+  {
+    "title": "starlite-api/starlite",
+    "url": "https://github.com/starlite-api/starlite",
+    "desc": "Light, Flexible and Extensible ASGI API framework",
+    "lang": "Python"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KasperskyLab/TinyCheck",
+    "url": "https://github.com/KasperskyLab/TinyCheck",
+    "desc": "TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In orde…",
+    "lang": "Python"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "Java"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "desc": "Complete container management platform",
+    "lang": "Go"
+  },
+  {
+    "title": "secretflow/secretflow",
+    "url": "https://github.com/secretflow/secretflow",
+    "desc": "A unified framework for privacy-preserving data analysis and machine learning",
+    "lang": "Python"
+  },
+  {
+    "title": "operator-framework/operator-sdk",
+    "url": "https://github.com/operator-framework/operator-sdk",
+    "desc": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+    "lang": "Go"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "desc": "⏬ Dumb downloader that scrapes the web",
+    "lang": "Python"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "desc": "MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "desc": "Fast multi-threaded DataFrame library in Rust | Python | Node.js",
+    "lang": "Rust"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "fabric8io/kubernetes-client",
+    "url": "https://github.com/fabric8io/kubernetes-client",
+    "desc": "Java client for Kubernetes & OpenShift",
+    "lang": "Java"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "desc": "Implementation of the Filecoin protocol, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "spf13/cobra",
+    "url": "https://github.com/spf13/cobra",
+    "desc": "A Commander for modern Go CLI interactions",
+    "lang": "Go"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "desc": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "lang": "Go"
+  },
+  {
+    "title": "cubefs/cubefs",
+    "url": "https://github.com/cubefs/cubefs",
+    "desc": "CubeFS is a cloud native distributed storage platform.",
+    "lang": "C++"
+  }
+]
