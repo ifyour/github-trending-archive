@@ -1,0 +1,150 @@
+[
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "sunface/rust-by-practice",
+    "url": "https://github.com/sunface/rust-by-practice",
+    "desc": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
+    "lang": "Rust"
+  },
+  {
+    "title": "secretflow/secretflow",
+    "url": "https://github.com/secretflow/secretflow",
+    "desc": "A unified framework for privacy-preserving data analysis and machine learning",
+    "lang": "Python"
+  },
+  {
+    "title": "t3-oss/create-t3-app",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "desc": "Quickest way to start a new web app with full stack typesafety",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alexbieber/Bug_Bounty_writeups",
+    "url": "https://github.com/alexbieber/Bug_Bounty_writeups",
+    "desc": "BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔",
+    "lang": "Python"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rubocop/rubocop",
+    "url": "https://github.com/rubocop/rubocop",
+    "desc": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "nomi-sec/PoC-in-GitHub",
+    "url": "https://github.com/nomi-sec/PoC-in-GitHub",
+    "desc": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware."
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "desc": "The Intuitive Vue(2) Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "massCodeIO/massCode",
+    "url": "https://github.com/massCodeIO/massCode",
+    "desc": "Next version of massCode. A free and open source code snippets manager for developers",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Orange-Cyberdefense/GOAD",
+    "url": "https://github.com/Orange-Cyberdefense/GOAD",
+    "desc": "game of active directory",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "clauswilke/dataviz",
+    "url": "https://github.com/clauswilke/dataviz",
+    "desc": "A book covering the fundamentals of data visualization",
+    "lang": "HTML"
+  },
+  {
+    "title": "ithewei/libhv",
+    "url": "https://github.com/ithewei/libhv",
+    "desc": "🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.",
+    "lang": "C"
+  },
+  {
+    "title": "4ian/GDevelop",
+    "url": "https://github.com/4ian/GDevelop",
+    "desc": "🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "lang": "Ruby"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  }
+]
