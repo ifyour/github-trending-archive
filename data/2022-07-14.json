@@ -1,0 +1,149 @@
+[
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "streamxhub/streamx",
+    "url": "https://github.com/streamxhub/streamx",
+    "desc": "Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",
+    "lang": "Java"
+  },
+  {
+    "title": "PlayCover/PlayCover",
+    "url": "https://github.com/PlayCover/PlayCover",
+    "desc": "Community fork of PlayCover",
+    "lang": "Swift"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "IDEACVR/DINO",
+    "url": "https://github.com/IDEACVR/DINO",
+    "desc": "Official implementation of the paper DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection",
+    "lang": "Python"
+  },
+  {
+    "title": "afontcu/awesome-learning",
+    "url": "https://github.com/afontcu/awesome-learning",
+    "desc": "A curated list of awesome learning material"
+  },
+  {
+    "title": "spack/spack",
+    "url": "https://github.com/spack/spack",
+    "desc": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "lang": "Python"
+  },
+  {
+    "title": "vueschool/vuejs-forge-boilerplate",
+    "url": "https://github.com/vueschool/vuejs-forge-boilerplate",
+    "desc": "Boilerplate Code for the Vue.js Forge Conference",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nitnelave/lldap",
+    "url": "https://github.com/nitnelave/lldap",
+    "desc": "Light LDAP implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "snipe/snipe-it",
+    "url": "https://github.com/snipe/snipe-it",
+    "desc": "A free open source IT asset/license management system",
+    "lang": "PHP"
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "desc": "Leveraging BERT and c-TF-IDF to create easily interpretable topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "desc": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+    "lang": "Nunjucks"
+  },
+  {
+    "title": "rod-trent/MustLearnKQL",
+    "url": "https://github.com/rod-trent/MustLearnKQL",
+    "desc": "Code included as part of the MustLearnKQL blog series"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "brentvollebregt/auto-py-to-exe",
+    "url": "https://github.com/brentvollebregt/auto-py-to-exe",
+    "desc": "Converts .py to .exe using a simple graphical interface",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "wenet-e2e/wenet",
+    "url": "https://github.com/wenet-e2e/wenet",
+    "desc": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
+    "lang": "C++"
+  },
+  {
+    "title": "realm/realm-swift",
+    "url": "https://github.com/realm/realm-swift",
+    "desc": "Realm is a mobile database: a replacement for Core Data & SQLite",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "PAIR-code/facets",
+    "url": "https://github.com/PAIR-code/facets",
+    "desc": "Visualizations for machine learning datasets",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "m3rcer/Chisel-Strike",
+    "url": "https://github.com/m3rcer/Chisel-Strike",
+    "desc": "A .NET XOR encrypted cobalt strike aggressor implementation for chisel to utilize faster proxy and advanced socks5 capabilities.",
+    "lang": "C#"
+  }
+]
