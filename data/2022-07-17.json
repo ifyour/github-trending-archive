@@ -1,0 +1,146 @@
+[
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "desc": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "srush/GPU-Puzzles",
+    "url": "https://github.com/srush/GPU-Puzzles",
+    "desc": "Solve puzzles. Learn CUDA.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "desc": "Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more",
+    "lang": "Java"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "desc": "Sarama is a Go library for Apache Kafka.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/sbom-tool",
+    "url": "https://github.com/microsoft/sbom-tool",
+    "desc": "The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.",
+    "lang": "C#"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "vasanthk/how-web-works",
+    "url": "https://github.com/vasanthk/how-web-works",
+    "desc": "What happens behind the scenes when we type www.google.com in a browser?"
+  },
+  {
+    "title": "hackerhouse-opensource/iscsicpl_bypassUAC",
+    "url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
+    "desc": "UAC bypass for x64 Windows 7 - 11",
+    "lang": "C++"
+  },
+  {
+    "title": "near/stakewars-iii",
+    "url": "https://github.com/near/stakewars-iii",
+    "desc": "Stake Wars: Episode 3 challenges and place to report issues"
+  },
+  {
+    "title": "quickwit-oss/tantivy",
+    "url": "https://github.com/quickwit-oss/tantivy",
+    "desc": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "amd64fox/SpotX",
+    "url": "https://github.com/amd64fox/SpotX",
+    "desc": "Blocking ads and updates for the desktop version of Spotify, disabling podcasts and something else.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "desc": "📺 A place to discover the latest machine learning courses on YouTube."
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "desc": "build-once run-anywhere c library",
+    "lang": "C"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "desc": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "desc": "🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "farcasterxyz/protocol",
+    "url": "https://github.com/farcasterxyz/protocol",
+    "desc": "Specification of the Farcaster Protocol"
+  },
+  {
+    "title": "Lissy93/awesome-privacy",
+    "url": "https://github.com/Lissy93/awesome-privacy",
+    "desc": "🦄 A curated list of privacy & security-focused software and services"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  }
+]
