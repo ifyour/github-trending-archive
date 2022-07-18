@@ -1,0 +1,147 @@
+[
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "desc": "🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "srush/GPU-Puzzles",
+    "url": "https://github.com/srush/GPU-Puzzles",
+    "desc": "Solve puzzles. Learn CUDA.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "desc": "build-once run-anywhere c library",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/JavaScript",
+    "url": "https://github.com/TheAlgorithms/JavaScript",
+    "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "desc": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "desc": "📺 A place to discover the latest machine learning courses on YouTube."
+  },
+  {
+    "title": "bambulab/BambuStudio",
+    "url": "https://github.com/bambulab/BambuStudio",
+    "desc": "PC Software for BambuLab's 3D printers",
+    "lang": "C++"
+  },
+  {
+    "title": "Moataz-Elmesmary/Data-Science-Roadmap",
+    "url": "https://github.com/Moataz-Elmesmary/Data-Science-Roadmap",
+    "desc": "Data Science Roadmap from A to Z"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "nim-lang/Nim",
+    "url": "https://github.com/nim-lang/Nim",
+    "desc": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+    "lang": "Nim"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "desc": "Lightweight full-featured WhatsApp Web + Multi-Device API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "desc": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "desc": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "lang": "Go"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "desc": "Create beautiful applications using Go",
+    "lang": "Go"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-js",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
+    "desc": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript"
+  },
+  {
+    "title": "mgunyho/tere",
+    "url": "https://github.com/mgunyho/tere",
+    "desc": "Terminal file explorer",
+    "lang": "Rust"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.",
+    "lang": "Python"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "The automation tower defense RTS",
+    "lang": "Java"
+  }
+]
