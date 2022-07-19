@@ -1,0 +1,147 @@
+[
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "desc": "Create beautiful applications using Go",
+    "lang": "Go"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "jbhuang0604/awesome-tips",
+    "url": "https://github.com/jbhuang0604/awesome-tips",
+    "desc": ""
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "desc": "🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "srush/GPU-Puzzles",
+    "url": "https://github.com/srush/GPU-Puzzles",
+    "desc": "Solve puzzles. Learn CUDA.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yunjey/pytorch-tutorial",
+    "url": "https://github.com/yunjey/pytorch-tutorial",
+    "desc": "PyTorch Tutorial for Deep Learning Researchers",
+    "lang": "Python"
+  },
+  {
+    "title": "honojs/hono",
+    "url": "https://github.com/honojs/hono",
+    "desc": "Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "desc": "Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more",
+    "lang": "Java"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "desc": "Lightweight full-featured WhatsApp Web + Multi-Device API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RedTeamPentesting/pretender",
+    "url": "https://github.com/RedTeamPentesting/pretender",
+    "desc": "Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.",
+    "lang": "Go"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "desc": "C++ Parallel Computing and Asynchronous Networking Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "barry-ran/QtScrcpy",
+    "url": "https://github.com/barry-ran/QtScrcpy",
+    "desc": "Android real-time display control software",
+    "lang": "Java"
+  }
+]
