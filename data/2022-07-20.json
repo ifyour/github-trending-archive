@@ -1,0 +1,147 @@
+[
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "desc": "🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "desc": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI."
+  },
+  {
+    "title": "loov/lensm",
+    "url": "https://github.com/loov/lensm",
+    "desc": "Go assembly and source viewer",
+    "lang": "Go"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "desc": "Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "vasanthk/how-web-works",
+    "url": "https://github.com/vasanthk/how-web-works",
+    "desc": "What happens behind the scenes when we type www.google.com in a browser?"
+  },
+  {
+    "title": "kevwan/tproxy",
+    "url": "https://github.com/kevwan/tproxy",
+    "desc": "A cli tool to proxy and analyze TCP connections.",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/JavaScript",
+    "url": "https://github.com/TheAlgorithms/JavaScript",
+    "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "dominikbraun/graph",
+    "url": "https://github.com/dominikbraun/graph",
+    "desc": "A generic library for creating graph data structures and performing operations on them. It supports different kinds of graphs such as directed graphs, acyclic graphs, or trees.",
+    "lang": "Go"
+  },
+  {
+    "title": "MasterBin-IIAU/Unicorn",
+    "url": "https://github.com/MasterBin-IIAU/Unicorn",
+    "desc": "[ECCV'22 Oral] Towards Grand Unification of Object Tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "desc": "Create beautiful applications using Go",
+    "lang": "Go"
+  },
+  {
+    "title": "huachaohuang/awesome-dbdev",
+    "url": "https://github.com/huachaohuang/awesome-dbdev",
+    "desc": "Awesome materials about database development."
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "desc": "Terraform module which creates VPC resources on AWS 🇺🇦",
+    "lang": "HCL"
+  },
+  {
+    "title": "kraanzu/termtyper",
+    "url": "https://github.com/kraanzu/termtyper",
+    "desc": "A typing application to level up your fingers!",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CogVideo",
+    "url": "https://github.com/THUDM/CogVideo",
+    "desc": "Text-to-video generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "desc": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "Kristories/awesome-guidelines",
+    "url": "https://github.com/Kristories/awesome-guidelines",
+    "desc": "A curated list of high quality coding style conventions and standards.",
+    "lang": "JavaScript"
+  }
+]
