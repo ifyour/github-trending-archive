@@ -1,0 +1,148 @@
+[
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "chip-red-pill/MicrocodeDecryptor",
+    "url": "https://github.com/chip-red-pill/MicrocodeDecryptor",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "PipedreamHQ/pipedream",
+    "url": "https://github.com/PipedreamHQ/pipedream",
+    "desc": "Connect APIs, remarkably fast. Free for developers.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "desc": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "desc": "Terraform module which creates VPC resources on AWS 🇺🇦",
+    "lang": "HCL"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "desc": "🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib.",
+    "lang": "Python"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "desc": "Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kraanzu/termtyper",
+    "url": "https://github.com/kraanzu/termtyper",
+    "desc": "A typing application to level up your fingers!",
+    "lang": "Python"
+  },
+  {
+    "title": "martinshkreli/models",
+    "url": "https://github.com/martinshkreli/models",
+    "desc": "stock market models - have fun"
+  },
+  {
+    "title": "hkchengrex/XMem",
+    "url": "https://github.com/hkchengrex/XMem",
+    "desc": "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model",
+    "lang": "Python"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kyverno/kyverno",
+    "url": "https://github.com/kyverno/kyverno",
+    "desc": "Kubernetes Native Policy Management",
+    "lang": "Go"
+  },
+  {
+    "title": "doitsujin/dxvk",
+    "url": "https://github.com/doitsujin/dxvk",
+    "desc": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
+    "lang": "C++"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-go",
+    "url": "https://github.com/open-telemetry/opentelemetry-go",
+    "desc": "OpenTelemetry Go API and SDK",
+    "lang": "Go"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  }
+]
