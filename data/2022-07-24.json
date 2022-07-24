@@ -1,0 +1,148 @@
+[
+  {
+    "title": "coder/code-server",
+    "url": "https://github.com/coder/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "AllThingsSmitty/css-protips",
+    "url": "https://github.com/AllThingsSmitty/css-protips",
+    "desc": "A collection of tips to help take your CSS skills pro"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "desc": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "hashicorp/terraform-provider-azurerm",
+    "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "raycast/extensions",
+    "url": "https://github.com/raycast/extensions",
+    "desc": "Everything you need to extend Raycast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "desc": "Dolt – It's Git for Data",
+    "lang": "Go"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  }
+]
