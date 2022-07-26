@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "desc": "Flipper Zero firmware source code",
+    "lang": "C"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "desc": "A small C compiler",
+    "lang": "C"
+  },
+  {
+    "title": "coder/code-server",
+    "url": "https://github.com/coder/code-server",
+    "desc": "VS Code in the browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "ThePrimeagen/.dotfiles",
+    "url": "https://github.com/ThePrimeagen/.dotfiles",
+    "desc": "",
+    "lang": "Lua"
+  },
+  {
+    "title": "jhuangtw/xg2xg",
+    "url": "https://github.com/jhuangtw/xg2xg",
+    "desc": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+  },
+  {
+    "title": "crystal-lang/crystal",
+    "url": "https://github.com/crystal-lang/crystal",
+    "desc": "The Crystal Programming Language",
+    "lang": "Crystal"
+  },
+  {
+    "title": "https-deeplearning-ai/machine-learning-engineering-for-production-public",
+    "url": "https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public",
+    "desc": "Public repo for DeepLearning.AI MLEP Specialization",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ppy/osu",
+    "url": "https://github.com/ppy/osu",
+    "desc": "rhythm is just a *click* away!",
+    "lang": "C#"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "desc": "mold: A Modern Linker",
+    "lang": "C++"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/zstd",
+    "url": "https://github.com/facebook/zstd",
+    "desc": "Zstandard - Fast real-time compression algorithm",
+    "lang": "C"
+  },
+  {
+    "title": "cloudscape-design/components",
+    "url": "https://github.com/cloudscape-design/components",
+    "desc": "React components for Cloudscape Design System",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "CaiJimmy/hugo-theme-stack",
+    "url": "https://github.com/CaiJimmy/hugo-theme-stack",
+    "desc": "Card-style Hugo theme designed for bloggers",
+    "lang": "HTML"
+  }
+]
