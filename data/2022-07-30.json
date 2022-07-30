@@ -1,0 +1,147 @@
+[
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "kingToolbox/WindTerm",
+    "url": "https://github.com/kingToolbox/WindTerm",
+    "desc": "A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.",
+    "lang": "C"
+  },
+  {
+    "title": "Omyyyy/pycom",
+    "url": "https://github.com/Omyyyy/pycom",
+    "desc": "A Python compiler, down to native code, using C++",
+    "lang": "C++"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "desc": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "lang": "Python"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
+    "desc": "Resources for deep learning with satellite & aerial imagery"
+  },
+  {
+    "title": "kubewharf/kubezoo",
+    "url": "https://github.com/kubewharf/kubezoo",
+    "desc": "a lightweight kubernetes multi-tenancy gateway",
+    "lang": "Go"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The way the world runs Kubernetes",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Anjok07/ultimatevocalremovergui",
+    "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "desc": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "djsime1/awesome-flipperzero",
+    "url": "https://github.com/djsime1/awesome-flipperzero",
+    "desc": "🐬 A collection of awesome resources for the Flipper Zero device."
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "desc": "build-once run-anywhere c library",
+    "lang": "C"
+  },
+  {
+    "title": "airbytehq/airbyte",
+    "url": "https://github.com/airbytehq/airbyte",
+    "desc": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",
+    "lang": "Java"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "oldboyxx/jira_clone",
+    "url": "https://github.com/oldboyxx/jira_clone",
+    "desc": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "google/flatbuffers",
+    "url": "https://github.com/google/flatbuffers",
+    "desc": "FlatBuffers: Memory Efficient Serialization Library",
+    "lang": "C++"
+  },
+  {
+    "title": "MystenLabs/awesome-move",
+    "url": "https://github.com/MystenLabs/awesome-move",
+    "desc": "Code and content from the Move community."
+  },
+  {
+    "title": "nsqio/nsq",
+    "url": "https://github.com/nsqio/nsq",
+    "desc": "A realtime distributed messaging platform",
+    "lang": "Go"
+  },
+  {
+    "title": "zricethezav/gitleaks",
+    "url": "https://github.com/zricethezav/gitleaks",
+    "desc": "Protect and discover secrets using Gitleaks 🔑",
+    "lang": "Go"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AllThingsSmitty/css-protips",
+    "url": "https://github.com/AllThingsSmitty/css-protips",
+    "desc": "A collection of tips to help take your CSS skills pro"
+  }
+]
