@@ -1,0 +1,150 @@
+[
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "lang": "C++"
+  },
+  {
+    "title": "hktalent/scan4all",
+    "url": "https://github.com/hktalent/scan4all",
+    "desc": "Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",
+    "lang": "Go"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "charmbracelet/gum",
+    "url": "https://github.com/charmbracelet/gum",
+    "desc": "A tool for glamorous shell scripts 🎀",
+    "lang": "Go"
+  },
+  {
+    "title": "imbushuo/EnergyStar",
+    "url": "https://github.com/imbushuo/EnergyStar",
+    "desc": "A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps",
+    "lang": "C#"
+  },
+  {
+    "title": "userver-framework/userver",
+    "url": "https://github.com/userver-framework/userver",
+    "desc": "The C++ Asynchronous Framework (beta)",
+    "lang": "C++"
+  },
+  {
+    "title": "google-research/parti",
+    "url": "https://github.com/google-research/parti",
+    "desc": ""
+  },
+  {
+    "title": "serverless-dns/serverless-dns",
+    "url": "https://github.com/serverless-dns/serverless-dns",
+    "desc": "The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "AstroNvim/AstroNvim",
+    "url": "https://github.com/AstroNvim/AstroNvim",
+    "desc": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "lang": "Lua"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "minetest/minetest",
+    "url": "https://github.com/minetest/minetest",
+    "desc": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "lang": "C++"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "je-suis-tm/quant-trading",
+    "url": "https://github.com/je-suis-tm/quant-trading",
+    "desc": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD",
+    "lang": "Python"
+  },
+  {
+    "title": "glepnir/lspsaga.nvim",
+    "url": "https://github.com/glepnir/lspsaga.nvim",
+    "desc": "neovim lsp plugin",
+    "lang": "Lua"
+  },
+  {
+    "title": "tabler/tabler",
+    "url": "https://github.com/tabler/tabler",
+    "desc": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
+    "lang": "HTML"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "Go"
+  },
+  {
+    "title": "Dashibase/lotion",
+    "url": "https://github.com/Dashibase/lotion",
+    "desc": "An open-source Notion UI built with Vue 3",
+    "lang": "Vue"
+  }
+]
