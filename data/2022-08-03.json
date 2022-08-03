@@ -1,0 +1,148 @@
+[
+  {
+    "title": "aidenybai/million",
+    "url": "https://github.com/aidenybai/million",
+    "desc": "Virtual DOM into the future! ✨🦁🚀✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nsqio/nsq",
+    "url": "https://github.com/nsqio/nsq",
+    "desc": "A realtime distributed messaging platform",
+    "lang": "Go"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/shenyu",
+    "url": "https://github.com/apache/shenyu",
+    "desc": "Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.",
+    "lang": "Java"
+  },
+  {
+    "title": "OIRNOIR/WebM-Maker-Thing-Idk",
+    "url": "https://github.com/OIRNOIR/WebM-Maker-Thing-Idk",
+    "desc": "This is a simple tool to allow you to create WebM files with changing aspect ratios.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "minetest/minetest",
+    "url": "https://github.com/minetest/minetest",
+    "desc": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "lang": "C++"
+  },
+  {
+    "title": "Nickyie/Cybersecurity-Resources",
+    "url": "https://github.com/Nickyie/Cybersecurity-Resources",
+    "desc": "A Library of various cybersecurity resources"
+  },
+  {
+    "title": "hktalent/scan4all",
+    "url": "https://github.com/hktalent/scan4all",
+    "desc": "Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",
+    "lang": "Go"
+  },
+  {
+    "title": "probml/pml2-book",
+    "url": "https://github.com/probml/pml2-book",
+    "desc": "Probabilistic Machine Learning: Advanced Topics"
+  },
+  {
+    "title": "charmbracelet/gum",
+    "url": "https://github.com/charmbracelet/gum",
+    "desc": "A tool for glamorous shell scripts 🎀",
+    "lang": "Go"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "lang": "C++"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "google-research/parti",
+    "url": "https://github.com/google-research/parti",
+    "desc": ""
+  },
+  {
+    "title": "userver-framework/userver",
+    "url": "https://github.com/userver-framework/userver",
+    "desc": "The C++ Asynchronous Framework (beta)",
+    "lang": "C++"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "desc": "Git with a cup of tea, painless self-hosted git service",
+    "lang": "Go"
+  },
+  {
+    "title": "tabler/tabler",
+    "url": "https://github.com/tabler/tabler",
+    "desc": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
+    "lang": "HTML"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/docusaurus",
+    "url": "https://github.com/facebook/docusaurus",
+    "desc": "Easy to maintain open source documentation websites.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "desc": "💊 The official ReVanced Manager",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "lang": "Go"
+  },
+  {
+    "title": "spf13/cobra",
+    "url": "https://github.com/spf13/cobra",
+    "desc": "A Commander for modern Go CLI interactions",
+    "lang": "Go"
+  }
+]
