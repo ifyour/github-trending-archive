@@ -1,0 +1,150 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "phiresky/sqlite-zstd",
+    "url": "https://github.com/phiresky/sqlite-zstd",
+    "desc": "Transparent dictionary-based row-level compression for SQLite",
+    "lang": "Rust"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HVML/PurC",
+    "url": "https://github.com/HVML/PurC",
+    "desc": "The prime HVML interpreter for C Language.",
+    "lang": "C"
+  },
+  {
+    "title": "Shopify/react-native-skia",
+    "url": "https://github.com/Shopify/react-native-skia",
+    "desc": "High-performance React Native Graphics using Skia",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aidenybai/million",
+    "url": "https://github.com/aidenybai/million",
+    "desc": "Virtual DOM into the future! ✨🦁🚀✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nearform/lyra",
+    "url": "https://github.com/nearform/lyra",
+    "desc": "🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers"
+  },
+  {
+    "title": "padloc/padloc",
+    "url": "https://github.com/padloc/padloc",
+    "desc": "A modern, open source password manager for individuals and teams.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mit-pdos/xv6-riscv",
+    "url": "https://github.com/mit-pdos/xv6-riscv",
+    "desc": "Xv6 for RISC-V",
+    "lang": "C"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of draw.io",
+    "lang": "Shell"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmrotate",
+    "url": "https://github.com/open-mmlab/mmrotate",
+    "desc": "OpenMMLab Rotated Object Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "mautic/mautic",
+    "url": "https://github.com/mautic/mautic",
+    "desc": "Mautic: Open Source Marketing Automation Software.",
+    "lang": "PHP"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-go",
+    "url": "https://github.com/open-telemetry/opentelemetry-go",
+    "desc": "OpenTelemetry Go API and SDK",
+    "lang": "Go"
+  },
+  {
+    "title": "wandb/wandb",
+    "url": "https://github.com/wandb/wandb",
+    "desc": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
+    "lang": "Python"
+  },
+  {
+    "title": "OIRNOIR/WackyWebM",
+    "url": "https://github.com/OIRNOIR/WackyWebM",
+    "desc": "This is a simple tool to allow you to create WebM files with changing aspect ratios.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "taskflow/taskflow",
+    "url": "https://github.com/taskflow/taskflow",
+    "desc": "A General-purpose Parallel and Heterogeneous Task Programming System",
+    "lang": "C++"
+  },
+  {
+    "title": "ory/hydra",
+    "url": "https://github.com/ory/hydra",
+    "desc": "OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",
+    "lang": "Go"
+  },
+  {
+    "title": "spack/spack",
+    "url": "https://github.com/spack/spack",
+    "desc": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "lang": "Python"
+  }
+]
