@@ -1,0 +1,148 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "Nickyie/Cybersecurity-Resources",
+    "url": "https://github.com/Nickyie/Cybersecurity-Resources",
+    "desc": "A Library of various cybersecurity resources"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aidenybai/million",
+    "url": "https://github.com/aidenybai/million",
+    "desc": "Virtual DOM into the future! ✨🦁🚀✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WhatsApp/eqwalizer",
+    "url": "https://github.com/WhatsApp/eqwalizer",
+    "desc": "A type-checker for Erlang",
+    "lang": "Erlang"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "nsqio/nsq",
+    "url": "https://github.com/nsqio/nsq",
+    "desc": "A realtime distributed messaging platform",
+    "lang": "Go"
+  },
+  {
+    "title": "nearform/lyra",
+    "url": "https://github.com/nearform/lyra",
+    "desc": "🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "eslam3kl/SQLiDetector",
+    "url": "https://github.com/eslam3kl/SQLiDetector",
+    "desc": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection Error based by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
+    "lang": "BlitzBasic"
+  },
+  {
+    "title": "theonedev/onedev",
+    "url": "https://github.com/theonedev/onedev",
+    "desc": "Self-hosted Git Server with CI/CD and Kanban",
+    "lang": "Java"
+  },
+  {
+    "title": "probml/pml2-book",
+    "url": "https://github.com/probml/pml2-book",
+    "desc": "Probabilistic Machine Learning: Advanced Topics"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "debezium/debezium",
+    "url": "https://github.com/debezium/debezium",
+    "desc": "Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.",
+    "lang": "Java"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  },
+  {
+    "title": "facebook/docusaurus",
+    "url": "https://github.com/facebook/docusaurus",
+    "desc": "Easy to maintain open source documentation websites.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "desc": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "lang": "C#"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "desc": "💊 The official ReVanced Manager",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "alembics/disco-diffusion",
+    "url": "https://github.com/alembics/disco-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "desc": "Complete container management platform",
+    "lang": "Go"
+  }
+]
