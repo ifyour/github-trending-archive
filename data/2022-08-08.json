@@ -1,0 +1,149 @@
+[
+  {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "desc": "There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "desc": "Virtual machines for iOS and macOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "NVIDIAGameWorks/kaolin-wisp",
+    "url": "https://github.com/NVIDIAGameWorks/kaolin-wisp",
+    "desc": "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "jina-ai/discoart",
+    "url": "https://github.com/jina-ai/discoart",
+    "desc": "Create Disco Diffusion artworks in one line",
+    "lang": "Python"
+  },
+  {
+    "title": "martinshkreli/models",
+    "url": "https://github.com/martinshkreli/models",
+    "desc": "stock market models - have fun"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "juliocesarfort/public-pentesting-reports",
+    "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+    "desc": "Curated list of public penetration test reports released by several consulting firms and academic security groups",
+    "lang": "CSS"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "moyix/fauxpilot",
+    "url": "https://github.com/moyix/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "desc": "Lightweight full-featured WhatsApp Web + Multi-Device API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "desc": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+    "lang": "C"
+  },
+  {
+    "title": "valinet/ExplorerPatcher",
+    "url": "https://github.com/valinet/ExplorerPatcher",
+    "desc": "This project aims to enhance the working environment on Windows",
+    "lang": "C"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-app",
+    "url": "https://github.com/termux/termux-app",
+    "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "lang": "Java"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "rust-lang/rust-analyzer",
+    "url": "https://github.com/rust-lang/rust-analyzer",
+    "desc": "A Rust compiler front-end for IDEs",
+    "lang": "Rust"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SudhanPlayz/Discord-MusicBot",
+    "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
+    "desc": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "punk-security/dnsReaper",
+    "url": "https://github.com/punk-security/dnsReaper",
+    "desc": "dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!",
+    "lang": "Python"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "lang": "Python"
+  }
+]
