@@ -1,0 +1,147 @@
+[
+  {
+    "title": "pacocoursey/cmdk",
+    "url": "https://github.com/pacocoursey/cmdk",
+    "desc": "Fast, unstyled command menu React component.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "title": "craftzdog/dotfiles-public",
+    "url": "https://github.com/craftzdog/dotfiles-public",
+    "desc": "My personal dotfiles",
+    "lang": "Lua"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "onekey-sec/unblob",
+    "url": "https://github.com/onekey-sec/unblob",
+    "desc": "Extract files from any kind of container formats",
+    "lang": "Python"
+  },
+  {
+    "title": "rad9800/TamperingSyscalls",
+    "url": "https://github.com/rad9800/TamperingSyscalls",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "desc": "There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "duckdb/duckdb",
+    "url": "https://github.com/duckdb/duckdb",
+    "desc": "DuckDB is an in-process SQL OLAP Database Management System",
+    "lang": "C++"
+  },
+  {
+    "title": "RalfJung/minirust",
+    "url": "https://github.com/RalfJung/minirust",
+    "desc": "A precise specification for Rust lite / MIR plus"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "desc": "The Metadata Platform for the Modern Data Stack",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib.",
+    "lang": "Python"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openairplay/airplay2-receiver",
+    "url": "https://github.com/openairplay/airplay2-receiver",
+    "desc": "AirPlay 2 Receiver - Python implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "desc": "Build faster websites with Astro's next-gen island architecture 🏝✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "actions/runner-images",
+    "url": "https://github.com/actions/runner-images",
+    "desc": "GitHub Actions runner images",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "micro-joan/BlackStone",
+    "url": "https://github.com/micro-joan/BlackStone",
+    "desc": "Pentesting Reporting Tool",
+    "lang": "CSS"
+  },
+  {
+    "title": "dotnet/maui-samples",
+    "url": "https://github.com/dotnet/maui-samples",
+    "desc": "Samples for .NET Multi-Platform App UI (.NET MAUI)",
+    "lang": "C#"
+  },
+  {
+    "title": "cerlymarco/MEDIUM_NoteBook",
+    "url": "https://github.com/cerlymarco/MEDIUM_NoteBook",
+    "desc": "Repository containing notebooks of my posts on Medium",
+    "lang": "JupyterNotebook"
+  }
+]
