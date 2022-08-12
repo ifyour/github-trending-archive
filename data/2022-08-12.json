@@ -1,0 +1,149 @@
+[
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "desc": "Build faster websites with Astro's next-gen island architecture 🏝✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "desc": "🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "desc": "Combustion engine simulator that generates realistic audio.",
+    "lang": "C++"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "lang": "C++"
+  },
+  {
+    "title": "craftzdog/dotfiles-public",
+    "url": "https://github.com/craftzdog/dotfiles-public",
+    "desc": "My personal dotfiles",
+    "lang": "Lua"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, AI for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "punk-security/dnsReaper",
+    "url": "https://github.com/punk-security/dnsReaper",
+    "desc": "dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!",
+    "lang": "Python"
+  },
+  {
+    "title": "pacocoursey/cmdk",
+    "url": "https://github.com/pacocoursey/cmdk",
+    "desc": "Fast, unstyled command menu React component.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "desc": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",
+    "lang": "C"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "desc": "The Metadata Platform for the Modern Data Stack",
+    "lang": "Java"
+  },
+  {
+    "title": "imbushuo/EnergyStar",
+    "url": "https://github.com/imbushuo/EnergyStar",
+    "desc": "A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps",
+    "lang": "C#"
+  },
+  {
+    "title": "nv-tlabs/ASE",
+    "url": "https://github.com/nv-tlabs/ASE",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "desc": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "lang": "Go"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "desc": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mozilla/pdf.js",
+    "url": "https://github.com/mozilla/pdf.js",
+    "desc": "PDF Reader in JavaScript",
+    "lang": "JavaScript"
+  }
+]
