@@ -1,0 +1,149 @@
+[
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "photonstorm/phaser",
+    "url": "https://github.com/photonstorm/phaser",
+    "desc": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
+    "desc": "Graphic notes on Gilbert Strang's Linear Algebra for Everyone",
+    "lang": "TeX"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "desc": "The HTML Presentation Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "desc": "A cross-platform, OpenGL terminal emulator.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "aiogram/aiogram",
+    "url": "https://github.com/aiogram/aiogram",
+    "desc": "Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.",
+    "lang": "Python"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "lang": "C"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "botkalista/ayaya-league-external",
+    "url": "https://github.com/botkalista/ayaya-league-external",
+    "desc": "External script platform for League of Legends",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  }
+]
