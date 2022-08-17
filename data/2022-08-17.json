@@ -1,0 +1,150 @@
+[
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "davidbombal/python-keylogger",
+    "url": "https://github.com/davidbombal/python-keylogger",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labstack/echo",
+    "url": "https://github.com/labstack/echo",
+    "desc": "High performance, minimalist Go web framework",
+    "lang": "Go"
+  },
+  {
+    "title": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
+    "desc": "Graphic notes on Gilbert Strang's Linear Algebra for Everyone",
+    "lang": "TeX"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "desc": "The HTML Presentation Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",
+    "lang": "C"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "desc": "The next-gen web framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "juanfont/headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "desc": "An open source, self-hosted implementation of the Tailscale control server",
+    "lang": "Go"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "adrianhajdin/project_hoobank",
+    "url": "https://github.com/adrianhajdin/project_hoobank",
+    "desc": "Modern UI/UX website using React.js & Tailwind CSS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "lang": "Dart"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davidbombal/express-server-basic",
+    "url": "https://github.com/davidbombal/express-server-basic",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "containerd/containerd",
+    "url": "https://github.com/containerd/containerd",
+    "desc": "An open and reliable container runtime",
+    "lang": "Go"
+  },
+  {
+    "title": "uber-go/zap",
+    "url": "https://github.com/uber-go/zap",
+    "desc": "Blazing fast, structured, leveled logging in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "kingToolbox/WindTerm",
+    "url": "https://github.com/kingToolbox/WindTerm",
+    "desc": "A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.",
+    "lang": "C"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering."
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zellij-org/zellij",
+    "url": "https://github.com/zellij-org/zellij",
+    "desc": "A terminal workspace with batteries included",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/flatbuffers",
+    "url": "https://github.com/google/flatbuffers",
+    "desc": "FlatBuffers: Memory Efficient Serialization Library",
+    "lang": "C++"
+  },
+  {
+    "title": "redcanaryco/atomic-red-team",
+    "url": "https://github.com/redcanaryco/atomic-red-team",
+    "desc": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "lang": "PowerShell"
+  }
+]
