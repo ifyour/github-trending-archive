@@ -1,0 +1,149 @@
+[
+  {
+    "title": "juanfont/headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "desc": "An open source, self-hosted implementation of the Tailscale control server",
+    "lang": "Go"
+  },
+  {
+    "title": "alembics/disco-diffusion",
+    "url": "https://github.com/alembics/disco-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "adi1090x/rofi",
+    "url": "https://github.com/adi1090x/rofi",
+    "desc": "A huge collection of Rofi based custom Applets, Launchers & Powermenus.",
+    "lang": "Shell"
+  },
+  {
+    "title": "photonstorm/phaser",
+    "url": "https://github.com/photonstorm/phaser",
+    "desc": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Shopify/react-native-skia",
+    "url": "https://github.com/Shopify/react-native-skia",
+    "desc": "High-performance React Native Graphics using Skia",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kotlin/kotlinx.coroutines",
+    "url": "https://github.com/Kotlin/kotlinx.coroutines",
+    "desc": "Library support for Kotlin coroutines",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "roboticcam/machine-learning-notes",
+    "url": "https://github.com/roboticcam/machine-learning-notes",
+    "desc": "My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Authing/Authing",
+    "url": "https://github.com/Authing/Authing",
+    "desc": "🔥Authing - IDaaS/IAM solution that can Auth to web and mobile applications."
+  },
+  {
+    "title": "SinicaGroup/Class-agnostic-Few-shot-Object-Counting",
+    "url": "https://github.com/SinicaGroup/Class-agnostic-Few-shot-Object-Counting",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "lang": "C++"
+  },
+  {
+    "title": "ayntgl/discordo",
+    "url": "https://github.com/ayntgl/discordo",
+    "desc": "A lightweight, secure, and feature-rich Discord terminal client",
+    "lang": "Go"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "desc": "Rust-based platform for the Web",
+    "lang": "Rust"
+  },
+  {
+    "title": "golang-migrate/migrate",
+    "url": "https://github.com/golang-migrate/migrate",
+    "desc": "Database migrations. CLI and Golang library.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/review-checklists",
+    "url": "https://github.com/Azure/review-checklists",
+    "desc": "This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.",
+    "lang": "VBA"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "speakeasy-api/rest-template-go",
+    "url": "https://github.com/speakeasy-api/rest-template-go",
+    "desc": "Template go lang service to showcase REST best practices.",
+    "lang": "Go"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "desc": "A desktop debugging platform for mobile developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "desc": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",
+    "lang": "C"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "desc": "A cross-platform, OpenGL terminal emulator.",
+    "lang": "Rust"
+  }
+]
