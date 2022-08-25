@@ -1,0 +1,150 @@
+[
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "desc": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "rinongal/textual_inversion",
+    "url": "https://github.com/rinongal/textual_inversion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "headwaymaps/headway",
+    "url": "https://github.com/headwaymaps/headway",
+    "desc": "Self-hostable maps stack, powered by OpenStreetMap.",
+    "lang": "Vue"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "desc": "All Algorithms implemented in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "facebookresearch/esm",
+    "url": "https://github.com/facebookresearch/esm",
+    "desc": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+    "lang": "Python"
+  },
+  {
+    "title": "kubescape/kubescape",
+    "url": "https://github.com/kubescape/kubescape",
+    "desc": "Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "oracle/docker-images",
+    "url": "https://github.com/oracle/docker-images",
+    "desc": "Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",
+    "lang": "Shell"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "Koko-boya/Grasscutter_Resources",
+    "url": "https://github.com/Koko-boya/Grasscutter_Resources",
+    "desc": "Combined Resource Folder from Multiple Sources of certain anime game",
+    "lang": "Lua"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "desc": "中国程序员容易发音错误的单词",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zeromicro/go-zero",
+    "url": "https://github.com/zeromicro/go-zero",
+    "desc": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "lang": "Go"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "transmissions11/solmate",
+    "url": "https://github.com/transmissions11/solmate",
+    "desc": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skills/introduction-to-github",
+    "url": "https://github.com/skills/introduction-to-github",
+    "desc": "Get started using GitHub in less than an hour."
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The communications platform that puts data protection first.",
+    "lang": "TypeScript"
+  }
+]
