@@ -1,0 +1,149 @@
+[
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "Akebi-Group/Akebi-GC",
+    "url": "https://github.com/Akebi-Group/Akebi-GC",
+    "desc": "The great software for some game that exploiting anime girls (and boys).",
+    "lang": "C++"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "onetrueawk/awk",
+    "url": "https://github.com/onetrueawk/awk",
+    "desc": "One true awk",
+    "lang": "C"
+  },
+  {
+    "title": "layerhub-io/react-design-editor",
+    "url": "https://github.com/layerhub-io/react-design-editor",
+    "desc": "Image, Presentation and Video editor. React design editor using fabric.js. Canva clone",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "kubescape/kubescape",
+    "url": "https://github.com/kubescape/kubescape",
+    "desc": "Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",
+    "lang": "Go"
+  },
+  {
+    "title": "AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "url": "https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "desc": "This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS",
+    "lang": "Python"
+  },
+  {
+    "title": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
+    "lang": "Zig"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "desc": "中国程序员容易发音错误的单词",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "minio/minio",
+    "url": "https://github.com/minio/minio",
+    "desc": "Multi-Cloud ☁️ Object Storage",
+    "lang": "Go"
+  },
+  {
+    "title": "typescript-eslint/typescript-eslint",
+    "url": "https://github.com/typescript-eslint/typescript-eslint",
+    "desc": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "facebookincubator/velox",
+    "url": "https://github.com/facebookincubator/velox",
+    "desc": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.",
+    "lang": "C++"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/lexical",
+    "url": "https://github.com/facebook/lexical",
+    "desc": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "desc": "🐉 Material Component Framework for Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "googleapis/google-cloud-go",
+    "url": "https://github.com/googleapis/google-cloud-go",
+    "desc": "Google Cloud Client Libraries for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  }
+]
