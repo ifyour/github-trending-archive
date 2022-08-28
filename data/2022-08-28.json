@@ -1,0 +1,151 @@
+[
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "desc": "An interactive TypeScript tutorial for beginners",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/guava",
+    "url": "https://github.com/google/guava",
+    "desc": "Google core libraries for Java",
+    "lang": "Java"
+  },
+  {
+    "title": "runsidekick/sidekick",
+    "url": "https://github.com/runsidekick/sidekick",
+    "desc": "Free and open-source live application debugger. Like chrome dev tools but for your backend",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "t3l3machus/hoaxshell",
+    "url": "https://github.com/t3l3machus/hoaxshell",
+    "desc": "An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.",
+    "lang": "Python"
+  },
+  {
+    "title": "cemu-project/Cemu",
+    "url": "https://github.com/cemu-project/Cemu",
+    "desc": "Cemu is a Wii U emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "lang": "Go"
+  },
+  {
+    "title": "authzed/spicedb",
+    "url": "https://github.com/authzed/spicedb",
+    "desc": "Open source permissions database inspired by Google Zanzibar",
+    "lang": "Go"
+  },
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server."
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hunar4321/life_code",
+    "url": "https://github.com/hunar4321/life_code",
+    "desc": "A simple program to simulate attraction/reuplsion forces between many particles",
+    "lang": "C++"
+  },
+  {
+    "title": "teivah/100-go-mistakes",
+    "url": "https://github.com/teivah/100-go-mistakes",
+    "desc": "Source code and community space of 📖 100 Go Mistakes",
+    "lang": "Go"
+  },
+  {
+    "title": "apify/crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "desc": "Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "zachgoll/fullstack-roadmap-series",
+    "url": "https://github.com/zachgoll/fullstack-roadmap-series",
+    "desc": "This series will take you from an absolute beginner to a fullstack developer for 2021 and beyond",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "benphelps/homepage",
+    "url": "https://github.com/benphelps/homepage",
+    "desc": "A highly customizable homepage (or startpage) with Docker and service API integrations.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "radix-ui/primitives",
+    "url": "https://github.com/radix-ui/primitives",
+    "desc": "An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "Stability-AI/stability-sdk",
+    "url": "https://github.com/Stability-AI/stability-sdk",
+    "desc": "SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Shopify/polaris",
+    "url": "https://github.com/Shopify/polaris",
+    "desc": "Shopify’s design system to help us work together to build a great experience for all of our merchants.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "desc": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "lang": "Kotlin"
+  }
+]
