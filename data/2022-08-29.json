@@ -1,0 +1,151 @@
+[
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "desc": "An interactive TypeScript tutorial for beginners",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "divkit/divkit",
+    "url": "https://github.com/divkit/divkit",
+    "desc": "DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app",
+    "lang": "Swift"
+  },
+  {
+    "title": "teivah/100-go-mistakes",
+    "url": "https://github.com/teivah/100-go-mistakes",
+    "desc": "Source code and community space of 📖 100 Go Mistakes",
+    "lang": "Go"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "apify/crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "desc": "Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "jetpack-io/devbox",
+    "url": "https://github.com/jetpack-io/devbox",
+    "desc": "Instant, easy, predictable shells and containers.",
+    "lang": "Go"
+  },
+  {
+    "title": "discourse/discourse",
+    "url": "https://github.com/discourse/discourse",
+    "desc": "A platform for community discussion. Free, open, simple.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "hunar4321/life_code",
+    "url": "https://github.com/hunar4321/life_code",
+    "desc": "A simple program to simulate attraction/reuplsion forces between many particles",
+    "lang": "C++"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "cmdr2/stable-diffusion-ui",
+    "url": "https://github.com/cmdr2/stable-diffusion-ui",
+    "desc": "A simple way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+    "lang": "HTML"
+  },
+  {
+    "title": "rayepps/radash",
+    "url": "https://github.com/rayepps/radash",
+    "desc": "Functional utility library - modern, simple, typed, powerful",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "0x192/universal-android-debloater",
+    "url": "https://github.com/0x192/universal-android-debloater",
+    "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+    "lang": "Rust"
+  },
+  {
+    "title": "runsidekick/sidekick",
+    "url": "https://github.com/runsidekick/sidekick",
+    "desc": "Free and open-source live application debugger. Like chrome dev tools but for your backend",
+    "lang": "Java"
+  },
+  {
+    "title": "bittentech/Bug-Bounty-Beginner-Roadmap",
+    "url": "https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap",
+    "desc": "This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner."
+  },
+  {
+    "title": "udacity/cloud-developer",
+    "url": "https://github.com/udacity/cloud-developer",
+    "desc": "content for Udacity's cloud developer nanodegree",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rinongal/textual_inversion",
+    "url": "https://github.com/rinongal/textual_inversion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "desc": "A fast, clean, responsive Hugo theme.",
+    "lang": "HTML"
+  },
+  {
+    "title": "nix-community/home-manager",
+    "url": "https://github.com/nix-community/home-manager",
+    "desc": "Manage a user environment using Nix [maintainer=@rycee]",
+    "lang": "Nix"
+  },
+  {
+    "title": "gnolang/gno",
+    "url": "https://github.com/gnolang/gno",
+    "desc": "Gno language & gno.land chain",
+    "lang": "Go"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "VimScript"
+  },
+  {
+    "title": "AstroNvim/AstroNvim",
+    "url": "https://github.com/AstroNvim/AstroNvim",
+    "desc": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "lang": "Lua"
+  }
+]
