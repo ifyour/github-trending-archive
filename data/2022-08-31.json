@@ -1,0 +1,151 @@
+[
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hunar4321/life_code",
+    "url": "https://github.com/hunar4321/life_code",
+    "desc": "A simple program to simulate attraction/reuplsion forces between many particles",
+    "lang": "C++"
+  },
+  {
+    "title": "bes-dev/stable_diffusion.openvino",
+    "url": "https://github.com/bes-dev/stable_diffusion.openvino",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "upscayl/upscayl",
+    "url": "https://github.com/upscayl/upscayl",
+    "desc": "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "ainfosec/FISSURE",
+    "url": "https://github.com/ainfosec/FISSURE",
+    "desc": "The RF and reverse engineering framework for everyone",
+    "lang": "HTML"
+  },
+  {
+    "title": "divkit/divkit",
+    "url": "https://github.com/divkit/divkit",
+    "desc": "DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app",
+    "lang": "Swift"
+  },
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "desc": "An interactive TypeScript tutorial for beginners",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ihciah/shadow-tls",
+    "url": "https://github.com/ihciah/shadow-tls",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "desc": "CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",
+    "lang": "Go"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "troyeguo/koodo-reader",
+    "url": "https://github.com/troyeguo/koodo-reader",
+    "desc": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "runsidekick/sidekick",
+    "url": "https://github.com/runsidekick/sidekick",
+    "desc": "Free and open-source live application debugger. Like chrome dev tools but for your backend",
+    "lang": "Java"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "desc": "Combustion engine simulator that generates realistic audio.",
+    "lang": "C++"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "khast3x/Redcloud",
+    "url": "https://github.com/khast3x/Redcloud",
+    "desc": "Automated Red Team Infrastructure deployement using Docker",
+    "lang": "Python"
+  },
+  {
+    "title": "thoughtbot/dotfiles",
+    "url": "https://github.com/thoughtbot/dotfiles",
+    "desc": "A set of vim, zsh, git, and tmux configuration files.",
+    "lang": "Shell"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "desc": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+    "lang": "Python"
+  },
+  {
+    "title": "discourse/discourse",
+    "url": "https://github.com/discourse/discourse",
+    "desc": "A platform for community discussion. Free, open, simple.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "desc": "A hyperparameter optimization framework",
+    "lang": "Python"
+  }
+]
