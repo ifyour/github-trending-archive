@@ -1,0 +1,150 @@
+[
+  {
+    "title": "bes-dev/stable_diffusion.openvino",
+    "url": "https://github.com/bes-dev/stable_diffusion.openvino",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "desc": "Combustion engine simulator that generates realistic audio.",
+    "lang": "C++"
+  },
+  {
+    "title": "hlky/sd-enable-textual-inversion",
+    "url": "https://github.com/hlky/sd-enable-textual-inversion",
+    "desc": "Copy these files to your stable-diffusion to enable text-inversion",
+    "lang": "Python"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zeeka-network/bazuka",
+    "url": "https://github.com/zeeka-network/bazuka",
+    "desc": "Rust implementation of Zeeka protocol",
+    "lang": "Rust"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zhanymkanov/fastapi-best-practices",
+    "url": "https://github.com/zhanymkanov/fastapi-best-practices",
+    "desc": "FastAPI Best Practices and Conventions we used @ hi.peerlink.me"
+  },
+  {
+    "title": "hunar4321/life_code",
+    "url": "https://github.com/hunar4321/life_code",
+    "desc": "A simple program to simulate attraction/reuplsion forces between many particles",
+    "lang": "C++"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of draw.io",
+    "lang": "Shell"
+  },
+  {
+    "title": "ksz-ksz/rxjs-insights",
+    "url": "https://github.com/ksz-ksz/rxjs-insights",
+    "desc": "See through the observables.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "k4yt3x/video2x",
+    "url": "https://github.com/k4yt3x/video2x",
+    "desc": "A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "cmu-db/bustub",
+    "url": "https://github.com/cmu-db/bustub",
+    "desc": "The BusTub Relational Database Management System (Educational)",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "desc": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "projectdiscovery/nuclei",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "desc": "Fast and customizable vulnerability scanner based on simple YAML based DSL.",
+    "lang": "Go"
+  },
+  {
+    "title": "heartcombo/devise",
+    "url": "https://github.com/heartcombo/devise",
+    "desc": "Flexible authentication solution for Rails with Warden.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "EvanLi/Github-Ranking",
+    "url": "https://github.com/EvanLi/Github-Ranking",
+    "desc": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+    "lang": "Python"
+  },
+  {
+    "title": "onsi/ginkgo",
+    "url": "https://github.com/onsi/ginkgo",
+    "desc": "A Modern Testing Framework for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "facebookresearch/faiss",
+    "url": "https://github.com/facebookresearch/faiss",
+    "desc": "A library for efficient similarity search and clustering of dense vectors.",
+    "lang": "C++"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "desc": "build-once run-anywhere c library",
+    "lang": "C"
+  }
+]
