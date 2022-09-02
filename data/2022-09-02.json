@@ -1,0 +1,148 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "desc": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/doris",
+    "url": "https://github.com/apache/doris",
+    "desc": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "priyankavergadia/google-cloud-4-words",
+    "url": "https://github.com/priyankavergadia/google-cloud-4-words",
+    "desc": "The Google Cloud Developer's Cheat Sheet"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "EvanLi/Github-Ranking",
+    "url": "https://github.com/EvanLi/Github-Ranking",
+    "desc": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+    "lang": "Python"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bes-dev/stable_diffusion.openvino",
+    "url": "https://github.com/bes-dev/stable_diffusion.openvino",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CompVis/latent-diffusion",
+    "url": "https://github.com/CompVis/latent-diffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "altryne/awesome-ai-art-image-synthesis",
+    "url": "https://github.com/altryne/awesome-ai-art-image-synthesis",
+    "desc": "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools."
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "heartcombo/devise",
+    "url": "https://github.com/heartcombo/devise",
+    "desc": "Flexible authentication solution for Rails with Warden.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "cloudwego/volo",
+    "url": "https://github.com/cloudwego/volo",
+    "desc": "A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices.",
+    "lang": "Rust"
+  },
+  {
+    "title": "opcodesio/log-viewer",
+    "url": "https://github.com/opcodesio/log-viewer",
+    "desc": "Fast and beautiful Log Viewer for Laravel",
+    "lang": "PHP"
+  },
+  {
+    "title": "zhanymkanov/fastapi-best-practices",
+    "url": "https://github.com/zhanymkanov/fastapi-best-practices",
+    "desc": "FastAPI Best Practices and Conventions we used @ hi.peerlink.me"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "desc": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+    "lang": "JupyterNotebook"
+  }
+]
