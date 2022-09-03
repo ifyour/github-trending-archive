@@ -1,0 +1,151 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "desc": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "desc": "Combustion engine simulator that generates realistic audio.",
+    "lang": "C++"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "desc": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "heartcombo/devise",
+    "url": "https://github.com/heartcombo/devise",
+    "desc": "Flexible authentication solution for Rails with Warden.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "opcodesio/log-viewer",
+    "url": "https://github.com/opcodesio/log-viewer",
+    "desc": "Fast and beautiful Log Viewer for Laravel",
+    "lang": "PHP"
+  },
+  {
+    "title": "rainbow-me/rainbow",
+    "url": "https://github.com/rainbow-me/rainbow",
+    "desc": "🌈‒ the Ethereum wallet that lives in your pocket",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "desc": "MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "aws-ia/terraform-aws-eks-blueprints",
+    "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
+    "desc": "Configure and deploy complete EKS clusters.",
+    "lang": "HCL"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "duckdb/duckdb",
+    "url": "https://github.com/duckdb/duckdb",
+    "desc": "DuckDB is an in-process SQL OLAP Database Management System",
+    "lang": "C++"
+  },
+  {
+    "title": "wolfSSL/wolfssl",
+    "url": "https://github.com/wolfSSL/wolfssl",
+    "desc": "The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3!",
+    "lang": "C"
+  },
+  {
+    "title": "strimzi/strimzi-kafka-operator",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "desc": "Apache Kafka® running on Kubernetes",
+    "lang": "Java"
+  },
+  {
+    "title": "elixir-lang/elixir",
+    "url": "https://github.com/elixir-lang/elixir",
+    "desc": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
+    "lang": "Elixir"
+  }
+]
