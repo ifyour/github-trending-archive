@@ -1,0 +1,149 @@
+[
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "desc": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
+    "lang": "Java"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "vmware-tanzu/kubeapps",
+    "url": "https://github.com/vmware-tanzu/kubeapps",
+    "desc": "A web-based UI for deploying and managing applications in Kubernetes clusters",
+    "lang": "Go"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "EvanLi/Github-Ranking",
+    "url": "https://github.com/EvanLi/Github-Ranking",
+    "desc": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+    "lang": "Python"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "desc": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "desc": "build-once run-anywhere c library",
+    "lang": "C"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "raycast/extensions",
+    "url": "https://github.com/raycast/extensions",
+    "desc": "Everything you need to extend Raycast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "williamboman/mason.nvim",
+    "url": "https://github.com/williamboman/mason.nvim",
+    "desc": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "lang": "Lua"
+  },
+  {
+    "title": "RobinLinus/snapdrop",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "desc": "A Progressive Web App for local file sharing",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "desc": "The Microsoft community Windows Package Manager manifest repository",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  }
+]
