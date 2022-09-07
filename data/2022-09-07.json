@@ -1,0 +1,147 @@
+[
+  {
+    "title": "valence-rs/valence",
+    "url": "https://github.com/valence-rs/valence",
+    "desc": "A Rust framework for building Minecraft servers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "alibaba/EasyCV",
+    "url": "https://github.com/alibaba/EasyCV",
+    "desc": "An all-in-one toolkit for computer vision",
+    "lang": "Python"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "desc": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "desc": "🧠 Leon is your open-source personal assistant.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EvanLi/Github-Ranking",
+    "url": "https://github.com/EvanLi/Github-Ranking",
+    "desc": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "projectdiscovery/uncover",
+    "url": "https://github.com/projectdiscovery/uncover",
+    "desc": "Quickly discover exposed hosts on the internet using multiple search engines.",
+    "lang": "Go"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "desc": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+    "lang": "Go"
+  },
+  {
+    "title": "vmware-tanzu/kubeapps",
+    "url": "https://github.com/vmware-tanzu/kubeapps",
+    "desc": "A web-based UI for deploying and managing applications in Kubernetes clusters",
+    "lang": "Go"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase iOS SDK",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "desc": "The Hybrid Vue(3) Framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
+    "desc": "Resources for deep learning with satellite & aerial imagery"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "PrestaShop/PrestaShop",
+    "url": "https://github.com/PrestaShop/PrestaShop",
+    "desc": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+    "lang": "PHP"
+  },
+  {
+    "title": "openshiporg/openship",
+    "url": "https://github.com/openshiporg/openship",
+    "desc": "multi-channel fulfillment at scale",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-metadata/OpenMetadata",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "desc": "Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "desc": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux."
+  },
+  {
+    "title": "transmissions11/solmate",
+    "url": "https://github.com/transmissions11/solmate",
+    "desc": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "tidwall/gjson",
+    "url": "https://github.com/tidwall/gjson",
+    "desc": "Get JSON values quickly - JSON parser for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  }
+]
