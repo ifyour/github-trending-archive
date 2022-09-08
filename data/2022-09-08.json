@@ -1,0 +1,148 @@
+[
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "desc": "An interactive TypeScript tutorial for beginners",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "desc": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vmware-tanzu/kubeapps",
+    "url": "https://github.com/vmware-tanzu/kubeapps",
+    "desc": "A web-based UI for deploying and managing applications in Kubernetes clusters",
+    "lang": "Go"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "valence-rs/valence",
+    "url": "https://github.com/valence-rs/valence",
+    "desc": "A Rust framework for building Minecraft servers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Nickyie/Cybersecurity-Resources",
+    "url": "https://github.com/Nickyie/Cybersecurity-Resources",
+    "desc": "A Library of various cybersecurity resources"
+  },
+  {
+    "title": "BehaviorTree/BehaviorTree.CPP",
+    "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+    "desc": "Behavior Trees Library in C++. Batteries included.",
+    "lang": "C++"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "Python"
+  },
+  {
+    "title": "umami-software/umami",
+    "url": "https://github.com/umami-software/umami",
+    "desc": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitwarden/server",
+    "url": "https://github.com/bitwarden/server",
+    "desc": "The core infrastructure backend (API, database, Docker, etc).",
+    "lang": "C#"
+  },
+  {
+    "title": "projectdiscovery/uncover",
+    "url": "https://github.com/projectdiscovery/uncover",
+    "desc": "Quickly discover exposed hosts on the internet using multiple search engines.",
+    "lang": "Go"
+  },
+  {
+    "title": "lklima/rn-flight-animation",
+    "url": "https://github.com/lklima/rn-flight-animation",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "safak/youtube2022",
+    "url": "https://github.com/safak/youtube2022",
+    "desc": "Season 2 on Lama Dev"
+  },
+  {
+    "title": "tidwall/gjson",
+    "url": "https://github.com/tidwall/gjson",
+    "desc": "Get JSON values quickly - JSON parser for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "luischaparroc/holberton-system_engineering-devops",
+    "url": "https://github.com/luischaparroc/holberton-system_engineering-devops",
+    "desc": "⚙️ System Engineering and Devops training module",
+    "lang": "Shell"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "llvm/llvm-project",
+    "url": "https://github.com/llvm/llvm-project",
+    "desc": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org."
+  }
+]
