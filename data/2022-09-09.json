@@ -1,0 +1,150 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "IdreesInc/Monocraft",
+    "url": "https://github.com/IdreesInc/Monocraft",
+    "desc": "A programming font based on the typeface used in Minecraft"
+  },
+  {
+    "title": "Wilfred/difftastic",
+    "url": "https://github.com/Wilfred/difftastic",
+    "desc": "a structural diff that understands syntax 🟥🟩",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/incubator-streampark",
+    "url": "https://github.com/apache/incubator-streampark",
+    "desc": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
+    "lang": "Java"
+  },
+  {
+    "title": "zhanymkanov/fastapi-best-practices",
+    "url": "https://github.com/zhanymkanov/fastapi-best-practices",
+    "desc": "FastAPI Best Practices and Conventions we used @ hi.peerlink.me"
+  },
+  {
+    "title": "valence-rs/valence",
+    "url": "https://github.com/valence-rs/valence",
+    "desc": "A Rust framework for building Minecraft servers.",
+    "lang": "Rust"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vmware-tanzu/kubeapps",
+    "url": "https://github.com/vmware-tanzu/kubeapps",
+    "desc": "A web-based UI for deploying and managing applications in Kubernetes clusters",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/SynapseML",
+    "url": "https://github.com/microsoft/SynapseML",
+    "desc": "Simple and Distributed Machine Learning",
+    "lang": "Scala"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "actions/runner-images",
+    "url": "https://github.com/actions/runner-images",
+    "desc": "GitHub Actions runner images",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "cmdr2/stable-diffusion-ui",
+    "url": "https://github.com/cmdr2/stable-diffusion-ui",
+    "desc": "A simple 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+    "lang": "HTML"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "lang": "Dart"
+  },
+  {
+    "title": "BehaviorTree/BehaviorTree.CPP",
+    "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+    "desc": "Behavior Trees Library in C++. Batteries included.",
+    "lang": "C++"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "prusa3d/PrusaSlicer",
+    "url": "https://github.com/prusa3d/PrusaSlicer",
+    "desc": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "lang": "C++"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "Python"
+  },
+  {
+    "title": "akka/akka",
+    "url": "https://github.com/akka/akka",
+    "desc": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+    "lang": "Scala"
+  },
+  {
+    "title": "yeemachine/kalidokit",
+    "url": "https://github.com/yeemachine/kalidokit",
+    "desc": "Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.",
+    "lang": "TypeScript"
+  }
+]
