@@ -1,0 +1,150 @@
+[
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "somebasj/ParallelsDesktopCrack",
+    "url": "https://github.com/somebasj/ParallelsDesktopCrack",
+    "desc": "Parallels Desktop for mac Crack",
+    "lang": "Shell"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "desc": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "lang": "Dart"
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "desc": "Build faster websites with Astro's next-gen island architecture 🏝✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "streetwriters/notesnook",
+    "url": "https://github.com/streetwriters/notesnook",
+    "desc": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "desc": "The next-gen web framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "actions/runner-images",
+    "url": "https://github.com/actions/runner-images",
+    "desc": "GitHub Actions runner images",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/SynapseML",
+    "url": "https://github.com/microsoft/SynapseML",
+    "desc": "Simple and Distributed Machine Learning",
+    "lang": "Scala"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "Wilfred/difftastic",
+    "url": "https://github.com/Wilfred/difftastic",
+    "desc": "a structural diff that understands syntax 🟥🟩",
+    "lang": "Rust"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "prusa3d/PrusaSlicer",
+    "url": "https://github.com/prusa3d/PrusaSlicer",
+    "desc": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "desc": "Learn how to design systems at scale and prepare for system design interviews"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "desc": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+    "lang": "Java"
+  }
+]
