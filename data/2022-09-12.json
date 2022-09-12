@@ -1,0 +1,151 @@
+[
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "somebasj/ParallelsDesktopCrack",
+    "url": "https://github.com/somebasj/ParallelsDesktopCrack",
+    "desc": "Parallels Desktop for mac Crack",
+    "lang": "Shell"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-app",
+    "url": "https://github.com/termux/termux-app",
+    "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "Alcibiades-Capital/mev_bundle_generator",
+    "url": "https://github.com/Alcibiades-Capital/mev_bundle_generator",
+    "desc": "A MEV bundle generator written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "meienberger/runtipi",
+    "url": "https://github.com/meienberger/runtipi",
+    "desc": "⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "benphelps/homepage",
+    "url": "https://github.com/benphelps/homepage",
+    "desc": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaakkopasanen/AutoEq",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "desc": "Automatic headphone equalization from frequency responses",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",
+    "lang": "Lua"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "Markdown"
+  },
+  {
+    "title": "mantinedev/mantine",
+    "url": "https://github.com/mantinedev/mantine",
+    "desc": "React components library with native dark theme support",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "apache/incubator-streampark",
+    "url": "https://github.com/apache/incubator-streampark",
+    "desc": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
+    "lang": "Java"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "lang": "C"
+  },
+  {
+    "title": "idealvin/coost",
+    "url": "https://github.com/idealvin/coost",
+    "desc": "A tiny boost library in C++11.",
+    "lang": "C++"
+  },
+  {
+    "title": "craftzdog/dotfiles-public",
+    "url": "https://github.com/craftzdog/dotfiles-public",
+    "desc": "My personal dotfiles",
+    "lang": "Lua"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "desc": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "lang": "Go"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  }
+]
