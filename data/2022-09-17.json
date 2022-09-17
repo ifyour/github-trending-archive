@@ -1,0 +1,152 @@
+[
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebookincubator/memlab",
+    "url": "https://github.com/facebookincubator/memlab",
+    "desc": "A framework for finding JavaScript memory leaks and analyzing heap snapshots",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nuttyartist/notes",
+    "url": "https://github.com/nuttyartist/notes",
+    "desc": "Note-taking application, write down your thoughts.",
+    "lang": "C++"
+  },
+  {
+    "title": "nuttyartist/notes",
+    "url": "https://github.com/nuttyartist/notes",
+    "desc": "Note-taking application, write down your thoughts.",
+    "lang": "C++"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "desc": "即时通讯IM",
+    "lang": "Go"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "desc": "即时通讯IM",
+    "lang": "Go"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "desc": "💊 The official ReVanced Manager",
+    "lang": "Dart"
+  },
+  {
+    "title": "nadrad/h-m-m",
+    "url": "https://github.com/nadrad/h-m-m",
+    "desc": "Hackers Mind Map",
+    "lang": "PHP"
+  },
+  {
+    "title": "b23r0/Heroinn",
+    "url": "https://github.com/b23r0/Heroinn",
+    "desc": "A cross platform C2/post-exploitation framework.",
+    "lang": "Rust"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "desc": "The Hybrid Vue(3) Framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "ethereum/go-ethereum",
+    "url": "https://github.com/ethereum/go-ethereum",
+    "desc": "Official Go implementation of the Ethereum protocol",
+    "lang": "Go"
+  },
+  {
+    "title": "ethereum/go-ethereum",
+    "url": "https://github.com/ethereum/go-ethereum",
+    "desc": "Official Go implementation of the Ethereum protocol",
+    "lang": "Go"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "desc": "Graph Neural Network Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "bmpi-dev/invest-alchemy",
+    "url": "https://github.com/bmpi-dev/invest-alchemy",
+    "desc": "Invest Alchemy is a trade assistant for A share stock market. 为了满足上班族或业余投资者简单长期的投资需求，投资炼金术这个辅助用户投资交易的系统，它可以从投资组合整体的角度评价交易策略的风险与收益，而不像大多量化投资软件，解决了交易策略在模拟回测与投资组合实践中差距过大的问题。",
+    "lang": "Python"
+  },
+  {
+    "title": "total-typescript/type-transformations-workshop",
+    "url": "https://github.com/total-typescript/type-transformations-workshop",
+    "desc": "Master transforming types in TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "desc": "Delightful JavaScript Testing.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "revanced/revanced-patches",
+    "url": "https://github.com/revanced/revanced-patches",
+    "desc": "🧩 Official patches by ReVanced",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "avaneev/prvhash",
+    "url": "https://github.com/avaneev/prvhash",
+    "desc": "PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)",
+    "lang": "C"
+  }
+]
