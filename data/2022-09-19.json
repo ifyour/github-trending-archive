@@ -1,0 +1,150 @@
+[
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot - The Open-Source design & prototyping platform",
+    "lang": "Clojure"
+  },
+  {
+    "title": "nuttyartist/notes",
+    "url": "https://github.com/nuttyartist/notes",
+    "desc": "Note-taking application, write down your thoughts.",
+    "lang": "C++"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "lang": "HTML"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "relogX/system-design-questions",
+    "url": "https://github.com/relogX/system-design-questions",
+    "desc": "Problem statements on System Design and Software Architecture as part of Arpit's System Design Masterclass",
+    "lang": "Python"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "desc": "Scheduling infrastructure for absolutely everyone.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "AbdBarho/stable-diffusion-webui-docker",
+    "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
+    "desc": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "johguse/profanity",
+    "url": "https://github.com/johguse/profanity",
+    "desc": "Vanity address generator for Ethereum",
+    "lang": "C++"
+  },
+  {
+    "title": "theatre-js/theatre",
+    "url": "https://github.com/theatre-js/theatre",
+    "desc": "Motion design editor for the web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "desc": "A cross-platform, OpenGL terminal emulator.",
+    "lang": "Rust"
+  },
+  {
+    "title": "linuxdeepin/unilang",
+    "url": "https://github.com/linuxdeepin/unilang",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "ThePrimeagen/kata-machine",
+    "url": "https://github.com/ThePrimeagen/kata-machine",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "lang": "C++"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "desc": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "lang": "Go"
+  },
+  {
+    "title": "acmesh-official/acme.sh",
+    "url": "https://github.com/acmesh-official/acme.sh",
+    "desc": "A pure Unix shell script implementing ACME client protocol",
+    "lang": "Shell"
+  },
+  {
+    "title": "openwrt/luci",
+    "url": "https://github.com/openwrt/luci",
+    "desc": "LuCI - OpenWrt Configuration Interface",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  }
+]
