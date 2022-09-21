@@ -1,0 +1,150 @@
+[
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hsutter/cppfront",
+    "url": "https://github.com/hsutter/cppfront",
+    "desc": "A personal experimental C++ Syntax 2 -> Syntax 1 compiler",
+    "lang": "C++"
+  },
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "desc": "AI imagined images. Pythonic generation of stable diffusion images.",
+    "lang": "Python"
+  },
+  {
+    "title": "hasherezade/pe-bear",
+    "url": "https://github.com/hasherezade/pe-bear",
+    "desc": "Portable Executable reversing tool with a friendly GUI",
+    "lang": "C++"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "lang": "Python"
+  },
+  {
+    "title": "linuxdeepin/unilang",
+    "url": "https://github.com/linuxdeepin/unilang",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "desc": "📺 Discover the latest machine learning / AI courses on YouTube."
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "desc": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
+    "lang": "C++"
+  },
+  {
+    "title": "divamgupta/stable-diffusion-tensorflow",
+    "url": "https://github.com/divamgupta/stable-diffusion-tensorflow",
+    "desc": "Stable Diffusion in TensorFlow / Keras",
+    "lang": "Python"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot - The Open-Source design & prototyping platform",
+    "lang": "Clojure"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "ThereforeGames/txt2mask",
+    "url": "https://github.com/ThereforeGames/txt2mask",
+    "desc": "Automatically create masks for Stable Diffusion inpainting using natural language.",
+    "lang": "Python"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "desc": "🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "go-kit/kit",
+    "url": "https://github.com/go-kit/kit",
+    "desc": "A standard library for microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "rinongal/textual_inversion",
+    "url": "https://github.com/rinongal/textual_inversion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  }
+]
