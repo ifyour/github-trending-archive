@@ -1,0 +1,151 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "lang": "Python"
+  },
+  {
+    "title": "nas5w/interview-resources",
+    "url": "https://github.com/nas5w/interview-resources",
+    "desc": "A non-overwhelming list of resources for tech interviews."
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "desc": "AI imagined images. Pythonic generation of stable diffusion images.",
+    "lang": "Python"
+  },
+  {
+    "title": "mrdbourke/pytorch-deep-learning",
+    "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+    "desc": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OhMyGuus/I-Dont-Care-About-Cookies",
+    "url": "https://github.com/OhMyGuus/I-Dont-Care-About-Cookies",
+    "desc": "Debloated fork of the extension I don't care about cookies (WIP)",
+    "lang": "CSS"
+  },
+  {
+    "title": "johguse/profanity",
+    "url": "https://github.com/johguse/profanity",
+    "desc": "Vanity address generator for Ethereum",
+    "lang": "C++"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "divamgupta/stable-diffusion-tensorflow",
+    "url": "https://github.com/divamgupta/stable-diffusion-tensorflow",
+    "desc": "Stable Diffusion in TensorFlow / Keras",
+    "lang": "Python"
+  },
+  {
+    "title": "coroot/coroot",
+    "url": "https://github.com/coroot/coroot",
+    "desc": "A monitoring and troubleshooting tool for microservice architectures.",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "ThereforeGames/txt2mask",
+    "url": "https://github.com/ThereforeGames/txt2mask",
+    "desc": "Automatically create masks for Stable Diffusion inpainting using natural language.",
+    "lang": "Python"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "nanopb/nanopb",
+    "url": "https://github.com/nanopb/nanopb",
+    "desc": "Protocol Buffers with small code size",
+    "lang": "C"
+  },
+  {
+    "title": "BuilderIO/qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "desc": "The HTML-first framework. Instant apps of any size with ~ 1kb JS",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "desc": "A fast and secure runtime for WebAssembly",
+    "lang": "Rust"
+  },
+  {
+    "title": "triton-inference-server/server",
+    "url": "https://github.com/triton-inference-server/server",
+    "desc": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/faiss",
+    "url": "https://github.com/facebookresearch/faiss",
+    "desc": "A library for efficient similarity search and clustering of dense vectors.",
+    "lang": "C++"
+  },
+  {
+    "title": "gabime/spdlog",
+    "url": "https://github.com/gabime/spdlog",
+    "desc": "Fast C++ logging library.",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Bicep"
+  },
+  {
+    "title": "apache/nifi",
+    "url": "https://github.com/apache/nifi",
+    "desc": "Apache NiFi",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "desc": "Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS",
+    "lang": "Go"
+  }
+]
