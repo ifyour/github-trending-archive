@@ -1,0 +1,150 @@
+[
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "3xp0rt/LockBit-Black-Builder",
+    "url": "https://github.com/3xp0rt/LockBit-Black-Builder",
+    "desc": ""
+  },
+  {
+    "title": "pointfreeco/swift-snapshot-testing",
+    "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "desc": "📸 Delightful Swift snapshot testing.",
+    "lang": "Swift"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cassiozen/TDungeon",
+    "url": "https://github.com/cassiozen/TDungeon",
+    "desc": "TDungeon is a small adventure game that runs in the Typescript type system",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "desktop/desktop",
+    "url": "https://github.com/desktop/desktop",
+    "desc": "Simple collaboration from your desktop",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "BuilderIO/qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "desc": "The HTML-first framework. Instant apps of any size with ~ 1kb JS",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "Stability-AI/stability-sdk",
+    "url": "https://github.com/Stability-AI/stability-sdk",
+    "desc": "SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "desc": "Learn how to design systems at scale and prepare for system design interviews"
+  },
+  {
+    "title": "AveYo/MediaCreationTool.bat",
+    "url": "https://github.com/AveYo/MediaCreationTool.bat",
+    "desc": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "D1rkMtr/FilelessRemotePE",
+    "url": "https://github.com/D1rkMtr/FilelessRemotePE",
+    "desc": "Loading Fileless Remote PE from URI to memory with argument passing and ETW patching and NTDLL unhooking and No New Thread technique",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/JavaScript",
+    "url": "https://github.com/TheAlgorithms/JavaScript",
+    "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "epfml/ML_course",
+    "url": "https://github.com/epfml/ML_course",
+    "desc": "EPFL Machine Learning Course, Fall 2021",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "desc": "A fast and secure runtime for WebAssembly",
+    "lang": "Rust"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "lang": "Python"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "salesforce/LAVIS",
+    "url": "https://github.com/salesforce/LAVIS",
+    "desc": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "lang": "Python"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kakaobrain/NeRF-Factory",
+    "url": "https://github.com/kakaobrain/NeRF-Factory",
+    "desc": "An awesome PyTorch NeRF library",
+    "lang": "Python"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "desc": "Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS",
+    "lang": "Go"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "axa-group/Parsr",
+    "url": "https://github.com/axa-group/Parsr",
+    "desc": "Transforms PDF, Documents and Images into Enriched Structured Data",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "desc": "🔎 Open source distributed and RESTful search engine.",
+    "lang": "Java"
+  }
+]
