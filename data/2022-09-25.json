@@ -1,0 +1,149 @@
+[
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "pointfreeco/swift-snapshot-testing",
+    "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "desc": "📸 Delightful Swift snapshot testing.",
+    "lang": "Swift"
+  },
+  {
+    "title": "steven-tey/dub",
+    "url": "https://github.com/steven-tey/dub",
+    "desc": "An open-source link shortener with built-in analytics + free custom domains.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "IDEA-Research/detrex",
+    "url": "https://github.com/IDEA-Research/detrex",
+    "desc": "IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "desc": "A fast and secure runtime for WebAssembly",
+    "lang": "Rust"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "3xp0rt/LockBit-Black-Builder",
+    "url": "https://github.com/3xp0rt/LockBit-Black-Builder",
+    "desc": ""
+  },
+  {
+    "title": "salesforce/LAVIS",
+    "url": "https://github.com/salesforce/LAVIS",
+    "desc": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "desc": "Create beautiful applications using Go",
+    "lang": "Go"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "desc": "Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS",
+    "lang": "Go"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "lang": "C++"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "desc": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "lang": "Dart"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "desc": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "lang": "C#"
+  },
+  {
+    "title": "hyperium/tonic",
+    "url": "https://github.com/hyperium/tonic",
+    "desc": "A native gRPC client & server implementation with async/await support.",
+    "lang": "Rust"
+  },
+  {
+    "title": "FreeRTOS/FreeRTOS-Kernel",
+    "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "desc": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "lang": "C"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "alibaba/MNN",
+    "url": "https://github.com/alibaba/MNN",
+    "desc": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",
+    "lang": "C++"
+  }
+]
