@@ -1,0 +1,145 @@
+[
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "octocat/Spoon-Knife",
+    "url": "https://github.com/octocat/Spoon-Knife",
+    "desc": "This repo is for demonstration purposes only.",
+    "lang": "HTML"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "google/tensorstore",
+    "url": "https://github.com/google/tensorstore",
+    "desc": "Library for reading and writing large multi-dimensional arrays.",
+    "lang": "C++"
+  },
+  {
+    "title": "pi-hole/docker-pi-hole",
+    "url": "https://github.com/pi-hole/docker-pi-hole",
+    "desc": "Pi-hole in a docker container",
+    "lang": "Shell"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "desc": "Combustion engine simulator that generates realistic audio.",
+    "lang": "C++"
+  },
+  {
+    "title": "XavierXiao/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
+    "desc": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jzimmerman/langcc",
+    "url": "https://github.com/jzimmerman/langcc",
+    "desc": "langcc: A Next-Generation Compiler Compiler",
+    "lang": "C++"
+  },
+  {
+    "title": "steven-tey/dub",
+    "url": "https://github.com/steven-tey/dub",
+    "desc": "An open-source link shortener with built-in analytics + free custom domains.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "lang": "Go"
+  },
+  {
+    "title": "AveYo/MediaCreationTool.bat",
+    "url": "https://github.com/AveYo/MediaCreationTool.bat",
+    "desc": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "signalapp/Signal-TLS-Proxy",
+    "url": "https://github.com/signalapp/Signal-TLS-Proxy",
+    "desc": "",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "desktop/desktop",
+    "url": "https://github.com/desktop/desktop",
+    "desc": "Simple collaboration from your desktop",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ahrm/UnstableFusion",
+    "url": "https://github.com/ahrm/UnstableFusion",
+    "desc": "A Stable Diffusion desktop frontend with inpainting, img2img and more!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Rezmason/matrix",
+    "url": "https://github.com/Rezmason/matrix",
+    "desc": "matrix (web-based green code rain, made with love)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/JavaScript",
+    "url": "https://github.com/TheAlgorithms/JavaScript",
+    "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Akebi-Group/Akebi-GC",
+    "url": "https://github.com/Akebi-Group/Akebi-GC",
+    "desc": "The great software for some game that exploiting anime girls (and boys).",
+    "lang": "C++"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "termux/termux-app",
+    "url": "https://github.com/termux/termux-app",
+    "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "lang": "Java"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  }
+]
