@@ -1,0 +1,146 @@
+[
+  {
+    "title": "XavierXiao/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
+    "desc": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jzimmerman/langcc",
+    "url": "https://github.com/jzimmerman/langcc",
+    "desc": "langcc: A Next-Generation Compiler Compiler",
+    "lang": "C++"
+  },
+  {
+    "title": "google/tensorstore",
+    "url": "https://github.com/google/tensorstore",
+    "desc": "Library for reading and writing large multi-dimensional arrays.",
+    "lang": "C++"
+  },
+  {
+    "title": "nv-tlabs/GET3D",
+    "url": "https://github.com/nv-tlabs/GET3D",
+    "desc": ""
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "desc": "Learn how to design systems at scale and prepare for system design interviews"
+  },
+  {
+    "title": "SagerNet/sing-box",
+    "url": "https://github.com/SagerNet/sing-box",
+    "desc": "The universal proxy platform",
+    "lang": "Go"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "ahrm/UnstableFusion",
+    "url": "https://github.com/ahrm/UnstableFusion",
+    "desc": "A Stable Diffusion desktop frontend with inpainting, img2img and more!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WordPress/wordpress-wasm",
+    "url": "https://github.com/WordPress/wordpress-wasm",
+    "desc": "Run WordPress in the browser thanks to WebAssembly magic",
+    "lang": "PHP"
+  },
+  {
+    "title": "steven-tey/dub",
+    "url": "https://github.com/steven-tey/dub",
+    "desc": "An open-source link shortener with built-in analytics + free custom domains.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "octocat/Spoon-Knife",
+    "url": "https://github.com/octocat/Spoon-Knife",
+    "desc": "This repo is for demonstration purposes only.",
+    "lang": "HTML"
+  },
+  {
+    "title": "anaer/Sub",
+    "url": "https://github.com/anaer/Sub",
+    "desc": "自用clash订阅链接",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fffaraz/awesome-cpp",
+    "url": "https://github.com/fffaraz/awesome-cpp",
+    "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+  },
+  {
+    "title": "evilsocket/spycast",
+    "url": "https://github.com/evilsocket/spycast",
+    "desc": "A crossplatform mDNS enumeration tool.",
+    "lang": "HTML"
+  },
+  {
+    "title": "m1guelpf/yt-whisper",
+    "url": "https://github.com/m1guelpf/yt-whisper",
+    "desc": "Using OpenAI's Whisper to automatically generate YouTube subtitles",
+    "lang": "Python"
+  },
+  {
+    "title": "envoyproxy/protoc-gen-validate",
+    "url": "https://github.com/envoyproxy/protoc-gen-validate",
+    "desc": "protoc plugin to generate polyglot message validators",
+    "lang": "Go"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "desc": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "lang": "C#"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "carbon-design-system/carbon",
+    "url": "https://github.com/carbon-design-system/carbon",
+    "desc": "A design system built by IBM",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  }
+]
