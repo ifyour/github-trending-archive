@@ -1,0 +1,148 @@
+[
+  {
+    "title": "cloudflare/workerd",
+    "url": "https://github.com/cloudflare/workerd",
+    "desc": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+    "lang": "C++"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "nifanfa/MOOS",
+    "url": "https://github.com/nifanfa/MOOS",
+    "desc": "C# x64 operating system programming with the .NET native ahead-of-time compilation technology.",
+    "lang": "C#"
+  },
+  {
+    "title": "Cysharp/MemoryPack",
+    "url": "https://github.com/Cysharp/MemoryPack",
+    "desc": "Zero encoding extreme performance binary serializer for C#.",
+    "lang": "C#"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Free Data Engineering course!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "anaer/Sub",
+    "url": "https://github.com/anaer/Sub",
+    "desc": "自用clash订阅链接",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "desc": "Learn how to design systems at scale and prepare for system design interviews"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "desc": "An interactive TypeScript tutorial for beginners",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "XavierXiao/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
+    "desc": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "https-deeplearning-ai/machine-learning-engineering-for-production-public",
+    "url": "https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public",
+    "desc": "Public repo for DeepLearning.AI MLEP Specialization",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "towhee-io/towhee",
+    "url": "https://github.com/towhee-io/towhee",
+    "desc": "Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/echarts",
+    "url": "https://github.com/apache/echarts",
+    "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "hktalent/scan4all",
+    "url": "https://github.com/hktalent/scan4all",
+    "desc": "Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
+    "lang": "Go"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model",
+    "lang": "Python"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  }
+]
