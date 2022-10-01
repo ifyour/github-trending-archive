@@ -1,0 +1,148 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "dosisod/refurb",
+    "url": "https://github.com/dosisod/refurb",
+    "desc": "A tool for refurbishing and modernizing Python codebases",
+    "lang": "Python"
+  },
+  {
+    "title": "GoVanguard/list-infosec-encyclopedia",
+    "url": "https://github.com/GoVanguard/list-infosec-encyclopedia",
+    "desc": "A list of information security related awesome lists and other resources."
+  },
+  {
+    "title": "cloudflare/workerd",
+    "url": "https://github.com/cloudflare/workerd",
+    "desc": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+    "lang": "C++"
+  },
+  {
+    "title": "WeAreMahsaAmini/Core",
+    "url": "https://github.com/WeAreMahsaAmini/Core",
+    "desc": "Woman, life, freedom"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "total-typescript/typescript-generics-workshop",
+    "url": "https://github.com/total-typescript/typescript-generics-workshop",
+    "desc": "Interactive tutorial on using generics in TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "desc": "Delightful JavaScript Testing.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fluent/fluent-bit",
+    "url": "https://github.com/fluent/fluent-bit",
+    "desc": "Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",
+    "lang": "C"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "huggingface/setfit",
+    "url": "https://github.com/huggingface/setfit",
+    "desc": "Efficient few-shot learning with Sentence Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion, +25% speed increase + memory efficient.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "SeleniumHQ/selenium",
+    "url": "https://github.com/SeleniumHQ/selenium",
+    "desc": "A browser automation framework and ecosystem.",
+    "lang": "Java"
+  },
+  {
+    "title": "coral-xyz/backpack",
+    "url": "https://github.com/coral-xyz/backpack",
+    "desc": "🎒 Next level crypto wallet",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WeAreMahsaAmini/CelebrityWall",
+    "url": "https://github.com/WeAreMahsaAmini/CelebrityWall",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot - The Open-Source design & prototyping platform",
+    "lang": "Clojure"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "lightninglabs/taro",
+    "url": "https://github.com/lightninglabs/taro",
+    "desc": "A layer 1 daemon, for the Taro protocol specification, written in Go (golang)",
+    "lang": "Go"
+  },
+  {
+    "title": "containerd/containerd",
+    "url": "https://github.com/containerd/containerd",
+    "desc": "An open and reliable container runtime",
+    "lang": "Go"
+  }
+]
