@@ -1,0 +1,151 @@
+[
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "desc": "An interactive TypeScript tutorial for beginners",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot - The Open-Source design & prototyping platform",
+    "lang": "Clojure"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "lucidrains/make-a-video-pytorch",
+    "url": "https://github.com/lucidrains/make-a-video-pytorch",
+    "desc": "Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "NielsRogge/Transformers-Tutorials",
+    "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+    "desc": "This repository contains demos I made with the Transformers library by HuggingFace.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nv-tlabs/GET3D",
+    "url": "https://github.com/nv-tlabs/GET3D",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Ildaron/Laser_control",
+    "url": "https://github.com/Ildaron/Laser_control",
+    "desc": "Open-Source Laser for control mosquito, weed, and pest",
+    "lang": "Python"
+  },
+  {
+    "title": "developedbyed/react-portofolio-with-tailwind",
+    "url": "https://github.com/developedbyed/react-portofolio-with-tailwind",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Nickyie/Cybersecurity-Resources",
+    "url": "https://github.com/Nickyie/Cybersecurity-Resources",
+    "desc": "A Library of various cybersecurity resources"
+  },
+  {
+    "title": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "desc": "CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",
+    "lang": "Go"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "desc": "Generates LaTeX math description from Python functions.",
+    "lang": "Python"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A modern runtime for JavaScript and TypeScript.",
+    "lang": "Rust"
+  },
+  {
+    "title": "phoenixframework/phoenix",
+    "url": "https://github.com/phoenixframework/phoenix",
+    "desc": "Peace of mind from prototype to production",
+    "lang": "Elixir"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "A latent text-to-image diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fireship-io/fireship.io",
+    "url": "https://github.com/fireship-io/fireship.io",
+    "desc": "Build and ship your app faster https://fireship.io",
+    "lang": "Svelte"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "desc": "🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "desc": "Awesome Docker Compose samples",
+    "lang": "HTML"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dosisod/refurb",
+    "url": "https://github.com/dosisod/refurb",
+    "desc": "A tool for refurbishing and modernizing Python codebases",
+    "lang": "Python"
+  },
+  {
+    "title": "go-kit/kit",
+    "url": "https://github.com/go-kit/kit",
+    "desc": "A standard library for microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mperham/sidekiq",
+    "url": "https://github.com/mperham/sidekiq",
+    "desc": "Simple, efficient background processing for Ruby",
+    "lang": "Ruby"
+  }
+]
