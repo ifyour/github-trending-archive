@@ -1,0 +1,149 @@
+[
+  {
+    "title": "lkwq007/stablediffusion-infinity",
+    "url": "https://github.com/lkwq007/stablediffusion-infinity",
+    "desc": "Outpainting with Stable Diffusion on an infinite canvas",
+    "lang": "Python"
+  },
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "desc": "An interactive TypeScript tutorial for beginners",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HavocFramework/Havoc",
+    "url": "https://github.com/HavocFramework/Havoc",
+    "desc": "The Havoc Framework",
+    "lang": "Go"
+  },
+  {
+    "title": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr",
+    "desc": "📚 Collaborative cheatsheets for console commands",
+    "lang": "Markdown"
+  },
+  {
+    "title": "GoVanguard/Getting-into-InfoSec-and-Cybersecurity",
+    "url": "https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity",
+    "desc": "A shorter, less intimidating list of infosec resources helpful for anyone trying to learn."
+  },
+  {
+    "title": "turbot/steampipe",
+    "url": "https://github.com/turbot/steampipe",
+    "desc": "Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.",
+    "lang": "Go"
+  },
+  {
+    "title": "developedbyed/react-portofolio-with-tailwind",
+    "url": "https://github.com/developedbyed/react-portofolio-with-tailwind",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "build-trust/ockam",
+    "url": "https://github.com/build-trust/ockam",
+    "desc": "Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.",
+    "lang": "Rust"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "desc": "⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat notifications using a single API. ⚡",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "duckdb/duckdb",
+    "url": "https://github.com/duckdb/duckdb",
+    "desc": "DuckDB is an in-process SQL OLAP Database Management System",
+    "lang": "C++"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "TryGhost/Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "desc": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danba340/minecraft-freecodecamp",
+    "url": "https://github.com/danba340/minecraft-freecodecamp",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iced-rs/iced",
+    "url": "https://github.com/iced-rs/iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "lang": "Rust"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "desc": "OpenCore bootloader",
+    "lang": "C"
+  }
+]
