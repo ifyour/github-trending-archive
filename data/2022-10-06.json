@@ -1,0 +1,152 @@
+[
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "snaplet/postgres-wasm",
+    "url": "https://github.com/snaplet/postgres-wasm",
+    "desc": "A PostgresQL server running in your browser",
+    "lang": "Python"
+  },
+  {
+    "title": "folke/noice.nvim",
+    "url": "https://github.com/folke/noice.nvim",
+    "desc": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "lang": "Lua"
+  },
+  {
+    "title": "iced-rs/iced",
+    "url": "https://github.com/iced-rs/iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "lang": "Rust"
+  },
+  {
+    "title": "itsnebulalol/ios15-tweaks",
+    "url": "https://github.com/itsnebulalol/ios15-tweaks",
+    "desc": "List of supported, partially supported, and unsupported *non-rootless* tweaks for iOS 15.",
+    "lang": "Makefile"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "lang": "C++"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "desc": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Expensify/App",
+    "url": "https://github.com/Expensify/App",
+    "desc": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "asottile/pyupgrade",
+    "url": "https://github.com/asottile/pyupgrade",
+    "desc": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+    "lang": "Python"
+  },
+  {
+    "title": "apple/swift-collections",
+    "url": "https://github.com/apple/swift-collections",
+    "desc": "Commonly used data structures for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "DefectDojo/django-DefectDojo",
+    "url": "https://github.com/DefectDojo/django-DefectDojo",
+    "desc": "DefectDojo is a DevSecOps and vulnerability management tool.",
+    "lang": "HTML"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "surveyjs/survey-library",
+    "url": "https://github.com/surveyjs/survey-library",
+    "desc": "JavaScript Survey and Form Library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "desc": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fineanmol/Hacktoberfest2022",
+    "url": "https://github.com/fineanmol/Hacktoberfest2022",
+    "desc": "Make your first Pull Request on Hacktoberfest 2022. Don't forget to spread love and if you like give us a ⭐️",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "desc": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+    "lang": "Java"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jbogard/MediatR",
+    "url": "https://github.com/jbogard/MediatR",
+    "desc": "Simple, unambitious mediator implementation in .NET",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "desc": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "swagger-api/swagger-codegen",
+    "url": "https://github.com/swagger-api/swagger-codegen",
+    "desc": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+    "lang": "Mustache"
+  },
+  {
+    "title": "bufbuild/protoc-gen-validate",
+    "url": "https://github.com/bufbuild/protoc-gen-validate",
+    "desc": "protoc plugin to generate polyglot message validators",
+    "lang": "Go"
+  },
+  {
+    "title": "colmap/colmap",
+    "url": "https://github.com/colmap/colmap",
+    "desc": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+    "lang": "C"
+  },
+  {
+    "title": "williamyang1991/VToonify",
+    "url": "https://github.com/williamyang1991/VToonify",
+    "desc": "[SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/CBL-Mariner",
+    "url": "https://github.com/microsoft/CBL-Mariner",
+    "desc": "Linux OS for Azure 1P services and edge appliances",
+    "lang": "Go"
+  }
+]
