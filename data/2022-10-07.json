@@ -1,0 +1,149 @@
+[
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "desc": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookincubator/AITemplate",
+    "url": "https://github.com/facebookincubator/AITemplate",
+    "desc": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "xcad2k/cheat-sheets",
+    "url": "https://github.com/xcad2k/cheat-sheets",
+    "desc": "This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies."
+  },
+  {
+    "title": "snaplet/postgres-wasm",
+    "url": "https://github.com/snaplet/postgres-wasm",
+    "desc": "A PostgresQL server running in your browser",
+    "lang": "Shell"
+  },
+  {
+    "title": "shubhamgrg04/awesome-diagramming",
+    "url": "https://github.com/shubhamgrg04/awesome-diagramming",
+    "desc": "A curated collection of diagramming tools used by leading software engineering teams"
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "desc": "🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "desc": "iOS 15.0-15.3.1 tethered checkm8 jailbreak (rootless is 15.0-15.7 semi-tethered, no tweaks)",
+    "lang": "Shell"
+  },
+  {
+    "title": "SecureAuthCorp/impacket",
+    "url": "https://github.com/SecureAuthCorp/impacket",
+    "desc": "Impacket is a collection of Python classes for working with network protocols.",
+    "lang": "Python"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "desc": "Fast multi-threaded DataFrame library in Rust | Python | Node.js",
+    "lang": "Rust"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "desc": "Universal code search (self-hosted)",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A SQL linter and auto-formatter for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "helm/helm",
+    "url": "https://github.com/helm/helm",
+    "desc": "The Kubernetes Package Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "desc": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "community/community",
+    "url": "https://github.com/community/community",
+    "desc": "Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "lang": "C++"
+  },
+  {
+    "title": "mattermost/mattermost-webapp",
+    "url": "https://github.com/mattermost/mattermost-webapp",
+    "desc": "Webapp of Mattermost server: https://github.com/mattermost/mattermost-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aws-samples/aws-cdk-examples",
+    "url": "https://github.com/aws-samples/aws-cdk-examples",
+    "desc": "Example projects using the AWS CDK",
+    "lang": "Python"
+  }
+]
