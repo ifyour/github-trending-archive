@@ -1,0 +1,150 @@
+[
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "desc": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "lang": "Python"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "A latent text-to-image diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "desc": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bloc97/CrossAttentionControl",
+    "url": "https://github.com/bloc97/CrossAttentionControl",
+    "desc": "Unofficial implementation of Prompt-to-Prompt Image Editing with Cross Attention Control with Stable Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "transmission/transmission",
+    "url": "https://github.com/transmission/transmission",
+    "desc": "Official Transmission BitTorrent client repository",
+    "lang": "C++"
+  },
+  {
+    "title": "libsql/libsql",
+    "url": "https://github.com/libsql/libsql",
+    "desc": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+    "lang": "C"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "heejkoo/Awesome-Diffusion-Models",
+    "url": "https://github.com/heejkoo/Awesome-Diffusion-Models",
+    "desc": "A collection of resources and papers on Diffusion Models and Score-matching Models, a darkhorse in the field of Generative Models"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "CompVis/taming-transformers",
+    "url": "https://github.com/CompVis/taming-transformers",
+    "desc": "Taming Transformers for High-Resolution Image Synthesis",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dail8859/NotepadNext",
+    "url": "https://github.com/dail8859/NotepadNext",
+    "desc": "A cross-platform, reimplementation of Notepad++",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "mattermost/mattermost-webapp",
+    "url": "https://github.com/mattermost/mattermost-webapp",
+    "desc": "Webapp of Mattermost server: https://github.com/mattermost/mattermost-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ashawkey/stable-dreamfusion",
+    "url": "https://github.com/ashawkey/stable-dreamfusion",
+    "desc": "A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.",
+    "lang": "Python"
+  },
+  {
+    "title": "pankod/refine",
+    "url": "https://github.com/pankod/refine",
+    "desc": "Build your React-based CRUD applications, without constraints.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "desc": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "lang": "Go"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "opa334/TrollStore",
+    "url": "https://github.com/opa334/TrollStore",
+    "desc": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "apache/rocketmq",
+    "url": "https://github.com/apache/rocketmq",
+    "desc": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+    "lang": "Java"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  }
+]
