@@ -1,0 +1,151 @@
+[
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/skywalking",
+    "url": "https://github.com/apache/skywalking",
+    "desc": "APM, Application Performance Monitoring System",
+    "lang": "Java"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "dail8859/NotepadNext",
+    "url": "https://github.com/dail8859/NotepadNext",
+    "desc": "A cross-platform, reimplementation of Notepad++",
+    "lang": "C++"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/doris",
+    "url": "https://github.com/apache/doris",
+    "desc": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "lang": "Java"
+  },
+  {
+    "title": "heejkoo/Awesome-Diffusion-Models",
+    "url": "https://github.com/heejkoo/Awesome-Diffusion-Models",
+    "desc": "A collection of resources and papers on Diffusion Models"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "desc": "🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "A latent text-to-image diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "juliocesarfort/public-pentesting-reports",
+    "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+    "desc": "Curated list of public penetration test reports released by several consulting firms and academic security groups",
+    "lang": "CSS"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "desc": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/dolphinscheduler",
+    "url": "https://github.com/apache/dolphinscheduler",
+    "desc": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/echarts",
+    "url": "https://github.com/apache/echarts",
+    "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "desc": "即时通讯IM",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/Sentinel",
+    "url": "https://github.com/alibaba/Sentinel",
+    "desc": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+    "lang": "Java"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "lang": "C++"
+  },
+  {
+    "title": "CleanCut/ultimate_rust_crash_course",
+    "url": "https://github.com/CleanCut/ultimate_rust_crash_course",
+    "desc": "Rust Programming Fundamentals - one course to rule them all, one course to find them...",
+    "lang": "Rust"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  }
+]
