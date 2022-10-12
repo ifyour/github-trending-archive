@@ -1,0 +1,149 @@
+[
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "desc": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "lightningnetwork/lnd",
+    "url": "https://github.com/lightningnetwork/lnd",
+    "desc": "Lightning Network Daemon ⚡️",
+    "lang": "Go"
+  },
+  {
+    "title": "tremorlabs/tremor",
+    "url": "https://github.com/tremorlabs/tremor",
+    "desc": "The react library to build dashboards fast.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "FairCrypto/XEN-crypto",
+    "url": "https://github.com/FairCrypto/XEN-crypto",
+    "desc": "XEN Crypto",
+    "lang": "Solidity"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/dolphinscheduler",
+    "url": "https://github.com/apache/dolphinscheduler",
+    "desc": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/skywalking",
+    "url": "https://github.com/apache/skywalking",
+    "desc": "APM, Application Performance Monitoring System",
+    "lang": "Java"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  },
+  {
+    "title": "massalabs/massa",
+    "url": "https://github.com/massalabs/massa",
+    "desc": "The Decentralized and Scaled Blockchain",
+    "lang": "Rust"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "desc": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "jupyterhub/jupyterhub",
+    "url": "https://github.com/jupyterhub/jupyterhub",
+    "desc": "Multi-user server for Jupyter notebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (August 2022)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "go-admin-team/go-admin",
+    "url": "https://github.com/go-admin-team/go-admin",
+    "desc": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin.dev",
+    "lang": "Go"
+  },
+  {
+    "title": "trickest/wordlists",
+    "url": "https://github.com/trickest/wordlists",
+    "desc": "Real-world infosec wordlists, updated regularly"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "desc": "❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/doris",
+    "url": "https://github.com/apache/doris",
+    "desc": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/apisix",
+    "url": "https://github.com/apache/apisix",
+    "desc": "The Cloud-Native API Gateway",
+    "lang": "Lua"
+  }
+]
