@@ -1,0 +1,151 @@
+[
+  {
+    "title": "toss/slash",
+    "url": "https://github.com/toss/slash",
+    "desc": "A collection of TypeScript/JavaScript packages to build high-quality web services.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "t3l3machus/hoaxshell",
+    "url": "https://github.com/t3l3machus/hoaxshell",
+    "desc": "An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.",
+    "lang": "Python"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C++"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "KAIR-BAIR/nerfacc",
+    "url": "https://github.com/KAIR-BAIR/nerfacc",
+    "desc": "A General NeRF Acceleration Toolbox in PyTorch.",
+    "lang": "Python"
+  },
+  {
+    "title": "FyroxEngine/Fyrox",
+    "url": "https://github.com/FyroxEngine/Fyrox",
+    "desc": "3D and 2D game engine written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "lang": "Go"
+  },
+  {
+    "title": "codinasion/program",
+    "url": "https://github.com/codinasion/program",
+    "desc": "An open source codebase for sharing programming solutions.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "desc": "📖 A collection of pure bash alternatives to external processes.",
+    "lang": "Shell"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "desc": "The fastest way to build Svelte apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SunWeb3Sec/DeFiHackLabs",
+    "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+    "desc": "Reproduce DeFi hack incidents using Foundry.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "tj-actions/changed-files",
+    "url": "https://github.com/tj-actions/changed-files",
+    "desc": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",
+    "lang": "Shell"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦",
+    "lang": "HCL"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "kata-containers/kata-containers",
+    "url": "https://github.com/kata-containers/kata-containers",
+    "desc": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "lang": "Go"
+  },
+  {
+    "title": "jupyterhub/jupyterhub",
+    "url": "https://github.com/jupyterhub/jupyterhub",
+    "desc": "Multi-user server for Jupyter notebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "desc": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",
+    "lang": "C"
+  },
+  {
+    "title": "confluentinc/confluent-kafka-go",
+    "url": "https://github.com/confluentinc/confluent-kafka-go",
+    "desc": "Confluent's Apache Kafka Golang client",
+    "lang": "Go"
+  },
+  {
+    "title": "0xsyr0/OSCP",
+    "url": "https://github.com/0xsyr0/OSCP",
+    "desc": "OSCP Guide"
+  }
+]
