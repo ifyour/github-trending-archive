@@ -1,0 +1,150 @@
+[
+  {
+    "title": "aws-actions/configure-aws-credentials",
+    "url": "https://github.com/aws-actions/configure-aws-credentials",
+    "desc": "Configure AWS credential environment variables for use in other GitHub Actions.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "holbertonschool/Betty",
+    "url": "https://github.com/holbertonschool/Betty",
+    "desc": "Holberton-style C code checker written in Perl",
+    "lang": "Perl"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net."
+  },
+  {
+    "title": "wazuh/wazuh",
+    "url": "https://github.com/wazuh/wazuh",
+    "desc": "Wazuh - The Open Source Security Platform",
+    "lang": "C"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "remix-run/react-router",
+    "url": "https://github.com/remix-run/react-router",
+    "desc": "Declarative routing for React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "lang": "C++"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "vavkamil/awesome-bugbounty-tools",
+    "url": "https://github.com/vavkamil/awesome-bugbounty-tools",
+    "desc": "A curated list of various bug bounty tools"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "desc": "Set up a modern web app by running one command.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "toss/slash",
+    "url": "https://github.com/toss/slash",
+    "desc": "A collection of TypeScript/JavaScript packages to build high-quality web services.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/Azure-Sentinel",
+    "url": "https://github.com/Azure/Azure-Sentinel",
+    "desc": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "IDEA-Research/detrex",
+    "url": "https://github.com/IDEA-Research/detrex",
+    "desc": "IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "lang": "C#"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "lang": "Go"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "desc": "The fastest way to build Svelte apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "JingShing/novelai-colab-ver",
+    "url": "https://github.com/JingShing/novelai-colab-ver",
+    "desc": "You can use this version to experience how novelai works without a good gpu.",
+    "lang": "JupyterNotebook"
+  }
+]
