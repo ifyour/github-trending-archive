@@ -1,0 +1,147 @@
+[
+  {
+    "title": "holbertonschool/Betty",
+    "url": "https://github.com/holbertonschool/Betty",
+    "desc": "Holberton-style C code checker written in Perl",
+    "lang": "Perl"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "title": "SunWeb3Sec/DeFiHackLabs",
+    "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+    "desc": "Reproduce DeFi hack incidents using Foundry.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "toss/slash",
+    "url": "https://github.com/toss/slash",
+    "desc": "A collection of TypeScript/JavaScript packages to build high-quality web services.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sw-yx/prompt-eng",
+    "url": "https://github.com/sw-yx/prompt-eng",
+    "desc": "notes for prompt engineering"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JingShing/novelai-colab-ver",
+    "url": "https://github.com/JingShing/novelai-colab-ver",
+    "desc": "You can use this version to experience how novelai works without a good gpu.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for form state management and validation (Web + React Native)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "djsime1/awesome-flipperzero",
+    "url": "https://github.com/djsime1/awesome-flipperzero",
+    "desc": "🐬 A collection of awesome resources for the Flipper Zero device."
+  },
+  {
+    "title": "YuzukiHD/YuzukiLOHCC-PRO",
+    "url": "https://github.com/YuzukiHD/YuzukiLOHCC-PRO",
+    "desc": "Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/vcpkg",
+    "url": "https://github.com/microsoft/vcpkg",
+    "desc": "C++ Library Manager for Windows, Linux, and MacOS",
+    "lang": "CMake"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "lang": "Zig"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python packaging and dependency management made easy",
+    "lang": "Python"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "lang": "HTML"
+  },
+  {
+    "title": "vaib25vicky/awesome-mobile-security",
+    "url": "https://github.com/vaib25vicky/awesome-mobile-security",
+    "desc": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it."
+  },
+  {
+    "title": "K8sAcademy/Fundamentals-HandsOn",
+    "url": "https://github.com/K8sAcademy/Fundamentals-HandsOn",
+    "desc": "Files for the Docker and Kubernetes Fundamentals Hands-On labs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "linkedin/venice",
+    "url": "https://github.com/linkedin/venice",
+    "desc": "Venice, Derived Data Platform for planet-scale workloads.",
+    "lang": "Java"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  }
+]
