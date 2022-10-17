@@ -1,0 +1,149 @@
+[
+  {
+    "title": "cisagov/RedEye",
+    "url": "https://github.com/cisagov/RedEye",
+    "desc": "RedEye is a visual analytic tool supporting Red & Blue Team operations",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "YuzukiHD/YuzukiLOHCC-PRO",
+    "url": "https://github.com/YuzukiHD/YuzukiLOHCC-PRO",
+    "desc": "Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "amotile/stable-diffusion-studio",
+    "url": "https://github.com/amotile/stable-diffusion-studio",
+    "desc": "An animation focused workflow frontend for Stable Diffusion",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "lang": "C"
+  },
+  {
+    "title": "itsnebulalol/deb-to-ipa",
+    "url": "https://github.com/itsnebulalol/deb-to-ipa",
+    "desc": "▶️ Convert an application from a deb to an IPA with a GitHub workflow."
+  },
+  {
+    "title": "JingShing/novelai-colab-ver",
+    "url": "https://github.com/JingShing/novelai-colab-ver",
+    "desc": "You can use this version to experience how novelai works without a good gpu.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "desc": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux."
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "lang": "Clojure"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "FedML-AI/FedML",
+    "url": "https://github.com/FedML-AI/FedML",
+    "desc": "FedML - The federated learning and analytics library enabling secure and collaborative machine learning on decentralized data anywhere at any scale. Supporting large-scale cross-silo federated learning, cross-device federated learning on smartphones/IoTs, and research simulation. MLOps and App Marketplace are also enabled (https://open.fedml.ai).",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "desc": "World's fastest and most advanced password recovery utility",
+    "lang": "C"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "A V2Ray client for Windows, support Xray core and v2fly core",
+    "lang": "C#"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "VimScript"
+  },
+  {
+    "title": "SunWeb3Sec/DeFiHackLabs",
+    "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+    "desc": "Reproduce DeFi hack incidents using Foundry.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
+    "lang": "Java"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "desc": "",
+    "lang": "Shell"
+  }
+]
