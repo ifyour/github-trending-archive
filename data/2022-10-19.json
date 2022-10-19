@@ -1,0 +1,148 @@
+[
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "lang": "C++"
+  },
+  {
+    "title": "cisagov/RedEye",
+    "url": "https://github.com/cisagov/RedEye",
+    "desc": "RedEye is a visual analytic tool supporting Red & Blue Team operations",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "p8952/bocker",
+    "url": "https://github.com/p8952/bocker",
+    "desc": "Docker implemented in around 100 lines of bash",
+    "lang": "Shell"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "pop3ret/AWSome-Pentesting",
+    "url": "https://github.com/pop3ret/AWSome-Pentesting",
+    "desc": "My cheatsheet notes to pentest AWS infrastructure"
+  },
+  {
+    "title": "Wind4/vlmcsd",
+    "url": "https://github.com/Wind4/vlmcsd",
+    "desc": "KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",
+    "lang": "C"
+  },
+  {
+    "title": "makermoekoe/Picoclick-C3",
+    "url": "https://github.com/makermoekoe/Picoclick-C3",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "sw-yx/prompt-eng",
+    "url": "https://github.com/sw-yx/prompt-eng",
+    "desc": "notes for prompt engineering"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenAPITools/openapi-generator",
+    "url": "https://github.com/OpenAPITools/openapi-generator",
+    "desc": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+    "lang": "Java"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
+    "desc": "Deep learning with satellite & aerial imagery"
+  },
+  {
+    "title": "google/zerocopy",
+    "url": "https://github.com/google/zerocopy",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "silverhack/monkey365",
+    "url": "https://github.com/silverhack/monkey365",
+    "desc": "Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews.",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "madebyollin/maple-diffusion",
+    "url": "https://github.com/madebyollin/maple-diffusion",
+    "desc": "Stable Diffusion inference on iOS / macOS using MPSGraph",
+    "lang": "Swift"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackc/pgx",
+    "url": "https://github.com/jackc/pgx",
+    "desc": "PostgreSQL driver and toolkit for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "fruiframework/frui",
+    "url": "https://github.com/fruiframework/frui",
+    "desc": "A developer-friendly framework for building user interfaces in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "carbon-design-system/carbon",
+    "url": "https://github.com/carbon-design-system/carbon",
+    "desc": "A design system built by IBM",
+    "lang": "JavaScript"
+  }
+]
