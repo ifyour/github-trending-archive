@@ -1,0 +1,150 @@
+[
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "fereidani/kanal",
+    "url": "https://github.com/fereidani/kanal",
+    "desc": "The fast sync and async channel that Rust deserves",
+    "lang": "Rust"
+  },
+  {
+    "title": "AmbiML/sparrow-kata",
+    "url": "https://github.com/AmbiML/sparrow-kata",
+    "desc": "Project Sparrow: KataOS",
+    "lang": "Rust"
+  },
+  {
+    "title": "lucide-icons/lucide",
+    "url": "https://github.com/lucide-icons/lucide",
+    "desc": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "lang": "C++"
+  },
+  {
+    "title": "AmbiML/sparrow-manifest",
+    "url": "https://github.com/AmbiML/sparrow-manifest",
+    "desc": "Project Sparrow: Repo Materials"
+  },
+  {
+    "title": "Wind4/vlmcsd",
+    "url": "https://github.com/Wind4/vlmcsd",
+    "desc": "KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",
+    "lang": "C"
+  },
+  {
+    "title": "eugeneyan/ml-surveys",
+    "url": "https://github.com/eugeneyan/ml-surveys",
+    "desc": "📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc."
+  },
+  {
+    "title": "bigskysoftware/htmx",
+    "url": "https://github.com/bigskysoftware/htmx",
+    "desc": "</> htmx - high power tools for HTML",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "golang-migrate/migrate",
+    "url": "https://github.com/golang-migrate/migrate",
+    "desc": "Database migrations. CLI and Golang library.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "seL4/seL4",
+    "url": "https://github.com/seL4/seL4",
+    "desc": "The seL4 microkernel",
+    "lang": "C"
+  },
+  {
+    "title": "cisagov/RedEye",
+    "url": "https://github.com/cisagov/RedEye",
+    "desc": "RedEye is a visual analytic tool supporting Red & Blue Team operations",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PolyMC/PolyMC",
+    "url": "https://github.com/PolyMC/PolyMC",
+    "desc": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+    "lang": "C++"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "lang": "Clojure"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "lang": "Dart"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
+    "lang": "Java"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "LearningOS/rust-based-os-comp2022",
+    "url": "https://github.com/LearningOS/rust-based-os-comp2022",
+    "desc": "[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)",
+    "lang": "Rust"
+  },
+  {
+    "title": "libevent/libevent",
+    "url": "https://github.com/libevent/libevent",
+    "desc": "Event notification library",
+    "lang": "C"
+  },
+  {
+    "title": "composer/composer",
+    "url": "https://github.com/composer/composer",
+    "desc": "Dependency Manager for PHP",
+    "lang": "PHP"
+  },
+  {
+    "title": "ThrowTheSwitch/Unity",
+    "url": "https://github.com/ThrowTheSwitch/Unity",
+    "desc": "Simple Unit Testing for C",
+    "lang": "C"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+    "lang": "Rust"
+  }
+]
