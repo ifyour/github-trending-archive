@@ -1,0 +1,149 @@
+[
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "simeydotme/pokemon-cards-css",
+    "url": "https://github.com/simeydotme/pokemon-cards-css",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "PrismLauncher/PrismLauncher",
+    "url": "https://github.com/PrismLauncher/PrismLauncher",
+    "desc": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+    "lang": "C++"
+  },
+  {
+    "title": "AmbiML/sparrow-manifest",
+    "url": "https://github.com/AmbiML/sparrow-manifest",
+    "desc": "Project Sparrow: Repo Materials"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "lang": "Clojure"
+  },
+  {
+    "title": "google/prompt-to-prompt",
+    "url": "https://github.com/google/prompt-to-prompt",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kaustubh-Natuskar/moreThanFAANGM",
+    "url": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM",
+    "desc": "This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) & good start-ups."
+  },
+  {
+    "title": "zxing/zxing",
+    "url": "https://github.com/zxing/zxing",
+    "desc": "ZXing (Zebra Crossing) barcode scanning library for Java, Android",
+    "lang": "Java"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "ed-roh/react-admin-dashboard",
+    "url": "https://github.com/ed-roh/react-admin-dashboard",
+    "desc": "Complete React Admin Dashboard",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/vagrant",
+    "url": "https://github.com/hashicorp/vagrant",
+    "desc": "Vagrant is a tool for building and distributing development environments.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "fzyzcjy/flutter_smooth",
+    "url": "https://github.com/fzyzcjy/flutter_smooth",
+    "desc": "Achieve ~60 FPS, no matter how heavy the tree is to build/layout",
+    "lang": "Dart"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "desc": "A Decentralized Operating System for Zero-Knowledge Applications",
+    "lang": "Rust"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "bigskysoftware/htmx",
+    "url": "https://github.com/bigskysoftware/htmx",
+    "desc": "</> htmx - high power tools for HTML",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "jackc/pgx",
+    "url": "https://github.com/jackc/pgx",
+    "desc": "PostgreSQL driver and toolkit for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "desc": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.",
+    "lang": "Python"
+  }
+]
