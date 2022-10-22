@@ -1,0 +1,150 @@
+[
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "Automattic/pocket-casts-android",
+    "url": "https://github.com/Automattic/pocket-casts-android",
+    "desc": "Pocket Casts Android 🎧",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "desc": "A Decentralized Operating System for Zero-Knowledge Applications",
+    "lang": "Rust"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum-lists/chains",
+    "url": "https://github.com/ethereum-lists/chains",
+    "desc": "provides metadata for networkIDs and chainIDs",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "minio/minio",
+    "url": "https://github.com/minio/minio",
+    "desc": "Multi-Cloud ☁️ Object Storage",
+    "lang": "Go"
+  },
+  {
+    "title": "t3-oss/create-t3-turbo",
+    "url": "https://github.com/t3-oss/create-t3-turbo",
+    "desc": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "eugeneyan/ml-surveys",
+    "url": "https://github.com/eugeneyan/ml-surveys",
+    "desc": "📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc."
+  },
+  {
+    "title": "nuxt/movies",
+    "url": "https://github.com/nuxt/movies",
+    "desc": "🍿 A TMDB client built with Nuxt 3",
+    "lang": "Vue"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/CBL-Mariner",
+    "url": "https://github.com/microsoft/CBL-Mariner",
+    "desc": "Linux OS for Azure 1P services and edge appliances",
+    "lang": "Go"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "desc": "Complete container management platform",
+    "lang": "Go"
+  },
+  {
+    "title": "argoproj/argo-workflows",
+    "url": "https://github.com/argoproj/argo-workflows",
+    "desc": "Workflow engine for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "AmbiML/sparrow-kata",
+    "url": "https://github.com/AmbiML/sparrow-kata",
+    "desc": "Project Sparrow: KataOS",
+    "lang": "Rust"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lodash/lodash",
+    "url": "https://github.com/lodash/lodash",
+    "desc": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "remult/remult",
+    "url": "https://github.com/remult/remult",
+    "desc": "A CRUD framework for full stack TypeScript",
+    "lang": "TypeScript"
+  }
+]
