@@ -1,0 +1,150 @@
+[
+  {
+    "title": "runwayml/stable-diffusion",
+    "url": "https://github.com/runwayml/stable-diffusion",
+    "desc": "Latent Text-to-Image Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "Automattic/pocket-casts-ios",
+    "url": "https://github.com/Automattic/pocket-casts-ios",
+    "desc": "Pocket Casts iOS app 🎧",
+    "lang": "Swift"
+  },
+  {
+    "title": "Automattic/pocket-casts-android",
+    "url": "https://github.com/Automattic/pocket-casts-android",
+    "desc": "Pocket Casts Android 🎧",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "immunefi-team/Web3-Security-Library",
+    "url": "https://github.com/immunefi-team/Web3-Security-Library",
+    "desc": "Information about web3 security and programming tutorials/tools"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "lang": "Go"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/fluentui-emoji",
+    "url": "https://github.com/microsoft/fluentui-emoji",
+    "desc": "A collection of familiar, friendly, and modern emoji from Microsoft",
+    "lang": "Python"
+  },
+  {
+    "title": "ticarpi/jwt_tool",
+    "url": "https://github.com/ticarpi/jwt_tool",
+    "desc": "🐍 A toolkit for testing, tweaking and cracking JSON Web Tokens",
+    "lang": "Python"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "lang": "Clojure"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "sea-protocol/seaprotocol",
+    "url": "https://github.com/sea-protocol/seaprotocol",
+    "desc": "Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime!",
+    "lang": "Move"
+  },
+  {
+    "title": "massalabs/massa",
+    "url": "https://github.com/massalabs/massa",
+    "desc": "The Decentralized and Scaled Blockchain",
+    "lang": "Rust"
+  },
+  {
+    "title": "remult/remult",
+    "url": "https://github.com/remult/remult",
+    "desc": "A CRUD framework for full stack TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AstroNvim/AstroNvim",
+    "url": "https://github.com/AstroNvim/AstroNvim",
+    "desc": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "lang": "Lua"
+  },
+  {
+    "title": "SamirPaul1/DSAlgo",
+    "url": "https://github.com/SamirPaul1/DSAlgo",
+    "desc": "📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯",
+    "lang": "Python"
+  },
+  {
+    "title": "Stability-AI/stability-sdk",
+    "url": "https://github.com/Stability-AI/stability-sdk",
+    "desc": "SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "open-mmlab/mmpose",
+    "url": "https://github.com/open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "simeydotme/pokemon-cards-css",
+    "url": "https://github.com/simeydotme/pokemon-cards-css",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "move-language/move",
+    "url": "https://github.com/move-language/move",
+    "desc": "",
+    "lang": "Rust"
+  }
+]
