@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "guacsec/guac",
+    "url": "https://github.com/guacsec/guac",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "lang": "Go"
+  },
+  {
+    "title": "losvedir/transit-lang-cmp",
+    "url": "https://github.com/losvedir/transit-lang-cmp",
+    "desc": "Programming language comparison by reimplementing the same transit data app",
+    "lang": "Elixir"
+  },
+  {
+    "title": "mikeroyal/Self-Hosting-Guide",
+    "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+    "desc": "Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "avitorio/outstatic",
+    "url": "https://github.com/avitorio/outstatic",
+    "desc": "Outstatic - A static CMS for Next.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "cmhungsteve/Awesome-Transformer-Attention",
+    "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
+    "desc": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites"
+  },
+  {
+    "title": "Automattic/pocket-casts-ios",
+    "url": "https://github.com/Automattic/pocket-casts-ios",
+    "desc": "Pocket Casts iOS app 🎧",
+    "lang": "Swift"
+  },
+  {
+    "title": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "desc": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "lang": "Go"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "tenable/terrascan",
+    "url": "https://github.com/tenable/terrascan",
+    "desc": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "desc": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "lang": "Go"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "desc": "Flipper Zero firmware source code",
+    "lang": "C"
+  },
+  {
+    "title": "FTM-Labs/Aptos-NFT-Mint",
+    "url": "https://github.com/FTM-Labs/Aptos-NFT-Mint",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "djsime1/awesome-flipperzero",
+    "url": "https://github.com/djsime1/awesome-flipperzero",
+    "desc": "🐬 A collection of awesome resources for the Flipper Zero device."
+  },
+  {
+    "title": "automl/TabPFN",
+    "url": "https://github.com/automl/TabPFN",
+    "desc": "Official implementation of the TabPFN and the tabpfn package.",
+    "lang": "Python"
+  },
+  {
+    "title": "dail8859/NotepadNext",
+    "url": "https://github.com/dail8859/NotepadNext",
+    "desc": "A cross-platform, reimplementation of Notepad++",
+    "lang": "C++"
+  },
+  {
+    "title": "refinedev/refine",
+    "url": "https://github.com/refinedev/refine",
+    "desc": "Build your React-based CRUD applications, without constraints.",
+    "lang": "TypeScript"
+  }
+]
