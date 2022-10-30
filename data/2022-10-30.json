@@ -1,0 +1,149 @@
+[
+  {
+    "title": "charmbracelet/vhs",
+    "url": "https://github.com/charmbracelet/vhs",
+    "desc": "Your CLI home video recorder 📼",
+    "lang": "Go"
+  },
+  {
+    "title": "bytedance/bitsail",
+    "url": "https://github.com/bytedance/bitsail",
+    "desc": "BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.",
+    "lang": "Java"
+  },
+  {
+    "title": "simeydotme/pokemon-cards-css",
+    "url": "https://github.com/simeydotme/pokemon-cards-css",
+    "desc": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
+    "lang": "Svelte"
+  },
+  {
+    "title": "shieldfy/API-Security-Checklist",
+    "url": "https://github.com/shieldfy/API-Security-Checklist",
+    "desc": "Checklist of the most important security countermeasures when designing, testing, and releasing your API"
+  },
+  {
+    "title": "vercel/app-playground",
+    "url": "https://github.com/vercel/app-playground",
+    "desc": "https://app-dir.vercel.app/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vercel/turbo",
+    "url": "https://github.com/vercel/turbo",
+    "desc": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.",
+    "lang": "Rust"
+  },
+  {
+    "title": "sismo-core/sismo-protocol",
+    "url": "https://github.com/sismo-core/sismo-protocol",
+    "desc": "Contracts of the Sismo Attestation Protocol",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "lang": "C++"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "minbrowser/min",
+    "url": "https://github.com/minbrowser/min",
+    "desc": "A fast, minimal browser that protects your privacy",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
+    "lang": "Zig"
+  },
+  {
+    "title": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "desc": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",
+    "lang": "C"
+  },
+  {
+    "title": "JustAnotherArchivist/snscrape",
+    "url": "https://github.com/JustAnotherArchivist/snscrape",
+    "desc": "A social networking service scraper in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "fzyzcjy/flutter_smooth",
+    "url": "https://github.com/fzyzcjy/flutter_smooth",
+    "desc": "Achieve ~60 FPS, no matter how heavy the tree is to build/layout",
+    "lang": "Dart"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "lang": "Java"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "dotnet/samples",
+    "url": "https://github.com/dotnet/samples",
+    "desc": "Sample code referenced by the .NET documentation",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kubesphere/kubesphere",
+    "url": "https://github.com/kubesphere/kubesphere",
+    "desc": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "lang": "Go"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure."
+  },
+  {
+    "title": "tfpk/macrokata",
+    "url": "https://github.com/tfpk/macrokata",
+    "desc": "Learn Macros In Rust",
+    "lang": "Rust"
+  }
+]
