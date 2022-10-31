@@ -1,0 +1,150 @@
+[
+  {
+    "title": "dudykr/stc",
+    "url": "https://github.com/dudykr/stc",
+    "desc": "Speedy TypeScript type checker",
+    "lang": "Rust"
+  },
+  {
+    "title": "charmbracelet/vhs",
+    "url": "https://github.com/charmbracelet/vhs",
+    "desc": "Your CLI home video recorder 📼",
+    "lang": "Go"
+  },
+  {
+    "title": "simeydotme/pokemon-cards-css",
+    "url": "https://github.com/simeydotme/pokemon-cards-css",
+    "desc": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
+    "lang": "Svelte"
+  },
+  {
+    "title": "acmesh-official/acme.sh",
+    "url": "https://github.com/acmesh-official/acme.sh",
+    "desc": "A pure Unix shell script implementing ACME client protocol",
+    "lang": "Shell"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "faridrashidi/kaggle-solutions",
+    "url": "https://github.com/faridrashidi/kaggle-solutions",
+    "desc": "🏅 Collection of Kaggle Solutions and Ideas 🏅",
+    "lang": "HTML"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "lang": "C#"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "desc": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "desc": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bluesky-social/atproto",
+    "url": "https://github.com/bluesky-social/atproto",
+    "desc": "A social networking technology created by Bluesky",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "desc": "All Algorithms implemented in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "folke/noice.nvim",
+    "url": "https://github.com/folke/noice.nvim",
+    "desc": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "lang": "Lua"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yyx990803/vite-vs-next-turbo-hmr",
+    "url": "https://github.com/yyx990803/vite-vs-next-turbo-hmr",
+    "desc": "Benchmarking Vite vs. Next + turbopack HMR performance",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "desc": "Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)",
+    "lang": "Python"
+  },
+  {
+    "title": "neovim/nvim-lspconfig",
+    "url": "https://github.com/neovim/nvim-lspconfig",
+    "desc": "Quickstart configs for Nvim LSP",
+    "lang": "Lua"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "roaldarbol/LaPreprint",
+    "url": "https://github.com/roaldarbol/LaPreprint",
+    "desc": "📝 A nicely formatted LaTeX preprint template",
+    "lang": "TeX"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "desc": "A private messenger for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "JustAnotherArchivist/snscrape",
+    "url": "https://github.com/JustAnotherArchivist/snscrape",
+    "desc": "A social networking service scraper in Python",
+    "lang": "Python"
+  }
+]
