@@ -1,0 +1,150 @@
+[
+  {
+    "title": "hellof2e/quark-design",
+    "url": "https://github.com/hellof2e/quark-design",
+    "desc": "Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "desc": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NCSC-NL/OpenSSL-2022",
+    "url": "https://github.com/NCSC-NL/OpenSSL-2022",
+    "desc": "Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Eilonh/s3crets_scanner",
+    "url": "https://github.com/Eilonh/s3crets_scanner",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "openssl/openssl",
+    "url": "https://github.com/openssl/openssl",
+    "desc": "TLS/SSL and crypto library",
+    "lang": "C"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "desc": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bharathsudharsan/TinyML-CAM",
+    "url": "https://github.com/bharathsudharsan/TinyML-CAM",
+    "desc": "Code for MobiCom'22 paper 'TinyML-CAM: 80 FPS Image Recognition in 1 Kb RAM'",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "AvaloniaUI/Avalonia",
+    "url": "https://github.com/AvaloniaUI/Avalonia",
+    "desc": "A cross-platform UI framework for .NET",
+    "lang": "C#"
+  },
+  {
+    "title": "kubernetes/client-go",
+    "url": "https://github.com/kubernetes/client-go",
+    "desc": "Go client for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "desc": "🐉 Material Component Framework for Vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bluesky-social/atproto",
+    "url": "https://github.com/bluesky-social/atproto",
+    "desc": "A social networking technology created by Bluesky",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SnapKit/SnapKit",
+    "url": "https://github.com/SnapKit/SnapKit",
+    "desc": "A Swift Autolayout DSL for iOS & OS X",
+    "lang": "Swift"
+  },
+  {
+    "title": "lightningnetwork/lnd",
+    "url": "https://github.com/lightningnetwork/lnd",
+    "desc": "Lightning Network Daemon ⚡️",
+    "lang": "Go"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "bellard/quickjs",
+    "url": "https://github.com/bellard/quickjs",
+    "desc": "Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.",
+    "lang": "C"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "lang": "Go"
+  }
+]
