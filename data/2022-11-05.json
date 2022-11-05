@@ -1,0 +1,151 @@
+[
+  {
+    "title": "SheerSt/pokewilds",
+    "url": "https://github.com/SheerSt/pokewilds",
+    "desc": "PokeWilds - A Gen 2 Game/Engine using libGDX",
+    "lang": "Assembly"
+  },
+  {
+    "title": "refinedev/refine",
+    "url": "https://github.com/refinedev/refine",
+    "desc": "Build your React-based CRUD applications, without constraints.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "milanm/DevOps-Roadmap",
+    "url": "https://github.com/milanm/DevOps-Roadmap",
+    "desc": "DevOps Roadmap for 2022. with learning resources"
+  },
+  {
+    "title": "Netflix/conductor",
+    "url": "https://github.com/Netflix/conductor",
+    "desc": "Conductor is a microservices orchestration engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "Taiga74164/Akebi-GC",
+    "url": "https://github.com/Taiga74164/Akebi-GC",
+    "desc": "Akebi Genshin Cheat source for OS/CN 3.0",
+    "lang": "C++"
+  },
+  {
+    "title": "karmada-io/karmada",
+    "url": "https://github.com/karmada-io/karmada",
+    "desc": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+    "lang": "Go"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hellof2e/quark-design",
+    "url": "https://github.com/hellof2e/quark-design",
+    "desc": "Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "Olde-Skuul/doom3do",
+    "url": "https://github.com/Olde-Skuul/doom3do",
+    "desc": "The complete archive for DOOM for the 3DO",
+    "lang": "C"
+  },
+  {
+    "title": "benphelps/homepage",
+    "url": "https://github.com/benphelps/homepage",
+    "desc": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "lang": "Java"
+  },
+  {
+    "title": "prometheus/client_python",
+    "url": "https://github.com/prometheus/client_python",
+    "desc": "Prometheus instrumentation library for Python applications",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "desc": "Documentation for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "foundry-rs/forge-std",
+    "url": "https://github.com/foundry-rs/forge-std",
+    "desc": "Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "kubernetes/client-go",
+    "url": "https://github.com/kubernetes/client-go",
+    "desc": "Go client for Kubernetes.",
+    "lang": "Go"
+  },
+  {
+    "title": "SoftwareBrothers/adminjs",
+    "url": "https://github.com/SoftwareBrothers/adminjs",
+    "desc": "AdminJS is an admin panel for apps written in node.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "lang": "Java"
+  },
+  {
+    "title": "starkscan/starkscan-verifier",
+    "url": "https://github.com/starkscan/starkscan-verifier",
+    "desc": "Verify Cairo contracts on Starkscan in 1 miute.",
+    "lang": "TypeScript"
+  }
+]
