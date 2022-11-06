@@ -1,0 +1,149 @@
+[
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "stashapp/stash",
+    "url": "https://github.com/stashapp/stash",
+    "desc": "An organizer for your porn, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "refinedev/refine",
+    "url": "https://github.com/refinedev/refine",
+    "desc": "Build your React-based CRUD applications, without constraints.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "SheerSt/pokewilds",
+    "url": "https://github.com/SheerSt/pokewilds",
+    "desc": "PokeWilds - A Gen 2 Game/Engine using libGDX",
+    "lang": "Assembly"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "Bdenneu/CVE-2022-33679",
+    "url": "https://github.com/Bdenneu/CVE-2022-33679",
+    "desc": "One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html",
+    "lang": "Python"
+  },
+  {
+    "title": "sottlmarek/DevSecOps",
+    "url": "https://github.com/sottlmarek/DevSecOps",
+    "desc": "Ultimate DevSecOps library"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "milanm/DevOps-Roadmap",
+    "url": "https://github.com/milanm/DevOps-Roadmap",
+    "desc": "DevOps Roadmap for 2022. with learning resources"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "desc": "The Prometheus monitoring system and time series database.",
+    "lang": "Go"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/conductor",
+    "url": "https://github.com/Netflix/conductor",
+    "desc": "Conductor is a microservices orchestration engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "lenstube-xyz/lenstube",
+    "url": "https://github.com/lenstube-xyz/lenstube",
+    "desc": "Decentralized video-sharing social media platform, built using Lens protocol. 🌿",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "elixir-lang/elixir",
+    "url": "https://github.com/elixir-lang/elixir",
+    "desc": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
+    "lang": "Elixir"
+  },
+  {
+    "title": "scylladb/seastar",
+    "url": "https://github.com/scylladb/seastar",
+    "desc": "High performance server-side application framework",
+    "lang": "C++"
+  },
+  {
+    "title": "grafana/phlare",
+    "url": "https://github.com/grafana/phlare",
+    "desc": "🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system",
+    "lang": "Go"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "desc": "The Intuitive Web Framework, based on Vue 3.",
+    "lang": "TypeScript"
+  }
+]
